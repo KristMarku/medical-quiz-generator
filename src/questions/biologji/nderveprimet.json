@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bio-nderveprimet-001",
+    "question": "Kur njëri nga llojet përfiton, kurse tjetri dëmtohet kemi të bëjmë me:",
+    "answers": ["simbiozë", "komensializmi", "mutualizëm", "parazitizëm"],
+    "correct": 3,
+    "explanation": "Parazitizmi është marrëdhënia ku njëri organizëm (paraziti) ushqehet me llogari të tjetrit (bujtësit), duke përfituar ai dhe duke u dëmtuar bujtësi — si rriqrat, breshkat e brendshme apo bimët parazite si vidhëza. Skema e shkurtër: parazitizëm = +/−, mutualizëm = +/+ (të dy përfitojnë, si lëkurushat), komensializëm = +/0 (njëri përfiton, tjetri as nuk dëmtohet as nuk përfiton). Simbioza është term i përgjithshëm për bashkëjetesën e ngushtë dhe përfshin të tria format, prandaj nuk është përgjigje e saktë për një rast specifik +/−."
+  },
+  {
+    "id": "bio-nderveprimet-002",
+    "question": "Melanizmi industrial është një shembull i:",
+    "answers": ["përzgjedhjes së qëndrueshme", "përzgjedhjes së drejtuar", "përzgjedhjes së ndërprerë", "përshtatjes"],
+    "correct": 1,
+    "explanation": "Te fluturi Biston betularia, ndotja e trungjeve nga bloza e favorizoi formën e errët dhe frekuenca e saj u rrit ndjeshëm brenda pak dhjetëravjeçarësh: popullata u zhvendos drejt njërit skaj të spektrit të ngjyrave, që është përkufizimi i përzgjedhjes së drejtuar. Përzgjedhja e qëndrueshme do të favorizonte format e mesme dhe do ta mbante popullatën të pandryshuar; përzgjedhja e ndërprerë (disruptive) do të favorizonte të dy skajet njëkohësisht duke eliminuar mesin. 'Përshtatja' është rezultati i procesit, jo tipi i përzgjedhjes që pyetja kërkon."
+  },
+  {
+    "id": "bio-nderveprimet-003",
+    "question": "Bashkëjetesa e dy organizmave të llojeve të ndryshëm, nga e cila përfiton njëri prej të dyve, pa e dëmtuar organizmin tjetër quhet:",
+    "answers": ["simbiozë", "komensializmi", "mutualizëm", "parazitizëm"],
+    "correct": 1,
+    "explanation": "Komensializmi është marrëdhënia +/0: njëri përfiton strehë, transport ose ushqim të mbetur, ndërsa tjetri nuk ndikohet fare — si peshku ngjitës mbi peshkaqen ose bimët epifite mbi degët e pemëve. Te mutualizmi përfitojnë të dyja palët (+/+), te parazitizmi njëri dëmtohet (+/−), ndërsa simbioza është nocioni i gjerë që i mbledh të gjitha format e bashkëjetesës së ngushtë, prandaj është shumë e përgjithshme për këtë përkufizim."
+  },
+  {
+    "id": "bio-nderveprimet-004",
+    "question": "Tërësia e ndërveprimit ndërmjet organizmave të një komuniteti dhe mjedisit përreth quhet:",
+    "answers": ["ndërveprim intraspecifik", "ndërveprim interspecifik", "ekosistem", "nish ekologjik"],
+    "correct": 2,
+    "explanation": "Ekosistemi është njësia funksionale që përfshin komponentin e gjallë (biocenozën) plus komponentin jo të gjallë (biotopin: dritë, temperaturë, ujë, tokë) dhe të gjitha lidhjet mes tyre — pikërisht kjo tërësi ndërveprimesh. Ndërveprimet intraspecifike ndodhin brenda të njëjtit lloj (konkurrencë për territor, marrëdhënie shoqërore), ato interspecifike mes llojeve të ndryshme (grabitje, parazitizëm) — pra janë vetëm pjesë e ekosistemit. Nishi ekologjik i referohet rolit të një lloji të vetëm, jo gjithë sistemit."
+  },
+  {
+    "id": "bio-nderveprimet-005",
+    "question": "Burimi i energjisë në një ekosistem është:",
+    "answers": ["ATP-ja", "dielli", "glukoza", "bari"],
+    "correct": 1,
+    "explanation": "Energjia hyn në ekosistem vetëm nga jashtë, në formën e rrezatimit diellor, dhe kapet nga prodhuesit gjatë fotosintezës; prej andej rrjedh njëdrejtimshëm nëpër nivelet trofike dhe humbet gradualisht si nxehtësi — ndryshe nga lënda, energjia nuk riciklohet kurrë. ATP-ja dhe glukoza janë vetëm forma të ruajtjes e të transferimit të energjisë brenda qelizave, jo burim i ri; bari është prodhues, pra ndërmjetësi që e kap energjinë diellore, jo burimi i saj."
+  },
+  {
+    "id": "bio-nderveprimet-006",
+    "question": "Cili nga përkufizimet e mëposhtme i referohet nishit?",
+    "answers": ["Tërësia e faktorëve mjedisorë që përcaktojnë vendin që zë organizmi", "Rrjetat ushqimore në një ekosistem", "Vendin ku jeton një organizëm i caktuar", "Roli që luan një lloj në një ekosistem"],
+    "correct": 3,
+    "explanation": "Nishi ekologjik është 'profesioni' i llojit: çfarë ha, kë ka grabitqar, kur është aktiv, si ndikon te llojet e tjera dhe cilat kushte toleron. Habitati, përkundrazi, është 'adresa' — vendi konkret ku jeton, prandaj alternativa për vendin e banimit është përkufizimi i habitatit, jo i nishit. Rrjetat ushqimore përshkruajnë lidhjet mes shumë llojeve, ndërsa faktorët mjedisorë përcaktojnë kushtet e jetesës; asnjëra nuk e shpreh rolin funksional të një lloji të vetëm. Rregull kyç: dy lloje nuk mund të zënë të njëjtin nish në të njëjtin vend pa e përjashtuar njëri-tjetrin."
+  },
+  {
+    "id": "bio-nderveprimet-007",
+    "question": "Diversiteti biologjik përfshin:",
+    "answers": ["diversitetin e llojeve, diversitetin e ekosistemeve dhe mjedisin", "diversitetin e llojeve, diversitetin gjenetik dhe diversitetin e ekosistemeve", "vetëm diversitetin brenda llojeve të ndryshme të një habitati", "variacionin dhe ndryshueshmërinë brenda individëve të të njëjtit lloj"],
+    "correct": 1,
+    "explanation": "Biodiversiteti matet në tri nivele të njëkohshme: gjenetik (larmia e aleleve brenda një lloji, që i jep atij aftësi përshtatjeje), i llojeve (numri dhe shpërndarja e llojeve në një zonë) dhe i ekosistemeve (larmia e habitateve dhe e komuniteteve). Mjedisi fizik në vetvete nuk është nivel i biodiversitetit, prandaj alternativa e parë është e paplotë dhe e pasaktë. Alternativat e tjera japin vetëm një nivel të vetëm: e treta vetëm atë të llojeve, e katërta vetëm atë gjenetik."
+  },
+  {
+    "id": "bio-nderveprimet-008",
+    "question": "Disa nxënës nëpërmjet kuadrateve provë hulumtuan shpeshtinë e bimëve në një ekosistem. Ata përdorën kuadrate me brinjë 10, 25, 50, 75 dhe 100cm dhe shënuan se sa bimë përfshiheshin në to. Ata i përsëritën matjet e tyre dhe llogaritën numrin mesatar të bimëve për secilin kuadrat. Rezultatet jepen në grafik. Numri i bimëve në kuadratin me sipërfaqe 0.25m² është:",
+    "image": "/question-images/biologji/nderveprimet/nderveprimet-008.png",
+    "imageAlt": "Grafik i numrit mesatar të bimëve për kuadrat në varësi të përmasave të kuadratit (10, 25, 50, 75, 100 cm)",
+    "answers": ["2", "4", "6", "7"],
+    "correct": 2,
+    "explanation": "Hapi i parë është kthimi i sipërfaqes në brinjë: 0.25 m² = 2500 cm², pra brinja është √2500 = 50 cm. Më pas lexohet grafiku në pikën 50 cm të boshtit horizontal dhe gjendet vlera rreth 6 bimë për kuadrat. Vlerat 2 dhe 4 u përgjigjen kuadrateve më të vegjël (10 dhe 25 cm), ndërsa 7 është vlera e pjesës ku kurba tashmë ka arritur plato-në (75–100 cm). Vër re se kurba rritet fillimisht shpejt e pastaj rrafshohet — pikërisht ky rrafshim tregon përmasën minimale të kuadratit që jep një kampionim përfaqësues."
+  },
+  {
+    "id": "bio-nderveprimet-009",
+    "question": "Gjatë studimit të anemonës së kuqe, në bregdetin shkëmbor të Zelandës së Re, disa studiues përdorën kuadrate me sipërfaqe 0.5m². Rezultatet e tyre jepen në tabelë (kuadrati 1–10: 1, 6, 2, 1, 2, 3, 5, 2, 2, 1 anemona). Sa është dendësia në m² e anemonit të kuq në zonën në studim?",
+    "image": "/question-images/biologji/nderveprimet/nderveprimet-009.png",
+    "imageAlt": "Tabelë me numrin e anemonave të kuqe në 10 kuadrate: 1, 6, 2, 1, 2, 3, 5, 2, 2, 1",
+    "answers": ["5", "15", "25", "50"],
+    "correct": 0,
+    "explanation": "Dendësia = numri total i individëve / sipërfaqja totale e kampionuar. Totali i anemonave: 1+6+2+1+2+3+5+2+2+1 = 25 individë. Sipërfaqja totale: 10 kuadrate × 0.5 m² = 5 m². Pra dendësia = 25 : 5 = 5 anemona për m². Gabimi më i shpeshtë është të jepet 25, duke harruar pjesëtimin me sipërfaqen, ose 50, duke shumëzuar me 2 në vend që të pjesëtohet me 5. Kujto: dendësia është gjithnjë individë PËR NJËSI SIPËRFAQEJE, jo numri i papërpunuar."
+  },
+  {
+    "id": "bio-nderveprimet-010",
+    "question": "Në një studim u vëzhgua rritja e bimës Viola tricolor në një lëndinë. Në zonën në studim u vendosën në mënyrë rastësore nga 10 kuadrate me brinjë 100cm. Në secilin kuadrat u krye numërimi i bimëve Viola tricolor. Rezultatet paraqiten në tabelë (kuadrati 1–10: 0, 0, 4, 3, 0, 1, 2, 4, 0, 3). Sa është frekuenca e llojit në zonën në studim?",
+    "image": "/question-images/biologji/nderveprimet/nderveprimet-010.png",
+    "imageAlt": "Tabelë me numrin e bimëve Viola tricolor në 10 kuadrate: 0, 0, 4, 3, 0, 1, 2, 4, 0, 3",
+    "answers": ["1.7", "17", "30%", "60%"],
+    "correct": 3,
+    "explanation": "Frekuenca tregon sa i përhapur është një lloj, pra në sa përqind të kuadrateve ai është i pranishëm — nuk ka rëndësi sa individë ka në secilin. Lloji mungon në kuadratet 1, 2, 5 dhe 9, pra është i pranishëm në 6 nga 10 kuadrate: (6 : 10) × 100 = 60%. Vlerat 1.7 dhe 17 dalin nga llogaritja e mesatares ose e totalit të individëve (17 bimë gjithsej, mesatarisht 1.7 për kuadrat), të cilat matin dendësinë, jo frekuencën. Vlera 30% nuk i përgjigjet asnjë llogaritjeje të saktë."
+  }
+]

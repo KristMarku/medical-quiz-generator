@@ -1,0 +1,178 @@
+{
+  "id": "root",
+  "title": "Quiz Generator",
+  "type": "root",
+  "description": "Choose a subject to begin.",
+  "children": [
+    {
+      "id": "exam",
+      "title": "📝 Provimi",
+      "type": "exam",
+      "description": "Practice with questions from all subjects."
+    },
+    {
+      "id": "biologji",
+      "title": "🧬 Biologji",
+      "type": "folder",
+      "description": "Practice Biology.",
+      "children": [
+        {
+          "id": "ciklet",
+          "title": "Ciklet",
+          "type": "lesson",
+          "questionFile": "biologji/ciklet.json",
+          "description": "Practice Ciklet."
+        },
+        {
+          "id": "diversiteti",
+          "title": "Diversiteti",
+          "type": "lesson",
+          "questionFile": "biologji/diversiteti.json",
+          "description": "Practice Diversiteti."
+        },
+        {
+          "id": "nderveprimet",
+          "title": "Ndërveprimet",
+          "type": "lesson",
+          "questionFile": "biologji/nderveprimet.json",
+          "description": "Practice Ndërveprimet."
+        },
+        {
+          "id": "sistemet",
+          "title": "Sistemet",
+          "type": "lesson",
+          "questionFile": "biologji/sistemet.json",
+          "description": "Practice Sistemet."
+        }
+      ]
+    },
+    {
+      "id": "fizike",
+      "title": "⚛️ Fizikë",
+      "type": "folder",
+      "description": "Practice Physics.",
+      "children": [
+        {
+          "id": "lekundjet-dhe-valet-optika-valore",
+          "title": "Lëkundjet dhe valët – Optika valore",
+          "type": "lesson",
+          "questionFile": "fizike/lekundjet-dhe-valet-optika-valore.json",
+          "description": "Practice Lëkundjet dhe valët – Optika valore."
+        },
+        {
+          "id": "magnetizmi",
+          "title": "Magnetizmi",
+          "type": "lesson",
+          "questionFile": "fizike/magnetizmi.json",
+          "description": "Practice Magnetizmi."
+        },
+        {
+          "id": "optika-gjeometrike",
+          "title": "Optika gjeometrike",
+          "type": "lesson",
+          "questionFile": "fizike/optika-gjeometrike.json",
+          "description": "Practice Optika gjeometrike."
+        },
+        {
+          "id": "puna-dhe-energjia",
+          "title": "Puna dhe energjia",
+          "type": "lesson",
+          "questionFile": "fizike/puna-dhe-energjia.json",
+          "description": "Practice Puna dhe energjia."
+        },
+        {
+          "id": "rryma-elektrike",
+          "title": "Rryma elektrike",
+          "type": "lesson",
+          "questionFile": "fizike/rryma-elektrike.json",
+          "description": "Practice Rryma elektrike."
+        },
+        {
+          "id": "termodinamika",
+          "title": "Termodinamika",
+          "type": "lesson",
+          "questionFile": "fizike/termodinamika.json",
+          "description": "Practice Termodinamika."
+        },
+        {
+          "id": "dinamika",
+          "title": "Dinamika",
+          "type": "lesson",
+          "questionFile": "fizike/dinamika.json",
+          "description": "Practice Dinamika."
+        },
+        {
+          "id": "elektrostatika",
+          "title": "Elektrostatika",
+          "type": "lesson",
+          "questionFile": "fizike/elektrostatika.json",
+          "description": "Practice Elektrostatika."
+        },
+        {
+          "id": "kinematika",
+          "title": "Kinematika",
+          "type": "lesson",
+          "questionFile": "fizike/kinematika.json",
+          "description": "Practice Kinematika."
+        },
+        {
+          "id": "fizika-kuantike-dhe-berthamore",
+          "title": "Fizika kuantike dhe bërthamore",
+          "type": "lesson",
+          "questionFile": "fizike/fizika-kuantike-dhe-berthamore.json",
+          "description": "Practice Fizika kuantike dhe bërthamore."
+        }
+      ]
+    },
+    {
+      "id": "kimi",
+      "title": "⚗️ Kimi",
+      "type": "folder",
+      "description": "Practice Chemistry.",
+      "children": [
+        {
+          "id": "reaksionet-redoks-dhe-elektrokimia",
+          "title": "Reaksionet Redoks dhe Elektrokimia",
+          "type": "lesson",
+          "questionFile": "kimi/reaksionet-redoks-dhe-elektrokimia.json",
+          "description": "Practice Reaksionet Redoks dhe Elektrokimia."
+        },
+        {
+          "id": "struktura-e-atomit-dhe-sistemi-periodik",
+          "title": "Struktura e atomit dhe Sistemi Periodik",
+          "type": "lesson",
+          "questionFile": "kimi/struktura-e-atomit-dhe-sistemi-periodik.json",
+          "description": "Practice Struktura e atomit dhe Sistemi Periodik."
+        },
+        {
+          "id": "termokimia-dhe-kinetika",
+          "title": "Termokimia dhe Kinetika",
+          "type": "lesson",
+          "questionFile": "kimi/termokimia-dhe-kinetika.json",
+          "description": "Practice Termokimia dhe Kinetika."
+        },
+        {
+          "id": "ekuilibri-kimik-acidet-dhe-bazat",
+          "title": "Ekuilibri kimik, acidet dhe bazat",
+          "type": "lesson",
+          "questionFile": "kimi/ekuilibri-kimik-acidet-dhe-bazat.json",
+          "description": "Practice Ekuilibri kimik, acidet dhe bazat."
+        },
+        {
+          "id": "kimi-organike",
+          "title": "Kimi organike",
+          "type": "lesson",
+          "questionFile": "kimi/kimi-organike.json",
+          "description": "Practice Kimi organike."
+        },
+        {
+          "id": "lidhjet-kimike",
+          "title": "Lidhjet kimike",
+          "type": "lesson",
+          "questionFile": "kimi/lidhjet-kimike.json",
+          "description": "Practice Lidhjet kimike."
+        }
+      ]
+    }
+  ]
+}

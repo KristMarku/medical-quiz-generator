@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "bio-ciklet-001",
+    "question": "Gjatë procesit të fotosintezës energjia e fotoneve të dritës depozitohet fillimisht në molekula si:",
+    "answers": [
+      "aminoacide",
+      "NADPH + ATP",
+      "RDP-së",
+      "glukozës"
+    ],
+    "correct": 1,
+    "explanation": "Drita ngacmon elektronet e klorofilës në fazën dritore dhe energjia e tyre kapet menjëherë në formë kimike te ATP-ja (nga fotofosforilimi) dhe NADPH-ja (nga reduktimi i NADP+). Këto dy molekula janë 'monedha' e parë e energjisë dhe më pas shpenzohen në ciklin e Kalvinit. Aminoacidet dhe glukoza janë produkte të mëvonshme, shumë hapa pas kapjes së dritës; RDP-ja është vetëm akceptori i CO2 në ciklin e Kalvinit, jo depozituese e energjisë së fotoneve."
+  },
+  {
+    "id": "bio-ciklet-002",
+    "question": "Gjatë fazës dritore të fotosintezës të gjitha reaksionet ndodhin në:",
+    "answers": [
+      "tilakoidet e graneve dhe stromës",
+      "membranat e qelizave",
+      "lëngun veshtullor të kloroplastit",
+      "stromën e kloroplastit"
+    ],
+    "correct": 0,
+    "explanation": "Fotosistemet, zinxhiri i transportit të elektroneve dhe ATP-sintetaza janë të ngulitura në membranat tilakoide — si te tilakoidet e mbivendosura që formojnë granat, ashtu edhe te tilakoidet që lidhin granat mes tyre nëpër stromë. Membrana e qelizës nuk ka pigmente fotosintetike te bimët e larta; stroma (lëngu veshtullor) është vendi i fazës së errët, pra i ciklit të Kalvinit, jo i fazës dritore."
+  },
+  {
+    "id": "bio-ciklet-003",
+    "question": "Gjatë fotolizës së ujit, uji zbërthehet në protone, elektrone dhe oksigjen. Elektronet përdoren për:",
+    "answers": [
+      "neutralizimin e pigmentit në fotosistemin I",
+      "neutralizimin e pigmentit në fotosistemin II",
+      "reduktimin e NADP+ në NADPH",
+      "neutralizimin e klorofilit b"
+    ],
+    "correct": 1,
+    "explanation": "Fotoliza kryhet pikërisht pranë fotosistemit II (P680). Kur P680 humbet elektronet e ngacmuara nga drita, mbetet i ngarkuar pozitivisht dhe duhet 'mbushur' menjëherë; boshllëku plotësohet nga elektronet e ujit. Mbaje mend rendin: uji → PS II → PS I → NADP+. Fotosistemi I i plotëson elektronet nga PS II (jo drejtpërdrejt nga uji); reduktimi i NADP+ bëhet nga elektronet që dalin nga PS I, jo direkt nga fotoliza; klorofila b është pigment ndihmës që vetëm përcjell energjinë."
+  },
+  {
+    "id": "bio-ciklet-004",
+    "question": "Kloroplastet mund të formojnë sheqer në errësirë, nëse ato furnizohen në mënyrë të vazhdueshme me:",
+    "answers": [
+      "ATP dhe NADPH",
+      "oksigjen",
+      "klorofil",
+      "ujë"
+    ],
+    "correct": 0,
+    "explanation": "Cikli i Kalvinit nuk ka nevojë direkt për dritë — ai ka nevojë për energjinë (ATP) dhe fuqinë reduktuese (NADPH) që faza dritore i furnizon. Nëse ia japim artificialisht këto dy molekula, sinteza e sheqerit vazhdon edhe në errësirë. Oksigjeni është produkt i mbeturinë i fotosintezës; klorofila dhe uji shërbejnë vetëm në fazën dritore, e cila pa dritë nuk punon."
+  },
+  {
+    "id": "bio-ciklet-005",
+    "question": "Bimë C3 është bima në të cilën produkti i parë i fotosintezës është me:",
+    "answers": [
+      "Një karbon",
+      "Dy karbone",
+      "Tre karbone",
+      "Katër karbone"
+    ],
+    "correct": 2,
+    "explanation": "Te bimët C3 (gruri, orizi, fasulja) CO2 lidhet me RDP-në (5C) me ndihmën e RDP-karboksilazës; molekula e paqëndrueshme 6C shpërbëhet menjëherë në dy molekula PGA me nga 3 karbone. Nga ky produkt i parë me tre karbone vjen edhe emri C3. Produkti me 4 karbone (acidi oksalacetik) është karakteristikë e bimëve C4; produktet me 1 ose 2 karbone nuk formohen si produkte të para të fiksimit."
+  },
+  {
+    "id": "bio-ciklet-006",
+    "question": "Gjatë fotosintezës klorofila α tek bimët e gjelbërta përthith:",
+    "answers": [
+      "një pjesë të spektrit të dukshëm të dritës së diellit",
+      "pjesën më të madhe spektrit të dukshëm të dritës së diellit",
+      "pjesën e spektrit ultra violetë",
+      "pjesën e spektrit infra të kuq"
+    ],
+    "correct": 0,
+    "explanation": "Klorofila a ka dy maja thithjeje: në zonën blu-vjollcë dhe në zonën e kuqe të spektrit të dukshëm. Dritën e gjelbër ajo e reflekton — pikërisht prandaj gjethet na duken të gjelbra. Pra thith vetëm një pjesë të spektrit, jo pjesën më të madhe. Rrezet ultravjollcë dhe infra të kuqe janë jashtë spektrit të dukshëm dhe nuk përdoren nga klorofila për fotosintezë."
+  },
+  {
+    "id": "bio-ciklet-007",
+    "question": "Pigmenti parësor që përthith dritën tek bimët është?",
+    "answers": [
+      "Karoteni",
+      "Klorofila",
+      "Ksantofila",
+      "Leukoplasti"
+    ],
+    "correct": 1,
+    "explanation": "Klorofila (sidomos klorofila a) është pigmenti parësor: vetëm ajo ndodhet në qendrën e reaksionit dhe vetëm ajo i dorëzon elektronet e ngacmuara te zinxhiri i transportit. Karoteni dhe ksantofila janë pigmente ndihmëse (aksesore) — thithin gjatësi vale që klorofila nuk i kap dhe ia përcjellin energjinë asaj, por nuk e nisin vetë reaksionin. Leukoplasti nuk është pigment fare, por plastid pa ngjyrë që ruan lëndë rezervë."
+  },
+  {
+    "id": "bio-ciklet-008",
+    "question": "Granat përfaqësojnë:",
+    "answers": [
+      "qendrën e reaksionit",
+      "trastëzat me klorofil",
+      "stromën e kloroplastit",
+      "qeska tilakoide të mbivendosura"
+    ],
+    "correct": 3,
+    "explanation": "Grana është një pirg (stivë) qeskash tilakoide të vendosura njëra mbi tjetrën, si monedha të grumbulluara. Kjo strukturë rrit shumë sipërfaqen e membranave dhe, rrjedhimisht, numrin e fotosistemeve që kapin dritë. Qendra e reaksionit është vetëm një pjesë e vogël e fotosistemit brenda membranës; stroma është lëngu përreth granave, jo vetë granat; 'trastëza me klorofil' është përshkrim i paqartë i një tilakoidi të vetëm, ndërsa grana është grumbulli i tyre."
+  },
+  {
+    "id": "bio-ciklet-009",
+    "question": "Bimë C4 është bima në të cilën produkti i parë i fotosintezës është me?",
+    "answers": [
+      "Një karbon",
+      "Dy karbone",
+      "Tre karbone",
+      "Katër karbone"
+    ],
+    "correct": 3,
+    "explanation": "Te bimët C4 (misri, kallamsheqeri, sorgu) CO2 fiksohet fillimisht në qelizat e mezofilit nga PEP-karboksilaza mbi PEP-in (3C), duke dhënë acid oksalacetik me 4 karbone — prandaj emri C4. Vetëm më pas karboni transportohet te qelizat e këllëfit dhe hyn në ciklin normal të Kalvinit. Produkti me tre karbone (PGA) është i bimëve C3; produktet me një ose dy karbone nuk janë produkte të para të fiksimit."
+  },
+  {
+    "id": "bio-ciklet-010",
+    "question": "Bimët e larta kanë sipërfaqe gjethore të madhe për të marrë sa më shumë:",
+    "answers": [
+      "azot",
+      "avuj uji",
+      "dyoksid azoti",
+      "dyoksid karboni"
+    ],
+    "correct": 3,
+    "explanation": "Gjethja është 'paneli diellor' i bimës: sipërfaqja e gjerë dhe e sheshtë rrit njëkohësisht dritën e kapur dhe numrin e gojëzave nëpër të cilat hyn CO2, lënda e parë e fotosintezës. Azotin bima e merr nga toka me anë të rrënjëve, në formë nitratesh — jo nga gjethja. Avujt e ujit nuk thithen por lëshohen gjatë transpirimit, ndërsa dyoksidi i azotit është ndotës i ajrit, jo lëndë e parë."
+  },
+  {
+    "id": "bio-ciklet-011",
+    "question": "Fiksimi i CO2 gjatë fotosintezës bëhet gjatë fazës së:",
+    "answers": [
+      "dritës",
+      "lëvizjes së tilakoideve",
+      "fosforilimit",
+      "errësirës"
+    ],
+    "correct": 3,
+    "explanation": "Fiksimi i CO2 është hapi i parë i ciklit Kalvin–Benson, pra i fazës së errët (fazës së pavarur nga drita), që zhvillohet në stromë. Ai quhet 'i errët' jo se kërkon errësirë, por se nuk ka nevojë direkt për fotone — mjafton ATP-ja dhe NADPH-ja e prodhuar më parë. Në fazën dritore prodhohen vetëm ATP, NADPH dhe O2; fosforilimi është thjesht formimi i ATP-së, ndërsa 'lëvizja e tilakoideve' nuk është fazë e fotosintezës."
+  },
+  {
+    "id": "bio-ciklet-012",
+    "question": "Cila nga sekuencat e mëposhtme tregon në mënyrë korrekte, rrymën e elektroneve gjatë fotosintezës?",
+    "answers": [
+      "NADPH → O2 → CO2",
+      "H2O → NADPH → Cikli Kalvin",
+      "NADPH → Klorofil → Cikli Kalvin",
+      "H2O → Fotosistemi I → Fotosistemi II"
+    ],
+    "correct": 1,
+    "explanation": "Rruga e vërtetë është: uji jep elektronet (fotoliza) → PS II → zinxhiri i transportit → PS I → NADP+ bëhet NADPH → NADPH-ja i çon këto elektrone në ciklin e Kalvinit ku reduktohet CO2. Pra burimi është uji dhe destinacioni përfundimtar është sheqeri. Varianti me PS I para PS II e ka rendin të përmbysur (numrat e fotosistemeve janë sipas radhës së zbulimit, jo të rrjedhës); variantet që nisin nga NADPH e kthejnë rrjedhën mbrapsht."
+  },
+  {
+    "id": "bio-ciklet-013",
+    "question": "Në mekanizëm, fotofosforilimi është i ngjashëm me:",
+    "answers": [
+      "glikolizën",
+      "ciklin Kalvin",
+      "fosforilimin oksidativ",
+      "fosforilimin në nivelin e susbstratit"
+    ],
+    "correct": 2,
+    "explanation": "Të dyja proceset punojnë me të njëjtin mekanizëm kimiosmotik: elektronet rrjedhin nëpër një zinxhir transporti në membranë, energjia e tyre përdoret për të pompuar H+ dhe për të krijuar gradient protonik, dhe kthimi pasiv i H+ nëpër ATP-sintetazë prodhon ATP. Ndryshon vetëm burimi i energjisë (drita te fotofosforilimi, oksidimi i ushqimit te fosforilimi oksidativ). Glikoliza dhe fosforilimi në nivel substrati e formojnë ATP-në duke kaluar direkt një grup fosfat, pa gradient protonik; cikli i Kalvinit konsumon ATP, nuk e prodhon."
+  },
+  {
+    "id": "bio-ciklet-014",
+    "question": "STE-ja në kloroplaste pompon protonet:",
+    "answers": [
+      "stromë",
+      "jashtë kloroplastit",
+      "në hapësirën e qeskës tilakoide",
+      "në hapësirën ndërmembranore të membranave të kloroplastit"
+    ],
+    "correct": 2,
+    "explanation": "Në kloroplast pompa punon nga stroma drejt brendësisë së tilakoidit (lumenit), kështu që lumeni bëhet shumë acid dhe krijohet gradienti që lëviz ATP-sintetazën. Kujdes mos e ngatërrosh me mitokondrinë, ku protonet pompohen nga matriksi në hapësirën ndërmembranore. Në kloroplast hapësira mes dy membranave të jashtme nuk merr pjesë në sintezën e ATP-së, dhe protonet nuk dalin kurrë jashtë organelës."
+  },
+  {
+    "id": "bio-ciklet-015",
+    "question": "Kooperimi i dy fotosistemeve në kloroplaste kërkohet për:",
+    "answers": [
+      "sintezën e ATP-së",
+      "reduktimin e NADP+-së",
+      "fotofosforilimin ciklik",
+      "gjenerimin e një force lëvizëse proteinike"
+    ],
+    "correct": 1,
+    "explanation": "Për të ngritur elektronin nga niveli i ulët energjetik i ujit deri në nivelin e lartë që kërkon NADP+, nevojiten dy 'shtytje' me dritë: e para në PS II dhe e dyta në PS I. Vetëm bashkëpunimi i të dyve mundëson formimin e NADPH-së. ATP-ja dhe gradienti protonik mund të prodhohen edhe nga fotofosforilimi ciklik, i cili përdor vetëm PS I — prandaj alternativat e tjera nuk e kërkojnë domosdo çiftin."
+  },
+  {
+    "id": "bio-ciklet-016",
+    "question": "Fotofosforilimi jo-ciklik përfshin proceset më poshtë:",
+    "answers": [
+      "fotosistemin e I dhe të II",
+      "vetëm fotosistemin II",
+      "vetëm prodhimin e glukozës",
+      "vetëm fotosistemin I"
+    ],
+    "correct": 0,
+    "explanation": "Jo-ciklik do të thotë se elektroni nuk kthehet aty ku nisi: ai vjen nga uji, kalon nëpër PS II dhe PS I dhe përfundon te NADP+. Prandaj domosdoshmërisht marrin pjesë të dy fotosistemet dhe prodhohen njëkohësisht ATP, NADPH dhe O2. Rruga që përdor vetëm PS I është pikërisht ajo ciklike (jep vetëm ATP); glukoza formohet më vonë, në ciklin e Kalvinit, pra jo në këtë fazë."
+  },
+  {
+    "id": "bio-ciklet-017",
+    "question": "Në mitokondri zhvillohet:",
+    "answers": [
+      "cikli i Krebsit dhe fosforilimi oksidativ",
+      "glikoliza dhe cikli i Krebsit",
+      "cikli Kalvin - Benson dhe fosforilimi oksidativ",
+      "fotosinteza"
+    ],
+    "correct": 0,
+    "explanation": "Mitokondria ka dy 'zona pune': matriksin, ku ndodh reaksioni i ndërmjetëm dhe cikli i Krebsit, dhe membranën e brendshme, ku ndodhen zinxhiri i transportit të elektroneve dhe ATP-sintetaza, pra fosforilimi oksidativ. Glikoliza është e vetmja etapë që zhvillohet jashtë mitokondrisë, në citoplazmë. Cikli Kalvin–Benson dhe fotosinteza zhvillohen vetëm në kloroplast."
+  },
+  {
+    "id": "bio-ciklet-018",
+    "question": "Cili nga këto procese nuk i takon frymëmarrjes qelizore?",
+    "answers": [
+      "STE",
+      "Glikoliza",
+      "Cikli Krebsit",
+      "Fermentimi laktik"
+    ],
+    "correct": 3,
+    "explanation": "Frymëmarrja qelizore aerobe përbëhet nga glikoliza, reaksioni i ndërmjetëm, cikli i Krebsit dhe zinxhiri i transportit të elektroneve me fosforilim oksidativ. Fermentimi laktik është rrugë alternative anaerobe: pas glikolizës, piruvati kthehet në acid laktik vetëm për të rigjeneruar NAD+, pa akceptor final oksigjen dhe pa prodhuar ATP shtesë. Prandaj ai konsiderohet zbërthim jo i plotë dhe nuk bën pjesë në frymëmarrjen qelizore."
+  },
+  {
+    "id": "bio-ciklet-019",
+    "question": "Cikli i Krebsit prodhon:",
+    "answers": [
+      "oksigjen",
+      "acid piruvik",
+      "NADPH, ATP dhe CO2",
+      "ATP, NADH, FADH2 dhe CO2"
+    ],
+    "correct": 3,
+    "explanation": "Për çdo rrotullim të ciklit dalin 3 NADH, 1 FADH2, 1 ATP (në nivel substrati) dhe 2 CO2; për një molekulë glukozë këto shumëzohen me dy. Mbaj mend: cikli i Krebsit nuk prodhon energji direkt, por 'mbush bateritë' NADH dhe FADH2 që do të përdoren në STE. Oksigjeni nuk prodhohet kurrë (ai konsumohet në fund të STE-së); acidi piruvik është lëndë hyrëse e reaksionit të ndërmjetëm, jo produkt; NADPH-ja i përket fotosintezës, jo frymëmarrjes."
+  },
+  {
+    "id": "bio-ciklet-020",
+    "question": "Cilat nga rrugët katabolike është e përbashkët për frymëmarrjen aerobe dhe fermentimin laktik të glukozës?",
+    "answers": [
+      "STE-ja",
+      "Glikoliza",
+      "Cikli i Krebsit",
+      "Sinteza e acetil ~ CoA nga acidi piruvik"
+    ],
+    "correct": 1,
+    "explanation": "Glikoliza është rruga universale: ndodh në citoplazmë, nuk kërkon oksigjen dhe e ndan glukozën në dy molekula piruvat me fitim neto 2 ATP dhe 2 NADH. Ajo është pika ku ndahen rrugët — nëse ka oksigjen, piruvati hyn në mitokondri; nëse jo, ai kthehet në acid laktik. Të gjitha alternativat e tjera (reaksioni i ndërmjetëm, cikli i Krebsit, STE-ja) zhvillohen vetëm në prani të oksigjenit dhe mungojnë te fermentimi."
+  },
+  {
+    "id": "bio-ciklet-021",
+    "question": "Sa ATP në nivelin e substratit formohet për çdo molekulë glukozë gjatë ciklit të Krebsit?",
+    "answers": [
+      "8",
+      "2",
+      "15",
+      "38"
+    ],
+    "correct": 1,
+    "explanation": "Një molekulë glukozë jep dy piruvate, pra dy acetil~CoA, pra dy rrotullime të ciklit të Krebsit. Meqë çdo rrotullim prodhon vetëm 1 ATP (ose GTP) me fosforilim në nivel substrati, totali është 2 ATP. Numri 38 është prodhimi teorik total i gjithë frymëmarrjes, jo i ciklit; 8 dhe 15 nuk korrespondojnë me asnjë llogaritje standarde. Kujto: cikli i Krebsit jep pak ATP direkt, por shumë NADH e FADH2."
+  },
+  {
+    "id": "bio-ciklet-022",
+    "question": "Në cilën pjesë të qelizës kryhet cikli i Krebsit?",
+    "answers": [
+      "Plastide",
+      "Ribozome",
+      "Mitokondri",
+      "Citoplazëm"
+    ],
+    "correct": 2,
+    "explanation": "Cikli i Krebsit zhvillohet brenda mitokondrisë, konkretisht në matriksin e saj, ku ndodhen të tretura enzimat përkatëse. Citoplazma është vendi vetëm i glikolizës; ribozomet merren me sintezën e proteinave; plastidet (si kloroplasti) janë organele bimore për fotosintezën dhe ruajtjen e lëndëve. Prandaj qelizat me nevojë të madhe për energji, si ato muskulore, kanë shumë mitokondri."
+  },
+  {
+    "id": "bio-ciklet-023",
+    "question": "Reaksioni i ndërmjetëm gjatë frymëmarrjes aerobe:",
+    "answers": [
+      "çliron CO2",
+      "përdor NAD+",
+      "prodhon 2ATP",
+      "lidh glikolizën me ciklin e Krebsit"
+    ],
+    "correct": 3,
+    "explanation": "Roli kryesor i tij, ai që e përcakton, është të bëjë urën mes glikolizës (që përfundon me piruvat në citoplazmë) dhe ciklit të Krebsit (që fillon me acetil~CoA në matriks). Gjatë kalimit piruvati humbet një karbon si CO2 dhe NAD+ reduktohet në NADH — pra edhe këto ndodhin, por janë pasoja, jo funksioni i tij përcaktues. E vetmja alternativë krejt e gabuar është prodhimi i 2 ATP: reaksioni i ndërmjetëm nuk sintetizon asnjë ATP."
+  },
+  {
+    "id": "bio-ciklet-024",
+    "question": "Roli kryesor i zinxhirit respirator është:",
+    "answers": [
+      "sinteza e ATP-së",
+      "eliminimi i CO2",
+      "prodhimi i NADH",
+      "prodhimi i O2"
+    ],
+    "correct": 0,
+    "explanation": "Zinxhiri respirator (STE) merr elektronet nga NADH dhe FADH2, i zbret hap pas hapi drejt oksigjenit dhe përdor energjinë e liruar për të pompuar H+; gradienti që krijohet lëviz ATP-sintetazën. Nga këtu vjen mbi 90% e ATP-së së qelizës. CO2 çlirohet në reaksionin e ndërmjetëm dhe në ciklin e Krebsit; NADH prodhohet në etapat e mëparshme dhe këtu konsumohet; oksigjeni nuk prodhohet por harxhohet si akceptor final."
+  },
+  {
+    "id": "bio-ciklet-025",
+    "question": "Cila nga molekulat e mëposhtme vepron si akseptor i ndërmjetëm në reaksionet e ciklit të acidit citrik (cikli i Krebsit)?",
+    "answers": [
+      "ADP",
+      "NAD+",
+      "ATP",
+      "Acidi piruvik"
+    ],
+    "correct": 1,
+    "explanation": "NAD+ është koenzima që pranon përkohësisht elektronet dhe hidrogjenet e liruara nga oksidimet e ciklit, duke u kthyer në NADH; më pas ajo i dorëzon ato te STE-ja. Pikërisht 'i ndërmjetëm' do të thotë bartës i përkohshëm. ATP-ja dhe ADP-ja janë të lidhura me ruajtjen dhe transferimin e energjisë, jo me pranimin e elektroneve; acidi piruvik nuk hyn fare në ciklin e Krebsit — ai kthehet më parë në acetil~CoA."
+  },
+  {
+    "id": "bio-ciklet-026",
+    "question": "Cila nga dukuritë e mëposhtme NUK verifikohet kur acidi piruvik shndërrohet në acetil ~ CoA?",
+    "answers": [
+      "Acid piruvik",
+      "Formohet CO2",
+      "NAD+ reduktohet",
+      "Sintetizohet një molekulë ATP"
+    ],
+    "correct": 3,
+    "explanation": "Reaksioni i ndërmjetëm është dekarboksilim oksidativ: piruvati (3C) humbet një karbon si CO2, oksidohet duke reduktuar NAD+ në NADH, dhe mbetja acetil (2C) lidhet me koenzimën A. Asnjë molekulë ATP nuk sintetizohet në këtë hap — ATP-ja prodhohet vetëm në glikolizë, në ciklin e Krebsit dhe mbi të gjitha në STE. Prandaj alternativa për ATP-në është e vetmja që nuk verifikohet."
+  },
+  {
+    "id": "bio-ciklet-027",
+    "question": "Në qelizat eukariote, shumë nga enzimat e ciklit të Krebsit janë lokalizuar në:",
+    "answers": [
+      "citosol",
+      "membranën plazmatike",
+      "matriksin mitokondrial",
+      "membranën e brendshme të mitokondrisë"
+    ],
+    "correct": 2,
+    "explanation": "Enzimat e ciklit të Krebsit qëndrojnë të tretura në matriks, lëngun brenda membranës së brendshme të mitokondrisë — po aty ku hyn acetil~CoA. Në vetë membranën e brendshme ndodhen komplekset e STE-së dhe ATP-sintetaza (një përjashtim i vogël është sukcinat-dehidrogjenaza), pra ajo nuk është vendi i shumicës së enzimave. Citosoli strehon enzimat e glikolizës, ndërsa membrana plazmatike nuk merr pjesë në frymëmarrjen e qelizave eukariote."
+  },
+  {
+    "id": "bio-ciklet-028",
+    "question": "Akseptori final i elektroneve në STE është?",
+    "answers": [
+      "O2",
+      "H2O",
+      "NAD+",
+      "ADP"
+    ],
+    "correct": 0,
+    "explanation": "Oksigjeni ka afinitetin më të madh për elektronet dhe qëndron në fund të zinxhirit: ai pranon elektronet e lodhura bashkë me protonet dhe formon ujë. Pikërisht ky rol e bën oksigjenin të domosdoshëm për jetën aerobe — pa të, zinxhiri bllokohet dhe ndalon gjithë prodhimi i ATP-së. Uji është produkt, jo akceptor; NAD+ është bartës i ndërmjetëm që i sjell elektronet zinxhirit; ADP-ja merret me ruajtjen e energjisë, jo me elektronet."
+  },
+  {
+    "id": "bio-ciklet-029",
+    "question": "Cili nga proceset e mëposhtëm NUK ndodh gjatë ciklit të Krebsit?",
+    "answers": [
+      "Reduktimi i FAD në FADH2",
+      "Oksidimi i NADH në NAD+",
+      "Formimi i citratit",
+      "Çlirimi i CO2"
+    ],
+    "correct": 1,
+    "explanation": "Cikli i Krebsit është një varg oksidimesh: FAD reduktohet në FADH2, NAD+ reduktohet në NADH, çlirohet CO2 dhe cikli nis me bashkimin e acetil~CoA me oksalacetatin për të dhënë citrat. Oksidimi i kundërt, NADH → NAD+, nuk ndodh këtu por në zinxhirin e transportit të elektroneve (ose në fermentim). Pra në Krebs NAD+ 'mbushet', ndërsa në STE 'zbrazet'."
+  },
+  {
+    "id": "bio-ciklet-030",
+    "question": "Kur rryma e elektroneve kalon në STE-në e mitokondrisë, cila nga ngjarjet ndodh?",
+    "answers": [
+      "pH matriksit rritet",
+      "ATP-sintetaza pompon protone",
+      "Elektronet grumbullojnë energjinë e lirë",
+      "Citokromet e STE-së fosforilojnë ADP-në në ATP"
+    ],
+    "correct": 0,
+    "explanation": "Komplekset e zinxhirit nxjerrin H+ nga matriksi drejt hapësirës ndërmembranore; duke humbur protone, matriksi bëhet më pak acid, pra pH-i i tij rritet (ndërsa hapësira ndërmembranore acidifikohet). ATP-sintetaza nuk pompon protone, përkundrazi i lë ata të kthehen pasivisht dhe e shfrytëzon rrymën për të prodhuar ATP. Elektronet nuk grumbullojnë por humbasin energji të lirë hap pas hapi, dhe citokromet vetëm transportojnë elektrone, nuk fosforilojnë ADP-në."
+  },
+  {
+    "id": "bio-ciklet-031",
+    "question": "Gjatë frymëmarrjes aerobe në mitokondri:",
+    "answers": [
+      "ATP-ja formohet në saj të energjisë së çliruar gjatë STE-së",
+      "ka një transportim të elektroneve pa prishur asnjë lidhje",
+      "molekulat e ujit shpërbëhen për të prodhuar oksigjenin",
+      "glukoza pëson një seri transformimesh"
+    ],
+    "correct": 0,
+    "explanation": "Pjesa dërrmuese e ATP-së mitokondriale vjen nga energjia që lirohet kur elektronet zbresin nëpër STE dhe krijojnë gradientin protonik. Transporti i elektroneve shoqërohet gjithnjë me prishje dhe formim lidhjesh kimike (oksido-reduktime). Shpërbërja e ujit për të prodhuar oksigjen është fotoliza, dukuri e fotosintezës, jo e mitokondrisë — këtu uji formohet, nuk prishet. Glukoza nuk hyn kurrë në mitokondri: ajo zbërthehet në citoplazmë gjatë glikolizës."
+  },
+  {
+    "id": "bio-ciklet-032",
+    "question": "Cili nga këto procese shndërron NADH-në në NAD+?",
+    "answers": [
+      "Cikli i Krebsit",
+      "Cikli i Kalvinit",
+      "Fosforilimi oksidativ",
+      "Shndërrimi i piruvatit në acid laktik"
+    ],
+    "correct": 2,
+    "explanation": "Në fosforilimin oksidativ NADH-ja dorëzon elektronet te kompleksi i parë i STE-së dhe oksidohet përsëri në NAD+, që kthehet e lirë për një cikël të ri; kjo është rruga kryesore dhe e vazhdueshme e rigjenerimit të NAD+ në kushte aerobe. Cikli i Krebsit vepron e kundërta — e reduktojnë NAD+ në NADH; cikli i Kalvinit punon me NADPH, jo NADH. Kujdes: edhe fermentimi laktik e rigjeneron NAD+, por ai është zgjidhje anaerobe emergjente, ndërsa pyetja kërkon procesin standard të frymëmarrjes aerobe."
+  },
+  {
+    "id": "bio-ciklet-033",
+    "question": "Lidhur me produktet e ndarjes mejotike, cila nga fjalitë e mëposhtme është e saktë?",
+    "answers": [
+      "Bërthamat e tyre janë identike për sa i përket materialit gjenetik",
+      "Kanë gjysmën e numrit të kromozomeve të qelizës prindërore",
+      "Përfaqësojnë gametët te bimët e larta dhe zigotën te kafshët",
+      "Janë haploide te kafshët dhe diploide te bimët e larta"
+    ],
+    "correct": 1,
+    "explanation": "Mejoza është ndarje reduksionale: nga një qelizë diploide (2n) dalin katër qeliza haploide (n), pra me gjysmën e kromozomeve të qelizës nënë. Ato nuk janë aspak identike mes tyre, sepse krosingoveri në profazën I dhe shpërndarja e rastësishme e kromozomeve homologe krijojnë kombinime të reja. Zigota nuk është produkt i mejozës por i pllenimit, dhe produktet e mejozës janë haploide si te kafshët ashtu edhe te bimët."
+  },
+  {
+    "id": "bio-ciklet-034",
+    "question": "Një qelizë ka 2n = 16 kromozome. Sa kromatide ka qeliza në metafazë?",
+    "answers": [
+      "16",
+      "18",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "Në fazën S të ndërfazës çdo kromozom dyfishohet dhe hyn në ndarje me dy kromatide motra të bashkuara në centromer. Në metafazë kromozomet janë ende të padara, pra: 16 kromozome × 2 kromatide = 32 kromatide (dhe po aq molekula ADN-je). Numri 16 do t'i përgjigjej fazës G1 (para dyfishimit), ndërsa 64 do të kërkonte dy dyfishime radhazi, gjë që nuk ndodh."
+  },
+  {
+    "id": "bio-ciklet-035",
+    "question": "Rrjedhja e ngjarjeve në ciklin jetësor të qelizës është nga:",
+    "answers": [
+      "faza G2 – faza S – faza G1 – mitoza",
+      "ndërfaza – metafaza – profaza – telofaza – anafaza",
+      "faza G1 – faza G2 – profazë – faza S – metafaza – anafaza",
+      "faza G1 – dyfishimi i ADN – G2 – profaza – metafaza – anafaza – telofaza"
+    ],
+    "correct": 3,
+    "explanation": "Cikli qelizor nis me ndërfazën në rendin G1 (rritje) → S (dyfishim i ADN-së) → G2 (përgatitje) dhe vazhdon me mitozën në rendin profazë → metafazë → anafazë → telofazë. Vetëm alternativa e fundit e ruan këtë radhë. Të tjerat ose i vendosin G2 e S para G1, ose e fusin fazën S pas profazës (ADN-ja dyfishohet gjithnjë para ndarjes), ose e nxjerrin metafazën para profazës."
+  },
+  {
+    "id": "bio-ciklet-036",
+    "question": "Nëse numri haploid i kromozomeve të një organizmi është 8, sa është shuma e kromozomeve që përmbajnë një qelizë e veshkës, një spermatozoid dhe një e mëlçisë?",
+    "answers": [
+      "32",
+      "40",
+      "48",
+      "56"
+    ],
+    "correct": 1,
+    "explanation": "Nga n = 8 rrjedh se 2n = 16. Qeliza e veshkës dhe ajo e mëlçisë janë somatike, pra diploide me nga 16 kromozome secila; spermatozoidi është gamet, pra haploid me 8 kromozome. Shuma: 16 + 16 + 8 = 40. Gabimi më i shpeshtë është të mbledhësh tri qeliza diploide (48) ose të mos e dyfishosh fare numrin haploid (32)."
+  },
+  {
+    "id": "bio-ciklet-037",
+    "question": "Numri i kromozomeve të qelizave bija që lindin nga:",
+    "answers": [
+      "mitoza, janë të njëjta me ato të nënës",
+      "mitoza, janë të ndryshme nga të nënës",
+      "mejoza, janë të njëjta me ato të nënës",
+      "mejoza, janë dyfishi i kromozomeve të nënës"
+    ],
+    "correct": 0,
+    "explanation": "Mitoza është ndarje ekuacionale: ruan të pandryshuar si numrin ashtu edhe përmbajtjen gjenetike, prandaj shërben për rritje, rigjenerim dhe riprodhim aseksual. Mejoza, përkundrazi, e përgjysmon numrin e kromozomeve (2n → n), kështu që qelizat bija nuk janë kurrë me të njëjtin numër si nëna. Asnjë ndarje normale nuk e dyfishon numrin e kromozomeve në qelizat bija."
+  },
+  {
+    "id": "bio-ciklet-038",
+    "question": "Mejoza në ndryshim nga mitoza:",
+    "answers": [
+      "prodhon qeliza haploide",
+      "prodhon qeliza diploide",
+      "ripërtërin organizmin",
+      "bashkon gamete"
+    ],
+    "correct": 0,
+    "explanation": "Dallimi thelbësor është reduktimi i numrit të kromozomeve: mejoza jep katër qeliza haploide, ndërsa mitoza jep dy qeliza diploide identike me nënën. Ky reduktim është i domosdoshëm që pas pllenimit numri i kromozomeve të specieve të mbetet konstant. Ripërtëritja dhe rigjenerimi i indeve janë funksione të mitozës; bashkimi i gametëve nuk është ndarje qelizore fare, por pllenim."
+  },
+  {
+    "id": "bio-ciklet-039",
+    "question": "Mitoza në ndryshim nga mejoza:",
+    "answers": [
+      "prodhon gametë",
+      "bashkon gametët",
+      "rrit organizmin",
+      "formon ovula"
+    ],
+    "correct": 2,
+    "explanation": "Mitoza siguron shtimin e numrit të qelizave me të njëjtën përmbajtje gjenetike, prandaj është baza e rritjes së organizmit, e rinovimit të indeve dhe e shërimit të plagëve. Prodhimi i gametëve — spermatozoidëve dhe ovulave — bëhet nëpërmjet mejozës gjatë gametogjenezës. Bashkimi i gametëve është pllenimi, një proces krejt tjetër nga ndarja qelizore."
+  },
+  {
+    "id": "bio-ciklet-040",
+    "question": "Cila nga ngjarjet e mëposhtme NUK ndodh gjatë profazës së një qelize shtazore:",
+    "answers": [
+      "kondensimi i kromozomeve",
+      "fillon formimi i boshtit mitotik",
+      "ndodh dyfishimi i kromozomeve",
+      "shpërbërja e mbështjelljes bërthamore"
+    ],
+    "correct": 2,
+    "explanation": "Në profazë kromozomet spiralizohen dhe bëhen të dukshme, centriolet shkojnë drejt poleve dhe nis formimi i boshtit, ndërsa mbështjellja bërthamore dhe bërthamëzat shpërbëhen. Dyfishimi i materialit gjenetik ka ndodhur më parë, në fazën S të ndërfazës — prandaj kromozomet hyjnë në profazë tashmë me dy kromatide. Është një nga gabimet klasike: dyfishimi nuk bëhet kurrë gjatë mitozës."
+  },
+  {
+    "id": "bio-ciklet-041",
+    "question": "Të gjitha ngjarjet e mëposhtme ndodhin gjatë mitozës, me përjashtim të:",
+    "answers": [
+      "kondensimit të kromozomeve",
+      "dyfishimi i centromerëve",
+      "formimit të boshtit mitotik",
+      "çiftëzimit të kromozomeve homologe"
+    ],
+    "correct": 3,
+    "explanation": "Çiftëzimi i kromozomeve homologe (sinapsa, me formimin e tetradeve) është ekskluzivitet i profazës së parë të mejozës dhe pikërisht aty mundësohet krosingoveri. Në mitozë homologët nuk njihen mes tyre — ata rreshtohen individualisht në ekuator. Kondensimi i kromozomeve, formimi i boshtit dhe ndarja e centromerëve në anafazë janë ngjarje normale të mitozës."
+  },
+  {
+    "id": "bio-ciklet-042",
+    "question": "Të gjitha ngjarjet e mëposhtme ndodhin gjatë mejozës, me përjashtim të:",
+    "answers": [
+      "pranisë së tetradeve edhe në metafazën e parë",
+      "krosingoverit në profazën e parë",
+      "citokinezës në telofazën e parë dhe të dytë",
+      "dyfishimit të ADN-së para mejozës së dytë"
+    ],
+    "correct": 3,
+    "explanation": "ADN-ja dyfishohet vetëm një herë, në fazën S para mejozës I; midis dy ndarjeve mejotike nuk ka fazë S të re, prandaj mejoza II fillon me kromozome që tashmë kanë dy kromatide. Pikërisht ky mungim i dyfishimit të dytë e bën mejozën reduksionale. Tetradet janë të pranishme në profazën I dhe qëndrojnë të rreshtuara në metafazën I, krosingoveri ndodh në profazën I dhe citokineza ndjek të dyja telofazat."
+  },
+  {
+    "id": "bio-ciklet-043",
+    "question": "Të gjitha qelizat e një organizmi diploid e kanë origjinën nga:",
+    "answers": [
+      "gametët",
+      "qelizat haploide",
+      "zigota",
+      "gametogjeneza"
+    ],
+    "correct": 2,
+    "explanation": "Zigota është qeliza e parë diploide e organizmit, e formuar nga bashkimi i dy gametëve haploidë; nga ajo, me ndarje të njëpasnjëshme mitotike, lindin të gjitha qelizat e trupit me të njëjtin informacion gjenetik. Gametët janë qeliza haploide dhe përfaqësojnë vetëm burimin e zigotës, jo origjinën direkte të qelizave trupore; gametogjeneza është procesi që prodhon gametët, pra ndodh më vonë në individ, jo në fillim të tij."
+  },
+  {
+    "id": "bio-ciklet-044",
+    "question": "Numri i kromozomeve në një lloj qelize është 2n = 12 kromozome. Sa është numri i përgjithshëm i kromatideve në fazën G1?",
+    "answers": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën G1 ADN-ja ende nuk është dyfishuar, prandaj çdo kromozom përbëhet nga një kromatid i vetëm: 12 kromozome = 12 kromatide. Numri 24 do t'i takonte fazave G2, profazës ose metafazës, pra pas fazës S kur çdo kromozom ka dy kromatide. Rregull praktik: G1 → 1 kromatid për kromozom; pas S → 2 kromatide për kromozom."
+  },
+  {
+    "id": "bio-ciklet-045",
+    "question": "Krosingover-i ndodh gjatë:",
+    "answers": [
+      "interfazës",
+      "profazës së parë",
+      "anafazës së parë",
+      "profazës së dytë"
+    ],
+    "correct": 1,
+    "explanation": "Krosingoveri kërkon që kromozomet homologe të jenë ngjitur në tetrade, dhe kjo ndodh vetëm në profazën e parë të mejozës (nënfaza pakiten): kromatidet jomotra shkëmbejnë segmente në pikat e quajtura kiazma. Ky është burimi kryesor i rikombinimit gjenetik. Në interfazë kromozomet janë të despiralizuar dhe nuk çiftëzohen; në anafazën I homologët tashmë po ndahen; në profazën II nuk ka më homologë të çiftëzuar."
+  },
+  {
+    "id": "bio-ciklet-046",
+    "question": "Në ciklin qelizor, rrjedha e ngjarjeve është:",
+    "answers": [
+      "G1 – S – G2 – Mitozë – Citokinezë",
+      "S – G2 – G1 – Mitozë – Citokinezë",
+      "G2 – G1 – S – Citokinezë – Mitozë",
+      "G1 – S – G2 – Citokinezë – Mitozë"
+    ],
+    "correct": 0,
+    "explanation": "Rendi i saktë është: G1 (rritje dhe sintezë proteinash) → S (dyfishim i ADN-së) → G2 (kontroll dhe përgatitje) → mitozë (ndarja e bërthamës) → citokinezë (ndarja e citoplazmës). Citokineza vjen gjithmonë pas mitozës, sepse fillimisht ndahet materiali gjenetik dhe vetëm pastaj trupi i qelizës. Alternativat e tjera ose e prishin rendin e ndërfazës, ose e vendosin citokinezën para mitozës."
+  },
+  {
+    "id": "bio-ciklet-047",
+    "question": "Interfaza përfshin këto etapa:",
+    "answers": [
+      "G1, M1 dhe G2",
+      "G1, S dhe G2",
+      "M, S dhe G2",
+      "M, S dhe G1"
+    ],
+    "correct": 1,
+    "explanation": "Ndërfaza është periudha midis dy ndarjeve dhe përbëhet nga tri nënfaza: G1 (rritje dhe aktivitet i lartë metabolik), S (sinteza dhe dyfishimi i ADN-së) dhe G2 (rritje e mëtejshme dhe përgatitje e strukturave për ndarje). Shkronja M i takon mitozës, e cila është jashtë ndërfazës, prandaj çdo alternativë që përmban M është e gabuar. Ndërfaza zë rreth 90% të kohëzgjatjes së ciklit qelizor."
+  },
+  {
+    "id": "bio-ciklet-048",
+    "question": "Cili nga pohimet e mëposhtme NUK është i saktë lidhur me kromozomet tek njeriu?",
+    "answers": [
+      "Në çdo çift, një kromozom është me origjinë nga nëna dhe një nga babai.",
+      "Ato përmbajnë sekuenca të caktuar nukleotidesh, të quajtura gjene.",
+      "Janë të përbërë nga ADN dhe proteina.",
+      "Janë kromozome pa centromerë."
+    ],
+    "correct": 3,
+    "explanation": "Çdo kromozom eukariot ka detyrimisht një centromer: aty bashkohen kromatidet motra dhe aty ngjiten fijet e boshtit nëpërmjet kinetokorëve; pa centromer kromozomi nuk do të mund të lëvizte drejt polit dhe ndarja do të dështonte. Të tri pohimet e tjera janë të sakta: kromozomet homologe kanë origjinë prindërore të ndryshme, përmbajnë gjenet si sekuenca nukleotidesh dhe janë të ndërtuara nga ADN e proteina (histone)."
+  },
+  {
+    "id": "bio-ciklet-049",
+    "question": "Cikli qelizor i një bakteri dhe i një amebe kanë të përbashkët:",
+    "answers": [
+      "Dyfishimin e ADN – së",
+      "kromozomet fijezore",
+      "metafazën e mitozës",
+      "anafazën e mejozës"
+    ],
+    "correct": 0,
+    "explanation": "Çdo qelizë, prokariote apo eukariote qoftë, duhet ta kopjojë ADN-në përpara se të ndahet — përndryshe qelizat bija do të mbeteshin pa informacion gjenetik. Prandaj dyfishimi i ADN-së është e vetmja gjë e përbashkët. Bakteri ka një kromozom të vetëm unazor (jo fijezor), ndahet me përçarje binare dhe nuk kalon nëpër fazat e mitozës apo të mejozës, të cilat ekzistojnë vetëm te eukariotët si ameba."
+  },
+  {
+    "id": "bio-ciklet-050",
+    "question": "Në cilën fazë të ciklit jetësor, qeliza ka aktivitet të lartë fiziologjik?",
+    "answers": [
+      "profazë",
+      "metafazë",
+      "interfazë",
+      "telofazë"
+    ],
+    "correct": 2,
+    "explanation": "Gjatë ndërfazës qeliza rritet, sintetizon proteina dhe organele, kryen frymëmarrje intensive dhe dyfishon ADN-në — pra është faza e punës së vërtetë, që zë edhe pjesën më të madhe të kohës së ciklit. Gjatë fazave të mitozës (profazë, metafazë, telofazë) aktiviteti biosintetik bie ndjeshëm, sepse ADN-ja është e kondensuar dhe nuk mund të transkriptohet; energjia përqendrohet vetëm te lëvizja dhe ndarja e kromozomeve."
+  },
+  {
+    "id": "bio-ciklet-051",
+    "question": "Qelizat nervore janë qeliza që nuk rigjenerohen. Ato qëndrojnë në fazën:",
+    "answers": [
+      "S",
+      "G0",
+      "G2",
+      "M"
+    ],
+    "correct": 1,
+    "explanation": "G0 është një gjendje pushimi jashtë ciklit qelizor: qeliza është plotësisht funksionale dhe metabolikisht aktive, por ka dalë përfundimisht nga rruga drejt ndarjes. Neuronet dhe qelizat e muskulit të zemrës e kalojnë gjithë jetën në G0, prandaj dëmtimet e tyre nuk riparohen me qeliza të reja. Fazat S, G2 dhe M i takojnë qelizave që po përgatiten ose po ndahen aktivisht."
+  },
+  {
+    "id": "bio-ciklet-052",
+    "question": "Një qelizë haploide me n = 6 kromozome, ndahet me mitozë. Në fund të ndarjes sa kromozome kanë qelizat bija?",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "Mitoza e ruan gjithnjë numrin e kromozomeve, pavarësisht nëse qeliza është diploide apo haploide: nga një qelizë me 6 kromozome dalin dy qeliza bija me nga 6 kromozome. Ky është mekanizmi me të cilin shumohen gametofitët e bimëve dhe shumë kërpudha haploide. Përgjysmimin e numrit e bën vetëm mejoza, ndërsa 12 do të nënkuptonte një dyfishim që mitoza nuk e lejon."
+  },
+  {
+    "id": "bio-ciklet-053",
+    "question": "Mitoza është ndarja qelizore, e cila:",
+    "answers": [
+      "formon qeliza identike me veten dhe qelizën nënë",
+      "përgjysmon numrin e kromozomeve në qelizë",
+      "formon zigotën e organizmave shtazorë",
+      "kthen spermatidet në spermatozoide"
+    ],
+    "correct": 0,
+    "explanation": "Nga një qelizë nënë mitoza jep dy qeliza bija me numër dhe përmbajtje gjenetike identike me të, sepse çdo kromozom ndan kromatidet motra që janë kopje besnike të njëra-tjetrës. Përgjysmimi i numrit të kromozomeve është veçori e mejozës; zigota formohet nga pllenimi, jo nga ndarja; kthimi i spermatideve në spermatozoide është spermiogjeneza, një proces diferencimi pa ndarje qelizore."
+  },
+  {
+    "id": "bio-ciklet-054",
+    "question": "I nënshtrohen mejozës:",
+    "answers": [
+      "vetëm qelizat diploide që formojnë gametët",
+      "të gjitha qelizat diploide të gjallesave bimore",
+      "vetëm qelizat haploide të një organizmi",
+      "qelizat vezë dhe spermatozoidet"
+    ],
+    "correct": 0,
+    "explanation": "Mejoza kufizohet te linja gjermative, pra te qelizat e specializuara diploide të gonadeve (spermatogonet, ovogonet) ose te qelizat mëmë të sporeve në bimë. Qelizat somatike diploide ndahen vetëm me mitozë. Qelizat haploide nuk mund t'i nënshtrohen mejozës sepse nuk kanë çifte homologësh për t'u ndarë, ndërsa vezët dhe spermatozoidet janë tashmë produkt përfundimtar i mejozës dhe nuk ndahen më."
+  },
+  {
+    "id": "bio-ciklet-055",
+    "question": "Kromozomi është më i dukshëm në:",
+    "answers": [
+      "profazë",
+      "metafazë",
+      "anafazë",
+      "telofazë"
+    ],
+    "correct": 1,
+    "explanation": "Në metafazë kromozomet arrijnë shkallën maksimale të spiralizimit (kondensimit) dhe janë të rreshtuar rregullisht në planin ekuatorial, pra të gjithë në të njëjtin fokus të mikroskopit. Pikërisht për këtë arsye kariotipi përgatitet gjithnjë nga qeliza në metafazë. Në profazë kondensimi sapo ka nisur, në anafazë kromozomet janë në lëvizje drejt poleve, ndërsa në telofazë ata fillojnë të despiralizohen dhe humbin kontrastin."
+  },
+  {
+    "id": "bio-ciklet-056",
+    "question": "Kromozomi është i gjatë, thuajse i padukshëm në mikroskopin me dritë, në:",
+    "answers": [
+      "interfazë",
+      "metafazë",
+      "tetrade",
+      "anafazë"
+    ],
+    "correct": 0,
+    "explanation": "Gjatë ndërfazës kromozomet janë të despiralizuar në formën e kromatinës — fije shumë të holla e të gjata që shpërndahen nëpër bërthamë dhe nuk dallohen si trupa të veçantë. Kjo gjendje 'e hapur' është e domosdoshme që ADN-ja të lexohet dhe të dyfishohet. Në metafazë e anafazë kromozomet janë maksimalisht të kondensuar dhe qartësisht të dukshëm, ndërsa tetradet janë struktura të dukshme të profazës I."
+  },
+  {
+    "id": "bio-ciklet-057",
+    "question": "Gjatë profazës së parë çdo tetrad përmban:",
+    "answers": [
+      "4 kromozome",
+      "4 kromatide",
+      "8 kromatide",
+      "8 kromozome"
+    ],
+    "correct": 1,
+    "explanation": "Tetradi (bivalenti) formohet nga çiftëzimi i dy kromozomeve homologe, secili me nga dy kromatide motra: 2 kromozome × 2 kromatide = 4 kromatide. Emri 'tetrad' vjen pikërisht nga numri katër i kromatideve. Prandaj, për të gjetur numrin e tetradeve, kromatidet në profazën I pjesëtohen me 4. Alternativat me 8 kromatide ose 4 kromozome do të kërkonin dy çifte homologësh të bashkuar, gjë që nuk ndodh."
+  },
+  {
+    "id": "bio-ciklet-058",
+    "question": "Kromatidet motra ndahen në:",
+    "answers": [
+      "metafazën e mitozës dhe telofazën II të mejozës",
+      "profazën e mitozës dhe metafazën II të mejozës",
+      "anafazën e mitozës dhe anafazën II të mejozës",
+      "ndarjen e parë mejotike të qelizës"
+    ],
+    "correct": 2,
+    "explanation": "Ndarja e kromatideve motra kërkon çarjen e centromerit dhe kjo ndodh vetëm në anafaza: në anafazën e mitozës dhe në anafazën e dytë të mejozës. Në anafazën e parë mejotike ndahen kromozomet homologe, ndërsa kromatidet motra qëndrojnë bashkë — ky është dallimi kyç mes dy ndarjeve mejotike. Në profazë dhe metafazë kromatidet janë ende të lidhura fort me njëra-tjetrën."
+  },
+  {
+    "id": "bio-ciklet-059",
+    "question": "Kromozomet homologe ndahen në:",
+    "answers": [
+      "profazën e mitozës",
+      "anafazën e parë të mejozës",
+      "metafazën e parë të mejozës",
+      "telofazën e dytë të mejozës"
+    ],
+    "correct": 1,
+    "explanation": "Në anafazën I fijet e boshtit tërheqin secilin kromozom homolog drejt një poli të kundërt, ndërsa kromatidet e tij mbeten të bashkuara. Pikërisht ky hap e përgjysmon numrin e kromozomeve dhe e bën mejozën I ndarje reduksionale. Në metafazën I homologët janë ende bashkë si tetrade, të rreshtuar në ekuator; në mitozë homologët nuk çiftëzohen fare; në telofazën II ndarja ka përfunduar prej kohësh."
+  },
+  {
+    "id": "bio-ciklet-060",
+    "question": "Citokineza përfaqëson:",
+    "answers": [
+      "ndarjen e citoplazmës",
+      "dyfishimin e centromerëve",
+      "ndarjen e bërthamës",
+      "dyfishimin e organeleve"
+    ],
+    "correct": 0,
+    "explanation": "Citokineza është ndarja e citoplazmës dhe e organeleve mes dy qelizave bija; te qelizat shtazore realizohet me ngushtim (unazë aktino-miozine), kurse te ato bimore me formimin e një pllake qelizore nga brenda jashtë. Ndarja e bërthamës quhet kariokinezë dhe i paraprin citokinezës. Dyfishimi i centromerëve ndodh gjatë anafazës, ndërsa organelet dyfishohen gjatë ndërfazës, jo në citokinezë."
+  },
+  {
+    "id": "bio-ciklet-061",
+    "question": "Ndahen me mitozë:",
+    "answers": [
+      "bakteret dhe viruset",
+      "vetëm qelizat bimore",
+      "të gjitha qelizat eukariote",
+      "bakteret dhe qelizat shtazore"
+    ],
+    "correct": 2,
+    "explanation": "Mitoza kërkon bërthamë të mirëfilltë, kromozome fijezore dhe bosht ndarës — kushte që plotësohen vetëm te eukariotët (bimë, kafshë, kërpudha, protista). Bakteret janë prokariote dhe ndahen me përçarje binare, pa bosht dhe pa faza mitotike. Viruset nuk janë as qeliza: ata riprodhohen vetëm brenda një qelize pritëse duke përdorur mekanizmat e saj, prandaj nuk ndahen fare."
+  },
+  {
+    "id": "bio-ciklet-062",
+    "question": "Gjatë profazës së parë mejotike:",
+    "answers": [
+      "dyfishohet materiali gjenetik i qelizës",
+      "tetradet vendosen në ekuator të qelizës",
+      "ndodh citokineza, formohen 2 qeliza",
+      "formohen tetradet, ndodh krosigoveri"
+    ],
+    "correct": 3,
+    "explanation": "Profaza e parë është faza më e gjatë dhe më e rëndësishme e mejozës: homologët çiftëzohen (sinapsa) duke formuar tetradet dhe shkëmbejnë segmente kromatidesh në kiazma, pra kryhet krosingoveri që krijon variabilitet gjenetik. Dyfishimi i ADN-së ka ndodhur më parë në fazën S; vendosja e tetradeve në ekuator i takon metafazës I; citokineza me formimin e dy qelizave ndodh në fund të telofazës I."
+  },
+  {
+    "id": "bio-ciklet-063",
+    "question": "Kariokineza është:",
+    "answers": [
+      "formimi i tetradeve",
+      "ndarja e bërthamës",
+      "tretja e mbështjelljes bërthamore",
+      "zhvendosja e centrozomeve drejtë poleve të qelizës"
+    ],
+    "correct": 1,
+    "explanation": "Fjala vjen nga 'karion' (bërthamë) dhe 'kinesis' (lëvizje, ndarje): kariokineza është ndarja e bërthamës, pra e gjithë mitoza me katër fazat e saj, të cilën e ndjek citokineza. Tretja e mbështjelljes bërthamore dhe lëvizja e centrozomeve janë vetëm ngjarje të veçanta brenda profazës, jo i gjithë procesi; formimi i tetradeve u përket vetëm qelizave në mejozë."
+  },
+  {
+    "id": "bio-ciklet-064",
+    "question": "Qelizat rriten gjatë:",
+    "answers": [
+      "G1",
+      "S",
+      "G2",
+      "profazës"
+    ],
+    "correct": 0,
+    "explanation": "G1 është faza e rritjes kryesore: qeliza rritet në vëllim, sintetizon proteina, ribozome dhe organele të reja, dhe vendos nëse do të vazhdojë drejt ndarjes apo do të kalojë në G0. Në fazën S energjia përqendrohet te dyfishimi i ADN-së; në G2 ka një rritje më të vogël dhe kryesisht përgatitje e strukturave për ndarje; gjatë profazës qeliza nuk rritet aspak, sepse ka nisur ndarja."
+  },
+  {
+    "id": "bio-ciklet-065",
+    "question": "Spermatocitet e rendit të parë janë produkt i:",
+    "answers": [
+      "ndarjes me mitozë të spermatogonëve",
+      "ndarjes me mejozë të spermatogonëve",
+      "diferencimit të spermatidëve në spermatozoide",
+      "ndarjes me mejozën e parë të spermatogonëve"
+    ],
+    "correct": 0,
+    "explanation": "Rruga e spermatogjenezës është: spermatogonët (diploidë) shumohen me mitoza të përsëritura dhe disa prej tyre rriten e kthehen në spermatocite të rendit të parë, të cilat janë ende diploide. Vetëm pas kësaj fillon mejoza: mejoza I jep spermatocite të rendit të dytë, mejoza II jep spermatide, dhe spermatidet diferencohen (pa ndarje) në spermatozoide. Pra mejoza vjen pas formimit të spermatociteve I, jo para tyre."
+  },
+  {
+    "id": "bio-ciklet-066",
+    "question": "Cilat tipe qelizash i nënshtrohen ndarjes së parë mejotike te femrat (njerëzit)?",
+    "answers": [
+      "Ovocitet e rendit I-rë",
+      "Tre trupat polarë",
+      "Qelizave folikulare",
+      "Ovocitet e rendit II-të"
+    ],
+    "correct": 0,
+    "explanation": "Te femra ovocitet e rendit të parë formohen që në jetën fetale dhe qëndrojnë të bllokuara në profazën I deri në pubertet; me çdo cikël menstrual njëri prej tyre e përfundon ndarjen e parë mejotike, duke dhënë një ovocit të rendit të dytë dhe një trup polar. Ovociti i rendit II i nënshtrohet ndarjes së dytë (dhe vetëm nëse ndodh pllenimi); trupat polarë janë produkte të vogla dhe degjenerojnë; qelizat folikulare kanë vetëm rol ushqyes dhe ndahen me mitozë."
+  },
+  {
+    "id": "bio-ciklet-067",
+    "question": "Cila nga këto shprehje është e saktë lidhur me spermatogonet?",
+    "answers": [
+      "Ato ndahen me mitozë të përsëritur",
+      "Bashkohen me ovulën dhe formojnë zigotën",
+      "Ndahen me mejozë që në jetën fetale të individit",
+      "Ato përmbajnë një numër haploid kromozomesh"
+    ],
+    "correct": 0,
+    "explanation": "Spermatogonët janë qeliza diploide burimore që qëndrojnë pranë murit të gypave seminiferë dhe ndahen vazhdimisht me mitozë: një pjesë ruan rezervën, pjesa tjetër hyn në rrugën e diferencimit. Falë kësaj mashkulli prodhon spermatozoide gjatë gjithë jetës pas pubertetit. Me ovulën bashkohet spermatozoidi i maturuar, jo spermatogoni; mejoza nis vetëm në pubertet (ndryshe nga femra); dhe numri haploid arrihet vetëm pas mejozës."
+  },
+  {
+    "id": "bio-ciklet-068",
+    "question": "Përfaqëson gametofitin mashkullor:",
+    "answers": [
+      "pistili",
+      "thekët",
+      "poleni",
+      "petalet"
+    ],
+    "correct": 2,
+    "explanation": "Kokrriza e polenit është vetë gametofiti mashkullor: ajo është një strukturë haploide shumëqelizore (bërthama vegjetative + bërthama riprodhuese që jep dy anterozoidët). Theku është organi sporofitik ku prodhohet poleni, pra vendi, jo gametofiti; pistili është organi femëror ku zhvillohet gametofiti femëror (trasta embrionale); petalet kanë vetëm rol mbrojtës dhe tërheqës për pllenuesit."
+  },
+  {
+    "id": "bio-ciklet-069",
+    "question": "Trasta embrionale përmban:",
+    "answers": [
+      "gametofitin femëror dhe polenin",
+      "gametofitin mashkullor dhe ovulën",
+      "8 bërthama diploide dhe 1 haploide",
+      "6 bërthama haploide dhe 1 diploide"
+    ],
+    "correct": 3,
+    "explanation": "Trasta embrionale formohet nga tri mitoza të njëpasnjëshme dhe ka 8 bërthama haploide: qeliza vezë me dy sinergide, tri antipode dhe dy bërthama polare. Dy bërthamat polare bashkohen dhe japin bërthamën dytësore diploide, kështu që mbeten 6 bërthama haploide + 1 diploide. Trasta është vetë gametofiti femëror, prandaj brenda saj nuk ka pole; asnjë nga 8 bërthamat fillestare nuk është diploide."
+  },
+  {
+    "id": "bio-ciklet-070",
+    "question": "Bërthama vegjetative formohet nga ndarja me:",
+    "answers": [
+      "mejozë e kokrrizave të pjalmit",
+      "mitozë e kokrrizave të polenit",
+      "mitozë e bërthamës riprodhuese",
+      "mejozë e trastës embrionale"
+    ],
+    "correct": 1,
+    "explanation": "Nga mejoza e qelizës mëmë të pjalmit dalin katër mikrospore haploide; secila prej tyre ndahet më pas me mitozë dhe jep dy bërthama: atë vegjetative (që formon tubin polinik) dhe atë riprodhuese (që me një mitozë tjetër jep dy anterozoidët). Pra bërthama vegjetative lind nga mitoza brenda kokrrizës së polenit, jo nga mejoza dhe jo nga ndarja e bërthamës riprodhuese, e cila jep vetëm gametët."
+  },
+  {
+    "id": "bio-ciklet-071",
+    "question": "Dekompozuesit janë të rëndësishëm në ekosistem sepse:",
+    "answers": [
+      "përshpejtojnë reaksionet kimike te gjallesa",
+      "riciklojnë energjinë dhe përbërjet organike",
+      "përbërjet organike i kthejnë në lëndë inorganike",
+      "kthejnë elementët kimikë në komponime organike"
+    ],
+    "correct": 2,
+    "explanation": "Bakteret dhe kërpudhat saprofite zbërthejnë mbeturinat dhe trupat e ngordhur, duke i kthyer lëndët organike në lëndë inorganike (CO2, ujë, jone minerale) që prodhuesit i marrin sërish. Pa këtë hap qarkullimi i lëndës do të ndalonte dhe elementët do të mbeteshin të bllokuar në biomasë. Energjia nuk riciklohet kurrë — ajo rrjedh njëdrejtimshëm dhe humbet si nxehtësi; kthimin e lëndëve inorganike në organike e bëjnë prodhuesit, jo dekompozuesit."
+  },
+  {
+    "id": "bio-ciklet-072",
+    "question": "Cikli i karbonit:",
+    "answers": [
+      "shfrytëzon dhe riciklon C në ekosistem",
+      "zvogëlon efektin e gazeve serrë në mjedis",
+      "përfshin nga atmosfera oksigjenin dhe azotin",
+      "lehtëson qarkullimin e ujit nga gjallesat në mjedis"
+    ],
+    "correct": 0,
+    "explanation": "Cikli i karbonit është qarkullimi i vazhdueshëm i C-së: fotosinteza e nxjerr CO2-in nga atmosfera dhe e fikson në lëndë organike, ndërsa frymëmarrja, dekompozimi dhe djegia e kthejnë atë përsëri në atmosferë. Ai nuk e zvogëlon efektin serë — përkundrazi, prishja e ekuilibrit të tij nga djegia e lëndëve fosile e forcon atë. Azoti dhe uji kanë ciklet e tyre të veçanta, të pavarura nga cikli i karbonit."
+  },
+  {
+    "id": "bio-ciklet-073",
+    "question": "Një nivel trofik përfshin sipas radhës:",
+    "answers": [
+      "konsumatorët → prodhuesit → shpërbërësit",
+      "konsumatorët → shpërbërësit → prodhuesit",
+      "dekompozuesit → prodhuesit → konsumatorët",
+      "prodhuesit → konsumatorët → dekompozuesit"
+    ],
+    "correct": 3,
+    "explanation": "Rrjedha e lëndës dhe e energjisë nis gjithnjë te prodhuesit (bimët e gjelbra që kapin energjinë diellore), vazhdon te konsumatorët e rendeve të ndryshme dhe mbyllet te dekompozuesit, të cilët i kthejnë lëndët në formë inorganike. Çdo renditje tjetër e vendos konsumatorin ose dekompozuesin para burimit të energjisë, gjë e pamundur sepse asnjë prej tyre nuk prodhon lëndë organike nga lënda inorganike."
+  },
+  {
+    "id": "bio-ciklet-074",
+    "question": "Ekosistemet e reja përfaqësohen nga lloje:",
+    "answers": [
+      "litofagë",
+      "monofagë",
+      "polifagë",
+      "sarkofagë"
+    ],
+    "correct": 2,
+    "explanation": "Në ekosistemet e reja, ende të paqëndrueshme, kushtet ndryshojnë shpejt dhe ushqimi është i papërcaktuar; mbijetojnë llojet polifage, që hanë shumë lloje ushqimesh dhe përshtaten lehtë. Specializimi (monofagia) është luks që lejohet vetëm në ekosisteme të vjetra e të qëndrueshme. Litofagët (që gërryejnë gurë) dhe sarkofagët (ngrënës mishi të ngordhur) janë kategori të ngushta ushqimore, jo tregues i moshës së ekosistemit."
+  },
+  {
+    "id": "bio-ciklet-075",
+    "question": "Ekosistemet e vjetra përfaqësohen nga lloje:",
+    "answers": [
+      "litofagë",
+      "monofagë",
+      "polifagë",
+      "sarkofagë"
+    ],
+    "correct": 1,
+    "explanation": "Në ekosistemet e vjetra e të qëndrueshme kushtet ndryshojnë ngadalë, konkurrenca është e fortë dhe secili lloj gjen një 'nishë' të ngushtë; kështu favorizohen llojet monofage, të specializuara për një burim të vetëm ushqimor (si koala me eukaliptin). Polifagia karakterizon ekosistemet e reja e të paqëndrueshme, ndërsa litofagët dhe sarkofagët janë tipe të veçanta ushqyerjeje që nuk lidhen me shkallën e pjekurisë së ekosistemit."
+  },
+  {
+    "id": "bio-ciklet-076",
+    "question": "Një zinxhir ushqimor ka disa hallka. Rrjeta ushqimore përfaqëson:",
+    "answers": [
+      "disa zinxhirë ushqimorë të lidhur me njëri tjetrin",
+      "një zinxhir dhe një nivel ushqimorë",
+      "hallka të një zinxhiri",
+      "një zinxhir ushqimor"
+    ],
+    "correct": 0,
+    "explanation": "Në natyrë asnjë lloj nuk ushqehet vetëm me një lloj tjetër, prandaj zinxhirët e veçantë ndërthuren dhe formojnë një rrjetë ushqimore. Sa më e ndërlikuar rrjeta, aq më i qëndrueshëm ekosistemi, sepse humbja e një lloji zëvendësohet nga rrugë alternative. Hallkat dhe nivelet janë vetëm pjesë përbërëse të një zinxhiri të vetëm dhe nuk mjaftojnë për të përcaktuar konceptin e rrjetës."
+  },
+  {
+    "id": "bio-ciklet-077",
+    "question": "Cilët nga produktet e fotosintezës formohen në fazën dritore?",
+    "answers": [
+      "ATP, RDP dhe NADPH",
+      "ATP, oksigjen, dhe NADPH",
+      "NADPH, GP dhe oksigjen",
+      "RDP, NADPH dhe oksigjen"
+    ],
+    "correct": 1,
+    "explanation": "Faza dritore jep saktësisht tri gjëra: ATP nga fotofosforilimi, NADPH nga reduktimi i NADP+ dhe oksigjen si mbetje e fotolizës së ujit. ATP-ja dhe NADPH-ja kalojnë në stromë për ciklin e Kalvinit, ndërsa oksigjeni del në atmosferë. RDP-ja (ribulozdifosfati) dhe GP/PGA janë molekula të ciklit të Kalvinit, pra të fazës së errët, dhe nuk prodhohen kurrë nga reaksionet dritore."
+  },
+  {
+    "id": "bio-ciklet-078",
+    "question": "Fotoliza e ujit gjatë fotosintezës është e lidhur me:",
+    "answers": [
+      "fotosistemin II",
+      "fotosistemin I",
+      "stromën",
+      "membranën e brendshme të kloroplastit"
+    ],
+    "correct": 0,
+    "explanation": "Kompleksi që çan ujin ndodhet në anën e lumenit të fotosistemit II dhe punon vetëm kur P680 mbetet pa elektrone; prandaj fotoliza dhe çlirimi i oksigjenit lidhen gjithnjë me PS II. Fotosistemi I i merr elektronet e gatshme nga zinxhiri i transportit. Stroma është vend i ciklit të Kalvinit, ndërsa membrana e brendshme e kloroplastit nuk përmban fotosisteme — ato ndodhen në membranat tilakoide."
+  },
+  {
+    "id": "bio-ciklet-079",
+    "question": "Gjatë fotofosforilimit ciklit, cili produkt formohet?",
+    "answers": [
+      "O2",
+      "CO2",
+      "ATP",
+      "NADPH"
+    ],
+    "correct": 2,
+    "explanation": "Në rrugën ciklike elektroni i ngacmuar del nga PS I, kalon nëpër zinxhirin e transportit dhe kthehet përsëri te PS I; energjia e liruar përdoret vetëm për të pompuar H+ dhe për të prodhuar ATP. Meqë uji nuk çahet, nuk çlirohet oksigjen, dhe meqë elektronet nuk arrijnë te NADP+, nuk formohet NADPH. CO2 nuk është kurrë produkt i fotosintezës, por lëndë e parë e fazës së errët."
+  },
+  {
+    "id": "bio-ciklet-080",
+    "question": "Produkti direkt i ciklit Kalvin është?",
+    "answers": [
+      "PGA",
+      "PGAL",
+      "Fruktoza",
+      "Sakaroza"
+    ],
+    "correct": 1,
+    "explanation": "Cikli i Kalvinit përfundon me formimin e PGAL-së (fosfogliceraldehidit, 3C), e cila është produkti i vërtetë i daljes: 5/6 e saj kthehet për të rigjeneruar RDP-në dhe vetëm 1/6 përdoret për sinteza të tjera. PGA-ja është produkt i ndërmjetëm, i formuar menjëherë pas fiksimit të CO2 dhe ende i pareduktuar. Fruktoza dhe sakaroza formohen më vonë, jashtë ciklit, duke kombinuar molekulat e PGAL-së."
+  },
+  {
+    "id": "bio-ciklet-081",
+    "question": "Membrana ptilakoide janë vendi ku:",
+    "answers": [
+      "formohet PGAL",
+      "ndodhet RDP karboksilaza",
+      "ndodhen fotosistemet I dhe II",
+      "ndodhen pigmentet dhe enzimat e fazës së dritës dhe errësirës së bashku"
+    ],
+    "correct": 2,
+    "explanation": "Membranat tilakoide strehojnë të gjithë aparatin e fazës dritore: pigmentet e antenave, fotosistemet I dhe II, bartësit e elektroneve dhe ATP-sintetazën. Enzimat e fazës së errët, përfshirë RDP-karboksilazën, janë të tretura në stromë, dhe po aty formohet edhe PGAL-ja. Prandaj alternativa që i vendos të dyja fazat bashkë në membranë është e gabuar: kloroplasti i ndan hapësinorisht dy fazat."
+  },
+  {
+    "id": "bio-ciklet-082",
+    "question": "Gjatë ciklit Kalvin-Benson, RDP-karboksilaza katalizon:",
+    "answers": [
+      "lidhjen e CO2 me RDP",
+      "lidhjen e përbërjeve me tri karbone për formimin e glukozës",
+      "lidhjen e përbërjeve me tri karbone për formimin e RDP",
+      "shndërrimin e PGA-së në PGAL"
+    ],
+    "correct": 0,
+    "explanation": "Emri i enzimës e tregon funksionin: 'karboksilazë' do të thotë që i shton një grup karboksil (nga CO2) substratit të saj, RDP-së. Ky është hapi i fiksimit të karbonit, hapi i parë dhe kufizues i ciklit; kjo enzimë njihet edhe si enzima më e përhapur në planet. Shndërrimi i PGA-së në PGAL kryhet nga enzima të tjera me ATP e NADPH, ndërsa rigjenerimi i RDP-së dhe sinteza e glukozës janë faza të mëvonshme me enzima të ndryshme."
+  },
+  {
+    "id": "bio-ciklet-083",
+    "question": "Gjatë ciklit Kalvin-Benson, 5/6 e PGAL-së shkon për formimin e:",
+    "answers": [
+      "yndyrnave dhe aminoacideve",
+      "amidonit dhe celulozës",
+      "sakarozave",
+      "RDP-së"
+    ],
+    "correct": 3,
+    "explanation": "Cikli duhet ta rigjenerojë akceptorin e vet, përndryshe do të ndalonte pas disa rrotullimesh: nga çdo 6 molekula PGAL, 5 përdoren (me shpenzim ATP-je) për të rindërtuar RDP-në dhe vetëm 1 del jashtë ciklit. Pikërisht ajo 1/6 shkon më pas për sintezën e glukozës, sakarozës, amidonit, celulozës, yndyrnave dhe aminoacideve. Prandaj alternativat e tjera janë destinacione të sasisë së vogël që del nga cikli, jo të 5/6."
+  },
+  {
+    "id": "bio-ciklet-084",
+    "question": "Lënda organike e prodhuar gjatë fotosintezës:",
+    "answers": [
+      "depozitohet e gjitha në gjethe",
+      "shndërrohet menjëherë në lyra",
+      "transportohet drejt organeve të bimës",
+      "bashkohet me jone të metaleve të rënda"
+    ],
+    "correct": 2,
+    "explanation": "Sheqernat e prodhuara në gjethe (kryesisht si sakarozë) kalojnë në enët e librit (floemën) dhe transportohen drejt të gjitha organeve konsumuese ose depozituese: rrënjë, kërcell, fruta, fara. Vetëm një pjesë e vogël mbetet përkohësisht në gjethe si niseshte. Kthimi në yndyrna është vetëm një nga rrugët e mundshme dhe jo i menjëhershëm, ndërsa lidhja me metale të rënda nuk është destinacion normal i lëndës organike."
+  },
+  {
+    "id": "bio-ciklet-085",
+    "question": "Cikli Kalvin njihet si:",
+    "answers": [
+      "fotoliza e ujit",
+      "faza e fotosintezës në dritë",
+      "faza e fotosintezës e pa varur nga drita",
+      "reaksionet e prodhimit të dioksidit të karbonit"
+    ],
+    "correct": 2,
+    "explanation": "Cikli i Kalvinit quhet fazë e pavarur nga drita (ose fazë e errët) sepse enzimat e tij nuk kanë nevojë për fotone: ato punojnë me ATP-në dhe NADPH-në e prodhuara më parë. Kjo nuk do të thotë se ndodh vetëm natën — praktikisht zhvillohet gjatë ditës, paralelisht me fazën dritore. Fotoliza dhe reaksionet dritore janë faza tjetër, ndërsa CO2 në këtë cikël konsumohet e nuk prodhohet."
+  },
+  {
+    "id": "bio-ciklet-086",
+    "question": "Ciklit Kalvin kryhet në:",
+    "answers": [
+      "membranat tilakoide",
+      "stromën e kloroplastit",
+      "matriksin mitokondrial",
+      "hapësirën mes dy membranave të kloroplastit"
+    ],
+    "correct": 1,
+    "explanation": "Stroma është lëngu veshtullor që rrethon tilakoidet dhe përmban të tretura enzimat e ciklit të Kalvinit, përfshirë RDP-karboksilazën, si edhe ADN-në e ribozomet e kloroplastit. Membranat tilakoide u përkasin reaksioneve dritore; matriksi mitokondrial është vend i ciklit të Krebsit, pra i një organeleje tjetër; hapësira mes dy membranave të jashtme nuk ka rol enzimatik në fotosintezë."
+  },
+  {
+    "id": "bio-ciklet-087",
+    "question": "Fotosinteza ndodh në kloroplastet e qelizave të bimëve të gjelbërta. Ajo ndodh gjithashtu në:",
+    "answers": [
+      "membranën plazmatike të cianobaktereve",
+      "membranën plazmatike të algave të kuqe",
+      "membranën plazmatike të paramecit",
+      "membranën plazmatike të majave"
+    ],
+    "correct": 0,
+    "explanation": "Cianobakteret janë prokariote dhe nuk kanë kloroplaste; pigmentet dhe fotosistemet e tyre ndodhen në membrana të brendshme që rrjedhin nga membrana plazmatike. Pikërisht ato konsiderohen paraardhëset e kloroplasteve sipas teorisë endosimbiotike. Algat e kuqe janë eukariote dhe e kryejnë fotosintezën në kloroplaste, ndërsa parameci dhe majatë nuk janë fotosintetike fare — i pari ushqehet me grimca, e dyta me fermentim."
+  },
+  {
+    "id": "bio-ciklet-088",
+    "question": "Elektronet që marrin energjinë e fotoneve të dritës, në pigmentin 680nm zëvendësohen nga elektronet që vijnë nga:",
+    "answers": [
+      "oksigjeni",
+      "fotoliza e ujit",
+      "membrana qelizore",
+      "dioksidit të karbonit"
+    ],
+    "correct": 1,
+    "explanation": "Pigmenti me maksimum thithjeje 680 nm (P680) është qendra e reaksionit të fotosistemit II; pasi humbet elektronet, ai bëhet oksiduesi më i fortë biologjik dhe i merr elektronet nga uji, i cili çahet në 2H+, 2e- dhe ½O2. Oksigjeni është produkt i kësaj çarjeje, jo dhurues elektronesh; CO2 është molekulë e oksiduar që pranon elektrone në ciklin e Kalvinit; membrana qelizore nuk merr pjesë në këtë shkëmbim."
+  },
+  {
+    "id": "bio-ciklet-089",
+    "question": "Lidhur me formimin e ATP-së, nga ATP-sintetaza duke shfrytëzuar rrymën pasive të H+, cili nga pohimet e mëposhtme nuk qëndron?",
+    "answers": [
+      "Fosforilim në nivelin e substratit",
+      "Fosforilim oksidativ",
+      "Fosforilim aciklik",
+      "Fosforilim ciklik"
+    ],
+    "correct": 0,
+    "explanation": "Fosforilimi në nivel substrati e formon ATP-në duke transferuar direkt një grup fosfat nga një molekulë e pasur me energji te ADP-ja (si në glikolizë dhe në ciklin e Krebsit); aty nuk ka as membranë, as gradient protonik, as ATP-sintetazë. Të tri llojet e tjera — fosforilimi oksidativ në mitokondri dhe fotofosforilimi ciklik e aciklik në kloroplast — punojnë pikërisht me rrymën pasive të H+ nëpër ATP-sintetazë, pra me mekanizëm kimiosmotik."
+  },
+  {
+    "id": "bio-ciklet-090",
+    "question": "Gjatë fotofosforilim aciklik, energjia e elektroneve të nxitura nga fotonet e dritës shkojnë për të formuar ATP-në dhe NADPH-në nëpërmjet:",
+    "answers": [
+      "molekulave të ujit",
+      "molekulave organike",
+      "molekulave joorganike",
+      "sistemit të transportit të elektroneve"
+    ],
+    "correct": 3,
+    "explanation": "Elektronet e ngacmuara nuk e japin energjinë përnjëherë: ato kalojnë hap pas hapi nëpër bartësit e sistemit të transportit të elektroneve (plastokinonë, citokrome, plastocianinë, ferredoksinë), duke liruar energji të mjaftueshme për pompimin e H+ dhe sintezën e ATP-së, dhe në fund reduktojnë NADP+. Uji është vetëm dhurues fillestar i elektroneve, ndërsa 'molekula organike/joorganike' është formulim i paqartë që nuk përshkruan mekanizmin."
+  },
+  {
+    "id": "bio-ciklet-091",
+    "question": "NADPH-ja dhe ATP-ja janë të domosdoshme në fazën e:",
+    "answers": [
+      "shndërrimin e PGAL-s në PGA",
+      "shndërrimin e PGA-s në PGAL",
+      "bashkimin e RDP-së me CO2",
+      "rigjenerimin e RDP-s"
+    ],
+    "correct": 1,
+    "explanation": "Hapi i reduktimit është i vetmi ku nevojiten njëkohësisht të dyja: ATP-ja jep energjinë (fosforilon PGA-në) dhe NADPH-ja jep hidrogjenet për ta reduktuar atë në PGAL. Bashkimi i RDP-së me CO2 është spontan dhe enzimatik, pa shpenzim ATP-je apo NADPH-je; rigjenerimi i RDP-së kërkon vetëm ATP, jo NADPH; ndërsa kthimi PGAL → PGA është oksidim, pra e kundërta e asaj që ndodh në cikël."
+  },
+  {
+    "id": "bio-ciklet-092",
+    "question": "Burimi i energjisë në natyrë sigurohet nga:",
+    "answers": [
+      "prodhuesit",
+      "dekompozuesit",
+      "konsumatorët e rendit të parë",
+      "konsumatorët e rendit të dytë"
+    ],
+    "correct": 0,
+    "explanation": "Prodhuesit (bimët e gjelbra, algat, cianobakteret) janë të vetmit që e kapin energjinë diellore dhe e kthejnë në energji kimike të lëndëve organike; nga ta hyn energjia në çdo zinxhir ushqimor. Të gjitha hallkat e tjera janë heterotrofe: konsumatorët e marrin energjinë duke ngrënë të tjerët, ndërsa dekompozuesit e nxjerrin atë nga mbeturinat organike. Pra pa prodhuesit ekosistemi mbetet pa hyrje energjie."
+  },
+  {
+    "id": "bio-ciklet-093",
+    "question": "ATP-sintetaza lejon kalimin e:",
+    "answers": [
+      "elektroneve ndërmjet membranës së brendshme të mitokondrisë",
+      "molekulave të NADH-s në brendësi të matriksit të mitokondrisë",
+      "H+ nga hapësira ndërmembranore drejt matriksit mitokondrial",
+      "molekulave të ATP-së drejt pjesës së jashtme të qelizës"
+    ],
+    "correct": 2,
+    "explanation": "ATP-sintetaza është një kanal-enzimë: protonet e grumbulluara në hapësirën ndërmembranore kthehen pasivisht nëpër të drejt matriksit, sipas gradientit, dhe rrjedha e tyre rrotullon pjesën e lëvizshme të enzimës, e cila lidh ADP-në me fosfatin. Elektronet transportohen nga komplekset e STE-së, jo nga ATP-sintetaza; NADH-ja prodhohet brenda matriksit; ATP-ja dërgohet aty ku nevojitet brenda qelizës, jo jashtë saj."
+  },
+  {
+    "id": "bio-ciklet-094",
+    "question": "Gjatë frymëmarrjes aerobe, reaksioni i ndërmjetëm kryhet në:",
+    "answers": [
+      "matriksin mitokondrial",
+      "membranën e jashtme të mitokondrisë",
+      "membranën e brendshme të mitokondrisë",
+      "hapësirën ndërmembranore të mitokondrisë"
+    ],
+    "correct": 0,
+    "explanation": "Piruvati i formuar në citoplazmë hyn nëpër membranat e mitokondrisë dhe pikërisht në matriks pëson dekarboksilimin oksidativ, duke u kthyer në acetil~CoA — po aty ku vazhdon edhe cikli i Krebsit. Membrana e brendshme strehon vetëm zinxhirin e transportit dhe ATP-sintetazën; membrana e jashtme është e përshkueshme dhe pa enzima të tilla; hapësira ndërmembranore shërben si 'rezervuar' protonesh."
+  },
+  {
+    "id": "bio-ciklet-095",
+    "question": "Gjatë frymëmarrjes aerobe, akseptori final i elektroneve është:",
+    "answers": [
+      "uji",
+      "sulfatet",
+      "nitratet",
+      "oksigjeni"
+    ],
+    "correct": 3,
+    "explanation": "Fjala 'aerobe' do të thotë pikërisht kjo: oksigjeni pret në fund të zinxhirit, pranon elektronet dhe protonet dhe formon ujë. Nëse ai mungon, elektronet bllokohen, NAD+ nuk rigjenerohet dhe qeliza detyrohet të kalojë në fermentim. Uji është produkt përfundimtar, jo akceptor; nitratet dhe sulfatet përdoren si akceptorë vetëm nga disa baktere në frymëmarrjen anaerobe, jo në atë aerobe."
+  },
+  {
+    "id": "bio-ciklet-096",
+    "question": "Cila prej substancave NUK është koenzimë?",
+    "answers": [
+      "CoA",
+      "FAD",
+      "ATP",
+      "NAD"
+    ],
+    "correct": 2,
+    "explanation": "Koenzimat janë molekula jo-proteinike që i bashkëngjiten enzimës dhe transportojnë grupe kimike ose elektrone: NAD dhe FAD bartin hidrogjene e elektrone, ndërsa CoA bart grupe acetil. ATP-ja nuk ndihmon një enzimë të katalizojë — ajo është vetë substrat dhe bartës universal i energjisë, molekula që lidhet e prishet për të furnizuar reaksionet. Prandaj ATP-ja del jashtë grupit të koenzimave."
+  },
+  {
+    "id": "bio-ciklet-097",
+    "question": "Cila nga këto molekula NUK është e përfshirë në glikolizë?",
+    "answers": [
+      "Glukozë monofostati",
+      "Fruktozë difostati",
+      "Acetil ~ CoA",
+      "NAD+"
+    ],
+    "correct": 2,
+    "explanation": "Glikoliza kalon nëpër glukozë-6-fosfat dhe fruktozë-1,6-difosfat (faza përgatitore me shpenzim 2 ATP) dhe përdor NAD+ për të kapur hidrogjenet, duke përfunduar me piruvat. Acetil~CoA formohet vetëm më pas, në reaksionin e ndërmjetëm brenda mitokondrisë, pra jashtë glikolizës. Mbaj mend kufirin: glikoliza mbaron te piruvati në citoplazmë."
+  },
+  {
+    "id": "bio-ciklet-098",
+    "question": "Cila është rruga metabolike e përbashkët për fermentimin dhe frymëmarrjen aerobe të një molekule glukozë?",
+    "answers": [
+      "Glikoliza",
+      "Cikli i acidit citrik",
+      "Vargu i transportit të elektroneve",
+      "Sinteza e acetil ~ CoA nga piruvat"
+    ],
+    "correct": 0,
+    "explanation": "Glikoliza është hapi i përbashkët dhe i pavarur nga oksigjeni: ndodh në citoplazmë dhe jep 2 piruvate, 2 ATP neto dhe 2 NADH. Pas saj rrugët ndahen — me oksigjen piruvati hyn në mitokondri, pa oksigjen ai kthehet në acid laktik ose në etanol e CO2. Cikli i acidit citrik, STE-ja dhe reaksioni i ndërmjetëm kërkojnë të gjitha oksigjen dhe mungojnë te fermentimi."
+  },
+  {
+    "id": "bio-ciklet-099",
+    "question": "Reaksioni i ndërmjetëm që lidh glikolizën me ciklin e Krebsit është shndërrimi i:",
+    "answers": [
+      "piruvatit në acetil ~ CoA",
+      "oksalacetatit në citrat",
+      "PEP-it në piruvat",
+      "piruvatit në PEP"
+    ],
+    "correct": 0,
+    "explanation": "Produkti i fundit i glikolizës është piruvati, ndërsa lënda hyrëse e ciklit të Krebsit është acetil~CoA; ura mes tyre është dekarboksilimi oksidativ i piruvatit, ku çlirohet CO2 dhe reduktohet NAD+. Shndërrimi i oksalacetatit në citrat është vetë hapi i parë brenda ciklit të Krebsit, jo lidhja me glikolizën; kalimi PEP → piruvat është hapi i fundit i glikolizës, ndërsa rruga e kundërt piruvat → PEP i takon glukoneogjenezës."
+  },
+  {
+    "id": "bio-ciklet-100",
+    "question": "Numri total i llogaritur teorikisht i ATP-së së formuar në frymëmarrjes qelizore, gjatë shpërbërjes së një molekule glukozë është?",
+    "answers": [
+      "40 ATP",
+      "38 ATP",
+      "34 ATP",
+      "28 ATP"
+    ],
+    "correct": 1,
+    "explanation": "Llogaritja teorike klasike: 4 ATP nga fosforilimi në nivel substrati (2 nga glikoliza, 2 nga cikli i Krebsit), plus 10 NADH × 3 ATP = 30 dhe 2 FADH2 × 2 ATP = 4, gjithsej 38 ATP. Ky është maksimumi ideal; në kushte reale fitimi bie në rreth 30–32 ATP, sepse energji harxhohet për transportin e piruvatit dhe të NADH-së citoplazmatike nëpër membranat mitokondriale."
+  },
+  {
+    "id": "bio-ciklet-101",
+    "question": "Në STE kur elektronet kalojnë nga kompleksi proteinik i I, në të II-in, rezulton në:",
+    "answers": [
+      "lëvizjen e protoneve nga matriksi në hapësirën ndërmembranore",
+      "nga hapësira ndërmembranore në matriks",
+      "nga matriksi jashtë mitokondrisë",
+      "nuk lëvizin protonet"
+    ],
+    "correct": 0,
+    "explanation": "Çdo herë që elektronet zbresin një hap energjetik në zinxhir, energjia e liruar përdoret nga komplekset për të pompuar protone kundër gradientit: nga matriksi drejt hapësirës ndërmembranore. Kështu krijohet forca protono-lëvizëse që nis sintezën e ATP-së. Kthimi i protoneve në matriks është pasiv dhe ndodh vetëm nëpër ATP-sintetazë; protonet nuk dalin kurrë jashtë mitokondrisë, sepse membrana e jashtme nuk mban gradient."
+  },
+  {
+    "id": "bio-ciklet-102",
+    "question": "Cili është roli i NAD+ në frymëmarrjen qelizore:",
+    "answers": [
+      "funksionon si enzimë",
+      "është një nukleotid që bën sintezën e ATP-së",
+      "është kapësi final i elektroneve për frymëmarrjen qelizore",
+      "funksionon si bartës i përkohshëm i energjisë së elektroneve"
+    ],
+    "correct": 3,
+    "explanation": "NAD+ vepron si 'kamion' i elektroneve: pranon dy elektrone dhe një proton në glikolizë, në reaksionin e ndërmjetëm dhe në ciklin e Krebsit, kthehet në NADH dhe i shkarkon ato te kompleksi i parë i STE-së, ku ATP-ja prodhohet realisht. Ai nuk është enzimë por koenzimë, nuk e sintetizon vetë ATP-në, dhe akceptori final i elektroneve është oksigjeni, jo NAD+."
+  },
+  {
+    "id": "bio-ciklet-103",
+    "question": "AMP ciklike është një:",
+    "answers": [
+      "mesazher sekondar në sinjalizimin brendaqelizor",
+      "neurotransmetues",
+      "izomer i ATP-së",
+      "hormon"
+    ],
+    "correct": 0,
+    "explanation": "cAMP-ja formohet nga ATP-ja me anë të adenilat-ciklazës, pasi një hormon (mesazheri parësor) lidhet me receptorin në membranë; brenda qelizës ajo aktivizon proteinkinazat dhe kështu e përcjell e përforcon sinjalin. Pra ajo nuk del kurrë nga qeliza dhe nuk është as hormon, as neurotransmetues. Nuk është as izomer i ATP-së: cAMP ka vetëm një fosfat, të mbyllur në unazë, ndërsa ATP-ja ka tre."
+  },
+  {
+    "id": "bio-ciklet-104",
+    "question": "Cila nga dukuritë e mëposhtme NUK ndodh kur acidi piruvik shndërrohet ne acetil ~ CoA?",
+    "answers": [
+      "Formohet CO2",
+      "NAD+ reduktohet",
+      "Acidi piruvik humbet një atom C",
+      "Sintetizohet një molekulë ATP-je"
+    ],
+    "correct": 3,
+    "explanation": "Reaksioni i ndërmjetëm përfshin tri gjëra: humbjen e një karboni si CO2 (piruvati 3C → grup acetil 2C), oksidimin që reduktohet NAD+ në NADH, dhe lidhjen me koenzimën A. Asnjë ATP nuk sintetizohet direkt këtu — fitimi energjetik vjen tërthorazi, sepse NADH-ja e formuar do të japë rreth 3 ATP në zinxhirin e transportit të elektroneve."
+  },
+  {
+    "id": "bio-ciklet-105",
+    "question": "Cili nga pohimet e mëposhtme për mitokondritë NUK është i saktë?",
+    "answers": [
+      "Ato mungojnë në qelizat prokariote",
+      "Ato janë vendi i fosforilimit oksidativ",
+      "Ato përmbajnë ADN dhe ribozome",
+      "Membrana e tyre e brendshme është e përshkueshme nga H+"
+    ],
+    "correct": 3,
+    "explanation": "Membrana e brendshme duhet të jetë e papërshkueshme nga H+, përndryshe gradienti protonik do të prishej dhe ATP-ja nuk do të prodhohej; protonet e kalojnë atë vetëm nëpër kanalin e ATP-sintetazës. Të tri pohimet e tjera janë të vërteta: prokariotët nuk kanë mitokondri, fosforilimi oksidativ zhvillohet pikërisht në membranën e brendshme, dhe prania e ADN-së unazore e ribozomeve mbështet teorinë endosimbiotike."
+  },
+  {
+    "id": "bio-ciklet-106",
+    "question": "Cili është emri i substancës, molekulat e së cilës riformohen në etapën e fundit të ciklit Krebsit dhe rifuten sërish në fazën e parë të këtij cikli?",
+    "answers": [
+      "Acidi oksalacetik",
+      "Acidi piruvik",
+      "Acetil ~ CoA",
+      "NADH"
+    ],
+    "correct": 0,
+    "explanation": "Cikli quhet 'cikël' pikërisht sepse mbyllet: oksalacetati (4C) lidhet me acetil~CoA (2C) dhe jep citratin (6C); pas një vargu oksidimesh dhe dy dekarboksilimeve, në hapin e fundit oksalacetati rikrijohet dhe është gati të pranojë një acetil të ri. Acetil~CoA dhe piruvati janë lëndë hyrëse që konsumohen, ndërsa NADH-ja është produkt që largohet drejt STE-së."
+  },
+  {
+    "id": "bio-ciklet-107",
+    "question": "Proceset kimiosmotike ndodhin:",
+    "answers": [
+      "Me konsunmim të molekulave të ATP-së",
+      "Në nivelin e substratit të molekulave transportuese",
+      "Në nivelin e membranave të brendshme të mitokondrisë",
+      "Me trasnsportim e elektroneve nga një nivel i ulët në atë më të lartë energjitik në STE"
+    ],
+    "correct": 2,
+    "explanation": "Kimiosmoza kërkon patjetër një membranë të mbyllur e të papërshkueshme, ku të krijohet gradienti protonik: te mitokondria kjo është membrana e brendshme me kristat e saj (te kloroplasti, membrana tilakoide). Ky proces prodhon ATP, nuk konsumon; nuk ka lidhje me fosforilimin në nivel substrati; dhe elektronet lëvizin gjithnjë nga nivele më të larta drejt niveleve më të ulëta energjetike, duke liruar energji, jo e kundërta."
+  },
+  {
+    "id": "bio-ciklet-108",
+    "question": "Cili nga pohimet e mëposhtme NUK qëndron lidhur me ngjashmërinë e mitokondrive me kloroplastet?",
+    "answers": [
+      "Kanë ADN",
+      "Kanë ribozome",
+      "Janë organele me dy membrana",
+      "Kryejnë ciklin Kalvin-Benson"
+    ],
+    "correct": 3,
+    "explanation": "Cikli Kalvin–Benson është ekskluzivitet i kloroplastit dhe zhvillohet në stromën e tij; mitokondria nuk fikson CO2, përkundrazi e çliron atë. Ngjashmëritë e vërteta mes dy organeleve janë: prania e ADN-së unazore, e ribozomeve të tipit prokariot, mbështjellja me dy membrana dhe aftësia për t'u vetëdyfishuar — të gjitha argumente të teorisë endosimbiotike."
+  },
+  {
+    "id": "bio-ciklet-109",
+    "question": "Nëse qeliza ka 2n = 8 kromozome, numri i kromatideve në metafazë është?",
+    "answers": [
+      "8",
+      "16",
+      "24",
+      "32"
+    ],
+    "correct": 1,
+    "explanation": "Pas fazës S çdo kromozom ka dy kromatide motra, prandaj në metafazën e mitozës: 8 kromozome × 2 = 16 kromatide (dhe 16 molekula ADN-je). Numri 8 do t'i takonte fazës G1 ose fundit të ndarjes, kur çdo kromozom ka një kromatid të vetëm. Rregull i shpejtë: në metafazë kromatidet janë gjithnjë dyfishi i numrit të kromozomeve."
+  },
+  {
+    "id": "bio-ciklet-110",
+    "question": "Në qoftë se një qelizë diploide me 2n = 8 kromozome do t'i nënshtrohej dy mitozave të njëpasnjëshme të cilat nuk shoqërohen me citokinezë, cili do të ishte numri përfundimtar i kromozomeve në këtë qelizë?",
+    "answers": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correct": 1,
+    "explanation": "Pa citokinezë citoplazma nuk ndahet, prandaj të gjitha kromozomet mbeten brenda së njëjtës qelizë dhe numri i tyre dyfishohet me çdo ndarje: pas mitozës së parë 8 × 2 = 16, pas mitozës së dytë 16 × 2 = 32. Kështu formohen qelizat poliploide ose shumëbërthamore (si fijet muskulore). Nëse citokineza do të kryhej normalisht, do të kishim 4 qeliza me nga 8 kromozome secila."
+  },
+  {
+    "id": "bio-ciklet-111",
+    "question": "Në qelizat somatike të një organizmi numri i kromozomeve është 2n = 22 kromozome. Sa do të jetë numri i kromatoideve në metafazën e ndarjes mitoike të këtyre qelizave?",
+    "answers": [
+      "12",
+      "22",
+      "24",
+      "44"
+    ],
+    "correct": 3,
+    "explanation": "Në metafazën e mitozës kromozomet janë ende të padara dhe secili ka dy kromatide motra: 22 × 2 = 44 kromatide. Numri 22 do të vlente për fazën G1 ose për fundin e telofazës, kur kromozomet janë njëkromatidësh. Mos harro se numri i kromozomeve nuk ndryshon në metafazë — ndryshon vetëm numri i kromatideve, sipas asaj nëse ka ndodhur apo jo faza S."
+  },
+  {
+    "id": "bio-ciklet-112",
+    "question": "Cili nga pohimet e mëposhtme NUK qëndron në profazën e vonshme të mitozës?",
+    "answers": [
+      "Nukleolet treten",
+      "Membrana bërthamore tretet",
+      "Fillon kondesimi i kromozoneve",
+      "Ndahen kromatidet motra nga njëra-tjetra"
+    ],
+    "correct": 3,
+    "explanation": "Kromatidet motra qëndrojnë të bashkuara në centromer gjatë gjithë profazës dhe metafazës; ato ndahen vetëm në anafazë, kur centromerët çahen dhe fijet e boshtit i tërheqin drejt poleve. Në profazën e vonshme (prometafazë) ndodhin pikërisht të tjerat: kondensimi i kromozomeve, tretja e bërthamëzave dhe shpërbërja e mbështjelljes bërthamore, e cila lejon fijet e boshtit të kapin kinetokorët."
+  },
+  {
+    "id": "bio-ciklet-113",
+    "question": "Në një qelizë numri i përgjithshëm i kromozomeve është 2n = 14 kromozome. Kjo qelizë i nënshtrohet ndarjes qelizore me mitozë. Sa do të jetë numri i kromatideve, në secilin prej poleve të boshtit qelizor, në fund të anafazës?",
+    "answers": [
+      "7",
+      "14",
+      "28",
+      "56"
+    ],
+    "correct": 1,
+    "explanation": "Në metafazë qeliza ka 14 kromozome me 28 kromatide gjithsej. Në anafazë centromerët çahen dhe kromatidet ndahen njëlloj mes dy poleve: 28 : 2 = 14 kromatide për çdo pol. Këto 14 kromatide tashmë quhen edhe 14 kromozome të pavarur, prandaj qeliza bijë do të ketë po 2n = 14 — pikërisht ky është kuptimi i mitozës si ndarje ekuacionale."
+  },
+  {
+    "id": "bio-ciklet-114",
+    "question": "Formimi i Kinetokorëve fillon:",
+    "answers": [
+      "para ndarjes së citoplazmës",
+      "pas ndarjes bërthamore",
+      "para ndarjes mitotike",
+      "gjatë fazës S"
+    ],
+    "correct": 2,
+    "explanation": "Kinetokorët janë komplekse proteinike që ndërtohen mbi centromerin e çdo kromatidi dhe shërbejnë si pikë kapjeje për mikrotubulat e boshtit; ndërtimi i tyre nis para se të nisë ndarja mitotike, në fund të ndërfazës dhe në profazë, që kromozomet të jenë gati për t'u tërhequr. Në fazën S dyfishohet ADN-ja, ndërsa pas ndarjes bërthamore kinetokorët nuk nevojiten më."
+  },
+  {
+    "id": "bio-ciklet-115",
+    "question": "Në një qelizë, numri i përgjithshëm i kromozomeve është 2n = 20 kromozome. Kjo qelizë i nënshtrohet ndarjes me mitozë. Shënojmë 100% sasinë e lëndës që ndodhet në bërthamën e saj përpara fillimit të ndarjes. Cila do të jetë përqindja e sasisë së lëndës, në secilin prej poleve të boshtit qelizor, në fund të anafazës?",
+    "answers": [
+      "25%",
+      "50%",
+      "100%",
+      "200%"
+    ],
+    "correct": 1,
+    "explanation": "Para fillimit të ndarjes ADN-ja është tashmë e dyfishuar (faza S ka mbaruar) dhe këtë sasi e quajmë 100%. Në anafazë kjo sasi ndahet përgjysmë mes dy poleve, prandaj çdo pol merr 50% — që në vlerë absolute i përgjigjet saktësisht sasisë që kishte qeliza në fazën G1. Kështu çdo qelizë bijë del me 20 kromozome dhe me përmbajtje normale ADN-je."
+  },
+  {
+    "id": "bio-ciklet-116",
+    "question": "Sa tipe të ndryshme kombinimesh kromozomike mund të formohen në gametët e bimës së bizeles, e cila ka në qelizat e saj somatike 2n = 14 kromozome?",
+    "answers": [
+      "2",
+      "2²",
+      "2⁷",
+      "2¹⁴"
+    ],
+    "correct": 2,
+    "explanation": "Numri i kombinimeve të mundshme jepet nga formula 2^n, ku n është numri i çifteve homologe (numri haploid). Këtu 2n = 14, pra n = 7 dhe rezultati është 2⁷ = 128 tipe gametësh. Kjo shumëllojshmëri vjen nga shpërndarja e pavarur e homologëve në anafazën I, ndërsa krosingoveri e rrit edhe më tej variabilitetin. Fuqia 2¹⁴ do të përdorej gabimisht duke marrë numrin diploid në vend të atij haploid."
+  },
+  {
+    "id": "bio-ciklet-117",
+    "question": "Një qelizë diploide ka 2n = 24 kromozome. Sa kromozome do të kishte kjo qelize, nëse ajo do të ishte në profazën e mitozës?",
+    "answers": [
+      "48",
+      "24",
+      "12",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "Dyfishimi në fazën S rrit numrin e kromatideve dhe të molekulave të ADN-së, por jo numrin e kromozomeve: derisa kromatidet motra qëndrojnë të bashkuara në një centromer të vetëm, ato numërohen si një kromozom. Prandaj në profazë kemi po 24 kromozome, por 48 kromatide. Numri i kromozomeve ndryshon vetëm në anafazë, kur çahen centromerët."
+  },
+  {
+    "id": "bio-ciklet-118",
+    "question": "Një qelizë në metafazën e mejozës së dytë ka 14 kromozome. Sa kromozome do të ketë ajo, nëse do të ishte në metafazën e I të mejozës?",
+    "answers": [
+      "7",
+      "14",
+      "28",
+      "48"
+    ],
+    "correct": 2,
+    "explanation": "Në metafazën II qeliza është haploide, pra 14 kromozome do të thotë n = 14 dhe rrjedhimisht 2n = 28. Në metafazën e parë qeliza ishte ende diploide, me të gjithë 28 kromozomet e rreshtuar si 14 tetrade. Kujto rregullin: mejoza I e përgjysmon numrin (28 → 14), ndërsa mejoza II e ruan atë, duke ndarë vetëm kromatidet."
+  },
+  {
+    "id": "bio-ciklet-119",
+    "question": "Duke pasur parasysh fazat e mitozës, cila prej ngjarjeve të mëposhtme NUK ndodh në metafazë:",
+    "answers": [
+      "kromozomet janë vendosur në ekuator të qelizës",
+      "kromozomet kanë arritur maksimumin e kondesimit",
+      "bërthamëzat janë të dukshme",
+      "boshti mitotik është i plotë"
+    ],
+    "correct": 2,
+    "explanation": "Bërthamëzat (nukleolet) treten që në profazë dhe rishfaqen vetëm në telofazë, kur bërthamat e reja rindërtohen; prandaj në metafazë ato nuk janë të dukshme. Të tria të tjerat e përshkruajnë saktë metafazën: kromozomet e kondensuar maksimalisht rreshtohen në pllakën ekuatoriale dhe boshti mitotik është plotësisht i formuar, me fijet e kapura te kinetokorët."
+  },
+  {
+    "id": "bio-ciklet-120",
+    "question": "Në qelizat somatike të miut të shtëpisë ndodhen 40 kromozome. Sa kromozome prej tyre janë me prejardhje paternale (atërore)?",
+    "answers": [
+      "10",
+      "20",
+      "40",
+      "80"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza somatike diploide përmban 20 çifte homologësh; në çdo çift njëri kromozom vjen nga spermatozoidi i babait dhe tjetri nga ovula e nënës. Prandaj gjysma, pra 20 kromozome, janë me prejardhje atërore dhe 20 me prejardhje amtare. Kjo është pasojë direkte e pllenimit: zigota formohet nga bashkimi i dy grupeve haploide me nga 20 kromozome."
+  },
+  {
+    "id": "bio-ciklet-121",
+    "question": "Në qelizat somatike të miut të shtëpisë ndodhen 40 kromozome. Sa kromozome autozome ndodhen në një qelizë gametike?",
+    "answers": [
+      "10",
+      "19",
+      "20",
+      "40"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza gametike është haploide, pra ka 40 : 2 = 20 kromozome. Nga këto, një është kromozom seksual (X ose Y) dhe pjesa tjetër, 20 − 1 = 19, janë autozome. Gabimi tipik është të jepet 20, duke harruar të zbritet kromozomi i seksit. Në qelizën somatike raporti do të ishte 38 autozome + 2 kromozome seksuale."
+  },
+  {
+    "id": "bio-ciklet-122",
+    "question": "Në qelizat somatike të miut të shtëpisë ndodhen 40 kromozome. Sa kromozome seksuale ndodhen në një qelizë të vezës?",
+    "answers": [
+      "1",
+      "2",
+      "20",
+      "40"
+    ],
+    "correct": 0,
+    "explanation": "Vezja është gamet haploid me 20 kromozome: 19 autozome dhe vetëm 1 kromozom seksual, i cili te femra është gjithnjë X. Dy kromozome seksuale (XX ose XY) ndodhen vetëm në qelizat somatike ose në zigotë pas pllenimit. Pikërisht kjo është arsyeja pse seksi i pasardhësit përcaktohet nga spermatozoidi, që mund të sjellë X ose Y."
+  },
+  {
+    "id": "bio-ciklet-123",
+    "question": "Cili është numri i mundshëm i tipeve të gametëve normalë që mund të formohen nga ndarja me mejozë e një qelize diploide me 6 kromozome?",
+    "answers": [
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "correct": 1,
+    "explanation": "Me 2n = 6 kemi n = 3 çifte homologësh; meqë secili çift shpërndahet në mënyrë të pavarur në anafazën I, numri i kombinimeve është 2³ = 8 tipe gametësh. Kjo llogaritje merr parasysh vetëm shpërndarjen e pavarur — krosingoveri do ta rriste edhe më shumë numrin real të varianteve. Përgjigjet 6, 12 dhe 16 vijnë nga përdorimi i gabuar i numrit diploid në formulë."
+  },
+  {
+    "id": "bio-ciklet-124",
+    "question": "Pas telofazës I-rë, të mejozës çdo qelizë bijë është:",
+    "answers": [
+      "diploide dhe kromozomet janë të përbëra nga një kromatid secila",
+      "diploide dhe kromozomet janë të përbëra nga dy kromatide secila",
+      "haploide dhe kromozomet janë të përbëra nga dy kromatide secila",
+      "tetraploide dhe kromozomet janë të përbëra nga dy kromatide secila"
+    ],
+    "correct": 2,
+    "explanation": "Në anafazën I ndahen kromozomet homologe, jo kromatidet motra; prandaj çdo qelizë bijë merr vetëm një homolog nga çdo çift (bëhet haploide), por ai homolog vazhdon të ketë dy kromatide të bashkuara. Kjo shpjegon pse nevojitet mejoza II: për të ndarë edhe kromatidet, pa pasur nevojë për një dyfishim të ri të ADN-së."
+  },
+  {
+    "id": "bio-ciklet-125",
+    "question": "Gjatë ciklit qelizor, materiali gjenetik dyfishohet në:",
+    "answers": [
+      "fazën S të ndërfazës",
+      "profazën e mitozës",
+      "anafazë dhe metafazë",
+      "telofazë dhe fazën G1"
+    ],
+    "correct": 0,
+    "explanation": "Replikimi i ADN-së kryhet vetëm në fazën S (S = sinteza) të ndërfazës, kur kromatina është e despiralizuar dhe e aksesueshme për enzimat. Në fund të saj çdo kromozom ka dy kromatide identike. Gjatë fazave mitotike ADN-ja është e kondensuar dhe nuk mund të kopjohet; në G1 dhe telofazë qeliza rritet dhe riorganizohet, por nuk sintetizon ADN të re."
+  },
+  {
+    "id": "bio-ciklet-126",
+    "question": "Tetradet formohen në:",
+    "answers": [
+      "profazën e mitozës",
+      "metafazën e mitozës",
+      "profazën e I-rë, të mejozës",
+      "metafazën e II-të, të mejozës"
+    ],
+    "correct": 2,
+    "explanation": "Tetradet lindin kur kromozomet homologe njihen dhe çiftëzohen (sinapsa), dhe kjo ndodh vetëm në profazën e parë të mejozës, ku mundësohet edhe krosingoveri. Në mitozë homologët nuk çiftëzohen kurrë — ata sillen si njësi të pavarura. Në mejozën II nuk ka më homologë brenda së njëjtës qelizë, sepse ata u ndanë që në anafazën I."
+  },
+  {
+    "id": "bio-ciklet-127",
+    "question": "Nëse numri haploid i një lloji është 3, sa do jetë numri i kromatideve që përmban një qelizë diploide në metafazë?",
+    "answers": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "correct": 2,
+    "explanation": "Nga n = 3 rrjedh 2n = 6 kromozome. Në metafazë secili prej tyre ka dy kromatide motra, prandaj: 6 × 2 = 12 kromatide (dhe po aq molekula ADN-je). Përgjigjja 6 do t'i takonte numrit të kromozomeve ose kromatideve në G1, ndërsa 18 nuk del nga asnjë hap i ciklit qelizor."
+  },
+  {
+    "id": "bio-ciklet-128",
+    "question": "Një qelizë diploide me 2n = 10 kromozome, sa molekula ADN-je ka në metafazën e mitozës?",
+    "answers": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correct": 1,
+    "explanation": "Çdo kromatid përmban saktësisht një molekulë ADN-je. Në metafazë kromozomet janë dykromatidësh, prandaj: 10 kromozome × 2 kromatide = 20 molekula ADN-je. Në fazën G1 do të kishim 10 molekula, ndërsa numri 40 do të kërkonte dy dyfishime radhazi pa ndarje. Mësoje si formulë: molekula ADN-je = numri i kromatideve."
+  },
+  {
+    "id": "bio-ciklet-129",
+    "question": "Një qelizë ka 4 tetrade. Sa kromozome dhe sa kromatide ka qeliza në metafazën e dytë?",
+    "answers": [
+      "4 kromozome dhe 8 kromatide",
+      "8 kromozome dhe 4 kromatide",
+      "8 kromozome dhe 8 kromatide",
+      "16 kromozome dhe 16 kromatide"
+    ],
+    "correct": 0,
+    "explanation": "Çdo tetrad përfaqëson një çift homologësh, pra 4 tetrade do të thotë n = 4 dhe 2n = 8. Pas mejozës I qeliza bëhet haploide me 4 kromozome, secili ende me dy kromatide. Prandaj në metafazën II kemi 4 kromozome dhe 4 × 2 = 8 kromatide. Vlerat me 8 ose 16 kromozome do t'i përkisnin gjendjes diploide, e cila nuk ekziston më pas ndarjes së parë."
+  },
+  {
+    "id": "bio-ciklet-130",
+    "question": "Në anafazën e mitozës në një qelizë dallohen 24 centromerë. Në qoftë se kjo qelizë ndahet me mejozë, sa kromozome do të kenë qelizat bija?",
+    "answers": [
+      "24",
+      "12",
+      "6",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "Në anafazën e mitozës centromerët tashmë janë çarë, prandaj numri i centromerëve barazohet me numrin e kromozomeve të ndara: 24 kromozome në anafazë do të thotë se qeliza fillestare kishte 2n = 12. Nëse kjo qelizë ndahet me mejozë, qelizat bija do të jenë haploide: 12 : 2 = 6 kromozome secila. Gabimi më i shpeshtë është marrja e 24-ës si numër diploid."
+  },
+  {
+    "id": "bio-ciklet-131",
+    "question": "Në fund të telofazës së parë qelizat bija kanë 8 kromatide. Në qoftë se qeliza nënë do të ndahej me mitozë, sa kromozome do të ketë në anafazën e mitozës?",
+    "answers": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct": 2,
+    "explanation": "Pas telofazës I qelizat janë haploide me kromozome dykromatidësh: 8 kromatide : 2 = 4 kromozome, pra n = 4 dhe 2n = 8. Në qoftë se e njëjta qelizë nënë (me 8 kromozome) do të ndahej me mitozë, në anafazë centromerët çahen dhe numri i kromozomeve dyfishohet përkohësisht: 8 × 2 = 16 kromozome. Ky dyfishim është i përkohshëm dhe zhduket pas citokinezës."
+  },
+  {
+    "id": "bio-ciklet-132",
+    "question": "Qelizat e lëkurës ndahen me mitozë. Sa kromozome të seksit ka në anafazën e mitozës, një qelizë e njeriut, me 2n = 46 kromozome?",
+    "answers": [
+      "2",
+      "4",
+      "23",
+      "46"
+    ],
+    "correct": 1,
+    "explanation": "Në qelizën normale të njeriut ka 2 kromozome seksuale (XX ose XY). Në anafazë, pasi centromerët çahen, çdo kromatid bëhet kromozom më vete, prandaj kromozomet seksuale numërohen 2 × 2 = 4 (dy në secilin pol). E njëjta logjikë vlen për autozomet: 44 bëhen 88, dhe qeliza ka përkohësisht 92 kromozome. Përgjigjja 2 do të vlente për çdo fazë tjetër përveç anafazës."
+  },
+  {
+    "id": "bio-ciklet-133",
+    "question": "Një qelizë tek njeriu, me 23 çifte kromozomesh ndahet me mitozë. Sa kromozome të seksit dhe sa autozomike ka qeliza në fillim të anafazës?",
+    "answers": [
+      "4 + 88",
+      "2 + 44",
+      "1 + 23",
+      "1+ 22"
+    ],
+    "correct": 0,
+    "explanation": "23 çifte do të thotë 46 kromozome: 44 autozome + 2 kromozome seksuale. Në fillim të anafazës centromerët sapo janë çarë dhe secili kromatid llogaritet si kromozom i pavarur, prandaj numrat dyfishohen: 88 autozome + 4 kromozome seksuale = 92 gjithsej. Kombinimi 2 + 44 do të vlente para anafazës, ndërsa 1 + 22 është përbërja e një gameti haploid."
+  },
+  {
+    "id": "bio-ciklet-134",
+    "question": "Supozojmë se për një lloj qeliza me 2n = 22 kromozome, ndahet me mejozë. Në anafazën e dytë kemi këto kromozome:",
+    "answers": [
+      "44 + XY",
+      "23 + Y",
+      "22 + X",
+      "20 + XX"
+    ],
+    "correct": 3,
+    "explanation": "Qeliza diploide me 22 kromozome ka 20 autozome + 2 kromozome seksuale. Pas mejozës I, secila qelizë bijë është haploide: 10 autozome + 1 kromozom seksual, me nga dy kromatide secili. Në anafazën II kromatidet ndahen dhe numrat dyfishohen brenda qelizës: 20 autozome + 2 kromozome seksuale identike (XX ose YY, sepse janë kromatide motra). Prandaj kombinimi XY është i pamundur në këtë fazë."
+  },
+  {
+    "id": "bio-ciklet-135",
+    "question": "Sa kromozome të seksit, ka në fillim të anafazës, një qelizë me 2n = 10 kromozome?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "Çdo qelizë diploide ka vetëm 2 kromozome seksuale, por në fillim të anafazës centromerët e tyre janë çarë dhe kromatidet janë bërë kromozome të veçanta: 2 × 2 = 4. Kjo vlen pavarësisht se sa i madh është numri total i kromozomeve. Përgjigjja 2 do të ishte e saktë për profazën ose metafazën, ndërsa 1 do t'i takonte një gameti."
+  },
+  {
+    "id": "bio-ciklet-136",
+    "question": "Në një qelizë në fazën G1 ka 10 molekula ADN-je. Në metafazën e mitozës, sa molekula të tilla do të ketë qeliza?",
+    "answers": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correct": 1,
+    "explanation": "Në G1 çdo kromozom ka një kromatid, pra një molekulë ADN-je: 10 molekula = 10 kromozome. Faza S i dyfishon molekulat e ADN-së pa ndryshuar numrin e kromozomeve, prandaj në metafazë kemi 20 molekula ADN-je të shpërndara në 10 kromozome dykromatidësh. Numri 40 do të kërkonte dy replikime radhazi, gjë që nuk ndodh brenda një cikli të vetëm."
+  },
+  {
+    "id": "bio-ciklet-137",
+    "question": "Në fazën G2 qeliza ka 24 molekula ADN-je. Numri i kromozomeve që ka kjo qelizë në profazë është:",
+    "answers": [
+      "48",
+      "24",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Në G2 replikimi ka përfunduar, prandaj çdo kromozom përbëhet nga 2 kromatide, pra nga 2 molekula ADN-je: 24 : 2 = 12 kromozome. Profaza vjen menjëherë pas G2 dhe nuk e ndryshon këtë numër, prandaj edhe aty kemi 12 kromozome (me 24 kromatide). Përgjigjja 24 do të ishte numri i kromatideve, jo i kromozomeve."
+  },
+  {
+    "id": "bio-ciklet-138",
+    "question": "Kur një studiues vrojton në mikroskop një qelizë në ndarje me 2n = 4 kromozome, ai gjen 2 tetrade. Në cilën fazë të ndarjes është qeliza?",
+    "answers": [
+      "Në metafazën I-rë, të mejozës",
+      "Në telofazën I-rë, të mejozës",
+      "Në metafazën e mitozës",
+      "Në profazën e mitozës"
+    ],
+    "correct": 0,
+    "explanation": "Prania e tetradeve tregon menjëherë se bëhet fjalë për mejozën I, sepse vetëm aty kromozomet homologe qëndrojnë të çiftëzuar; me 2n = 4 pritet pikërisht n = 2 tetrade. Meqë tetradet janë ende të plota dhe të vrojtueshme si njësi të rreshtuara, faza është metafaza I. Në telofazën I homologët tashmë janë ndarë, ndërsa në mitozë tetrade nuk formohen kurrë."
+  },
+  {
+    "id": "bio-ciklet-139",
+    "question": "Cikli qelizor përfaqësohet nga?",
+    "answers": [
+      "Mitoza dhe faza S",
+      "Mitoza dhe Citokineza",
+      "Mitoza, Citokineza dhe faza S",
+      "Interfaza, Mitoza dhe Citokineza"
+    ],
+    "correct": 3,
+    "explanation": "Cikli qelizor mbulon gjithë jetën e qelizës nga një ndarje te tjetra: ndërfazën (G1 + S + G2), e cila zë rreth 90% të kohës, mitozën (ndarjen e bërthamës) dhe citokinezën (ndarjen e citoplazmës). Alternativat e tjera janë të paplota sepse lënë jashtë fazat G1 dhe G2, gjatë të cilave qeliza rritet, kontrollon dëmtimet e ADN-së dhe përgatit strukturat e ndarjes."
+  },
+  {
+    "id": "bio-ciklet-140",
+    "question": "Një qelizë në profazën e parë të mejozës ka 12 kromatide. Sa tetrade ka qeliza në metafazën e parë?",
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "Çdo tetrad përmban 4 kromatide (2 kromozome homologe × 2 kromatide), prandaj numri i tetradeve gjendet duke pjesëtuar kromatidet me 4: 12 : 4 = 3 tetrade. Kjo do të thotë gjithashtu se n = 3 dhe 2n = 6. Numri i tetradeve nuk ndryshon nga profaza I te metafaza I — ato thjesht rreshtohen në ekuator."
+  },
+  {
+    "id": "bio-ciklet-141",
+    "question": "Ovogjeneza:",
+    "answers": [
+      "në fund të saj formohet 4 ovula",
+      "ne fund të saj formohet ovula dhe tre trupa polarë",
+      "përfundon me bashkimin e vezës me spermatozoidin",
+      "në fund të saj formohet ovociti i rendit të II-të dhe tre trupa polar"
+    ],
+    "correct": 1,
+    "explanation": "Ndryshe nga spermatogjeneza, ovogjeneza jep vetëm një qelizë funksionale: ndarja e citoplazmës është e pabarabartë, që ovula të ruajë sa më shumë lëndë rezervë për embrionin. Mejoza I jep një ovocit të rendit II + trupin e parë polar, mejoza II jep ovulën + trupin e dytë polar, ndërsa trupi i parë polar mund të ndahet edhe një herë — pra në fund kemi 1 ovulë dhe 3 trupa polarë, të cilët degjenerojnë. Bashkimi me spermatozoidin është pllenimi, jo pjesë e ovogjenezës."
+  },
+  {
+    "id": "bio-ciklet-142",
+    "question": "Janë qeliza diploide:",
+    "answers": [
+      "spermatocitet e rendit II-të dhe ovulat",
+      "spermatidet dhe ovocitet e rendit II-të",
+      "spermatozoidi dhe trupi i parë polar",
+      "spermatogonet dhe ovogonet"
+    ],
+    "correct": 3,
+    "explanation": "Spermatogonët dhe ovogonët janë qelizat burimore të linjës gjermative, ende diploide, që shumohen me mitozë përpara se të hyjnë në mejozë. Të gjitha qelizat e tjera të përmendura kanë kaluar tashmë ndarjen e parë mejotike dhe janë haploide: spermatocitet e rendit II, spermatidet, spermatozoidi, ovocitet e rendit II, ovula dhe trupat polarë. Vetëm spermatocitet dhe ovocitet e rendit të parë mbeten ende diploide."
+  },
+  {
+    "id": "bio-ciklet-143",
+    "question": "Lidhur me trupat polar, cili nga pohimet e mëposhtme NUK qëndron:",
+    "answers": [
+      "formohen nga shndërrimi i tre spermatideve, në 3 spermatozoide",
+      "shndërrimi i ovocitit të rendit të II-të, jep një ovulë dhe tre trupa polar",
+      "gjatë shndërrimit të ovocitit të rendit të I-rë, formohen 3 ovula dhe një trup polar",
+      "gjatë shndërrimit të ovocitit të rendit I-rë, në ovocit të rendit II, dhe tre trupa polar"
+    ],
+    "correct": 0,
+    "explanation": "Trupat polarë janë produkte të ovogjenezës te femra dhe nuk kanë asnjë lidhje me spermatidet apo spermatozoidet, të cilët formohen te mashkulli dhe janë të katërt funksionalë — prandaj ky pohim është krejtësisht i pavend. Për saktësi: ovociti i rendit I jep një ovocit të rendit II + 1 trup polar, ndërsa ovociti i rendit II jep ovulën + 1 trup polar; gjithsej dalin 1 ovulë dhe 3 trupa polarë (sepse trupi i parë mund të ndahet sërish)."
+  },
+  {
+    "id": "bio-ciklet-144",
+    "question": "Çdo kokrrizë poleni përmban:",
+    "answers": [
+      "dy bërthama haploide",
+      "dy bërthama diploide",
+      "1 vezë dhe 1 anterozoid",
+      "një diploide dhe një haploide"
+    ],
+    "correct": 0,
+    "explanation": "Kokrriza e polenit lind nga mikrospora haploide dhe përmban dy bërthama, të dyja haploide: bërthamën vegjetative, që formon tubin polinik drejt vezores, dhe bërthamën riprodhuese, e cila me një mitozë jep dy anterozoidët. Qeliza vezë ndodhet në trastën embrionale të pistilit, jo në polen, prandaj alternativa me vezën është e gabuar; asnjë bërthamë e polenit nuk është diploide."
+  },
+  {
+    "id": "bio-ciklet-145",
+    "question": "Sa kokrriza poleni formohen nga ndarja e 2 qelizave të pjalmores?",
+    "answers": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "Çdo qelizë mëmë e pjalmit (mikrosporocit) i nënshtrohet mejozës dhe jep 4 mikrospore haploide, secila prej të cilave kthehet në një kokrrizë poleni. Për 2 qeliza: 2 × 4 = 8 kokrriza poleni. Mitoza e mëvonshme brenda mikrosporës nuk shton kokrriza të reja — ajo vetëm formon dy bërthamat brenda së njëjtës kokrrizë."
+  },
+  {
+    "id": "bio-ciklet-146",
+    "question": "Në vezoren e pistilit formohet trasta embrionale. Nga ndarja me mejozë e një qelize, sa trasta embrionale formohen?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "Nga mejoza e qelizës mëmë të makrosporës dalin 4 makrospore haploide, por tri prej tyre degjenerojnë dhe vetëm njëra mbijeton; kjo e vetmja rritet dhe pëson tri mitoza të njëpasnjëshme, duke formuar një trastë embrionale me 8 bërthama. Prandaj rezultati përfundimtar është 1 trastë embrionale, ndryshe nga mashkulli ku të katër produktet e mejozës mbeten funksionale."
+  },
+  {
+    "id": "bio-ciklet-147",
+    "question": "Azoti atmosferik bëhet i përdorshëm sepse:",
+    "answers": [
+      "thithet nga bimët gjatë procesit të fotosintezës",
+      "kthehet në nitrate nga bakteret azotofiksuese",
+      "përdoret nga gjallesat gjatë frymëmarrjes",
+      "kthehet në amonium nga denitrifikuesit"
+    ],
+    "correct": 1,
+    "explanation": "Azoti molekular N2 ka lidhje trefishe shumë të fortë dhe asnjë bimë a kafshë nuk mund ta përdorë drejtpërdrejt; vetëm bakteret azotofiksuese (si Rhizobium te bishtajoret) e kthejnë atë në forma të asimilueshme — amoniak dhe më pas nitrate — që bimët i thithin me rrënjë. Fotosinteza merr CO2, jo azot; frymëmarrja nuk përfshin fare azotin; denitrifikuesit bëjnë të kundërtën — i kthejnë nitratet në N2 dhe e kthejnë azotin në atmosferë."
+  },
+  {
+    "id": "bio-ciklet-148",
+    "question": "Toka pasurohet me azot kur mbillet me:",
+    "answers": [
+      "drithëra",
+      "domate",
+      "spinaq",
+      "bizele"
+    ],
+    "correct": 3,
+    "explanation": "Bizelja është bishtajore dhe në rrënjët e saj formon nyje simbiotike me bakteret e gjinisë Rhizobium, të cilat fiksojnë azotin atmosferik dhe e lënë tokën më të pasur; prandaj bishtajoret përdoren në qarkullimin bujqësor për të rigjeneruar tokën. Drithërat, domatja dhe spinaqi nuk kanë këtë simbiozë — përkundrazi, ato e varfërojnë tokën duke thithur nitratet e disponueshme."
+  },
+  {
+    "id": "bio-ciklet-149",
+    "question": "Njëra nga piramidat e mëposhtme NUK është piramidë ekologjike:",
+    "answers": [
+      "piramida e moshës së një grupi shoqëror",
+      "piramida e numrit të individëve",
+      "piramida e biomasës",
+      "piramida e energjisë"
+    ],
+    "correct": 0,
+    "explanation": "Piramidat ekologjike ndërtohen mbi nivelet trofike dhe janë tri: e numrit të individëve, e biomasës dhe e energjisë. Piramida e moshës është instrument demografik: ajo tregon shpërndarjen e individëve të një popullate sipas grupmoshave dhe seksit, pa lidhje me raportet ushqimore. Prandaj ajo nuk hyn te piramidat ekologjike."
+  },
+  {
+    "id": "bio-ciklet-150",
+    "question": "Piramida e biomasës ka mangësi pasi nuk merr parasysh efekte të tilla si:",
+    "answers": [
+      "kohën e formimit të biomasës",
+      "lidhjet mes niveleve trofike",
+      "lidhjet ushqimore në një ekosistem",
+      "pakësimi i biomasës nga njëri nivel trofik tek tjetri"
+    ],
+    "correct": 0,
+    "explanation": "Piramida e biomasës është një 'fotografi' e çastit dhe nuk tregon shpejtësinë me të cilën biomasa rinovohet. Prandaj në ekosistemet ujore ajo del e përmbysur: fitoplanktoni ka masë të vogël në çdo moment, por riprodhohet aq shpejt sa ushqen një masë shumë më të madhe konsumatorësh. Lidhjet trofike dhe pakësimi i biomasës nga një nivel te tjetri janë pikërisht ato që piramida i paraqet, jo mangësi të saj."
+  },
+  {
+    "id": "bio-ciklet-151",
+    "question": "Piramida e numrit të individëve ka mangësi pasi nuk merr parasysh:",
+    "answers": [
+      "kontributin e individëve të ndryshëm në rrjedhën e energjisë",
+      "pakësimi i biomasës nga njëri nivel trofik tek tjetri",
+      "kohën e formimit të biomasës",
+      "lidhjet mes niveleve trofike"
+    ],
+    "correct": 0,
+    "explanation": "Kjo piramidë numëron individët pa marrë parasysh përmasat e tyre, prandaj i barazon një lis me një bar: një pemë e vetme mund të ushqejë mijëra insekte dhe piramida del e përmbysur. Duke injoruar masën dhe energjinë që zotëron secili individ, ajo nuk pasqyron dot kontributin real të tyre në rrjedhën e energjisë. Për këtë arsye piramida e energjisë konsiderohet më e sakta."
+  },
+  {
+    "id": "bio-ciklet-152",
+    "question": "Piramida e energjisë është paraqitja më e saktë e transferimit të energjisë në ekosisteme. Njëra nga veçoritë më poshtë NUK i përket piramidës së energjisë:",
+    "answers": [
+      "çdo hallkë paraqet saktë sasinë e energjisë që zotëron biomasa e secilit nivel",
+      "kontributin e individëve të ndryshëm në rrjedhën e energjisë",
+      "lidhjet ushqimore në një ekosistem janë më të sakta",
+      "paraqiten edhe shpërbërësit në këto piramida"
+    ],
+    "correct": 3,
+    "explanation": "Piramida e energjisë ndërtohet mbi nivelet trofike të zinxhirit prodhues–konsumatorë dhe zakonisht nuk i përfshin dekompozuesit, të cilët nuk zënë një nivel trofik të veçantë por veprojnë mbi të gjitha nivelet njëkohësisht. Veçoritë e tjera janë të vërteta: ajo mat energjinë reale për njësi kohe, pasqyron kontributin e individëve dhe nuk del kurrë e përmbysur, prandaj konsiderohet paraqitja më e saktë."
+  },
+  {
+    "id": "bio-ciklet-153",
+    "question": "Enzimat që katalizon shpërbërjen e ujit ndodhet në:",
+    "answers": [
+      "lumenin e qeskës tilakoide",
+      "fotosistemin II",
+      "fotosistemin I",
+      "stromën"
+    ],
+    "correct": 1,
+    "explanation": "Kompleksi enzimatik që çan ujin (kompleksi i çlirimit të oksigjenit) është pjesë përbërëse e fotosistemit II dhe punon i kthyer nga ana e lumenit; ai vihet në lëvizje sapo P680 humbet elektronet dhe kërkon zëvendësim. Prandaj fotoliza lidhet gjithnjë me PS II, jo me PS I, i cili merr elektrone të gatshme nga zinxhiri. Stroma është zonë e ciklit të Kalvinit dhe nuk ka lidhje me çarjen e ujit."
+  },
+  {
+    "id": "bio-ciklet-154",
+    "question": "Fazat e ciklit Kalvin – Benson ndjekin radhën:",
+    "answers": [
+      "reduktimi i CO2, oksidimi i PGA-së në PGAL, rigjenerimi i RDP",
+      "fiksimi i CO2, reduktimi i PGA-së në PGAL, rigjenerimi i RDP",
+      "fiksimi i CO2, reduktimi i PGAL-së në PGA, rigjenerimi i RDP",
+      "fiksimi i CO2, reduktimi i PGAL-së në PGA, oksidimi i RDP"
+    ],
+    "correct": 1,
+    "explanation": "Cikli ka tri faza të qarta: (1) fiksimi — CO2 lidhet me RDP-në nën veprimin e RDP-karboksilazës dhe jep PGA; (2) reduktimi — PGA-ja kthehet në PGAL me shpenzim ATP-je dhe NADPH-je; (3) rigjenerimi — 5/6 e PGAL-së rindërton RDP-në me shpenzim ATP-je. Prandaj çdo variant që e vendos PGAL-në para PGA-së e ka rendin të përmbysur, ndërsa 'oksidimi' është e kundërta e asaj që ndodh në këtë cikël."
+  },
+  {
+    "id": "bio-ciklet-155",
+    "question": "Në ciklin Kalvin – Benson, PGAL-ja shndërrohet në:",
+    "answers": [
+      "O2 dhe ATP",
+      "ATP dhe FADH2",
+      "RDP dhe C6H12O6",
+      "NADPH dhe ADP"
+    ],
+    "correct": 2,
+    "explanation": "PGAL-ja ka dy fate: pjesa më e madhe (5/6) përdoret për të rigjeneruar RDP-në që cikli të vazhdojë, ndërsa pjesa tjetër (1/6) del jashtë ciklit dhe kombinohet për të formuar glukozën (C6H12O6) e prej saj sakarozë, amidon, celulozë. Oksigjeni, ATP-ja, NADPH-ja dhe FADH2 nuk formohen kurrë nga PGAL-ja: dy të parat vijnë nga faza dritore, ndërsa FADH2 i takon frymëmarrjes qelizore."
+  },
+  {
+    "id": "bio-ciklet-156",
+    "question": "Në kloroplast, ATP-sintetazat ndodhen në:",
+    "answers": [
+      "stromën",
+      "membranën tilakoide",
+      "membranën e jashtme",
+      "membranën e brendshme"
+    ],
+    "correct": 1,
+    "explanation": "Gradienti protonik i kloroplastit krijohet mes lumenit të tilakoidit dhe stromës, prandaj ATP-sintetaza duhet të jetë e ngulitur pikërisht në membranën tilakoide, me kokën katalitike të kthyer nga stroma — aty ku edhe grumbullohet ATP-ja për ciklin e Kalvinit. Membranat e jashtme e të brendshme të kloroplastit nuk mbajnë gradient protonik, ndërsa stroma është hapësirë e lëngshme dhe nuk mund të strehojë një enzimë transmembranore."
+  },
+  {
+    "id": "bio-ciklet-157",
+    "question": "Tek misri që kryen ciklin C4, qelizat e mezofilit përmbajnë enzimën:",
+    "answers": [
+      "kinazë",
+      "oksidazë",
+      "PEP-karboksilazë",
+      "RDP-karboksilazë"
+    ],
+    "correct": 2,
+    "explanation": "Te bimët C4 puna ndahet mes dy tipeve qelizash: në mezofil PEP-karboksilaza kap CO2-in edhe në përqendrime shumë të ulëta dhe formon acid oksalacetik me 4 karbone; ky transportohet te qelizat e këllëfit, ku lirohet CO2 dhe hyn në ciklin normal të Kalvinit me RDP-karboksilazë. Kjo ndarje ul fotorespirimin dhe u jep përparësi bimëve C4 në klimë të nxehtë e të thatë. Kinazat dhe oksidazat nuk fiksojnë CO2."
+  },
+  {
+    "id": "bio-ciklet-158",
+    "question": "Në zinxhirin e transportit të elektroneve ndodhet një proteinë, e cila shfrytëzon energjinë e elektroneve, për të pompuar protonet H+ në lumenin e qeskës tilakoide. Kjo energji përdoret:",
+    "answers": [
+      "për të formuar ATP",
+      "për të formuar NADPH",
+      "humbet në formë nxehtësie",
+      "për të formuar RDP nga RMP"
+    ],
+    "correct": 0,
+    "explanation": "Pompimi i H+ krijon një përqendrim shumë të lartë protonesh brenda tilakoidit; kthimi i tyre pasiv nëpër ATP-sintetazë e vë atë në lëvizje dhe prodhon ATP — pikërisht ky është mekanizmi kimiosmotik i fotofosforilimit. Formimi i NADPH-së kryhet në fund të zinxhirit nga elektronet e PS I, jo nga gradienti protonik; energjia nuk humbet si nxehtësi; rigjenerimi i RDP-së ndodh më vonë, në stromë, duke konsumuar ATP."
+  },
+  {
+    "id": "bio-ciklet-159",
+    "question": "Cili nga pohimet e mëposhtme është i saktë dhe i kompletuar lidhur me molekulat që marrin pjesë në ciklin Kalvin – Benson?",
+    "answers": [
+      "ATP, CO2, RDP dhe NADPH",
+      "ATP, CO2, RDP dhe O2",
+      "ADP, CO2, RDP dhe NADPH",
+      "NADPH, ADP dhe C6H12O6"
+    ],
+    "correct": 0,
+    "explanation": "Në cikël hyjnë CO2 (burimi i karbonit), RDP (akceptori 5C) dhe dy molekulat energjike të fazës dritore: ATP dhe NADPH. ADP-ja dhe NADP+ janë produkte dalëse që kthehen te tilakoidet për t'u 'rimbushur', prandaj nuk mund të renditen si pjesëmarrës hyrës. Oksigjeni nuk merr pjesë fare në ciklin e Kalvinit — ai çlirohet në fazën dritore nga fotoliza e ujit."
+  },
+  {
+    "id": "bio-ciklet-160",
+    "question": "Në ciklin Kalvin – Benson, PGA reduktohet në prani të:",
+    "answers": [
+      "ATP dhe FADH2",
+      "CO2 dhe ATP",
+      "CO2 dhe NADH2",
+      "NADPH dhe ATP"
+    ],
+    "correct": 3,
+    "explanation": "Reduktimi i PGA-së në PGAL kërkon dy gjëra njëkohësisht: energji nga ATP-ja, e cila e fosforilon molekulën, dhe hidrogjene nga NADPH-ja, e cila e redukton atë. Të dyja vijnë nga faza dritore, prandaj cikli ndalon shpejt në errësirë të plotë. FADH2 dhe NADH janë bartës të frymëmarrjes qelizore dhe nuk përdoren në fotosintezë; CO2 është lëndë e parë e fiksimit, jo agjent reduktues."
+  },
+  {
+    "id": "bio-ciklet-161",
+    "question": "Gjatë frymëmarrjes aerobe, fosforilimi në nivel substrati ndodh në:",
+    "answers": [
+      "ciklin Krebsit dhe reaksioni i ndërmjetëm",
+      "në STE dhe reaksioni i ndërmjetëm",
+      "glikolizë dhe STE",
+      "glikolizë dhe cikli Krebsit"
+    ],
+    "correct": 3,
+    "explanation": "Fosforilimi në nivel substrati do të thotë kalim i drejtpërdrejtë i një grupi fosfat nga një molekulë e pasur me energji te ADP-ja; kjo ndodh në glikolizë (4 ATP të prodhuara, 2 neto) dhe në ciklin e Krebsit (1 ATP për rrotullim, 2 për glukozë). Në STE ATP-ja formohet me mekanizëm kimiosmotik, pra fosforilim oksidativ, ndërsa reaksioni i ndërmjetëm nuk prodhon fare ATP direkt."
+  },
+  {
+    "id": "bio-ciklet-162",
+    "question": "Kur elektronet kalojnë përgjatë zinxhirit të transportit të elektroneve në mitokondri, cili nga ndryshimet e mëposhtme do të ndodhë?",
+    "answers": [
+      "Mjedisi në hapësirën ndërmembranore bëhet acid (ulet pH)",
+      "ATP-sintaza pompon protonet me transport aktiv",
+      "Mjedisi në matriks bëhet acid (ulet pH)",
+      "Elektronet fitojnë energji të lirë"
+    ],
+    "correct": 0,
+    "explanation": "Protonet nxirren nga matriksi dhe grumbullohen në hapësirën ndërmembranore, prandaj aty përqendrimi i H+ rritet dhe pH-i bie (mjedisi acidifikohet), ndërsa matriksi bëhet më bazik. ATP-sintetaza nuk pompon por lejon rrjedhjen pasive të protoneve; dhe elektronet nuk fitojnë energji gjatë rrugës — ato humbin energji të lirë hap pas hapi, dhe pikërisht kjo energji përdoret për pompimin."
+  },
+  {
+    "id": "bio-ciklet-163",
+    "question": "Për një molekulë glukoze, sa molekula NADH dhe sa molekula gaz karbonik formohen gjatë reaksionit të ndërmjetëm:",
+    "answers": [
+      "1 molekulë NADH + 1 molekulë CO2",
+      "2 molekulë NADH + 2 molekulë CO2",
+      "1 molekulë NADH + 2 molekulë CO2",
+      "2 molekulë NADH + 1 molekulë CO2"
+    ],
+    "correct": 1,
+    "explanation": "Një molekulë glukoze jep 2 piruvate në glikolizë, prandaj reaksioni i ndërmjetëm kryhet dy herë. Për çdo piruvat çlirohet 1 CO2 dhe reduktohet 1 NAD+ në NADH, pra për glukozën gjithsej: 2 NADH + 2 CO2. Rregull i dobishëm: sa herë që një hap ndodh 'për piruvat', shumëzoje me 2 kur pyetja flet për glukozën."
+  },
+  {
+    "id": "bio-ciklet-164",
+    "question": "Sa molekula NADH të reduktuara formohen nga 1 molekulë acetil ~ CoA?",
+    "answers": [
+      "3 molekula NADH",
+      "6 molekula NADH",
+      "2 molekula NADH",
+      "1 molekula NADH"
+    ],
+    "correct": 0,
+    "explanation": "Një acetil~CoA nis një rrotullim të vetëm të ciklit të Krebsit, i cili prodhon 3 NADH, 1 FADH2, 1 ATP dhe 2 CO2. Meqë nga një glukozë dalin 2 acetil~CoA, totali për glukozën bëhet 6 NADH. Prandaj përgjigjja 6 do të ishte e saktë vetëm nëse pyetja do të kishte nisur nga glukoza, jo nga një acetil~CoA i vetëm."
+  },
+  {
+    "id": "bio-ciklet-165",
+    "question": "Në kushte fiziologjike, numri total i molekulave të ATP-së që formohen gjatë zbërthimit të glukozës, në frymëmarrjen aerobe është:",
+    "answers": [
+      "38 molekula ATP",
+      "34 molekula ATP",
+      "32 molekula ATP",
+      "28 molekula ATP"
+    ],
+    "correct": 2,
+    "explanation": "Vlera 38 ATP është maksimumi teorik, i llogaritur duke supozuar se asnjë energji nuk humbet. Në qelizën e gjallë një pjesë e gradientit protonik shpenzohet për të transportuar piruvatin dhe fosfatin brenda mitokondrisë dhe për të futur NADH-në citoplazmatike me anë të sistemeve 'lavjerrës'; prandaj fitimi real bie në rreth 30–32 ATP. Prandaj në kushte fiziologjike pranohet vlera 32."
+  },
+  {
+    "id": "bio-ciklet-166",
+    "question": "Në cilin nga proceset e mëposhtme përfshihen citokromet?",
+    "answers": [
+      "Transporti i elektroneve",
+      "Sinteza e elektroneve",
+      "Cikli i Krebsit",
+      "Glikolizës"
+    ],
+    "correct": 0,
+    "explanation": "Citokromet janë proteina me grup hem që përmban hekur; jonet Fe kalojnë vazhdimisht nga Fe³⁺ në Fe²⁺ dhe anasjelltas, duke pranuar e dorëzuar elektrone përgjatë zinxhirit. Prandaj ato janë bartës tipikë të STE-së, si në mitokondri ashtu edhe në kloroplast. Elektronet nuk 'sintetizohen' kurrë; cikli i Krebsit dhe glikoliza punojnë me enzima dhe koenzima të tjera, jo me citokrome."
+  },
+  {
+    "id": "bio-ciklet-167",
+    "question": "Sipas hipotezës kimiosmotike, sinteza e ATP-së realizohet për shkak se:",
+    "answers": [
+      "jonet e hidrogjenit rrjedhin në mënyrë pasive nga hapësira ndërmembranore në matriks përmes kanaleve të krijuara nga ATP-aza",
+      "jonet e hidrogjenit pompohen nga matriksi në hapësirën ndërmembranore përmes ATP-sintetazës",
+      "jonet e hidrogjenit pompohen (transportohen në mënyrë aktive) nga hapësira ndërmembranore në matriks përmes ATP-sintetazës",
+      "protonet pompohen jashtë qelizës përmes ATP-sintetazës"
+    ],
+    "correct": 0,
+    "explanation": "Sipas Mitchell-it, energjia ruhet përkohësisht si gradient protonik: komplekset e STE-së pompojnë H+ jashtë matriksit, dhe kthimi i tyre pasiv — sipas gradientit — nëpër kanalin e ATP-sintetazës e vë enzimën në punë dhe formon ATP. Pra ATP-sintetaza nuk pompon dhe nuk kryen transport aktiv: ajo e shfrytëzon rrjedhjen spontane. Protonet gjithashtu nuk dalin kurrë jashtë qelizës në këtë proces."
+  },
+  {
+    "id": "bio-ciklet-168",
+    "question": "Glikoliza është një proces?",
+    "answers": [
+      "Katabolik anaerob",
+      "Anabolik anaerob",
+      "Katabolik aerob",
+      "Anabolik aerob"
+    ],
+    "correct": 0,
+    "explanation": "Glikoliza është katabolike sepse zbërthen një molekulë të madhe (glukozën) në molekula më të vogla (piruvat) duke liruar energji, dhe është anaerobe sepse asnjë nga hapat e saj nuk përdor oksigjen — prandaj zhvillohet njësoj te qelizat aerobe dhe ato anaerobe. Proceset anabolike, si fotosinteza ose sinteza e proteinave, ndërtojnë molekula të mëdha duke konsumuar energji."
+  },
+  {
+    "id": "bio-ciklet-169",
+    "question": "Miza e uthullës ka në qelizat e saj somatike 4 çifte kromozomesh, kurse miza e zakonshme e shtëpisë ka 6 çifte. Duke konsideruar të gjitha kushtet e tjera të njëjta, në cilin prej këtyre dy llojeve do të prisnit të gjenit më shumë variacion gjenetik në pasardhësit?",
+    "answers": [
+      "Uthullës 16 – Shtëpisë 64",
+      "Uthullës 36 – Shtëpisë 36",
+      "Uthullës 72 – Shtëpisë 36",
+      "Uthullës 16 – Shtëpisë 36"
+    ],
+    "correct": 0,
+    "explanation": "Numri i kombinimeve të mundshme të gametëve jepet nga 2^n: për mizën e uthullës 2⁴ = 16, për mizën e shtëpisë 2⁶ = 64. Prandaj variacioni gjenetik pritet më i madh te miza e shtëpisë, sepse ka më shumë çifte homologësh që shpërndahen në mënyrë të pavarur. Përgjigjet me 36 vijnë nga ngatërrimi i formulës 2^n me n², gabim shumë i shpeshtë."
+  },
+  {
+    "id": "bio-ciklet-170",
+    "question": "Krosingoveri ndodh në:",
+    "answers": [
+      "profazën e mitozës",
+      "profazën I-rë, të mejozës",
+      "profazën II-të, të mejozës",
+      "metafazën I-rë, të mejozës"
+    ],
+    "correct": 1,
+    "explanation": "Krosingoveri kërkon çiftëzimin e kromozomeve homologe në tetrade, dhe kjo ndodh vetëm në profazën e parë të mejozës, ku kromatidet jomotra shkëmbejnë segmente në kiazma. Ky shkëmbim krijon kromozome me kombinime të reja alelesh dhe është burim kryesor i variabilitetit. Në mitozë homologët nuk çiftëzohen; në profazën II nuk ka më homologë; në metafazën I tetradet vetëm rreshtohen."
+  },
+  {
+    "id": "bio-ciklet-171",
+    "question": "Një qelizë ka në anafazën e dytë të mejozës 18 centromerë. Sa molekula ADN-je do të ketë qeliza nënë në metafazën e mitozës?",
+    "answers": [
+      "4",
+      "8",
+      "18",
+      "36"
+    ],
+    "correct": 3,
+    "explanation": "Në anafazën II centromerët janë çarë, prandaj 18 centromerë = 18 kromozome njëkromatidësh në atë qelizë; para ndarjes ajo kishte 9 kromozome dykromatidësh, pra n = 9 dhe qeliza nënë ishte 2n = 18. Nëse kjo qelizë nënë ndahet me mitozë, në metafazë çdo kromozom ka 2 kromatide, pra 18 × 2 = 36 molekula ADN-je."
+  },
+  {
+    "id": "bio-ciklet-172",
+    "question": "Tek femra tek njeriu, çdo muaj në tubat e Fallopit, çlirohet:",
+    "answers": [
+      "një ovocit i rendit I-rë",
+      "ovocit i rendit të II-të",
+      "një ovotid",
+      "një ovul"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë ovulacionit vezorja çliron një ovocit të rendit të dytë, i cili është i bllokuar në metafazën e mejozës II. Ai e përfundon ndarjen e dytë vetëm nëse depërton spermatozoidi; vetëm atëherë formohet ovula e vërtetë dhe trupi i dytë polar. Ovociti i rendit I mbetet në vezore deri para ovulacionit, ndërsa 'ovotid' është term i papërdorur për këtë stad."
+  },
+  {
+    "id": "bio-ciklet-173",
+    "question": "Gjatë mejozës së një qelize diploide me n = 1 kromozome, ndodhin dy ndarje të njëpasnjëshme të bërthamës qelizore dhe citoplazmës. Sa qeliza bija formohen dhe sa kromozome ka secila?",
+    "answers": [
+      "4 me 2 kromozome",
+      "4 me 1 kromozom",
+      "2 me 2 kromozome",
+      "2 me 1 kromozom"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza është diploide me n = 1, pra 2n = 2 kromozome. Mejoza përbëhet gjithnjë nga dy ndarje të njëpasnjëshme dhe jep 4 qeliza bija, të cilat janë haploide, pra me nga 1 kromozom secila. Numri 2 qeliza do t'i takonte mitozës, ndërsa 4 qeliza me 2 kromozome do të thoshte se numri nuk u përgjysmua — gjë e pamundur në mejozë."
+  },
+  {
+    "id": "bio-ciklet-174",
+    "question": "Gjeni FMR-1 tek njeriu ndodhet:",
+    "answers": [
+      "në kromozonin 22",
+      "ne kromozonin 1",
+      "ne kromozonin Y",
+      "ne kromozonin X"
+    ],
+    "correct": 3,
+    "explanation": "Gjeni FMR-1 ndodhet në kromozomin X dhe zgjerimi i tripletit CGG brenda tij shkakton sindromën e X-it të brishtë, një nga shkaqet më të shpeshta trashëgimore të prapambetjes mendore. Meqë gjeni është i lidhur me X-in, meshkujt (XY) preken më rëndë, sepse nuk kanë një kromozom X të dytë që të kompensojë. Kromozomet 1, 22 dhe Y nuk e mbartin këtë gjen."
+  },
+  {
+    "id": "bio-ciklet-175",
+    "question": "Në një molekulë ADN-je, njëri zinxhir përmban vetëm nukleotide radioaktive, ndërsa tjetri përmban nukleotide joradioaktive. Kjo molekulë riprodhohet 3 herë, në një mjedis që përmban vetëm nukleotide joradioaktive. Cila prej përgjigjeve tregon përqindjen e saktë të ADN-së origjinale dhe ADN-së plotësisht joradioaktive?",
+    "answers": [
+      "87.5% ADN origjinale; 12.5% ADN plotësisht joradioaktive",
+      "50% ADN origjinale; 50% ADN plotësisht joradioaktive",
+      "25% ADN origjinale; 75% ADN plotësisht joradioaktive",
+      "12.5% ADN origjinale; 87.5 % ADN plotësisht joradioaktive"
+    ],
+    "correct": 3,
+    "explanation": "Replikimi është gjysmëkonservativ: zinxhiri radioaktik nuk zhduket kurrë, por mbetet i ruajtur në një molekulë të vetme. Pas 3 replikimeve kemi 2³ = 8 molekula; vetëm 1 prej tyre e përmban zinxhirin origjinal radioaktiv, pra 1/8 = 12.5%, ndërsa 7 të tjerat janë tërësisht joradioaktive, pra 7/8 = 87.5%. Sa më shumë replikime, aq më i vogël bëhet përqindja e molekulës që ruan gjurmën origjinale."
+  },
+  {
+    "id": "bio-ciklet-176",
+    "question": "Në qelizat nervore të një personi, një gjen ka dy alele të pranishëm, G dhe g. Për këtë person, cila nga alternativat tregon saktë alelet e pranishme në një qelizë në fillim të mitozës dhe në fillim të mejozës?",
+    "answers": [
+      "Në fillim të mitozës GGgg, në fillim të mejozës GGgg",
+      "Në fillim të mitozës Gg, në fillim të mejozës GGgg",
+      "Në fillim të mitozës GGgg, në fillim të mejozës Gg",
+      "Në fillim të mitozës dhe në fillim të mejozës G ose g"
+    ],
+    "correct": 0,
+    "explanation": "Të dyja ndarjet fillojnë pas fazës S, kur ADN-ja është dyfishuar: çdo alel gjendet në dy kromatide motra identike, prandaj individi Gg hyn si në mitozë ashtu edhe në mejozë me formulën GGgg. Formula Gg e përshkruan qelizën në fazën G1, para replikimit, ndërsa 'G ose g' i takon gametit të përfunduar, pas mejozës."
+  },
+  {
+    "id": "bio-ciklet-177",
+    "question": "Një qelizë diploide, që grumbullin haploid e ka n = 4 kromozome, ndahet me mitozë. Sa kromozome dhe sa kromatide do të ketë secila prej qelizave bija në metafazë?",
+    "answers": [
+      "16 kromozome dhe 8 kromatide",
+      "4 kromozome dhe 8 kromatide",
+      "8 kromozome dhe 8 kromatide",
+      "8 kromozome dhe 16 kromatide"
+    ],
+    "correct": 3,
+    "explanation": "Nga n = 4 rrjedh 2n = 8, dhe mitoza e ruan këtë numër, prandaj çdo qelizë bijë ka 8 kromozome. Kur kjo qelizë bijë hyn në ndarjen e radhës dhe arrin metafazën, ajo ka kaluar një fazë S të re, pra çdo kromozom ka 2 kromatide: 8 × 2 = 16 kromatide. Kombinimi 'më shumë kromozome se kromatide' është gjithnjë i pamundur."
+  },
+  {
+    "id": "bio-ciklet-178",
+    "question": "Qeliza me 3 çifte kromozomesh ndahet me mitozë dhe mejozë. Në fund të anafazës së mitozës dhe anafazës së parë të mejozës, sa kromozome ka qeliza?",
+    "answers": [
+      "12 kromozome anafaza e mitozës, 12 kromozome anafaza e parë",
+      "12 kromozome anafaza e mitozës, 6 kromozome anafaza e parë",
+      "24 kromozome anafaza e mitozës, 12 kromozome anafaza e parë",
+      "24 kromozome anafaza e mitozës, 24 kromozome anafaza e parë"
+    ],
+    "correct": 1,
+    "explanation": "3 çifte do të thotë 2n = 6. Në anafazën e mitozës centromerët çahen dhe numri i kromozomeve dyfishohet përkohësisht: 6 × 2 = 12. Në anafazën e parë të mejozës ndahen homologët dhe centromerët NUK çahen, prandaj numri mbetet 6 (nga 3 kromozome dykromatidësh drejt secilit pol). Ky është dallimi kyç mes dy anafazave dhe pyetja e teston pikërisht atë."
+  },
+  {
+    "id": "bio-ciklet-179",
+    "question": "Duke pasur parasysh cikin jetësor të qelizës, numri i kromozomeve është i njëjtë në:",
+    "answers": [
+      "fazën G1 dhe anafazën e dytë",
+      "profazën dhe anafazën e mitozës",
+      "anafazën e mitozës dhe anafazën e parë të mejozës",
+      "telofazën e mitozës dhe telofazën e parë të mejozës"
+    ],
+    "correct": 0,
+    "explanation": "Në G1 qeliza ka 2n kromozome njëkromatidësh. Në anafazën II qeliza është haploide (n kromozome dykromatidësh), por pas çarjes së centromerëve numri i kromozomeve në të bëhet 2n — pra numerikisht i barabartë me G1 (ndonëse përbërja gjenetike ndryshon). Në anafazën e mitozës numri është 4n, në telofazën e mitozës 2n ndërsa në telofazën I vetëm n, prandaj çiftet e tjera nuk përputhen."
+  },
+  {
+    "id": "bio-ciklet-180",
+    "question": "Lidhur me sasinë e materialit gjenetik, në cilin rast kjo është e njëjtë?",
+    "answers": [
+      "në fazën G2 dhe në fund të telofazës së dytë",
+      "në fazën G1 dhe në fund të anafazës së parë",
+      "në profazën e mitozës dhe metafazën e dytë",
+      "në metafazën e parë dhe anafazën e mitozës"
+    ],
+    "correct": 3,
+    "explanation": "Sasia e ADN-së matet me numrin e molekulave, pra me kromatidet. Në metafazën I kemi 2n kromozome me nga 2 kromatide = 4n molekula ADN-je; në anafazën e mitozës kemi 4n kromozome njëkromatidësh = po 4n molekula ADN-je. Pra sasia është e njëjtë, edhe pse organizimi ndryshon. Në telofazën II sasia bie në n, në G1 është 2n dhe në metafazën II është 2n — prandaj çiftet e tjera nuk barazohen."
+  },
+  {
+    "id": "bio-ciklet-181",
+    "question": "Një qelizë me 4 çifte kromozomesh pëson 2 ndarje, të njëpasnjëshme me mitozë dhe një me mejozë. Sa qeliza formohen në fund dhe sa kromozome ka secila?",
+    "answers": [
+      "16 qeliza me 16 kromozome",
+      "8 qeliza me 4 kromozome",
+      "16 qeliza me 4 kromozome",
+      "4 qeliza me 18 kromozome"
+    ],
+    "correct": 2,
+    "explanation": "4 çifte do të thotë 2n = 8. Dy mitoza radhazi japin 4 qeliza, secila ende me 8 kromozome (mitoza nuk e ndryshon numrin). Më pas secila prej këtyre 4 qelizave hyn në mejozë dhe jep 4 qeliza haploide: 4 × 4 = 16 qeliza, secila me 8 : 2 = 4 kromozome. Pra numri i qelizave shumëzohet, ndërsa numri i kromozomeve përgjysmohet vetëm në hapin mejotik."
+  },
+  {
+    "id": "bio-ciklet-182",
+    "question": "Një qelizë diploide me grumbull haploid n = 6 kromozome, ndahet me mejozë dhe më pas qelizat e formuara pësojnë 2 ndarje të njëpasnjëshme me mitozë. Sa qeliza formohen në fund dhe të ndarjeve dhe sa kromozome ka secila?",
+    "answers": [
+      "16 qeliza me 6 kromozome",
+      "8 qeliza me 12 kromozome",
+      "16 qeliza me 3 kromozome",
+      "4 qeliza me 12 kromozome"
+    ],
+    "correct": 0,
+    "explanation": "Me n = 6 kemi 2n = 12. Mejoza jep 4 qeliza haploide me nga 6 kromozome. Secila prej tyre pëson 2 mitoza radhazi, pra shumëzohet me 4: 4 × 4 = 16 qeliza. Meqë mitoza e ruan numrin, të gjitha mbeten me 6 kromozome. Ky është pikërisht modeli i formimit të gametofitit te bimët: mejozë një herë, pastaj mitoza pa fund."
+  },
+  {
+    "id": "bio-ciklet-183",
+    "question": "Në fazën S të ndërfazës, në qelizë ndodhen 30 centromerë. Sa molekula ADN-je ka qeliza në anafazën e dytë të mejozës dhe metafazën e mitozës?",
+    "answers": [
+      "Në anafazën II ka 60, në metafazë 60",
+      "Në anafazën II ka 30, në metafazë 30",
+      "Në anafazën II ka 15, në metafazë 30",
+      "Në anafazën II ka 30, në metafazë 60"
+    ],
+    "correct": 3,
+    "explanation": "Dyfishimi i ADN-së nuk e shton numrin e centromerëve, prandaj 30 centromerë në fazën S do të thotë 2n = 30. Në metafazën e mitozës çdo kromozom ka 2 kromatide: 30 × 2 = 60 molekula ADN-je. Në anafazën II qeliza është haploide (15 kromozome me 30 kromatide), prandaj përmban 30 molekula ADN-je — numri i molekulave nuk ndryshon kur centromerët çahen, ndryshon vetëm numri i kromozomeve."
+  },
+  {
+    "id": "bio-ciklet-184",
+    "question": "Në cilin stad të mejozës është gameti femëror tek njeriu para pllenimit?",
+    "answers": [
+      "Ka përfunduar ndarjen e II-të mejotike",
+      "Në stadin e ovocitit të rendit të I-rë",
+      "Në metafazën e I-rë, të mejozës",
+      "Në metafazën e II-të, të mejozës"
+    ],
+    "correct": 3,
+    "explanation": "Ovociti i rendit të dytë çlirohet gjatë ovulacionit i bllokuar në metafazën e mejozës II dhe qëndron kështu derisa spermatozoidi të depërtojë; vetëm depërtimi e heq bllokun dhe lejon përfundimin e ndarjes së dytë me formimin e ovulës dhe të trupit të dytë polar. Prandaj para pllenimit mejoza nuk ka përfunduar. Blloku i mëparshëm, në profazën I, zgjat nga jeta fetale deri para ovulacionit."
+  },
+  {
+    "id": "bio-ciklet-185",
+    "question": "Qelizat e Sertolit:",
+    "answers": [
+      "ndihmojnë në kthimin e spermatideve në spermatozoidë",
+      "ndodhen në kanalet seminifere dhe prodhojnë fruktozë",
+      "ndodhen në muret e vezores dhe ushqejnë spermatozoidet",
+      "ndodhen në gypat seminifere dhe prodhojnë testosteron"
+    ],
+    "correct": 0,
+    "explanation": "Qelizat e Sertolit ndodhen brenda gypave seminiferë, i mbështjellin qelizat gjermative, i ushqejnë ato dhe drejtojnë spermiogjenezën — pra kthimin e spermatideve të rrumbullakëta në spermatozoide me kokë e bisht; ato krijojnë edhe barrierën gjak–testikull. Testosteroni prodhohet nga qelizat e Leydigut mes gypave, fruktoza sekretohet nga vezikulat seminale, ndërsa vezorja është organ femëror dhe nuk ka fare qeliza Sertoli."
+  },
+  {
+    "id": "bio-ciklet-186",
+    "question": "Te bimët me lule pllenimi quhet i dyfishtë sepse pllenohet:",
+    "answers": [
+      "bërthama riprodhuese e kokrrizës së polenit nga bërthama dytësore",
+      "qeliza vezë nga njeri anterozoid dhe bërthama dytësore nga tjetri",
+      "embrioni, lënda rezervë dhe qeliza vezë nga kokrriza e polenit",
+      "qelizë vezë dhe bërthamën dytësore nga bërthama vegjetative"
+    ],
+    "correct": 1,
+    "explanation": "Tubi polinik çon dy anterozoidë në trastën embrionale: njëri bashkohet me qelizën vezë dhe formon zigotën diploide (embrionin), tjetri bashkohet me bërthamën dytësore diploide dhe jep endospermën triploide (3n), lëndën ushqyese të farës. Pra ndodhin dy bashkime njëkohësisht — prej këtej vjen emri pllenim i dyfishtë. Bërthama vegjetative nuk merr pjesë në pllenim: ajo vetëm ndërton tubin polinik."
+  },
+  {
+    "id": "bio-ciklet-187",
+    "question": "Azoti i përbërjeve organike i rikthehet atmosferës me ndihmën e baktereve dekompozuese që mundësojnë proçesin e:",
+    "answers": [
+      "denitrifikimit",
+      "amonifikimit",
+      "fiksimit të azotit",
+      "frymëmarrjes aerobe"
+    ],
+    "correct": 0,
+    "explanation": "Vetëm denitrifikimi e kthen azotin në formën e tij të gaztë N2 dhe e çon atë përsëri në atmosferë; bakteret denitrifikuese punojnë në toka të ngjeshura e me pak oksigjen, duke i reduktuar nitratet deri në azot molekular. Amonifikimi është hapi i mëparshëm, që kthen azotin organik në amoniak brenda tokës, jo në atmosferë; fiksimi është procesi i kundërt (N2 → përbërje azotike), ndërsa frymëmarrja aerobe nuk përfshin azotin."
+  },
+  {
+    "id": "bio-ciklet-188",
+    "question": "Ligji i të dhjetit, në prodhueshmërinë e gjallesave në një ekosistem tregon se, kur kalojmë nga një hallkë e zinxhirit ushqimor, në hallkën pasardhëse:",
+    "answers": [
+      "humbet 10% e energjisë që zotëron biomasa paraardhëse",
+      "vetëm 10% e energjisë përdoret për biomasën e re",
+      "përfitohet 90% e energjisë si biomasë e re",
+      "transferohet 10% e energjisë së formuar nga prodhuesit tek dekompozuesit"
+    ],
+    "correct": 1,
+    "explanation": "Nga një nivel trofik te tjetri kalon mesatarisht vetëm rreth 10% e energjisë; pjesa tjetër, rreth 90%, harxhohet për frymëmarrje, lëvizje e nxehtësi ose humbet me jashtëqitjet dhe pjesët e pangrëna. Pikërisht kjo humbje e madhe shpjegon pse zinxhirët ushqimorë kanë rrallë më shumë se 4–5 hallka dhe pse numri i grabitqarëve të mëdhenj është gjithnjë i vogël. Alternativa e parë e përmbys raportin: humbet 90%, jo 10%."
+  },
+  {
+    "id": "bio-ciklet-189",
+    "question": "Rendimenti i fotosintezës (në shkallë planeti) dhe si rrjedhim formimi i biomasës së re është më i madh në ekosistemet:",
+    "answers": [
+      "barishtore",
+      "e kultivuara",
+      "pyjore",
+      "ujore"
+    ],
+    "correct": 3,
+    "explanation": "Ekosistemet ujore mbulojnë rreth 71% të sipërfaqes së planetit dhe fitoplanktoni i tyre, edhe pse i vogël, riprodhohet me shpejtësi të jashtëzakonshme; prandaj në shkallë planetare ato japin sasinë më të madhe të biomasës së re dhe rreth gjysmën e prodhimit primar të Tokës. Kujdes me dallimin: për njësi sipërfaqeje pyjet tropikale janë më prodhimtaret, por sipërfaqja e tyre është shumë më e vogël se ajo e oqeaneve."
+  },
+  {
+    "id": "bio-ciklet-190",
+    "question": "Bakteret e gjinisë Rhizobium:",
+    "answers": [
+      "ndodhen te rrënjët e bishtajoreve dhe fiksojnë azotin atmosferik",
+      "përdoren për të prodhuar antibiotikë dhe integratorë te vitamina",
+      "bashkëjetojnë me rrënjët e drithërave dhe kthejnë azotin në nitrat",
+      "ndihmojnë në dekompozim pasi kthejnë amoniakun në azot"
+    ],
+    "correct": 0,
+    "explanation": "Rhizobium jeton në simbiozë me bishtajoret (bizele, fasule, jonxhë, soja), duke formuar nyje në rrënjët e tyre: bakteri merr sheqerna nga bima dhe në këmbim fikson azotin atmosferik N2 në formë të asimilueshme. Ai nuk bashkëjeton me drithërat, prandaj alternativa e tretë është e gabuar; prodhimi i antibiotikëve u përket kryesisht aktinomiceteve dhe kërpudhave; kthimi i amoniakut në azot atmosferik është punë e baktereve denitrifikuese."
+  }
+]
