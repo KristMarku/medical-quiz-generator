@@ -3,7 +3,9 @@ import "../styles/InfoPanel.css";
 function InfoPanel({ currentNode, onStartQuiz, quizMessage }) {
   return (
     <div className="infoPanel">
-      <h1>{currentNode.title}</h1>
+      <h1 className={currentNode.type === "lesson" ? "topicTitle" : ""}>
+        {currentNode.title}
+      </h1>
 
       <p>{currentNode.description}</p>
 

@@ -35,7 +35,7 @@ function Navigation({ currentNode, history, handleClick, goBack, direction }) {
           {currentNode.children?.map((item) => (
             <button
               key={item.id}
-              className="navButton"
+              className={`navButton ${item.type === "lesson" ? "topicButton" : ""}`}
               onClick={() => handleClick(item)}
             >
               {item.title}
