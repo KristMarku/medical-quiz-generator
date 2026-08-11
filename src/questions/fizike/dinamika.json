@@ -1,1 +1,1228 @@
-[]
+[
+  {
+    "id": "fizika-dinamika-001",
+    "question": "Në figurë paraqiten katër trupa mbi të cilët ushtrohen forca. Trupi që do të ruajë impulsin nën veprimin e këtyre forcave është treguar saktë në figurën:",
+    "image": "/question-images/fizika/dinamika/dinamika-001.png",
+    "imageAlt": "Katër trupa me sisteme forcash të ndryshme, njëri me tri forca në 120°",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Impulsi ruhet vetëm kur rezultantja e forcave është zero. Në figurën 2 tri forcat e barabarta formojnë kënde 120° me njëra-tjetrën, prandaj shuma e tyre vektoriale është zero."
+  },
+  {
+    "id": "fizika-dinamika-002",
+    "question": "Një anije kozmike fluturon në hapësirat ndërplanetare. Papritur motori i saj shuhet. Pas shuarjes së tij, anija:",
+    "answers": ["do të përshpejtojë në drejtimin fillestar", "do të ngadalësojë deri në ndalim", "do të lëvizë pa nxitim", "do të rrotullohet në vend"],
+    "correct": 2,
+    "explanation": "Në hapësirë nuk ka forca rezistente. Sipas parimit të inercisë, pa forcë rezultante trupi vazhdon lëvizjen drejtvizore të njëtrajtshme, pra pa nxitim."
+  },
+  {
+    "id": "fizika-dinamika-003",
+    "question": "Dy blloqe metalike vendosen njëri mbi tjetrin siç tregohet në diagramin më poshtë. Ata lëshohen në vakum, duke rënë së bashku lirisht nën veprimin e fushës gravitacionale të Tokës. Sa është forca që vepron në bllokun metalik 3 kg gjatë rënies?",
+    "image": "/question-images/fizika/dinamika/dinamika-003.png",
+    "imageAlt": "Bllok 2 kg mbi bllok 3 kg",
+    "answers": ["10N", "20N", "30N", "40N"],
+    "correct": 2,
+    "explanation": "Në rënie të lirë të dy blloqet kanë të njëjtin nxitim g, prandaj nuk ngjeshin njëri-tjetrin. Mbi bllokun 3 kg vepron vetëm rëndesa e vet: G = 3·10 = 30N."
+  },
+  {
+    "id": "fizika-dinamika-004",
+    "question": "Një luan vrapon me shpejtësi të madhe për të kapur prenë e tij në prani të fërkimit me ajrin dhe tokën. Luani do të arrijë shpejtësinë maksimale në kushtet kur:",
+    "answers": ["fërkimi është i madh si me ajrin dhe me tokën", "fërkimi është i vogël si me ajrin dhe me tokën", "fërkimi është i madh me ajrin dhe i vogël me tokën", "fërkimi është i vogël me ajrin dhe i madh me tokën"],
+    "correct": 3,
+    "explanation": "Fërkimi me ajrin e ngadalëson lëvizjen, prandaj duhet të jetë sa më i vogël. Fërkimi me tokën është forca që e shtyn luanin përpara (kapja e këmbëve), prandaj duhet të jetë sa më i madh."
+  },
+  {
+    "id": "fizika-dinamika-005",
+    "question": "Cili nga objektet e mëposhtëm ka më pak inertësi?",
+    "answers": ["Një robot me peshë 300 N që udhëton në Hënë.", "Një robot me peshë 300 N që udhëton në Tokë.", "Një shkëmb i palëvizshëm me masë 150 kg në Hënë.", "Një shkëmb i palëvizshëm me masë 150 kg në Tokë."],
+    "correct": 1,
+    "explanation": "Inertësia matet me masën. Roboti 300N në Tokë ka masë 30 kg, ndërsa në Hënë (g≈1,6N/kg) do të kishte rreth 187 kg. Shkëmbinjtë kanë 150 kg. Masa më e vogël është 30 kg."
+  },
+  {
+    "id": "fizika-dinamika-006",
+    "question": "Një nxënës përdor kapëse letre për të balancuar një zog lodër në gishtin e tij siç tregohet në figurë. Kapëset e letrës shërbejnë për të:",
+    "image": "/question-images/fizika/dinamika/dinamika-006.png",
+    "imageAlt": "Zog lodër i balancuar në gisht me kapëse letrash të varura",
+    "answers": ["ngritur qendrën e rëndesës mbi gishtin e tij.", "ngritur qendrën e rëndesës në gishtin e tij.", "ulur qendrën e rëndesës nën gishtin e tij.", "rritur peshën pa ndikuar në qendrën e rëndesës."],
+    "correct": 2,
+    "explanation": "Ekuilibri është i qëndrueshëm kur qendra e rëndesës ndodhet nën pikën e mbështetjes. Kapëset e varura poshtë e ulin qendrën e rëndesës nën gisht."
+  },
+  {
+    "id": "fizika-dinamika-007",
+    "question": "Qëndrueshmëria e ekuilibrit të një autobusi testohet duke e anuar në një rrafsh të pjerrët. Diagrami tregon një autobus që është gati për t'u rrëzuar. Qendra e rëndesës së autobusit ndodhet në pikën:",
+    "image": "/question-images/fizika/dinamika/dinamika-007.png",
+    "imageAlt": "Autobus i anuar në rrafsh të pjerrët me pikat A, B, C dhe D",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 3,
+    "explanation": "Trupi është në kufirin e rrëzimit kur vertikalja nga qendra e rëndesës kalon pikërisht nëpër brinjën e mbështetjes. Kjo ndodh vetëm për pikën D, më të ulëtën, që bie mbi tehun e rrotave."
+  },
+  {
+    "id": "fizika-dinamika-008",
+    "question": "Diagramet tregojnë se si tre blloqet X, Y dhe Z janë të balancuara në një shufër uniforme. Renditja e tre blloqeve sipas radhës në rritje të masës është:",
+    "image": "/question-images/fizika/dinamika/dinamika-008.png",
+    "imageAlt": "Tre diagrame balancimi të blloqeve X, Y dhe Z në shufër me pikëmbështetje",
+    "answers": ["X, Y, Z", "X, Z, Y", "Y, X, Z", "Z, Y, X"],
+    "correct": 2,
+    "explanation": "Në ekuilibër m₁d₁ = m₂d₂, pra masa më e madhe ndodhet më afër pikëmbështetjes. Nga tri diagramet del X > Y, Z > Y dhe Z > X, pra rendi rritës është Y, X, Z."
+  },
+  {
+    "id": "fizika-dinamika-009",
+    "question": "Njeriu që rrëshqet në akull kur rrëzohet bie në drejtim të kundërt të lëvizjes. Kjo ndodh për shkak se gjatë procesit të ndalimit për shkak të inercisë:",
+    "answers": ["trupi lëviz mbrapa", "këmbët lëvizin mbrapa", "trupi vazhdon të lëvizë përpara", "këmbët vazhdojnë të lëvizin përpara"],
+    "correct": 3,
+    "explanation": "Në akull fërkimi është shumë i vogël, prandaj këmbët rrëshqasin dhe vazhdojnë përpara nga inercia, ndërsa pjesa e sipërme e trupit mbetet prapa — kështu njeriu bie mbrapa."
+  },
+  {
+    "id": "fizika-dinamika-010",
+    "question": "Një lavjerrës është ngjitur në tavanin e një kamioni. Kamioni fillimisht po lëviz me shpejtësi konstante përgjatë një rruge të drejtë. Kur frenon kamioni, sfera e lavjerrësit:",
+    "image": "/question-images/fizika/dinamika/dinamika-010.png",
+    "imageAlt": "Kamion në lëvizje me një lavjerrës të varur brenda tij",
+    "answers": ["mbetet në pozicionin e saj fillestar.", "shmanget prapa.", "shmanget përpara.", "lëkundet djathtas dhe majtas."],
+    "correct": 2,
+    "explanation": "Kur kamioni frenon, sfera nga inercia priret të ruajë shpejtësinë e mëparshme, prandaj shmanget përpara në krahasim me kamionin."
+  },
+  {
+    "id": "fizika-dinamika-011",
+    "question": "Një lavjerrës është shmangur nga pozicioni vertikal i ekuilibrit nën veprimin e një force. Diagrami i forcave paraqitet në figurën:",
+    "image": "/question-images/fizika/dinamika/dinamika-011.png",
+    "imageAlt": "Lavjerrës i shmangur nga forca dhe katër trekëndësha vektorialë A, B, C, D",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 2,
+    "explanation": "Trupi është në ekuilibër nën tri forca: rëndesa (vertikale poshtë), forca (horizontale) dhe tensioni i fijes. Diagrami i saktë është trekëndëshi i mbyllur ku vektorët vijohen kokë-bisht, pra figura C."
+  },
+  {
+    "id": "fizika-dinamika-012",
+    "question": "Dy forca prej 30N veprojnë mbi një trup. Në cilin nga rastet kemi vlerën më të vogël të forcës rezultante?",
+    "image": "/question-images/fizika/dinamika/dinamika-012.png",
+    "imageAlt": "Katër raste me dy forca 30N në drejtime të ndryshme",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 0,
+    "explanation": "Rezultantja e dy forcave të barabarta zvogëlohet sa më i madh të jetë këndi midis tyre. Në rastin A forcat janë pothuajse në kahe të kundërta, pra rezultantja është minimale."
+  },
+  {
+    "id": "fizika-dinamika-013",
+    "question": "Ndërkohë që një disk rrotullohet rreth boshtit të vet me shpejtësi konstante, një cilindër i vogël qëndron pa lëvizur mbi sipërfaqen e tij. Gjatë lëvizjes rrethore të cilindrit përreth boshtit, forca rezultante shtrihet sipas drejtimit:",
+    "image": "/question-images/fizika/dinamika/dinamika-013.png",
+    "imageAlt": "Disk rrotullues me cilindër dhe katër drejtime të shënuara 1, 2, 3, 4",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Në lëvizje rrethore të njëtrajtshme rezultantja është forca qendërsynuese, e drejtuar nga qendra e rrethit — pra sipas drejtimit 2."
+  },
+  {
+    "id": "fizika-dinamika-014",
+    "question": "Diagrama e mëposhtme tregon një top me forcë rëndese G, duke u rrokullisur poshtë një rrafshi të ashpër. Diagrama e cila paraqet saktë forcat që veprojnë mbi topin, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-014.png",
+    "imageAlt": "Katër diagrame forcash N, G dhe F për një top mbi rrafsh të pjerrët",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 0,
+    "explanation": "Rëndesa G është vertikale poshtë, reaksioni N pingul me sipërfaqen e rrafshit dhe fërkimi F përgjatë rrafshit, në kah të kundërt me lëvizjen (lart nga pjerrësia). Vetëm diagrami A i paraqet të tria kështu."
+  },
+  {
+    "id": "fizika-dinamika-015",
+    "question": "Mbi një karrocë veprojnë tre forca P, Q dhe R si në figurë. Forca që ekuilibron të tria forcat, do të ketë vlerë:",
+    "image": "/question-images/fizika/dinamika/dinamika-015.png",
+    "imageAlt": "Karrocë me forcat P horizontale, R vertikale dhe Q diagonale",
+    "answers": ["Q", "R", "Q+R", "2Q"],
+    "correct": 3,
+    "explanation": "P dhe R janë përbërëset pingule të Q, prandaj P + R = Q. Rezultantja e të trija bëhet Q + Q = 2Q, pra forca ekuilibruese ka vlerën 2Q."
+  },
+  {
+    "id": "fizika-dinamika-016",
+    "question": "Në figurë tregohet këmba e një sportisti gjatë vrapimit. Forca e fërkimit që vepron mbi këpucën është:",
+    "image": "/question-images/fizika/dinamika/dinamika-016.png",
+    "imageAlt": "Këmbë sportisti me katër drejtime të shënuara 1, 2, 3, 4",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2,
+    "explanation": "Këpuca shtyn rrugën mbrapa, prandaj sipas parimit të veprimit e kundërveprimit rruga e shtyn këpucën përpara — sipas drejtimit të vrapimit, pra drejtimi 3."
+  },
+  {
+    "id": "fizika-dinamika-017",
+    "question": "Tri forca të njëjta veprojnë njëkohësisht mbi një trup. Kombinimi që ka forcën më të madhe rezultante është:",
+    "image": "/question-images/fizika/dinamika/dinamika-017.png",
+    "imageAlt": "Katër kombinime të tri forcave të barabarta mbi një trup",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Rezultantja është maksimale kur forcat kanë drejtime sa më të përafërta. Në kombinimin 2 dy forca kanë të njëjtin kah dhe e treta pingul me to, duke dhënë rezultanten më të madhe; te 4 tri forcat në 120° japin zero."
+  },
+  {
+    "id": "fizika-dinamika-018",
+    "question": "Një parashutist është duke kryer rënie drejt tokës. Në momentin e treguar në figurë lëvizja e tij kryhet:",
+    "image": "/question-images/fizika/dinamika/dinamika-018.png",
+    "imageAlt": "Parashutist në rënie me forcën e rezistencës më të vogël se rëndesa",
+    "answers": ["me nxitim konstant", "me shpejtësi konstante", "me nxitim pozitiv që zvogëlohet", "me nxitim pozitiv që rritet"],
+    "correct": 2,
+    "explanation": "Rezistenca e ajrit është ende më e vogël se rëndesa, prandaj lëvizja është e përshpejtuar. Meqë rezistenca rritet me shpejtësinë, forca rezultante dhe nxitimi zvogëlohen gradualisht."
+  },
+  {
+    "id": "fizika-dinamika-019",
+    "question": "Një kamion i ngarkuar me arka bosh lëviz në një rrugë horizontale të drejtë. Nëse kamioni hyn me shpejtësi në një kthesë majtas, një arkë e palidhur mirë në karrocerinë e tij, do të bjerë:",
+    "answers": ["përpara", "djathtas", "majtas", "mbrapa"],
+    "correct": 1,
+    "explanation": "Nga inercia arka priret të ruajë drejtimin e mëparshëm, ndërsa kamioni kthehet majtas. Prandaj arka zhvendoset nga qendra e kthesës, pra djathtas."
+  },
+  {
+    "id": "fizika-dinamika-020",
+    "question": "Masa e një cope metali u mat nëpërmjet forcëmatësit me sustë dhe peshores me krahë në Tokë, dhe pastaj në Hënë. Rezultatet e matjeve provuan se të dy treguesit ishin të njëjtë në Tokë. Cili ishte rezultati i matjeve në Hënë?",
+    "image": "/question-images/fizika/dinamika/dinamika-020.png",
+    "imageAlt": "Forcëmatës me sustë dhe peshore me krahë duke matur një copë metali",
+    "answers": ["Të dy mjetet treguan të njëjtën vlerë.", "Forcëmatësi tregoi më pak se peshorja me krahë.", "Peshorja tregoi më shumë se forcëmatësi.", "Treguesi i forcëmatësit ishte i paekuilibruar."],
+    "correct": 1,
+    "explanation": "Forcëmatësi me sustë mat peshën, e cila në Hënë është rreth 6 herë më e vogël. Peshorja me krahë krahason masa, prandaj tregon të njëjtën vlerë kudo."
+  },
+  {
+    "id": "fizika-dinamika-021",
+    "question": "Një eksplorator peshoi një sasi orizi kur ndodhej në kampin bazë të ekspeditës në nivelin e detit. Kur ishte në pikën më të lartë të Everestit ai peshoi po atë sasi orizi me të njëjtën peshore me sustë. Rezultati i matjeve në Everest, krahasuar me treguesin e parë ishte:",
+    "answers": ["më i vogël", "i njëjtë", "më i madh", "i paqëndrueshëm"],
+    "correct": 0,
+    "explanation": "Me rritjen e largësisë nga qendra e Tokës, intensiteti i fushës së rëndesës zvogëlohet. Peshorja me sustë mat peshën, prandaj në majë të Everestit tregon më pak."
+  },
+  {
+    "id": "fizika-dinamika-022",
+    "question": "Një arkë me masë 100kg, që ndodhet mbi dysheme, fillon të tërhiqet vertikalisht me anë të kavos së një vinçi me një forcë tensioni 600N. Pesha e arkës akoma pa u shkëputur nga dyshemeja është:",
+    "answers": ["400N", "600N", "1000N", "1600N"],
+    "correct": 0,
+    "explanation": "Rëndesa është 1000N. Kavoja mban 600N, prandaj mbi dysheme mbetet të veprojë 1000 − 600 = 400N — kjo është pesha (forca ngjeshëse mbi mbështetësen)."
+  },
+  {
+    "id": "fizika-dinamika-023",
+    "question": "Cili nga pohimet e mëposhtme përshkruan saktësisht trupin me inertësi më të madhe?",
+    "answers": ["Një vrapues me masë 70kg, që përfundon garën e 100m në kohën 10s.", "Një top me masë 0,2kg, që lëviz me shpejtësi 4 m/s.", "Një plumb me masë 5,6g, që lëviz me shpejtësi 960 m/s.", "Një makinë me masë 700kg, që qëndron në prehje."],
+    "correct": 3,
+    "explanation": "Inertësia varet vetëm nga masa, jo nga shpejtësia. Masa më e madhe është 700 kg, prandaj makina ka inertësi më të madhe edhe pse është në prehje."
+  },
+  {
+    "id": "fizika-dinamika-024",
+    "question": "Inertësia e trupit rritet me rritjen e:",
+    "answers": ["masës", "temperaturës", "ngurtësisë", "pjerrësisë"],
+    "correct": 0,
+    "explanation": "Masa është matësi i inertësisë — sa më e madhe masa, aq më shumë i reziston trupi ndryshimit të gjendjes së lëvizjes."
+  },
+  {
+    "id": "fizika-dinamika-025",
+    "question": "Një forcë F vepron mbi një trup të ngurtë në prehje. Nëse forca që vepron mbi këtë trup do të trefishohet, madhësitë që mbeten konstante janë:",
+    "answers": ["masa dhe nxitimi", "inertësia dhe masa", "dendësia dhe nxitimi", "vetëm dendësia"],
+    "correct": 1,
+    "explanation": "Masa (dhe rrjedhimisht inertësia) është veti e vetë trupit dhe nuk varet nga forca e ushtruar. Nxitimi ndryshon, sepse a = F/m trefishohet."
+  },
+  {
+    "id": "fizika-dinamika-026",
+    "question": "Një tel metalik me gjatësi L u tërhoq derisa gjatësia e tij u dyfishua. Madhësitë që mbeten konstante gjatë këtij procesi janë:",
+    "answers": ["inertësia dhe dendësia", "inertësia dhe trashësia", "trashësia dhe dendësia", "trashësia dhe vëllimi"],
+    "correct": 0,
+    "explanation": "Gjatë tërheqjes masa (pra inertësia) dhe lloji i materialit nuk ndryshojnë, prandaj edhe dendësia mbetet e njëjtë. Trashësia zvogëlohet sepse vëllimi shpërndahet në gjatësi të dyfishtë."
+  },
+  {
+    "id": "fizika-dinamika-027",
+    "question": "Një shkallë qëndron në prehje, mbështetur në një mur dhe dysheme të ashpër. Meqenëse shkalla është në ekuilibër, diagrami i forcave, në pikën X, të mbështetjes në mur është:",
+    "image": "/question-images/fizika/dinamika/dinamika-027.png",
+    "imageAlt": "Shkallë e mbështetur në mur dhe dysheme me katër diagrame forcash",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 3,
+    "explanation": "Në pikën X veprojnë reaksioni normal i murit (horizontal, larg murit) dhe fërkimi me murin (vertikal lart, sepse shkalla priret të rrëshqasë poshtë). Kjo çift arrows tregohet te diagrami 4."
+  },
+  {
+    "id": "fizika-dinamika-028",
+    "question": "Një shkallë qëndron në prehje mbështetur në një mur dhe dysheme të ashpër. Meqenëse shkalla është në ekuilibër, diagrami i forcave, në pikën Y, të mbështetjes në dysheme është:",
+    "image": "/question-images/fizika/dinamika/dinamika-028.png",
+    "imageAlt": "Shkallë e mbështetur në mur dhe dysheme me katër diagrame forcash",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2,
+    "explanation": "Në pikën Y veprojnë reaksioni normal i dyshemesë (vertikal lart) dhe fërkimi horizontal i drejtuar drejt murit, sepse baza e shkallës priret të rrëshqasë larg murit — pra diagrami 3."
+  },
+  {
+    "id": "fizika-dinamika-029",
+    "question": "Në mungesë të fërkimit, trupi në figurë lëviz me nxitim a. Nëse në të njëjtat kushte, forca tërheqëse vepron nën këndin 60°, nxitimi i tij bëhet: (cos 60°=0.5; sin60°=0.866)",
+    "image": "/question-images/fizika/dinamika/dinamika-029.png",
+    "imageAlt": "Trup i tërhequr fillimisht horizontalisht dhe pastaj me forcë nën 60°",
+    "answers": ["2a", "a", "0,866a", "0,5a"],
+    "correct": 3,
+    "explanation": "Vetëm përbërësja horizontale e forcës e nxit lëvizjen: F·cos60° = 0,5F. Prandaj nxitimi bëhet 0,5a."
+  },
+  {
+    "id": "fizika-dinamika-030",
+    "question": "Në mungesë të fërkimit, trupi në figurë lëviz nën veprimin e një force F, të njëjtë me rëndesën e tij. Nëse forca tërheqëse vepron nën këndin 30°, reaksioni normal i mbështetëses bëhet: (cos 30°=0.866; sin30°=0.5)",
+    "image": "/question-images/fizika/dinamika/dinamika-030.png",
+    "imageAlt": "Trup i tërhequr me forcë F nën këndin 30° mbi horizontalen",
+    "answers": ["3G/2", "G", "G/2", "G/4"],
+    "correct": 2,
+    "explanation": "Përbërësja vertikale e forcës e ngre trupin: N = G − F·sin30° = G − 0,5G = G/2."
+  },
+  {
+    "id": "fizika-dinamika-031",
+    "question": "Një punëtor shtyn një arkë me një forcë sa dyfishi i forcës së rëndesës së saj, sipas një këndi 30°, si në figurë. Arka e ngjesh mbështetësen me një forcë të barabartë me: (cos 30°=0.866; sin30°=0.5)",
+    "image": "/question-images/fizika/dinamika/dinamika-031.png",
+    "imageAlt": "Punëtor që shtyn një arkë me forcë nën këndin 30° poshtë horizontales",
+    "answers": ["3G", "2G", "1,5G", "G"],
+    "correct": 1,
+    "explanation": "Forca shtyhet poshtë, prandaj përbërësja vertikale mblidhet me rëndesën: N = G + 2G·sin30° = G + G = 2G."
+  },
+  {
+    "id": "fizika-dinamika-032",
+    "question": "Në figurë paraqitet varësia e shpejtësisë nga koha për një trup me masë M, që ngjitet me ashensor. Vlera e peshës së këtij trupi në ngjitje, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-032.png",
+    "imageAlt": "Grafik v–t me vijë horizontale (shpejtësi konstante)",
+    "answers": ["zero", "Mg", "më e madhe se Mg", "më e vogël se Mg"],
+    "correct": 1,
+    "explanation": "Grafiku tregon shpejtësi konstante, pra nxitimi është zero. Kur a = 0, pesha është e barabartë me rëndesën: P = Mg."
+  },
+  {
+    "id": "fizika-dinamika-033",
+    "question": "Në figurë paraqitet një sferë me masë M, që lëviz nëpër një trajektore të përkulur me rreze R. Vlera e peshës së sferës në pikën më të lartë të trajektores është:",
+    "image": "/question-images/fizika/dinamika/dinamika-033.png",
+    "imageAlt": "Sferë në pikën më të lartë të një trajektoreje të mysët me rreze R",
+    "answers": ["zero", "Mg", "më e madhe se Mg", "më e vogël se Mg"],
+    "correct": 3,
+    "explanation": "Në kreshtë forca qendërsynuese drejtohet poshtë: Mg − N = Mv²/R, prandaj N = Mg − Mv²/R < Mg. Trupi ndodhet në gjendje mbipeshe të zvogëluar."
+  },
+  {
+    "id": "fizika-dinamika-034",
+    "question": "Në figurë paraqitet një trup me masë M, që lëviz nëpër një trajektore të përkulur me rreze R. Vlera e peshës së trupit në pikën më të ulët të trajektores, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-034.png",
+    "imageAlt": "Trup në pikën më të ulët të një trajektoreje të lugët me rreze R",
+    "answers": ["zero", "Mg", "më e madhe se Mg", "më e vogël se Mg"],
+    "correct": 2,
+    "explanation": "Në pikën më të ulët forca qendërsynuese drejtohet lart: N − Mg = Mv²/R, pra N = Mg + Mv²/R > Mg."
+  },
+  {
+    "id": "fizika-dinamika-035",
+    "question": "Një lavjerrës qëndron i varur brenda një kamioni në lëvizje si në figurë. Gjatë ndalimit të kamionit, rezultantja e forcave që veprojnë mbi sferën, drejtohet:",
+    "image": "/question-images/fizika/dinamika/dinamika-035.png",
+    "imageAlt": "Kamion në lëvizje me lavjerrës të varur brenda",
+    "answers": ["përpara", "mbrapa", "lart", "poshtë"],
+    "correct": 1,
+    "explanation": "Gjatë ndalimit sfera duhet të ngadalësohet bashkë me kamionin, pra nxitimi i saj është në kah të kundërt me lëvizjen. Sipas F = ma, rezultantja drejtohet mbrapa."
+  },
+  {
+    "id": "fizika-dinamika-036",
+    "question": "Një atlet, një makinë dhe një kamion lëvizin me të njëjtën shpejtësi në rrugë. Vlerat e forcës së rezistencës së ajrit R, që vepron mbi secilin prej tyre, plotësojnë kushtin:",
+    "answers": ["Ra < Rm < Rk", "Ra < Rm = Rk", "Ra > Rm = Rk", "Ra = Rm = Rk"],
+    "correct": 0,
+    "explanation": "Me shpejtësi të njëjtë, rezistenca e ajrit varet nga sipërfaqja frontale. Atleti e ka më të voglën, kamioni më të madhen: Ra < Rm < Rk."
+  },
+  {
+    "id": "fizika-dinamika-037",
+    "question": "Dy patinatorë me masa 40kg dhe 50kg rrotullohen mbi patina, duke u kapur nga të dyja duart rreth një qendre të përbashkët. Raporti R₁/R₂ i rrezeve të rrathëve që ata përshkojnë, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-037.png",
+    "imageAlt": "Dy patinatorë të kapur për duarsh që rrotullohen rreth një qendre të përbashkët",
+    "answers": ["2", "1,25", "0,8", "0,64"],
+    "correct": 1,
+    "explanation": "Qendra e përbashkët është qendra e masave: m₁R₁ = m₂R₂. Prandaj R₁/R₂ = m₂/m₁ = 50/40 = 1,25."
+  },
+  {
+    "id": "fizika-dinamika-038",
+    "question": "Një forcë tërheqëse F vepron mbi trupin me masë m, që është lidhur nëpërmjet një fijeje të pazgjatshme dhe pa masë me trupin me masë M > m. Trupat ndodhen mbi një sipërfaqe të lëmuar. Në qoftë se forca do të ushtrohet mbi trupin me masë M, tensioni i fijes krahasuar me rastin e parë:",
+    "image": "/question-images/fizika/dinamika/dinamika-038.png",
+    "imageAlt": "Dy trupa M dhe m të lidhur me fije, të tërhequr nga anë të ndryshme",
+    "answers": ["do të rritet", "do të mbetet i njëjtë", "do të zvogëlohet", "do të bëhet zero"],
+    "correct": 2,
+    "explanation": "Tensioni tërheq vetëm trupin që ndodhet pas fijes: në rastin e parë T = MF/(M+m), në të dytin T = mF/(M+m). Meqë m < M, tensioni zvogëlohet."
+  },
+  {
+    "id": "fizika-dinamika-039",
+    "question": "Një nxënës peshoi një copë shkëmb në tre vende të ndryshme: në Ekuator, në Polin e Veriut dhe në Polin e Jugut. Vlerat e peshës së shkëmbit, të matura prej tij, plotësojnë kushtin:",
+    "answers": ["Pe < Pv < PJ", "Pe < Pv = PJ", "Pe > Pv = PJ", "Pe > Pv > PJ"],
+    "correct": 1,
+    "explanation": "Në Ekuator rrezja e Tokës është më e madhe dhe rrotullimi e zvogëlon peshën, prandaj Pe është më e vogla. Të dy polet janë simetrikë, pra Pv = PJ."
+  },
+  {
+    "id": "fizika-dinamika-040",
+    "question": "Në figurë tregohet varësia e forcës F që vepron mbi një trup në funksion të kohës. Ndryshimi i impulsit të trupit nga dy në tetë sekonda është:",
+    "image": "/question-images/fizika/dinamika/dinamika-040.png",
+    "imageAlt": "Grafik F–t me forcë konstante 10N nga 0 deri në 8 sekonda",
+    "answers": ["80kgm/s", "60kgm/s", "40kgm/s", "20kgm/s"],
+    "correct": 1,
+    "explanation": "Δp = F·Δt = sipërfaqja nën grafik: 10N · (8−2)s = 60 kg·m/s."
+  },
+  {
+    "id": "fizika-dinamika-041",
+    "question": "Dy trupa me masë mB = 4mA zbresin në mungesë të fërkimit, në të njëjtin rrafsh me kënd pjerrësie 30°. Raporti i nxitimeve të tyre aA/aB është:",
+    "answers": ["4", "1", "0,5", "0,25"],
+    "correct": 1,
+    "explanation": "Në rrafsh pa fërkim a = g·sinθ, e cila nuk varet nga masa. Prandaj të dy trupat kanë të njëjtin nxitim dhe raporti është 1."
+  },
+  {
+    "id": "fizika-dinamika-042",
+    "question": "Dy karroca me masë m₁=2m₂ që lëvizin përballë njëra-tjetrës, goditen dhe pas goditjes qendrore ndalojnë. Raporti i shpejtësive v₁/v₂ para goditjes është:",
+    "answers": ["0,5", "1", "1,5", "2"],
+    "correct": 0,
+    "explanation": "Që impulsi i plotë të jetë zero: m₁v₁ = m₂v₂. Prandaj v₁/v₂ = m₂/m₁ = 1/2 = 0,5."
+  },
+  {
+    "id": "fizika-dinamika-043",
+    "question": "Një sferë plastike bie lirisht në vakum dhe pastaj bie në prani të ajrit. Ndryshimi i impulsit të saj për çdo sekondë është:",
+    "answers": ["zero si në ajër dhe në vakum", "më i vogël në ajër se në vakum", "i njëjtë si në ajër dhe në vakum", "më i madh në ajër se në vakum"],
+    "correct": 1,
+    "explanation": "Δp/Δt është forca rezultante. Në vakum ajo është mg, ndërsa në ajër mg − Fr, pra më e vogël."
+  },
+  {
+    "id": "fizika-dinamika-044",
+    "question": "Gjatë rënies së një sfere plastike në zbrazëti ndryshimi i impulsit të saj në çdo sekondë:",
+    "answers": ["zvogëlohet", "rritet", "mbetet konstant", "është zero"],
+    "correct": 2,
+    "explanation": "Në zbrazëti vepron vetëm rëndesa, e cila është konstante. Meqë Δp/Δt = mg, ndryshimi i impulsit për sekondë mbetet konstant."
+  },
+  {
+    "id": "fizika-dinamika-045",
+    "question": "Gjatë rënies së një sfere plastike në ujë, ndryshimi i impulsit të saj në çdo sekondë:",
+    "answers": ["zvogëlohet", "rritet", "nuk ndryshon", "është zero"],
+    "correct": 0,
+    "explanation": "Me rritjen e shpejtësisë rritet edhe rezistenca e ujit, prandaj forca rezultante — dhe bashkë me të Δp/Δt — zvogëlohet derisa arrihet shpejtësia kufi."
+  },
+  {
+    "id": "fizika-dinamika-046",
+    "question": "Karrocat K dhe L janë të lidhura së bashku nëpërmjet një suste të ngjeshur me anë të një fije të pazgjatshme dhe ndodhen në prehje. Masa e karrocës K është sa dyfishi i masës së karrocës L. Pasi fija digjet dhe susta lëshohet, karroca K lëviz me nxitim 2m/s², ndërsa karroca L lëviz:",
+    "image": "/question-images/fizika/dinamika/dinamika-046.png",
+    "imageAlt": "Karrocat K dhe L të lidhura me një sustë të ngjeshur",
+    "answers": ["majtas me nxitim 2m/s²", "majtas me nxitim 4m/s²", "djathtas me nxitim 2m/s²", "djathtas me nxitim 4m/s²"],
+    "correct": 3,
+    "explanation": "Susta ushtron forca të barabarta e të kundërta: mK·aK = mL·aL. Meqë mK = 2mL, del aL = 2·2 = 4 m/s², në kah të kundërt me K — pra djathtas."
+  },
+  {
+    "id": "fizika-dinamika-047",
+    "question": "Një djalë në Tokë mund të ngrejë arkën 8kg dhe të tërheqë me vështirësi një fuçi 50kg. Në qoftë se do të ndodhej në Hënë, në të njëjtat kushte fërkimi, djali:",
+    "answers": ["mund të ngrejë të njëjtën arkë dhe të tërheqë të njëjtën fuçi.", "mund të ngrejë një arkë më të rëndë dhe të tërheqë të njëjtën fuçi.", "mund të ngrejë një arkë të njëjtë dhe të tërheqë një fuçi më të rëndë.", "mund të ngrejë një arkë më të lehtë dhe të tërheqë një fuçi më të lehtë."],
+    "correct": 1,
+    "explanation": "Ngritja kundërshton peshën, e cila në Hënë është shumë më e vogël — pra mund të ngrejë masë më të madhe. Tërheqja kundërshton fërkimin, i cili sipas kushtit mbetet i njëjtë."
+  },
+  {
+    "id": "fizika-dinamika-048",
+    "question": "Katër forca identike veprojnë mbi një trup si në figurë. Forca që ushtron efektin më të madh rrotullues rreth boshtit O është:",
+    "image": "/question-images/fizika/dinamika/dinamika-048.png",
+    "imageAlt": "Trup trekëndor me boshtin O dhe katër forca identike 1, 2, 3, 4",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 3,
+    "explanation": "Momenti M = F·d, ku d është largësia pingule e drejtëzës së forcës nga O. Forca 4 vepron në kulmin e sipërm horizontalisht, me krah 5m — më i madhi nga të gjithë."
+  },
+  {
+    "id": "fizika-dinamika-049",
+    "question": "Një forcë tërheqëse prej 3N bën që një makinë lodër të përshpejtohet në një sipërfaqe horizontale. Fërkimi ndërmjet sipërfaqes dhe makinës lodër është 1N. Kur forca tërheqëse zvogëlohet në 1N makina do të:",
+    "answers": ["vazhdojë të përshpejtojë.", "ngadalësohet.", "lëvizë me shpejtësi konstante.", "ndalojë së lëvizuri."],
+    "correct": 2,
+    "explanation": "Me F = 1N forca tërheqëse barazohet me fërkimin, pra rezultantja bëhet zero. Sipas parimit të parë, trupi vazhdon me shpejtësi konstante."
+  },
+  {
+    "id": "fizika-dinamika-050",
+    "question": "Një fletë letre ka qendrën e gravitetit në X. Cili diagram tregon saktë vendosjen e saj kur varet në një fije?",
+    "image": "/question-images/fizika/dinamika/dinamika-050.png",
+    "imageAlt": "Katër diagrame të një flete të varur në fije me qendrën e gravitetit X",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Në ekuilibër qendra e gravitetit duhet të ndodhet pikërisht në vertikalen që kalon nga pika e varjes. Kjo tregohet vetëm te diagrami 2."
+  },
+  {
+    "id": "fizika-dinamika-051",
+    "question": "Një shkallë mbështetet mbi një dysheme të ashpër dhe pas një muri të ashpër. Rëndesa e saj G vepron në qendrën e gravitetit C. Forcat X dhe Y janë rezultantet e forcave që veprojnë në pikat e mbështetjes. Cili trekëndësh vektorial paraqet forcat në shkallë?",
+    "image": "/question-images/fizika/dinamika/dinamika-051.png",
+    "imageAlt": "Shkallë me forcat X, Y, G dhe katër trekëndësha vektorialë",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 2,
+    "explanation": "Tri forcat në ekuilibër duhet të formojnë një trekëndësh të mbyllur me vektorët kokë-bisht. Vetëm trekëndëshi C i plotëson të dyja kushtet e drejtimit dhe të mbylljes."
+  },
+  {
+    "id": "fizika-dinamika-052",
+    "question": "Në figurë tregohet një forcë me vlerë F që vepron në pika të ndryshme të dorezës së derës. Në cilin rast momenti i forcës është më i madh?",
+    "image": "/question-images/fizika/dinamika/dinamika-052.png",
+    "imageAlt": "Katër raste të një force F të aplikuar në pika të ndryshme të dorezës",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 3,
+    "explanation": "M = F·d, ku d është krahu i forcës. Momenti është maksimal kur forca vepron në skajin më të largët të dorezës dhe është pingul me të — rasti D."
+  },
+  {
+    "id": "fizika-dinamika-053",
+    "question": "Një bërthamë në prehje zbërthehet në dy bërthama të reja pa humbje energjie. Bërthama e parë e ka masën sa 3/4 e bërthamës fillestare. Raporti i shpejtësive v₁/v₂ të produkteve të përftuara është:",
+    "answers": ["1/3", "3/4", "4/3", "3"],
+    "correct": 0,
+    "explanation": "Impulsi i plotë ruhet dhe është zero: m₁v₁ = m₂v₂. Meqë m₁ = 3M/4 dhe m₂ = M/4, del v₁/v₂ = m₂/m₁ = 1/3."
+  },
+  {
+    "id": "fizika-dinamika-054",
+    "question": "Një makinë pasi doli nga një kthesë në rrugë, hyri me shpejtësi dy herë më të vogël në një kthesë të dytë, me rreze sa dyfishi i rrezes së kthesës së parë. Forca qendërsynuese mbi makinën në kthesën e parë është F, ndërsa në kthesën e dytë është:",
+    "answers": ["F/8", "F/4", "4F", "8F"],
+    "correct": 0,
+    "explanation": "F = mv²/r. Shpejtësia përgjysmohet (v²/4) dhe rrezja dyfishohet, prandaj F' = F/(4·2) = F/8."
+  },
+  {
+    "id": "fizika-dinamika-055",
+    "question": "Forca e Arkimedit e ushtruar nga rrjedhësi mbi një trup që ndodhet brenda tij, varet nga:",
+    "answers": ["Sipërfaqja e bazës së enës", "Vëllimi i lëngut në enë", "Vëllimi i pjesës së zhytur të trupit", "Temperatura e lëngut në enë"],
+    "correct": 2,
+    "explanation": "FA = ρ·g·V_zhytur — varet nga dendësia e lëngut dhe nga vëllimi i pjesës së zhytur të trupit, jo nga forma e enës apo sasia e lëngut."
+  },
+  {
+    "id": "fizika-dinamika-056",
+    "question": "Në pistonin e madh të një prese hidraulike me vaj, vepron një forcë ngjeshëse prej 80N. Pohimi i vërtetë në lidhje me gjendjen e presës, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-056.png",
+    "imageAlt": "Prese hidraulike me pistonin K (40cm²) dhe pistonin L (2cm²)",
+    "answers": ["Forca e ushtruar në pistonin L do të jetë 1600N.", "Pistoni K do të lëvizë në një distancë më të gjatë.", "Shtypja është e njëjtë si në pistonin K dhe L.", "Shtypja në pistonin K është më e vogël se tek L."],
+    "correct": 2,
+    "explanation": "Sipas ligjit të Paskalit shtypja përcillet e pandryshuar në të gjitha drejtimet, pra është e njëjtë te të dy pistonët. Forca te L është 80·2/40 = 4N, jo 1600N, dhe pistoni i vogël lëviz më shumë."
+  },
+  {
+    "id": "fizika-dinamika-057",
+    "question": "Cili grafik paraqet saktësisht varësinë e intensitetit të fushës gravitacionale të Tokës në funksion të largësisë nga qendra e saj, për largësi më të mëdha se rrezja tokësore?",
+    "image": "/question-images/fizika/dinamika/dinamika-057.png",
+    "imageAlt": "Katër grafikë g–R me forma të ndryshme",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 3,
+    "explanation": "Jashtë Tokës g = GM/R², pra zvogëlohet me katrorin e largësisë. Kjo jep një kurbë zbritëse hiperbolike — grafiku D."
+  },
+  {
+    "id": "fizika-dinamika-058",
+    "question": "Në figurën 1 tregohet grafiku i varësisë së shpejtësisë nga koha për një parashutist në rënie. Cila pikë e grafikut paraqet saktësisht gjendjen në të cilën ndodhet parashutisti sipas forcave që veprojnë mbi të si në figurën 2?",
+    "image": "/question-images/fizika/dinamika/dinamika-058.png",
+    "imageAlt": "Grafik v–t me pikat A, B, C, D dhe diagram forcash për parashutistin",
+    "answers": ["Pika A", "Pika B", "Pika C", "Pika D"],
+    "correct": 0,
+    "explanation": "Në figurën 2 rezistenca e ajrit është dukshëm më e vogël se rëndesa, pra lëvizja është e përshpejtuar. Kjo i përgjigjet pjesës në ngjitje të grafikut — pika A."
+  },
+  {
+    "id": "fizika-dinamika-059",
+    "question": "Një parashutist bie drejt Tokës. Lëvizja e tij menjëherë pas hapjes së parashutës, kryhet me nxitim:",
+    "answers": ["zero", "konstant, i drejtuar poshtë", "të ndryshueshëm, i drejtuar sipër", "të ndryshueshëm, i drejtuar poshtë"],
+    "correct": 2,
+    "explanation": "Sapo hapet parashuta, rezistenca e ajrit tejkalon rëndesën, pra rezultantja dhe nxitimi drejtohen lart (ngadalësim). Meqë rezistenca varet nga shpejtësia, nxitimi ndryshon."
+  },
+  {
+    "id": "fizika-dinamika-060",
+    "question": "Dy sportistë luajnë në një ditë me erë lojën e badmintonit. Forcat që veprojnë mbi fluturën e badmintonit, gjatë ngjitjes, janë:",
+    "image": "/question-images/fizika/dinamika/dinamika-060.png",
+    "imageAlt": "Dy sportistë duke luajtur badminton",
+    "answers": ["forca e rëndesës, forca e ajrit në lëvizje, reaksioni normal.", "forca e rëndesës, rezistenca e ajrit, reaksioni normal.", "forca e rëndesës, forca e ajrit në lëvizje, rezistenca e ajrit.", "forca e rëndesës, forca goditëse e raketës, rezistenca e ajrit."],
+    "correct": 2,
+    "explanation": "Gjatë fluturimit flutura nuk është më në kontakt me raketën dhe nuk ka mbështetëse, pra nuk ka as forcë goditëse as reaksion normal. Mbeten rëndesa, rezistenca e ajrit dhe forca e erës (ajrit në lëvizje)."
+  },
+  {
+    "id": "fizika-dinamika-061",
+    "question": "Sa është forca që duhet ushtruar mbi një pllakë të sheshtë metalike me rëndesë 30N, për ta mbajtur atë të ngjeshur pas murit, nëse koeficienti i fërkimit me murin është 0,4? (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-061.png",
+    "imageAlt": "Pllakë metalike e ngjeshur pas murit nga një forcë horizontale F",
+    "answers": ["75N", "30N", "15N", "7,5N"],
+    "correct": 0,
+    "explanation": "Fërkimi duhet të balancojë rëndesën: μF = G → F = 30/0,4 = 75N."
+  },
+  {
+    "id": "fizika-dinamika-062",
+    "question": "Në një tub në formë cilindrike me sipërfaqe të prerjes tërthore S=1cm² kemi hedhur 100 cm³ ujë, me dendësi du=1000 kg/m³. Sa është lartësia e kolonës së vajit (dvajit=800 kg/m³), që kur hidhet në enë mbi ujë, e rrit shtypjen e hidrostatike në fundin e enës, me 10%?",
+    "answers": ["1,25cm", "6.5 cm", "12,5cm", "25cm"],
+    "correct": 2,
+    "explanation": "Kolona e ujit ka lartësi 100/1 = 100cm, pra p = 1000·10·1 = 10000Pa. Rritja 10% = 1000Pa. Për vajin: 800·10·h = 1000 → h = 0,125m = 12,5cm."
+  },
+  {
+    "id": "fizika-dinamika-063",
+    "question": "Një top me masë m është i lidhur me anë të një fijeje të pazgjatshme, që kalon nëpër një vrimë të vogël në qendër të tavolinës, me një kub me masë M. Kubi i varur është në ekuilibër, ndërsa topi në tavolinë rrotullohet pa fërkim, sipas një rrethi me rreze R. Bashkë me kubin varen edhe tre kube të njëjtë. Shpejtësia me të cilën duhet rrotulluar topi në mënyrë që trajektorja e tij të mos ndryshojë është:",
+    "image": "/question-images/fizika/dinamika/dinamika-063.png",
+    "imageAlt": "Top që rrotullohet mbi tavolinë, i lidhur me fije nëpër vrimë me një kub të varur",
+    "answers": ["v/2", "v/√2", "√2·v", "2v"],
+    "correct": 3,
+    "explanation": "Tensioni luan rolin e forcës qendërsynuese: mv²/R = Mg. Me katër kube tensioni bëhet 4Mg, pra v'² = 4v² dhe v' = 2v."
+  },
+  {
+    "id": "fizika-dinamika-064",
+    "question": "Një forcëmatës është vendosur midis dy trupave me masë 3kg dhe 5kg. Forca e matur prej tij është 6N. Forca tërheqëse tek trupi 5kg është:",
+    "image": "/question-images/fizika/dinamika/dinamika-064.png",
+    "imageAlt": "Trupat 3kg dhe 5kg të lidhur me forcëmatës, forca F te trupi 5kg",
+    "answers": ["4N", "6N", "10N", "16N"],
+    "correct": 3,
+    "explanation": "Forcëmatësi tërheq trupin 3kg me 6N, pra a = 6/3 = 2 m/s². Për të gjithë sistemin: F = (3+5)·2 = 16N."
+  },
+  {
+    "id": "fizika-dinamika-065",
+    "question": "Një forcëmatës është vendosur midis dy trupave me masë 3kg dhe 5kg. Sa është vlera që tregon ai, nëse forca tërheqëse tek trupi i vogël është 16N?",
+    "image": "/question-images/fizika/dinamika/dinamika-065.png",
+    "imageAlt": "Trupat 3kg dhe 5kg të lidhur me forcëmatës, forca 16N te trupi 3kg",
+    "answers": ["16N", "10N", "6N", "3N"],
+    "correct": 1,
+    "explanation": "a = 16/(3+5) = 2 m/s². Forcëmatësi tërheq vetëm trupin 5kg: T = 5·2 = 10N."
+  },
+  {
+    "id": "fizika-dinamika-066",
+    "question": "Një trup që lëviz me shpejtësi 5m/s, ndalon pas 20m nën veprimin e forcës F. Forca frenuese nëse ai ndalon në të njëjtën largësi, kur shpejtësia fillestare është 20% më e vogël, bëhet:",
+    "answers": ["0,5F", "0,64F", "0,8F", "1,25F"],
+    "correct": 1,
+    "explanation": "Nga v² = 2as del a ∝ v², pra edhe F ∝ v² për të njëjtën largësi. Me v' = 0,8v: F' = 0,64F."
+  },
+  {
+    "id": "fizika-dinamika-067",
+    "question": "Vagoni i katërt i një treni me pesë vagonë nën veprimin e lokomotivës lëviz me nxitim a. Vagoni i fundit, papritur shkëputet nga treni. Nxitimi i vagonit të katërt për të njëjtën forcë tërheqëse bëhet:",
+    "answers": ["a/5", "a/4", "4a/5", "5a/4"],
+    "correct": 3,
+    "explanation": "Me forcë të njëjtë, nxitimi është në përpjesëtim të zhdrejtë me masën. Masa bie nga 5 vagonë në 4, pra a' = a·5/4."
+  },
+  {
+    "id": "fizika-dinamika-068",
+    "question": "Vagoni i katërt i një treni me tetë vagonë nën veprimin e lokomotivës lëviz me nxitim a. Dy vagonët e fundit, papritur shkëputen nga treni. Për të ruajtur të njëjtin nxitim, makinisti e ndryshoi forcën tërheqëse të lokomotivës në vlerën:",
+    "answers": ["0,25F", "0,5F", "0,75F", "2F"],
+    "correct": 2,
+    "explanation": "Për nxitim të njëjtë forca është në përpjesëtim të drejtë me masën. Mbeten 6 nga 8 vagonë, pra F' = F·6/8 = 0,75F."
+  },
+  {
+    "id": "fizika-dinamika-069",
+    "question": "Tre kube metalikë të njëjtë janë lidhur me dy fije të pazgjatshme dhe pa masë. Ata lëvizin mbi një sipërfaqe të lëmuar nën veprimin e forcës F si në figurë. Forca e tensionit të fijes që vepron mbi trupin e parë është:",
+    "image": "/question-images/fizika/dinamika/dinamika-069.png",
+    "imageAlt": "Tre kube të lidhur me fije, të tërhequr nga forca F te kubi 1",
+    "answers": ["3F/2", "F", "2F/3", "F/3"],
+    "correct": 2,
+    "explanation": "a = F/3m. Fija pas kubit të parë tërheq dy kubet e tjera: T = 2m·(F/3m) = 2F/3."
+  },
+  {
+    "id": "fizika-dinamika-070",
+    "question": "Një kamion i vogël me masë 200kg përdoret për transportimin e valixheve në aeroport. Gjatë punës ai tërheq katër vagonë me masë 400kg secili. Nxitimi i lëvizjes së sistemit është 2m/s². Forca e tensionit midis vagonit të parë dhe të dytë është:",
+    "image": "/question-images/fizika/dinamika/dinamika-070.png",
+    "imageAlt": "Kamion i vogël që tërheq katër vagonë valixhesh",
+    "answers": ["800N", "1200N", "2400N", "3600N"],
+    "correct": 2,
+    "explanation": "Pas kësaj lidhjeje mbeten tre vagonë: m = 3·400 = 1200kg. T = m·a = 1200·2 = 2400N."
+  },
+  {
+    "id": "fizika-dinamika-071",
+    "question": "Shpejtësia këndore e një trupi që kryen lëvizje rrethore të njëtrajtshme zmadhohet 3 herë, ndërsa vlera e forcës qendërsynuese rritet me 16N. Forca qendërsynuese për shpejtësinë e parë këndore është:",
+    "answers": ["2N", "4N", "6N", "8N"],
+    "correct": 0,
+    "explanation": "F = mω²r, pra ω×3 e rrit forcën 9 herë. Rritja = 9F − F = 8F = 16N → F = 2N."
+  },
+  {
+    "id": "fizika-dinamika-072",
+    "question": "Një skiator zbret përgjatë një kodrine me akull 10m të gjatë dhe 4m të lartë. Nxitimi i tij gjatë zbritjes është: (g=10m/s²)",
+    "answers": ["2,5m/s²", "4m/s²", "5m/s²", "10m/s²"],
+    "correct": 1,
+    "explanation": "a = g·sinθ = g·(h/l) = 10·(4/10) = 4 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-073",
+    "question": "Në figurë paraqitet varësia e nxitimit nga koha për një trup me masë 4kg që ngjitet me ashensor. Vlera e peshës së këtij trupi në ngjitje është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-073.png",
+    "imageAlt": "Grafik a–t me nxitim konstant 2 m/s²",
+    "answers": ["2N", "32N", "40N", "48N"],
+    "correct": 3,
+    "explanation": "Në ngjitje me nxitim lart: P = m(g + a) = 4·(10 + 2) = 48N — mbipeshë."
+  },
+  {
+    "id": "fizika-dinamika-074",
+    "question": "Në figurë paraqitet varësia e nxitimit nga koha për një trup me masë 10kg që zbret me ashensor. Vlera e peshës së këtij trupi në zbritje është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-074.png",
+    "imageAlt": "Grafik a–t me nxitim konstant 2 m/s²",
+    "answers": ["5N", "32N", "80N", "100N"],
+    "correct": 2,
+    "explanation": "Në zbritje me nxitim poshtë: P = m(g − a) = 10·(10 − 2) = 80N — nënpeshë."
+  },
+  {
+    "id": "fizika-dinamika-075",
+    "question": "Një forcë prej 16N ushtrohet mbi bllokun me masë 1kg të lidhur me fije të pazgjatshme me një bllok tjetër me masë 3kg si në figurë. Blloqet lëvizin mbi sipërfaqe pa fërkim. Forca e tensionit të fijes midis tyre është:",
+    "image": "/question-images/fizika/dinamika/dinamika-075.png",
+    "imageAlt": "Blloqet 3kg dhe 1kg të lidhur me fije, forca 16N te blloku 1kg",
+    "answers": ["4N", "6N", "12N", "16N"],
+    "correct": 2,
+    "explanation": "a = 16/(1+3) = 4 m/s². Fija tërheq bllokun 3kg: T = 3·4 = 12N."
+  },
+  {
+    "id": "fizika-dinamika-076",
+    "question": "Një forcë prej 15N ushtrohet mbi bllokun me masë 3kg të lidhur me fije të pazgjatshme me një bllok tjetër me masë 2kg si në figurë. Blloqet lëvizin mbi sipërfaqe pa fërkim. Forca e tensionit të fijes midis tyre është:",
+    "image": "/question-images/fizika/dinamika/dinamika-076.png",
+    "imageAlt": "Blloqet 3kg dhe 2kg të lidhur me fije, forca 15N te blloku 3kg",
+    "answers": ["6N", "9N", "12N", "16N"],
+    "correct": 0,
+    "explanation": "a = 15/(3+2) = 3 m/s². Fija tërheq bllokun 2kg: T = 2·3 = 6N."
+  },
+  {
+    "id": "fizika-dinamika-077",
+    "question": "Arka në figurë me masë 20kg, lëviz pasi personi e tërheq atë me forcë 100N si në figurë. Forca e fërkimit është 20N. Nxitimi i lëvizjes së trupit është:",
+    "image": "/question-images/fizika/dinamika/dinamika-077.png",
+    "imageAlt": "Person që tërheq një arkë horizontalisht me litar",
+    "answers": ["5m/s²", "4m/s²", "3m/s²", "2m/s²"],
+    "correct": 1,
+    "explanation": "a = (F − Ff)/m = (100 − 20)/20 = 4 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-078",
+    "question": "Një plumb me masë 10g duke lëvizur me shpejtësi 100m/s është ndalur pasi ka përshkruar 20cm në një trung peme. Vlera e forcës rezistente të pemës është: (g=10m/s²)",
+    "answers": ["10N", "250N", "500N", "1000N"],
+    "correct": 1,
+    "explanation": "a = v²/(2s) = 10000/(2·0,2) = 25000 m/s². F = ma = 0,01·25000 = 250N."
+  },
+  {
+    "id": "fizika-dinamika-079",
+    "question": "Një parashutist me masë 80kg në një moment gjatë rënies pa parashutë përshpejton vertikalisht poshtë me nxitim 8m/s². Forca e rezistencës së ajrit që kundërshton rënien është: (g=10m/s²)",
+    "answers": ["160N", "640N", "800N", "1440N"],
+    "correct": 0,
+    "explanation": "mg − R = ma → R = m(g − a) = 80·(10 − 8) = 160N."
+  },
+  {
+    "id": "fizika-dinamika-080",
+    "question": "Një robot kozmik me masë 100kg që ndodhet në Hënë ngjitet nën veprimin e forcës motorike prej 700N. Intensiteti i fushës së rëndesës në Hënë është 1,6N/kg. Në këto kushte nxitimi me të cilin ngjitet roboti është:",
+    "answers": ["10m/s²", "6.4m/s²", "5.4m/s²", "1.6 m/s²"],
+    "correct": 2,
+    "explanation": "a = (F − mg_H)/m = (700 − 100·1,6)/100 = 540/100 = 5,4 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-081",
+    "question": "Një bllok me masë 0,5kg lëviz mbi një sipërfaqe me nxitim 4m/s². Forca e fërkimit është 1N. Vlera e forcës tërheqëse në këto kushte është:",
+    "image": "/question-images/fizika/dinamika/dinamika-081.png",
+    "imageAlt": "Bllok i tërhequr horizontalisht nga forca F mbi një sipërfaqe",
+    "answers": ["1N", "2N", "3N", "4N"],
+    "correct": 2,
+    "explanation": "F − Ff = ma → F = 0,5·4 + 1 = 3N."
+  },
+  {
+    "id": "fizika-dinamika-082",
+    "question": "Një trup me masë 200g, që është duke lëvizur me shpejtësi 6m/s mbi një sipërfaqe horizontale, frenon pasi ka përshkruar distancën 9m. Forca e fërkimit që e detyron atë të ndalojë është: (g=10m/s²)",
+    "answers": ["0,2N", "0,4N", "0,6N", "0,8N"],
+    "correct": 1,
+    "explanation": "a = v²/(2s) = 36/18 = 2 m/s². Ff = ma = 0,2·2 = 0,4N."
+  },
+  {
+    "id": "fizika-dinamika-083",
+    "question": "Një nxënës duke eksperimentuar ngre vertikalisht lart një sferë me masë 400g me anë të një fijeje të pazgjatshme me nxitim 2m/s². Pesha e sferës është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-083.png",
+    "imageAlt": "Sferë e varur në një fije që ngrihet vertikalisht",
+    "answers": ["0,8N", "2N", "4N", "4,8N"],
+    "correct": 3,
+    "explanation": "P = m(g + a) = 0,4·(10 + 2) = 4,8N, sepse nxitimi është i drejtuar lart."
+  },
+  {
+    "id": "fizika-dinamika-084",
+    "question": "Një makinë nis të zhvendoset në një rrugë të drejtë e të sheshtë. Në 5s e para shoferi e rrit në mënyrë konstante shpejtësinë deri në 15m/s. Masa e makinës është 1000kg dhe forca që kundërshton lëvizjen është 600N. Forca lëvizëse e motorit është: (g=10m/s²)",
+    "answers": ["15600N", "15000N", "5000N", "3600N"],
+    "correct": 3,
+    "explanation": "a = 15/5 = 3 m/s². F = ma + Ff = 1000·3 + 600 = 3600N."
+  },
+  {
+    "id": "fizika-dinamika-085",
+    "question": "Një makinë me masë 1200kg përshpejton me nxitim 2m/s². Koeficienti i fërkimit është 0,1. Forca lëvizëse që vepron mbi makinën gjatë përshpejtimit është: (g=10m/s²)",
+    "answers": ["1200N", "2400N", "3600N", "4800N"],
+    "correct": 2,
+    "explanation": "F = ma + μmg = 1200·2 + 0,1·1200·10 = 2400 + 1200 = 3600N."
+  },
+  {
+    "id": "fizika-dinamika-086",
+    "question": "Sfera me masë 1kg lëviz me shpejtësi v₁=7m/s dhe godet një sferë tjetër që lëviz me shpejtësi v₂=2m/s përballë me të. Pas goditjes, të dyja sferat lëvizin së bashku me shpejtësi 1m/s, sipas kahut të shpejtësisë së sferës së parë para goditjes. Masa e sferës së dytë është: (g=10m/s²)",
+    "answers": ["1kg", "2kg", "3kg", "5kg"],
+    "correct": 1,
+    "explanation": "Ruajtja e impulsit: 1·7 − m·2 = (1+m)·1 → 7 − 2m = 1 + m → 3m = 6 → m = 2kg."
+  },
+  {
+    "id": "fizika-dinamika-087",
+    "question": "Trupi me masë 2kg i lidhur me një fije qëndron në prehje mbi një rrafsh të lëmuar me kënd pjerrësie 30°. Vlerat e forcës së tensionit të fijes dhe kundërveprimit të mbështetëses janë përkatësisht: (sin30°=0,5 dhe cos30°=0,8; g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-087.png",
+    "imageAlt": "Trup mbi rrafsh të pjerrët i mbajtur nga një fije e lidhur me murin",
+    "answers": ["16N dhe 20N", "20N dhe 16N", "20N dhe 10N", "10N dhe 16N"],
+    "correct": 3,
+    "explanation": "T = mg·sin30° = 2·10·0,5 = 10N dhe N = mg·cos30° = 2·10·0,8 = 16N."
+  },
+  {
+    "id": "fizika-dinamika-088",
+    "question": "Në figurë tregohet një parashutist në një moment gjatë rënies. Sipas të dhënave në figurë, nxitimi i parashutistit është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-088.png",
+    "imageAlt": "Parashutist me forcë rezistence 1200N lart dhe rëndesë 800N poshtë",
+    "answers": ["-0.5m/s²", "-1.5m/s²", "-2.5m/s²", "-5m/s²"],
+    "correct": 3,
+    "explanation": "m = 800/10 = 80kg. Rezultantja = 1200 − 800 = 400N e drejtuar lart, pra a = 400/80 = 5 m/s² në kah të kundërt me lëvizjen: −5 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-089",
+    "question": "Një kamion lëviz në mënyrë të njëtrajtshme mbi një sipërfaqe horizontale me koeficient fërkimi 0,04 nën veprimin e forcës tërheqëse 2000N. Masa e kamionit është:",
+    "answers": ["10000kg", "7000kg", "5000kg", "4000kg"],
+    "correct": 2,
+    "explanation": "Lëvizje e njëtrajtshme do të thotë F = μmg. Prandaj m = 2000/(0,04·10) = 5000kg."
+  },
+  {
+    "id": "fizika-dinamika-090",
+    "question": "Një kuti hidhet në rrafshin horizontal me shpejtësi fillestare 10m/s dhe pas njëfarë kohe ndalet. Koeficienti i fërkimit është 0,2. Vlera e nxitimit të kutisë është:",
+    "answers": ["–2 m/s²", "–1m/s²", "1m/s²", "2m/s²"],
+    "correct": 0,
+    "explanation": "Vepron vetëm fërkimi: a = −μg = −0,2·10 = −2 m/s². Shenja minus tregon ngadalësim."
+  },
+  {
+    "id": "fizika-dinamika-091",
+    "question": "Një arkë prej dërrase me masë 50kg zhvendoset në mënyrë të njëtrajtshme mbi një sipërfaqe horizontale me koeficient fërkimi 0,2. Forca tërheqëse që vepron mbi të është: (g=10m/s²)",
+    "answers": ["100N", "80N", "50N", "40N"],
+    "correct": 0,
+    "explanation": "Në lëvizje të njëtrajtshme F = Ff = μmg = 0,2·50·10 = 100N."
+  },
+  {
+    "id": "fizika-dinamika-092",
+    "question": "Një makinë me masë 500kg lëviz pa fërkim me nxitim a në një rrugë të sheshtë nën veprimin e forcës F paralel me zhvendosjen. Makina nën veprimin e të njëjtës forcë tërheqëse futet në një pjesë rruge të ashpër me koeficient fërkimi µ. Nxitimi i saj do të ndryshojë në lidhje me nxitimin në pjesën e parë me vlerën: (g=10m/s²)",
+    "answers": ["g", "-g", "µg", "-µg"],
+    "correct": 3,
+    "explanation": "Me fërkim a' = F/m − μg, pra ndryshimi a' − a = −μg — nxitimi zvogëlohet me μg."
+  },
+  {
+    "id": "fizika-dinamika-093",
+    "question": "Një trup rrëshqet nëpër një rrafsh të pjerrët pa fërkim. Raporti i lartësisë h të rrafshit me gjatësinë l të tij, në mënyrë që nxitimi të jetë 2,5 m/s² duhet të jetë: (g=10m/s²)",
+    "answers": ["4", "2,5", "0,5", "0,25"],
+    "correct": 3,
+    "explanation": "a = g·sinθ = g·(h/l) → h/l = a/g = 2,5/10 = 0,25."
+  },
+  {
+    "id": "fizika-dinamika-094",
+    "question": "Nxitimi i një trupi që zbret pa fërkim në rrafshin e pjerrët me kënd 30° është: (sin30°=0,5 dhe cos30°=0,8; g=10m/s²)",
+    "answers": ["6m/s²", "5m/s²", "4m/s²", "2m/s²"],
+    "correct": 1,
+    "explanation": "a = g·sin30° = 10·0,5 = 5 m/s². Nxitimi nuk varet nga masa e trupit."
+  },
+  {
+    "id": "fizika-dinamika-095",
+    "question": "Një trup rrëshqet në rrafshin e pjerrët, me parametra si në figurë, me shpejtësi konstante. Vlera e koeficientit të fërkimit µ me rrafshin është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-095.png",
+    "imageAlt": "Rrafsh i pjerrët me përmasa 30cm, 40cm dhe 50cm",
+    "answers": ["0,5", "0,6", "0,75", "0,8"],
+    "correct": 2,
+    "explanation": "Me shpejtësi konstante mg·sinθ = μmg·cosθ, pra μ = tanθ = 30/40 = 0,75."
+  },
+  {
+    "id": "fizika-dinamika-096",
+    "question": "Një tullumbace e mbushur me helium ngjitet pa nxitim në mungesë të erës. Masa e tullumbaces bashkë me heliumin është 52g dhe dendësia e ajrit 1.3kg/m³. Në qoftë se forca e rezistencës së ajrit nuk merret parasysh vlera e vëllimit të saj është:",
+    "answers": ["0.4m³", "0,04m³", "0,004m³", "0,0004m³"],
+    "correct": 1,
+    "explanation": "Pa nxitim forca e Arkimedit barazon rëndesën: ρ_ajër·V·g = m·g → V = 0,052/1,3 = 0,04 m³."
+  },
+  {
+    "id": "fizika-dinamika-097",
+    "question": "Një anije tërhiqet nga dy varka në ujë të qetë me nxitim 1,25 m/s² nën veprimin e dy varkave, si në figurë. Forca tërheqëse e secilës varkë është 5000N dhe rezistenca dinamike e ujit nuk merret parasysh. Nëse sin45° = cos45° = 0,7 dhe g=10m/s², vlera e masës së anijes është:",
+    "image": "/question-images/fizika/dinamika/dinamika-097.png",
+    "imageAlt": "Anije e tërhequr nga dy varka që formojnë kënde 45° me boshtin",
+    "answers": ["2,8 t", "4 t", "5,6 t", "7,2 t"],
+    "correct": 2,
+    "explanation": "Rezultantja = 2·5000·cos45° = 2·5000·0,7 = 7000N. m = F/a = 7000/1,25 = 5600kg = 5,6t."
+  },
+  {
+    "id": "fizika-dinamika-098",
+    "question": "Një trup në prehje me peshë P e mbajmë në dorë. Nxitimi me të cilin duhet lëvizur dora, në mënyrë që pesha e tij të përgjysmohet është:",
+    "answers": ["g poshtë", "g sipër", "g/2 poshtë", "g/2 sipër"],
+    "correct": 2,
+    "explanation": "P' = m(g − a) = mg/2 → a = g/2, e drejtuar poshtë. Kur nxitimi është poshtë, trupi ndodhet në nënpeshë."
+  },
+  {
+    "id": "fizika-dinamika-099",
+    "question": "Një trup në prehje me peshë P e mbajmë në dorë. Nxitimi me të cilin duhet lëvizur poshtë, në mënyrë që pesha e tij të dyfishohet është:",
+    "answers": ["g sipër", "g poshtë", "g/2 sipër", "g/2 poshtë"],
+    "correct": 0,
+    "explanation": "P' = m(g + a) = 2mg → a = g. Për mbipeshë nxitimi duhet të jetë i drejtuar sipër, jo poshtë."
+  },
+  {
+    "id": "fizika-dinamika-100",
+    "question": "Masa e Hënës është 81 herë më e vogël se masa e Tokës, kurse largësia Tokë-Hënë është R_TH. Një satelit artificial ndodhet në vijën që bashkon të dy trupat dhe tërhiqet njësoj nga të dy. Largësia e pikës ku ndodhet sateliti në lidhje me Hënën është:",
+    "answers": ["R/10", "2R/10", "8R/10", "9R/10"],
+    "correct": 0,
+    "explanation": "Nga M_T/d_T² = M_H/d_H² me M_T = 81M_H del d_T = 9d_H. Meqë d_T + d_H = R, kemi 10d_H = R → d_H = R/10."
+  },
+  {
+    "id": "fizika-dinamika-101",
+    "question": "Një karrocë laboratori lëviz nga e majta në të djathtë me shpejtësi 6m/s dhe godet një karrocë me masë sa trefishi i saj, që lëviz në kah të kundërt me shpejtësi 4m/s. Shpejtësia me të cilën ato lëvizin së bashku, pas goditjes është:",
+    "answers": ["0,5 m/s", "1,5 m/s", "2,5 m/s", "4 m/s"],
+    "correct": 1,
+    "explanation": "m·6 − 3m·4 = 4m·v → (6 − 12)/4 = −1,5. Vlera e shpejtësisë është 1,5 m/s, në kahun e karrocës më të rëndë."
+  },
+  {
+    "id": "fizika-dinamika-102",
+    "question": "Dy karroca me masë 2kg dhe 3kg lëvizin me shpejtësi përkatësisht 6m/s dhe 3m/s majtas. Ato goditen me njëra-tjetrën dhe pas goditjes lëvizin së bashku. Shpejtësia e tyre pas goditjes është:",
+    "image": "/question-images/fizika/dinamika/dinamika-102.png",
+    "imageAlt": "Dy karroca 3kg dhe 2kg që lëvizin majtas me shpejtësi 3 m/s dhe 6 m/s",
+    "answers": ["4.2m/s", "3.6m/s", "3.2m/s", "2.2m/s"],
+    "correct": 0,
+    "explanation": "Të dyja lëvizin në të njëjtin kah: v = (2·6 + 3·3)/(2+3) = 21/5 = 4,2 m/s."
+  },
+  {
+    "id": "fizika-dinamika-103",
+    "question": "Në figurë tregohen dy makina me masë 1000kg dhe 3000kg që goditen me njëra-tjetrën. Makina me masë 1000kg lëviz me shpejtësi 20m/s, ndërsa tjetra është në prehje. Shpejtësia me të cilën do të lëvizin së bashku makinat pas goditjes është:",
+    "image": "/question-images/fizika/dinamika/dinamika-103.png",
+    "imageAlt": "Makinë 1000kg me 20 m/s që godet një kamion 3000kg në prehje",
+    "answers": ["10m/s", "6m/s", "5m/s", "4m/s"],
+    "correct": 2,
+    "explanation": "1000·20 = (1000+3000)·v → v = 20000/4000 = 5 m/s."
+  },
+  {
+    "id": "fizika-dinamika-104",
+    "question": "Një karrocë me masë 0,5kg lëviz me shpejtësi 4 m/s. Ajo goditet me një karrocë me masë 1kg në prehje. Karroca e dytë pas goditjes, lëviz me shpejtësi 0,6m/s. Shpejtësia e karrocës së parë pas goditjes është:",
+    "answers": ["2.8m/s", "1.8m/s", "1.2m/s", "0.8m/s"],
+    "correct": 0,
+    "explanation": "0,5·4 = 0,5·v₁ + 1·0,6 → 2 − 0,6 = 0,5v₁ → v₁ = 2,8 m/s."
+  },
+  {
+    "id": "fizika-dinamika-105",
+    "question": "Një pistoletë lodër me masë 400g, fillimisht në prehje, gjatë qitjes lëshon disa saçma të njëjta me masë 3g secila dhe shpejtësi të njëjtë 8m/s. Pas qitjes pistoleta lëviz mbrapa me shpejtësi 0,6m/s. Numri i saçmave të lëshuara është:",
+    "answers": ["4", "5", "10", "100"],
+    "correct": 2,
+    "explanation": "Impulsi i plotë ruhet: 0,4·0,6 = n·0,003·8 → 0,24 = 0,024n → n = 10."
+  },
+  {
+    "id": "fizika-dinamika-106",
+    "question": "Një punonjës godet një karrocë supermarketi me masë 8kg dhe shpejtësi 5m/s në një grumbull karrocash të njëjta. Pas goditjes lëvizin të gjitha së bashku me shpejtësi 1m/s. Numri i karrocave që kanë qenë në fillim së bashku është:",
+    "answers": ["2", "4", "5", "10"],
+    "correct": 1,
+    "explanation": "8·5 = (8 + 8n)·1 → 40 = 8 + 8n → n = 4 karroca në grumbull."
+  },
+  {
+    "id": "fizika-dinamika-107",
+    "question": "Një trup me masë 5kg është varur nëpërmjet tri fijeve A, B, C si në figurë dhe këndi θ që formon fija A me murin është 30° (sin30°=0,5, cos30°=0,8). Tensioni që vepron në fijen A është:",
+    "image": "/question-images/fizika/dinamika/dinamika-107.png",
+    "imageAlt": "Trup 5kg i varur me tri fije A, B dhe C midis tavanit dhe murit",
+    "answers": ["100N", "80N", "50N", "40N"],
+    "correct": 0,
+    "explanation": "Fija C mban rëndesën 50N. Në nyjë, përbërësja vertikale e A duhet ta balancojë: T_A·sin30° = 50 → T_A = 50/0,5 = 100N."
+  },
+  {
+    "id": "fizika-dinamika-108",
+    "question": "Një trup me masë 5kg është varur nëpërmjet tri fijeve A, B, C si në figurë dhe këndi θ që formon fija A me murin është 30° (sin30°=0,5, cos30°=0,8). Tensioni që vepron në fijen B është:",
+    "image": "/question-images/fizika/dinamika/dinamika-108.png",
+    "imageAlt": "Trup 5kg i varur me tri fije A, B dhe C midis tavanit dhe murit",
+    "answers": ["100N", "80N", "50N", "40N"],
+    "correct": 1,
+    "explanation": "Fija B është horizontale dhe balancon përbërësen horizontale të A: T_B = T_A·cos30° = 100·0,8 = 80N."
+  },
+  {
+    "id": "fizika-dinamika-109",
+    "question": "Tri forca veprojnë në një levë të ngurtë në formë L, që rrotullohet rreth pikës P, si në diagramë. Momenti rezultant i forcave rreth pikës P është:",
+    "image": "/question-images/fizika/dinamika/dinamika-109.png",
+    "imageAlt": "Levë në formë L me boshtin P dhe forcat 15N, 15N dhe 10N",
+    "answers": ["0Nm", "5Nm", "15Nm", "20Nm"],
+    "correct": 1,
+    "explanation": "Momentet: 15N·2m = 30Nm dhe 10N·2m = 20Nm në një kah, kundrejt 15N·3m = 45Nm në kahun tjetër. Rezultantja = 30 + 20 − 45 = 5Nm."
+  },
+  {
+    "id": "fizika-dinamika-110",
+    "question": "Një shufër jo uniforme me rëndesë të panjohur G është e varur nga dy fije siç tregohet në figurë. Tensioni në njërën prej fijeve është 5 N. Sa është tensioni T në fijen tjetër?",
+    "image": "/question-images/fizika/dinamika/dinamika-110.png",
+    "imageAlt": "Shufër jo uniforme e varur nga dy fije me tensionet T dhe 5N",
+    "answers": ["2.5 N", "5.0 N", "7.5 N", "12.5 N"],
+    "correct": 0,
+    "explanation": "Momentet rreth fijes T: G·20cm = 5N·30cm → G = 7,5N. Nga ekuilibri vertikal: T = G − 5 = 2,5N."
+  },
+  {
+    "id": "fizika-dinamika-111",
+    "question": "Një pllakë homogjene metalike, me bosht rrotullimi në qendrën O, ka formën e një drejtkëndëshi të rregullt me përmasa 8m dhe 4m. Pllaka është në ekuilibër nën veprimin e tre forcave që veprojnë në skajet e saj si në figurë. Vlera e forcës F është:",
+    "image": "/question-images/fizika/dinamika/dinamika-111.png",
+    "imageAlt": "Pllakë drejtkëndore 8m x 4m me boshtin O dhe forcat 20N, 10N dhe F",
+    "answers": ["30N", "40N", "50N", "80N"],
+    "correct": 0,
+    "explanation": "Momentet rreth O: 20N·4m = 80Nm dhe 10N·2m = 20Nm në kahe të kundërta, pra mbetet 60Nm. Forca F ka krah 2m: F·2 = 60 → F = 30N."
+  },
+  {
+    "id": "fizika-dinamika-112",
+    "question": "Një kuti me masë 5kg në formë kuboidi ka përmasa 2m x 2,5m x 4m. Shtypja më e madhe e ushtruar nga kutia mbi dysheme, është:",
+    "answers": ["25Pa", "20Pa", "10Pa", "6,25Pa"],
+    "correct": 2,
+    "explanation": "Shtypja është maksimale mbi faqen më të vogël: S = 2·2,5 = 5m². p = 50/5 = 10Pa."
+  },
+  {
+    "id": "fizika-dinamika-113",
+    "question": "Një makinë me masë 1000kg përshpejton nga prehja në mënyrë konstante, duke përshkruar 16m për 4s. Ndryshimi i impulsit të saj gjatë kësaj kohe është:",
+    "answers": ["10000 kg∙m/s", "8000 kg∙m/s", "4000 kg∙m/s", "2000 kg∙m/s"],
+    "correct": 1,
+    "explanation": "s = at²/2 → 16 = a·16/2 → a = 2 m/s², pra v = 8 m/s. Δp = mv = 1000·8 = 8000 kg·m/s."
+  },
+  {
+    "id": "fizika-dinamika-114",
+    "question": "Një top futbolli me masë 1,2kg godet portën me shpejtësi 90km/h dhe kthehet mbrapsht me shpejtësi 72km/h. Goditja zgjat 0,02s. Impulsi i forcës së ushtruar mbi topin është:",
+    "answers": ["6kg∙m/s", "54kg∙m/s", "108kg∙m/s", "194kg∙m/s"],
+    "correct": 1,
+    "explanation": "90km/h = 25m/s dhe 72km/h = 20m/s. Meqë kahu ndryshon, Δp = m(v₁ + v₂) = 1,2·45 = 54 kg·m/s."
+  },
+  {
+    "id": "fizika-dinamika-115",
+    "question": "Dy karroca X dhe Y ngjeshin një sustë me anë të një fijeje të pazgjatshme dhe lëvizin me shpejtësi 1m/s mbi një sipërfaqe të lëmuar si në figurë. Masa e karrocës Y është sa trefishi i masës së karrocës X. Kur fija digjet dhe susta lëshohet, karroca Y lëviz me shpejtësi 0.5m/s në të njëjtin drejtim. Vlera e shpejtësisë së karrocës X pas djegies së fijes është:",
+    "image": "/question-images/fizika/dinamika/dinamika-115.png",
+    "imageAlt": "Karrocat X dhe Y të lidhura me sustë të ngjeshur, në lëvizje me 1 m/s",
+    "answers": ["2.5m/s", "2m/s", "1.5m/s", "1m/s"],
+    "correct": 0,
+    "explanation": "Ruajtja e impulsit: 4m·1 = 3m·0,5 + m·vX → 4 = 1,5 + vX → vX = 2,5 m/s."
+  },
+  {
+    "id": "fizika-dinamika-116",
+    "question": "Një anije kozmike me masë m që ndodhet në sipërfaqen e Tokës në prag të nisjes, tërhiqet prej Tokës me një forcë F. Lartësia nga sipërfaqja e Tokës, në të cilën duhet të jetë anija në mënyrë që forca tërheqëse të zvogëlohet nëntë herë, është:",
+    "answers": ["2R_T", "3R_T", "8R_T", "9R_T"],
+    "correct": 0,
+    "explanation": "F ∝ 1/r². Për ta zvogëluar 9 herë duhet r = 3R_T, pra lartësia mbi sipërfaqe është h = 3R_T − R_T = 2R_T."
+  },
+  {
+    "id": "fizika-dinamika-117",
+    "question": "Një djalë me masë 50kg rrëshqet mbi patina me shpejtësi 2m/s. Djali hedh përpara një top me masë 2,5kg me shpejtësi 6m/s. Shpejtësia e djalit pas hedhjes së topit është:",
+    "answers": ["2.3m/s", "2.1 m/s", "1.9 m/s", "1.8 m/s"],
+    "correct": 3,
+    "explanation": "50·2 = 47,5·v + 2,5·6 → 100 − 15 = 47,5v → v ≈ 1,8 m/s. Topi hidhet përpara, prandaj djali ngadalësohet."
+  },
+  {
+    "id": "fizika-dinamika-118",
+    "question": "Një djalë me masë 50kg rrëshqet mbi patina me shpejtësi 2m/s. Djali hedh mbrapa një top me masë 2,5kg me shpejtësi 4m/s. Shpejtësia e djalit pas hedhjes së topit është:",
+    "answers": ["2.3m/s", "2.1m/s", "1.9m/s", "1.8m/s"],
+    "correct": 0,
+    "explanation": "50·2 = 47,5·v − 2,5·4 → 100 + 10 = 47,5v → v ≈ 2,3 m/s. Topi hidhet mbrapa, prandaj djali përshpejtohet."
+  },
+  {
+    "id": "fizika-dinamika-119",
+    "question": "Mbi raketën me masë m=2t, që e nis fluturimin nga Toka, vepron forca reaktive konstante F= 3·10⁴N. Nxitimi me të cilin lëviz raketa është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-119.png",
+    "imageAlt": "Raketë që ngrihet vertikalisht nga Toka",
+    "answers": ["5m/s²", "10 m/s²", "15 m/s²", "20 m/s²"],
+    "correct": 0,
+    "explanation": "a = (F − mg)/m = (30000 − 2000·10)/2000 = 10000/2000 = 5 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-120",
+    "question": "Një makinë 1200 kg që udhëton me një shpejtësi konstante prej 36km/h, godet një mur dhe ndalon plotësisht në 0,25 s. Forca që vepron mbi makinën gjatë ndalimit është:",
+    "image": "/question-images/fizika/dinamika/dinamika-120.png",
+    "imageAlt": "Makinë që i afrohet një muri tullash",
+    "answers": ["173kN", "100kN", "48kN", "12kN"],
+    "correct": 2,
+    "explanation": "36km/h = 10 m/s. F = mΔv/Δt = 1200·10/0,25 = 48000N = 48kN."
+  },
+  {
+    "id": "fizika-dinamika-121",
+    "question": "Një forcëmatës është vendosur midis dy trupave me masë 1kg dhe 4kg. Sa është vlera që tregon forcëmatësi, nëse forca tërheqëse tek trupi i vogël është 10N dhe tek trupi i madh është 20N?",
+    "image": "/question-images/fizika/dinamika/dinamika-121.png",
+    "imageAlt": "Trupat 4kg dhe 1kg me forcëmatës midis, forca 20N majtas dhe 10N djathtas",
+    "answers": ["2N", "8N", "10N", "12N"],
+    "correct": 3,
+    "explanation": "Rezultantja = 20 − 10 = 10N, pra a = 10/5 = 2 m/s². Për trupin 4kg: 20 − T = 4·2 → T = 12N."
+  },
+  {
+    "id": "fizika-dinamika-122",
+    "question": "Një forcëmatës është vendosur midis dy trupave me masë 1kg dhe 4kg. Sa është vlera që tregon forcëmatësi, nëse forca tërheqëse tek trupi i vogël është 20N dhe tek trupi i madh është 10N?",
+    "image": "/question-images/fizika/dinamika/dinamika-122.png",
+    "imageAlt": "Trupat 1kg dhe 4kg me forcëmatës midis, forca 20N majtas dhe 10N djathtas",
+    "answers": ["18N", "10N", "12N", "8N"],
+    "correct": 0,
+    "explanation": "Rezultantja = 20 − 10 = 10N, pra a = 2 m/s². Për trupin 4kg: T − 10 = 4·2 → T = 18N."
+  },
+  {
+    "id": "fizika-dinamika-123",
+    "question": "Një forcë prej 30N vepron mbi një trup me masë m, që lëviz mbi një sipërfaqe horizontale me koeficient fërkimi 0,2. Nën veprimin e forcës, trupi që ndodhej fillimisht në prehje, zhvendoset me 8m gjatë 4s. Masa e trupit është: (g=10m/s²)",
+    "answers": ["20kg", "12kg", "10kg", "5kg"],
+    "correct": 2,
+    "explanation": "s = at²/2 → 8 = a·16/2 → a = 1 m/s². Nga 30 − 0,2·m·10 = m·1 del 30 = 3m → m = 10kg."
+  },
+  {
+    "id": "fizika-dinamika-124",
+    "question": "Një top bilardoje që lëviz, godet një top tjetër bilardoje që ndodhet në prehje. Pas goditjes, shpejtësia e topit të parë u zvogëlua me 25%, ndërsa topi i dytë lëvizi me shpejtësi 10m/s në të njëjtin drejtim me topin e parë, përpara goditjes. Shpejtësia e topit të parë përpara goditjes ishte:",
+    "answers": ["40 m/s", "40/3 m/s", "20 m/s", "10 m/s"],
+    "correct": 0,
+    "explanation": "Topat e bilardos kanë masa të barabarta: mv = m·0,75v + m·10 → 0,25v = 10 → v = 40 m/s."
+  },
+  {
+    "id": "fizika-dinamika-125",
+    "question": "Në skajin e një platformeje rrotulluese që kryen 6 rrotullime në minutë, qëndron një bllok i vogël prej druri. Koeficienti i fërkimit midis sipërfaqes së platformës dhe bllokut është 0,1. Largësia ku duhet të qëndrojë blloku në mënyrë që të mos bjerë nga platforma është: (π²=10 dhe g=10m/s²)",
+    "answers": ["0,4m", "0,8m", "2m", "2,5m"],
+    "correct": 3,
+    "explanation": "Fërkimi luan rolin e forcës qendërsynuese: μg = ω²r. Me T = 10s, ω² = 4π²/100 = 0,4. Prandaj r = 0,1·10/0,4 = 2,5m."
+  },
+  {
+    "id": "fizika-dinamika-126",
+    "question": "Sa rrotullime në minutë kryen një sferë me masë 200g e lidhur në një fije me gjatësi 50cm nëse forca e tensionit maksimal që duron fija pa u këputur është 1N? (π²=10 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-126.png",
+    "imageAlt": "Sferë e lidhur në fije që rrotullohet në një rreth horizontal",
+    "answers": ["15", "30", "45", "60"],
+    "correct": 1,
+    "explanation": "T = mω²r → 1 = 0,2·ω²·0,5 → ω² = 10. Nga ω = 2πn del n² = 10/(4π²) = 0,25 → n = 0,5 rrot/s = 30 rrotullime në minutë."
+  },
+  {
+    "id": "fizika-dinamika-127",
+    "question": "Gjatësia e krahëve të një sportisteje të hedhjes së çekiçit është 70cm dhe gjatësia e zinxhirit që mban çekiçin është 80cm. Gjatë një minute ajo realizon 6 rrotullime horizontale për t'i dhënë shpejtësinë e duhur çekiçit përpara hedhjes së tij. Masa e çekiçit është 2kg. Forca me të cilën ajo vepron mbi çekiçin gjatë rrotullimit është: (π²=10)",
+    "image": "/question-images/fizika/dinamika/dinamika-127.png",
+    "imageAlt": "Sportiste duke rrotulluar çekiçin para hedhjes",
+    "answers": ["0,6N", "0,8N", "1,2N", "1,4N"],
+    "correct": 2,
+    "explanation": "r = 0,7 + 0,8 = 1,5m. Me T = 10s, ω² = 4π²/100 = 0,4. F = mω²r = 2·0,4·1,5 = 1,2N."
+  },
+  {
+    "id": "fizika-dinamika-128",
+    "question": "Blloku me masë 6kg përshpejtohet si pasojë e sferës së varur në skajin tjetër të fijes me masë 4kg. Masa e fillit është e papërfillshme, fija e pazgjatshme dhe fërkimet nuk merren parasysh. Në këto kushte nxitimi i sferës dhe tensioni i fijes marrin vlerat: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-128.png",
+    "imageAlt": "Bllok 6kg mbi tavolinë i lidhur me fije mbi rrotull me një trup 4kg të varur",
+    "answers": ["4 m/s² dhe 24N", "4 m/s² dhe 16N", "6 m/s² dhe 24N", "6 m/s² dhe 16N"],
+    "correct": 0,
+    "explanation": "a = m₂g/(m₁+m₂) = 4·10/10 = 4 m/s². Tensioni: T = m₂(g − a) = 4·(10 − 4) = 24N."
+  },
+  {
+    "id": "fizika-dinamika-129",
+    "question": "Karroca laboratorike me masë m=10kg, fillimisht në prehje, nën veprimin e forcës horizontale F=30N, lëviz në një shinë horizontale me nxitim 2m/s². Koeficienti i fërkimit me sipërfaqen është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-129.png",
+    "imageAlt": "Karrocë laboratorike e tërhequr horizontalisht nga forca F",
+    "answers": ["0,1", "0,2", "0,3", "0,5"],
+    "correct": 0,
+    "explanation": "F − μmg = ma → 30 − μ·100 = 20 → μ·100 = 10 → μ = 0,1."
+  },
+  {
+    "id": "fizika-dinamika-130",
+    "question": "Një burrë duhet të shtyjë një kuti me peshë 500 N nga toka nëpër një rrafsh të pjerrët për ta ngritur në një platformë. Vlera e forcës minimale të kërkuar është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-130.png",
+    "imageAlt": "Rrafsh i pjerrët me bazë 2.0m dhe lartësi 1.5m drejt një platforme",
+    "answers": ["250N", "300N", "375N", "750N"],
+    "correct": 1,
+    "explanation": "Gjatësia e rrafshit = √(2² + 1,5²) = 2,5m. F = G·h/l = 500·1,5/2,5 = 300N."
+  },
+  {
+    "id": "fizika-dinamika-131",
+    "question": "Sistemi i përbërë nga një kuti me masë 200g e lidhur me një sferë me masë 300g tërhiqet me nxitim 2 m/s² nëpërmjet forcës lëvizëse F, në mungesë të fërkimit. Masa e fijes dhe e rrotullës është e papërfillshme dhe fija është e pazgjatshme. Vlera e forcës që tërheq kutinë është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-131.png",
+    "imageAlt": "Kuti 200g mbi tavolinë e tërhequr nga F, e lidhur mbi rrotull me sferë 300g",
+    "answers": ["1,6N", "2N", "3N", "4N"],
+    "correct": 3,
+    "explanation": "Sfera ngrihet: T = m₂(g + a) = 0,3·12 = 3,6N. Për kutinë: F = T + m₁a = 3,6 + 0,4 = 4N."
+  },
+  {
+    "id": "fizika-dinamika-132",
+    "question": "Një bllok druri shtyhet me forcë që të ngjitet nëpër rrafshin e pjerrët nga pika X deri në pikën Y. Forca e fërkimit që vepron mbi bllokun është 40N. Forca minimale shtytëse që vepron mbi bllokun është:",
+    "image": "/question-images/fizika/dinamika/dinamika-132.png",
+    "imageAlt": "Bllok mbi rrafsh të pjerrët me hipotenuzë 5m, lartësi 2m, rëndesë 150N",
+    "answers": ["100N", "60N", "40N", "20N"],
+    "correct": 0,
+    "explanation": "F = G·sinθ + Ff = 150·(2/5) + 40 = 60 + 40 = 100N."
+  },
+  {
+    "id": "fizika-dinamika-133",
+    "question": "Një makinë me masë 1t lëviz me nxitim 2m/s² dhe pa fërkim në një pjesë rruge të drejtë dhe horizontale. Shoferi ruan të njëjtën forcë tërheqëse, edhe kur makina hyn në një pjesë rruge me koeficient fërkimi 0,05. Në këto kushte nxitimi i makinës merr vlerën:",
+    "answers": ["2m/s²", "1.5m/s²", "1m/s²", "0.5m/s²"],
+    "correct": 1,
+    "explanation": "Nxitimi zvogëlohet me μg = 0,05·10 = 0,5 m/s². Prandaj a' = 2 − 0,5 = 1,5 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-134",
+    "question": "Vajza në figurë tërheq valixhen me masë 10kg nëpërmjet një force 30N që formon këndin 25° me horizontin. Koeficienti i fërkimit me rrugën është 0,25. Në këto kushte vlera e nxitimit të lëvizjes së saj është: (sin25° = 0,4; cos25° = 0,9 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-134.png",
+    "imageAlt": "Vajzë që tërheq një valixhe me dorezë nën këndin 25°",
+    "answers": ["0.5m/s²", "1m/s²", "1.5m/s²", "2m/s²"],
+    "correct": 0,
+    "explanation": "Fx = 30·0,9 = 27N. N = 100 − 30·0,4 = 88N, pra Ff = 0,25·88 = 22N. a = (27 − 22)/10 = 0,5 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-135",
+    "question": "Një arkë druri me masë 28kg tërhiqet në një sipërfaqe horizontale me një forcë 100N që formon këndin 54° me drejtimin horizontal. Sa është koeficienti i fërkimit të arkës me sipërfaqen horizontale, nëse ajo lëviz me shpejtësi konstante? (sin54°=0.8, cos54°=0.6, g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-135.png",
+    "imageAlt": "Arkë e tërhequr nga forca F nën këndin 54° mbi horizontalen",
+    "answers": ["0,2", "0,3", "0,4", "0,5"],
+    "correct": 1,
+    "explanation": "Fx = 100·0,6 = 60N. N = 280 − 100·0,8 = 200N. Me shpejtësi konstante Ff = 60N, pra μ = 60/200 = 0,3."
+  },
+  {
+    "id": "fizika-dinamika-136",
+    "question": "Një punëtor shtyn një arkë me masë 20kg nëpërmjet një force 100N, që formon këndin 30° si në figurë. Arka lëviz me shpejtësi konstante. Koeficienti i fërkimit të arkës me sipërfaqen është: (sin30°=0,5, cos30°=0,8 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-136.png",
+    "imageAlt": "Punëtor që shtyn një arkë me forcë nën këndin 30° poshtë horizontales",
+    "answers": ["0,12", "0,24", "0,32", "0,42"],
+    "correct": 2,
+    "explanation": "Fx = 100·0,8 = 80N. Forca shtyhet poshtë: N = 200 + 100·0,5 = 250N. μ = 80/250 = 0,32."
+  },
+  {
+    "id": "fizika-dinamika-137",
+    "question": "Një punonjëse supermarketi shtyn me forcë 100N një karrocë me masë 20kg si në figurë. Këndi që formon forca me drejtimin horizontal është 30° dhe koeficienti i fërkimit me dyshemenë është 0,2. Në këto kushte, nxitimi i lëvizjes së karrocës, është: (sin30°=0,5, cos30°=0,8 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-137.png",
+    "imageAlt": "Punonjëse që shtyn një karrocë supermarketi nën këndin 30°",
+    "answers": ["0.5m/s²", "1m/s²", "1.5m/s²", "2m/s²"],
+    "correct": 2,
+    "explanation": "Fx = 80N. N = 200 + 50 = 250N, pra Ff = 0,2·250 = 50N. a = (80 − 50)/20 = 1,5 m/s²."
+  },
+  {
+    "id": "fizika-dinamika-138",
+    "question": "Mbi një kuti veprojnë disa forca si në figurë. Nxitimi i lëvizjes së kutisë nën veprimin e forcave është 2m/s². Në këto kushte, koeficienti i fërkimit me sipërfaqen mbështetëse, është: (sin30°=0,5, cos30°=0,8 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-138.png",
+    "imageAlt": "Kuti me rëndesë 50N e shtyrë nga forca 30N nën këndin 30°",
+    "answers": ["0,1", "0,2", "0,3", "0,4"],
+    "correct": 1,
+    "explanation": "m = 5kg. Fx = 30·0,8 = 24N, N = 50 + 30·0,5 = 65N. Nga 24 − Ff = 5·2 del Ff = 14N, pra μ = 14/65 ≈ 0,2."
+  },
+  {
+    "id": "fizika-dinamika-139",
+    "question": "Sfera me masë M=400g që lëviz me shpejtësi 2m/s nëpër një trajektore të përkulur me rreze 0,5m. Vlera e peshës së sferës në pikën më të lartë të trajektores, është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-139.png",
+    "imageAlt": "Sferë në kreshtën e një trajektoreje të mysët me rreze R",
+    "answers": ["0,8N", "1,8N", "4,2N", "7,2N"],
+    "correct": 0,
+    "explanation": "N = mg − mv²/R = 0,4·10 − 0,4·4/0,5 = 4 − 3,2 = 0,8N."
+  },
+  {
+    "id": "fizika-dinamika-140",
+    "question": "Trupi me masë M=1kg që kalon me shpejtësi 2m/s nëpër pikën më të ulët të një trajektoreje të përkulur me rreze R=40cm. Vlera e peshës së trupit në këtë pikë është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-140.png",
+    "imageAlt": "Trup në pikën më të ulët të një trajektoreje të lugët me rreze R",
+    "answers": ["0N", "10N", "20N", "40N"],
+    "correct": 2,
+    "explanation": "N = mg + mv²/R = 1·10 + 1·4/0,4 = 10 + 10 = 20N."
+  },
+  {
+    "id": "fizika-dinamika-141",
+    "question": "Në një fije të pazgjatshme me gjatësi 50cm është varur një objekt me masë 200g. Fija shmanget fillimisht me 45° në lidhje me drejtimin vertikal dhe pastaj lihet e lirë në mungesë të fërkimit me ajrin. Tensioni i fijes në pozicionin vertikal B është: (sin45°=0,7; cos45°=0,7 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-141.png",
+    "imageAlt": "Lavjerrës i shmangur 45° që lëkundet drejt pozicionit vertikal B",
+    "answers": ["1,2N", "2,0N", "3,2N", "4,2N"],
+    "correct": 2,
+    "explanation": "h = L(1 − cos45°) = 0,5·0,3 = 0,15m, pra v² = 2gh = 3 m²/s². T = mg + mv²/L = 2 + 0,2·3/0,5 = 3,2N."
+  },
+  {
+    "id": "fizika-dinamika-142",
+    "question": "Sfera e një lavjerrësi konik me masë 200g përshkruan një rreth horizontal i varur në një fije me gjatësi 50cm dhe kënd 60° në lidhje me drejtimin vertikal. Shpejtësia këndore e rrotullimit të sferës është: (sin60°=0,9; cos60°=0,5 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-142.png",
+    "imageAlt": "Lavjerrës konik me fije 50cm që formon kënd 60° me vertikalen",
+    "answers": ["8,2 rad/s", "6,3 rad/s", "4 rad/s", "2 rad/s"],
+    "correct": 1,
+    "explanation": "Për lavjerrësin konik ω² = g/(L·cosθ) = 10/(0,5·0,5) = 40, pra ω ≈ 6,3 rad/s."
+  },
+  {
+    "id": "fizika-dinamika-143",
+    "question": "Një makinë lodër me masë 400g zbret nga lartësia 0,6 m në lakun e Galileut, pa fërkim, si në figurë. Diametri i lakut është 0,4m. Forca me të cilën e ngjesh mbështetësen në pikën A, është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-143.png",
+    "imageAlt": "Makinë lodër që zbret nga 0,6m në lakun e Galileut me diametër 0,4m",
+    "answers": ["28N", "20N", "18N", "8N"],
+    "correct": 0,
+    "explanation": "Në pikën A (fundi i lakut): v² = 2gh = 12 m²/s². N = mg + mv²/r = 0,4·10 + 0,4·12/0,2 = 4 + 24 = 28N."
+  },
+  {
+    "id": "fizika-dinamika-144",
+    "question": "Gjatë lëvizjes me shpejtësi 2m/s, një lodër me masë 500gr përshkon një rrugë rrethore me rreze 25cm si në figurë. Në këto kushte vlera e forcës ngjeshëse mbi lodrën në pikën B është: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-144.png",
+    "imageAlt": "Lodër në rrugë rrethore me pikat A poshtë dhe B lart",
+    "answers": ["13N", "8N", "5N", "3N"],
+    "correct": 3,
+    "explanation": "B është pika më e lartë: N = mv²/r − mg = 0,5·4/0,25 − 0,5·10 = 8 − 5 = 3N."
+  },
+  {
+    "id": "fizika-dinamika-145",
+    "question": "Një makinë me masë 1,5t lëviz në një kthesë në rrugë me pjerrësi 30°, duke përshkruar një rreth me rreze 16m. Në këto kushte, shpejtësia me të cilën lëviz ajo, është: (sin30°=0,5, cos30°=0,8 dhe g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-145.png",
+    "imageAlt": "Makinë në një kthesë të pjerrët me kënd 30°",
+    "answers": ["5m/s", "10m/s", "15m/s", "20m/s"],
+    "correct": 1,
+    "explanation": "Në kthesë të pjerrët v² = g·r·tanθ = 10·16·(0,5/0,8) = 100, pra v = 10 m/s."
+  },
+  {
+    "id": "fizika-dinamika-146",
+    "question": "Një makinë hyn në një kthesë me rreze 50m, në një rrugë me koeficient fërkimi 0,2 me shpejtësi 30km/h. Duke pasur parasysh kufizimet e shpejtësisë në rrugë për lëvizjen e makinës në kthesë, vlen pohimi: (g=10m/s²)",
+    "image": "/question-images/fizika/dinamika/dinamika-146.png",
+    "imageAlt": "Makinë që hyn në një kthesë rrethore",
+    "answers": ["Makina del nga rruga", "Makina e kalon me sukses kthesën", "Makina përmbyset në rrugë", "Makina ndalon në kthesë."],
+    "correct": 1,
+    "explanation": "Shpejtësia maksimale e lejuar: v = √(μgr) = √(0,2·10·50) = 10 m/s. Shpejtësia reale 30km/h ≈ 8,3 m/s është më e vogël, pra kthesa kalohet me sukses."
+  },
+  {
+    "id": "fizika-dinamika-147",
+    "question": "Djali me masë 48kg që ndodhet në prehje mbi patina, hedh përpara një top me masë 2kg me shpejtësi 6m/s, drejt vajzës në prehje. Topi pritet nga vajza me masë 38kg, që ndodhet mbi patina. Shpejtësia e djalit pas hedhjes dhe e vajzës pas pritjes janë përkatësisht:",
+    "image": "/question-images/fizika/dinamika/dinamika-147.png",
+    "imageAlt": "Djali dhe vajza mbi patina duke shkëmbyer një top",
+    "answers": ["0.3m/s dhe 0.25m/s", "0.25m/s dhe 0.3m/s", "0.25m/s dhe 0.25m/s", "0.3m/s dhe 0.3m/s"],
+    "correct": 1,
+    "explanation": "Djali: 48·v = 2·6 → v = 0,25 m/s mbrapa. Vajza: 2·6 = (38+2)·v → v = 0,3 m/s përpara."
+  },
+  {
+    "id": "fizika-dinamika-148",
+    "question": "Djali me masë 40kg, që ndodhet në prehje, hedh përpara një top me masë 3kg me shpejtësi 4m/s. Nëse djali ndodhet mbi një sipërfaqe me koeficient fërkimi 0,01, distanca që përshkon ai deri në ndalim, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-148.png",
+    "imageAlt": "Djalë mbi rrotullapatina duke hedhur një top përpara",
+    "answers": ["55cm", "45cm", "40cm", "35cm"],
+    "correct": 1,
+    "explanation": "40·v = 3·4 → v = 0,3 m/s. Ngadalësimi a = μg = 0,1 m/s². s = v²/(2a) = 0,09/0,2 = 0,45m = 45cm."
+  },
+  {
+    "id": "fizika-dinamika-149",
+    "question": "Blloku i akullit me vëllim 5m³ dhe dendësi 910kg/m³, noton mbi ujin e detit me dendësi 1030 kg/m³. Një fokë me masë 140kg ngjitet mbi të. Vëllimi i përafërt i akullit të zhytur në ujë, pas hipjes së fokës është: (g=10m/s²)",
+    "answers": ["4,44m³", "4,55m³", "4,66m³", "4,77 m³"],
+    "correct": 1,
+    "explanation": "Masa e plotë = 910·5 + 140 = 4690kg. Në notim ρ_uji·V_zhytur = m → V = 4690/1030 ≈ 4,55m³."
+  },
+  {
+    "id": "fizika-dinamika-150",
+    "question": "Dy pllaka të njëjta druri me rëndesë 40N secila, janë vendosur njëra mbi tjetrën, mbi një sipërfaqe të sheshtë druri. Koeficienti i fërkimit midis të gjitha sipërfaqeve është i barabartë me 0,1. Forca minimale që duhet ushtruar për të lëvizur pllakën e poshtme, është:",
+    "image": "/question-images/fizika/dinamika/dinamika-150.png",
+    "imageAlt": "Dy pllaka druri të vendosura njëra mbi tjetrën mbi një sipërfaqe",
+    "answers": ["4N", "8N", "12N", "16N"],
+    "correct": 2,
+    "explanation": "Pllaka e poshtme përballon dy fërkime: me pllakën e sipërme (0,1·40 = 4N) dhe me dyshemenë (0,1·80 = 8N). Gjithsej 12N."
+  }
+]

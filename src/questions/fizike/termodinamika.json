@@ -1,1 +1,600 @@
-[]
+[
+  {
+    "id": "fizika-termodinamika-001",
+    "question": "Energjia kinetike mesatare e lëvizjes tejbartëse të molekulave të ajrit në temperaturën 30°C ka vlerën (k=1,38·10⁻²³J/K):",
+    "answers": ["6.3·10⁻²¹J", "5.3·10⁻²¹J", "64.3·10⁻²⁰J", "60.3·10⁻²¹J"],
+    "correct": 0,
+    "explanation": "Ek = (3/2)kT me T = 303K: 1,5 · 1,38·10⁻²³ · 303 ≈ 6,3·10⁻²¹J. Kujdes: temperatura duhet kthyer në kelvin."
+  },
+  {
+    "id": "fizika-termodinamika-002",
+    "question": "Masat e molekulave të hidrogjenit, azotit dhe oksigjenit në ajrin e dhomës lidhen me relacionin: mH < mN < mO. Cili nga relacionet e mëposhtëm jep saktë lidhjen e energjive kinetike të lëvizjes tejbartëse të molekulave të tyre?",
+    "answers": ["EkH < EkN < EkO", "EkH > EkN > EkO", "EkH = EkN = EkO", "EkH = EkN < EkO"],
+    "correct": 2,
+    "explanation": "Ek = (3/2)kT varet vetëm nga temperatura, jo nga masa e molekulës. Meqë të tri gazet janë në të njëjtën temperaturë (ajri i dhomës), energjitë kinetike mesatare janë të barabarta."
+  },
+  {
+    "id": "fizika-termodinamika-003",
+    "question": "Vëllimi i një numri të njëjtë molesh të gazeve të ndryshme në kushte standarde, është:",
+    "answers": ["i ndryshëm, sepse varet nga lloji i gazit.", "i ndryshëm, sepse varet nga masa e gazit.", "i njëjtë se gazet ndodhen në kushte të njëjta.", "i ndryshëm se varet nga dendësia e gazit."],
+    "correct": 2,
+    "explanation": "Nga pV = nRT, vëllimi varet vetëm nga n, p dhe T — jo nga lloji i gazit. Prandaj një mol i çdo gazi zë 22,4 litra në kushte standarde (ligji i Avogadros)."
+  },
+  {
+    "id": "fizika-termodinamika-004",
+    "question": "Gazi ndodhet në shtypje 2 atm dhe vëllim 3dm³. Gazi kalon një proces izotermik derisa shtypja bëhet sa 3/4 e asaj fillestare. Vëllimi i ri i gazit do të jetë:",
+    "answers": ["4·10⁻³m³", "1.7·10⁻³m³", "1,5 m³", "4 m³"],
+    "correct": 0,
+    "explanation": "Izotermik: p₁V₁ = p₂V₂. Meqë p₂ = (3/4)p₁, del V₂ = (4/3)·3dm³ = 4dm³ = 4·10⁻³m³."
+  },
+  {
+    "id": "fizika-termodinamika-005",
+    "question": "Një sasi gazi e mbyllur në një enë me piston ngjeshet nën veprimin e një force. Grafiku që paraqet saktë varësinë e shtypjes së gazit në enë nga lartësia e kolonës së gazit është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-005.png",
+    "imageAlt": "Enë me piston dhe katër grafikë A, B, C, D të shtypjes në varësi të h ose 1/h",
+    "answers": ["Grafiku A", "Grafiku B", "Grafiku C", "Grafiku D"],
+    "correct": 3,
+    "explanation": "V = S·h, prandaj nga p·V = konst del p·h = konst, pra p është në përpjesëtim të drejtë me 1/h. Kjo jep një drejtëz që kalon nga origjina në boshtin 1/h — grafiku D."
+  },
+  {
+    "id": "fizika-termodinamika-006",
+    "question": "Si ndryshon vëllimi dhe temperatura e gazit ideal në një ngjeshje izobarike?",
+    "answers": ["Vëllimi dhe temperatura do të rriten.", "Vëllimi dhe temperatura do të mbeten konstante.", "Vëllimi dhe temperatura do të zvogëlohen.", "Vëllimi do të rritet, ndërsa temperatura do të zvogëlohet."],
+    "correct": 2,
+    "explanation": "Ngjeshje do të thotë zvogëlim vëllimi. Në proces izobarik V/T = konst, prandaj bashkë me vëllimin zvogëlohet edhe temperatura."
+  },
+  {
+    "id": "fizika-termodinamika-007",
+    "question": "Pjesa BC në grafikun e varësisë midis temperaturës dhe kohës, gjatë ngrohjes me shpejtësi konstante të ujit tregon se:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-007.png",
+    "imageAlt": "Grafik temperaturë–kohë për ujin me pjesët AB, BC, CD, DE dhe EF",
+    "answers": ["molekulat po largohen nga njëra-tjetra dhe ruajnë të njëjtën shpejtësi.", "molekulat po lëvizin më shpejt dhe ruajnë të njëjtat pozicione.", "molekulat po lëvizin më shpejt dhe po largohen nga njëra-tjetra.", "molekulat po ngadalësojnë dhe ruajnë të njëjtat pozicione."],
+    "correct": 0,
+    "explanation": "BC është pjesa horizontale në 0°C, pra shkrirja e akullit. Temperatura konstante do të thotë shpejtësi mesatare e pandryshuar, ndërsa nxehtësia e marrë prish strukturën kristalore dhe molekulat largohen nga njëra-tjetra."
+  },
+  {
+    "id": "fizika-termodinamika-008",
+    "question": "Energjia kinetike mesatare e lëvizjes tejbartëse të molekulave të një gazi një atomik është 2·10⁻²⁰J dhe shtypja e gazit është 300 kPa në vëllim 2 litra. Numri i molekulave të këtij gazi në këto kushte është: (k=1,38·10⁻²³J/K)",
+    "answers": ["2,25·10²² molekula", "2,2·10⁻²² molekula", "2,2·10⁻²⁵ molekula", "4,5·10²² molekula"],
+    "correct": 3,
+    "explanation": "Nga Ek = (3/2)kT del T = 2·10⁻²⁰/(1,5·1,38·10⁻²³) ≈ 966K. Pastaj N = pV/(kT) = 300000·0,002/(1,38·10⁻²³·966) ≈ 4,5·10²² molekula."
+  },
+  {
+    "id": "fizika-termodinamika-009",
+    "question": "Gazi ideal ndodhet në temperaturë 0°C. Në këto kushte energjia kinetike mesatare e lëvizjes tejbartëse të molekulave të tij do të jetë: (k=1,38·10⁻²³J/K)",
+    "answers": ["0", "565J", "1,51·10²⁶J", "5,65·10⁻²¹J"],
+    "correct": 3,
+    "explanation": "Ek = (3/2)kT = 1,5 · 1,38·10⁻²³ · 273 ≈ 5,65·10⁻²¹J. 0°C nuk do të thotë energji zero — zero absolute është −273°C."
+  },
+  {
+    "id": "fizika-termodinamika-010",
+    "question": "Në një zgjerim izobarik, për të njehsuar punën e kryer nga gazi, mjafton të dimë:",
+    "answers": ["numrin e moleve dhe ndryshimin e temperaturës së gazit.", "llojin e molekulave dhe temperaturën përfundimtare të gazit.", "masën e molekulave dhe vëllimin e gazit.", "gradët e lirisë dhe energjinë kinetike të gazit."],
+    "correct": 0,
+    "explanation": "Në proces izobarik A = pΔV = nRΔT. Pra mjaftojnë numri i moleve dhe ndryshimi i temperaturës."
+  },
+  {
+    "id": "fizika-termodinamika-011",
+    "question": "Parimi i parë i termodinamikës për një gaz që i nënshtrohet një procesi izohorik, do të shkruhet në trajtën:",
+    "answers": ["Q = ΔU − A", "Q = A", "ΔU = Q", "ΔU = A"],
+    "correct": 2,
+    "explanation": "Në proces izohorik vëllimi nuk ndryshon, pra A = pΔV = 0. Nga Q = ΔU + A del ΔU = Q — e gjithë nxehtësia shkon në energji të brendshme."
+  },
+  {
+    "id": "fizika-termodinamika-012",
+    "question": "Në figurë tregohen me shigjeta disa procese që kryen një gaz për të kaluar nga gjendja A në gjendjen C. Në këto kushte, në cilin kalim gazi kryen punë më të madhe:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-012.png",
+    "imageAlt": "Diagram p–V me gjendjet A, B, C, D dhe rrugë të ndryshme kalimi nga A në C",
+    "answers": ["në kalimin ADC", "në kalimin AC", "në kalimin ABC", "e njëjtë kudo"],
+    "correct": 0,
+    "explanation": "Puna barazohet me sipërfaqen nën rrugën në diagramin p–V. Në ADC gazi fillimisht rrit shtypjen (pa punë) dhe pastaj zgjerohet në shtypjen e lartë, prandaj sipërfaqja nën rrugë është më e madhja."
+  },
+  {
+    "id": "fizika-termodinamika-013",
+    "question": "Gjatë ngritjes së temperaturës së gazit ideal 3 herë, trysnia e gazit u rrit me 20%. Me sa herë ndryshoi vëllimi i gazit në këtë rast?",
+    "answers": ["3,6 herë", "3 herë", "2,5 herë", "1,2 herë"],
+    "correct": 2,
+    "explanation": "Nga pV/T = konst: V₂/V₁ = (T₂/T₁)·(p₁/p₂) = 3/1,2 = 2,5 herë."
+  },
+  {
+    "id": "fizika-termodinamika-014",
+    "question": "Me anë të një procesi izohorik, gazi ideal që ndodhej në shtypjen 100kPa, kaloi nga temperatura 50°C në temperaturën 100°C. Shtypja e gazit në fund të këtij procesi do të bëhet:",
+    "answers": ["200kPa", "115,5kPa", "100kPa", "85,6kPa"],
+    "correct": 1,
+    "explanation": "Izohorik: p/T = konst. p₂ = 100 · 373/323 ≈ 115,5kPa. Nuk dyfishohet, sepse raporti merret me temperatura absolute, jo në gradë Celsius."
+  },
+  {
+    "id": "fizika-termodinamika-015",
+    "question": "Në një proces izotermik, gazi me vëllim 2 litra dhe shtypje 1,5atm u zgjerua deri në vëllimin 6 litra. Shtypja e re e gazit do të jetë:",
+    "answers": ["45atm", "4,5atm", "1,5atm", "0,5atm"],
+    "correct": 3,
+    "explanation": "p₁V₁ = p₂V₂ → p₂ = 1,5·2/6 = 0,5atm. Vëllimi u trefishua, prandaj shtypja u zvogëlua 3 herë."
+  },
+  {
+    "id": "fizika-termodinamika-016",
+    "question": "Një sasi gazi me temperaturë fillestare 627°C dhe vëllim 3l, ftohet në shtypje konstante, derisa pistoni i tij të zbresë në 1/3 e lartësisë fillestare. Temperatura në fund të procesit do të jetë:",
+    "answers": ["27°C", "127°C", "300°C", "354°C"],
+    "correct": 0,
+    "explanation": "T₁ = 900K. Izobarik: V/T = konst, pra vëllimi 3 herë më i vogël jep T₂ = 300K = 27°C."
+  },
+  {
+    "id": "fizika-termodinamika-017",
+    "question": "Një mol gaz ideal në temperaturë t=20°C ka një shtypje P=5·10⁵Pa. Vëllimi i këtij gazi është: (R=8.31J/molK)",
+    "answers": ["33,2 litra", "8,09 litra", "4,87 litra", "3,32 litra"],
+    "correct": 2,
+    "explanation": "V = nRT/p = 1·8,31·293/(5·10⁵) ≈ 4,87·10⁻³m³ = 4,87 litra."
+  },
+  {
+    "id": "fizika-termodinamika-018",
+    "question": "Një bombul me vëllim 10 litra mban gaz në temperaturën 0°C dhe trysni 100kPa. Numri i moleve të gazit që ndodhen në bombul është: (R=8.31J/molK)",
+    "answers": ["0,02 mole", "0.44 mole", "0,26 mole", "4,4 mole"],
+    "correct": 1,
+    "explanation": "n = pV/(RT) = 10⁵ · 0,01/(8,31·273) ≈ 0,44 mole."
+  },
+  {
+    "id": "fizika-termodinamika-019",
+    "question": "Temperatura e një gazi ideal është 20°C dhe energjia kinetike mesatare e molekulave të tij është 6.02·10⁻²¹J. Për të pasur një energji kinetike dy herë më të madhe tek molekulat e këtij gazi, duhet të:",
+    "answers": ["rrisim temperaturën në 40°C.", "rrisim temperaturën në 586K.", "dyfishojmë numrin e molekulave.", "dyfishojmë shtypjen e gazit."],
+    "correct": 1,
+    "explanation": "Ek është në përpjesëtim të drejtë me temperaturën absolute. T₁ = 293K, pra duhet T₂ = 586K. 40°C = 313K nuk e dyfishon Ek, ndërsa numri i molekulave nuk ndikon në energjinë mesatare."
+  },
+  {
+    "id": "fizika-termodinamika-020",
+    "question": "Gazi ndodhet në cilindrin me shtypje 2·10⁵Pa. Me një proces izobarik vëllimi i tij zgjerohet, nga 10cm³ në 30cm³. Temperatura e gazit në fund të këtij procesi do të jetë:",
+    "answers": ["e pandryshuar", "e zvogëluar tre herë", "e rritur tre herë", "e papërcaktueshme"],
+    "correct": 2,
+    "explanation": "Izobarik: V/T = konst. Vëllimi u trefishua, prandaj edhe temperatura absolute u rrit 3 herë."
+  },
+  {
+    "id": "fizika-termodinamika-021",
+    "question": "Gazi ndodhet në cilindrin me shtypje 10⁵Pa dhe me një ngjeshje izobarike, vëllimi i tij ndryshon nga 60cm³ në 40cm³. Puna që ka kryer gazi është:",
+    "answers": ["2·10⁵J", "-2·10³J", "-2·10⁵J", "-2J"],
+    "correct": 3,
+    "explanation": "A = pΔV = 10⁵ · (40−60)·10⁻⁶ = −2J. Puna është negative sepse gazi ngjeshet (puna kryhet mbi gazin)."
+  },
+  {
+    "id": "fizika-termodinamika-022",
+    "question": "Një gaz përthith 1000J nxehtësi nga mjedisi dhe kryen punën prej 700J. Ndryshimi i energjisë së brendshme të këtij gazi do të jetë:",
+    "answers": ["1700J", "1000J", "300J", "-300J"],
+    "correct": 2,
+    "explanation": "Q = ΔU + A → ΔU = 1000 − 700 = 300J."
+  },
+  {
+    "id": "fizika-termodinamika-023",
+    "question": "Një gaz përthith 2000J nxehtësi nga mjedisi dhe ngjeshet duke u kryer mbi të puna prej 700J. Ndryshimi i energjisë së brendshme të këtij gazi do të jetë:",
+    "answers": ["1300J", "1700J", "2700J", "1350J"],
+    "correct": 2,
+    "explanation": "Puna kryhet mbi gazin, pra A = −700J. ΔU = Q − A = 2000 + 700 = 2700J."
+  },
+  {
+    "id": "fizika-termodinamika-024",
+    "question": "Gjatë ngjeshjes izotermike të një mase gazi ideal, puna e kryer nga gazi është:",
+    "answers": ["pozitive.", "negative.", "zero.", "pambarimisht e madhe."],
+    "correct": 1,
+    "explanation": "Në ngjeshje vëllimi zvogëlohet (ΔV < 0), prandaj puna e kryer nga gazi është negative — puna kryhet mbi gazin nga forcat e jashtme."
+  },
+  {
+    "id": "fizika-termodinamika-025",
+    "question": "Një mol hidrogjen dhe një mol oksigjen ndodhen në të njëjtën temperaturë dhe në të njëjtën shtypje. Në këto kushte për vëllimin e gazeve mund të themi se:",
+    "answers": ["hidrogjeni zë vëllimin më të madh.", "hidrogjeni zë vëllimin më të vogël.", "hidrogjeni dhe oksigjeni zënë të njëjtin vëllim.", "oksigjeni zë vëllimin më të madh."],
+    "correct": 2,
+    "explanation": "V = nRT/p nuk varet nga lloji i gazit. Me n, T dhe p të njëjta, vëllimet janë të barabarta (ligji i Avogadros)."
+  },
+  {
+    "id": "fizika-termodinamika-026",
+    "question": "Temperatura e një mase të dhënë gazi kalon nga 0°C në 273°C në trysni konstante. Në këto kushte, vëllimi përfundimtar i gazit do të jetë:",
+    "answers": ["njësoj me fillestarin", "dy herë me i vogël", "273 herë më i madh", "dy herë më i madh."],
+    "correct": 3,
+    "explanation": "Në kelvin: 273K → 546K, pra temperatura absolute dyfishohet. Në trysni konstante V/T = konst, prandaj edhe vëllimi dyfishohet."
+  },
+  {
+    "id": "fizika-termodinamika-027",
+    "question": "Një gaz ideal zgjerohet në mënyrë izotermike duke kaluar nga gjendja A në gjendjen B, si në figurë. Cili nga pohimet e mëposhtëm është i gabuar?",
+    "image": "/question-images/fizika/termodinamika/termodinamika-027.png",
+    "imageAlt": "Diagram p–V me izotermë nga gjendja A në gjendjen B",
+    "answers": ["Temperatura e gazit mbetet konstante.", "Trysnia e gazit rritet.", "Energjia e brendshme e gazit mbetet konstante.", "Vëllimi i gazit rritet."],
+    "correct": 1,
+    "explanation": "Në zgjerim izotermik vëllimi rritet dhe, sipas p·V = konst, trysnia zvogëlohet — pra pohimi 'trysnia rritet' është i gabuar. Temperatura dhe energjia e brendshme mbeten konstante."
+  },
+  {
+    "id": "fizika-termodinamika-028",
+    "question": "Ekuacioni i gjendjes i gazit ideal, përcakton që:",
+    "answers": ["trysnia e gazit është në përpjesëtim të zhdrejtë me temperaturën absolute të gazit.", "vëllimi i gazit është në përpjesëtim të zhdrejtë me temperaturën absolute të gazit.", "numri i moleve është në përpjesëtim të drejtë me temperaturën absolute të gazit.", "prodhimi trysni vëllim është në përpjesëtim të drejtë me temperaturën absolute të gazit."],
+    "correct": 3,
+    "explanation": "Nga pV = nRT del se prodhimi p·V është në përpjesëtim të drejtë me T. Trysnia dhe vëllimi veç e veç janë secili në përpjesëtim të drejtë (jo të zhdrejtë) me T."
+  },
+  {
+    "id": "fizika-termodinamika-029",
+    "question": "Gjatë zvogëlimit 2 herë të vëllimit të gazit, trysnia u rrit me 140kPa, kurse temperatura absolute u rrit me 20%. Trysnia fillestare e gazit kishte vlerën:",
+    "answers": ["100kPa", "140kPa", "200kPa", "240kPa"],
+    "correct": 0,
+    "explanation": "p₂ = p₁·(V₁/V₂)·(T₂/T₁) = p₁·2·1,2 = 2,4p₁. Rritja = 2,4p₁ − p₁ = 1,4p₁ = 140kPa → p₁ = 100kPa."
+  },
+  {
+    "id": "fizika-termodinamika-030",
+    "question": "Në pjesën DE të grafikut të varësisë së temperaturës nga koha gjatë ngrohjes me shpejtësi konstante për ujin, gjendja e lëndës është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-030.png",
+    "imageAlt": "Grafik temperaturë–kohë për ujin me pjesën DE horizontale në 100°C",
+    "answers": ["avull dhe ujë i lëngshëm", "ujë i lëngshëm", "akull dhe ujë i lëngshëm", "avull"],
+    "correct": 0,
+    "explanation": "DE është pjesa horizontale në 100°C, pra vlimi. Gjatë ndryshimit të gjendjes së agregatit bashkëjetojnë të dyja fazat: ujë i lëngshëm dhe avull."
+  },
+  {
+    "id": "fizika-termodinamika-031",
+    "question": "Një gaz kryen një proces që sjell rritjen e energjisë së brendshme me 1000J. Cili nga pohimet e mëposhtme është i saktë?",
+    "answers": ["Trysnia e gazit ndryshon.", "Vëllimi i gazit zvogëlohet.", "Gazi nuk e ndryshon gjendjen e tij.", "Temperatura e gazit rritet."],
+    "correct": 3,
+    "explanation": "Energjia e brendshme e gazit ideal varet vetëm nga temperatura, prandaj rritja e saj do të thotë detyrimisht rritje temperature. Trysnia dhe vëllimi mund të ndryshojnë ose jo, në varësi të procesit."
+  },
+  {
+    "id": "fizika-termodinamika-032",
+    "question": "Energjia e brendshme e gazit ideal varet nga:",
+    "answers": ["masa e gazit, vëllimi dhe shtypja e gazit.", "trysnia e gazit, masa dhe temperatura e gazit.", "vëllimi i gazit, temperatura dhe shtypja e gazit.", "temperatura, numri i moleve dhe lloji i molekulave."],
+    "correct": 3,
+    "explanation": "U = (i/2)nRT: varet nga temperatura, numri i moleve dhe gradët e lirisë i, të cilat përcaktohen nga lloji i molekulave (një-, dy- apo shumëatomik)."
+  },
+  {
+    "id": "fizika-termodinamika-033",
+    "question": "Një gaz ndodhet në shtypje 1atm dhe ka vëllim 1m³ në temperaturë 27°C. Me një proces termodinamik shtypja e gazit përgjysmohet, ndërsa vëllimi trefishohet. Temperatura përfundimtare e gazit do të jetë:",
+    "answers": ["40,5K", "200K", "300K", "450K"],
+    "correct": 3,
+    "explanation": "T₂ = T₁·(p₂V₂)/(p₁V₁) = 300 · (0,5 · 3) = 450K."
+  },
+  {
+    "id": "fizika-termodinamika-034",
+    "question": "Gazi ndodhet në një enë me temperaturë konstante. Me një proces termodinamik zvogëlojmë shtypjen e gazit pa ndryshuar temperaturën dhe masën e gazit. Dendësia e gazit gjatë këtij procesi:",
+    "answers": ["do të mbetet e pandryshuar", "do të zvogëlohet", "do të zmadhohet", "nuk mund të përcaktohet"],
+    "correct": 1,
+    "explanation": "Në temperaturë konstante, zvogëlimi i shtypjes sjell rritjen e vëllimit. Meqë masa nuk ndryshon, ρ = m/V zvogëlohet."
+  },
+  {
+    "id": "fizika-termodinamika-035",
+    "question": "Një mol gazi ideal ndodhet në shtypjen 10⁴Pa dhe vëllim 0,15m³. Në shtypje konstante gazi dyfishon vëllimin. (R = 8,31J/mol·K). Temperatura përfundimtare e gazit është:",
+    "answers": ["36K", "180K", "361K", "554K"],
+    "correct": 2,
+    "explanation": "T₁ = pV/(nR) = 10⁴·0,15/8,31 ≈ 180,5K. Në shtypje konstante dyfishimi i vëllimit dyfishon temperaturën: T₂ ≈ 361K."
+  },
+  {
+    "id": "fizika-termodinamika-036",
+    "question": "Grafiku tregon ndryshimin e temperaturës në funksion të kohës për 2kg të një lënde që merr nxehtësi në mënyrë konstante prej 80000J/min. Në fillim të ngrohjes lënda është në gjendje të ngurtë. Nxehtësia e fshehtë e avullimit të lëndës është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-036.png",
+    "imageAlt": "Grafik temperaturë–kohë me dy pjatoforma për shkrirjen dhe avullimin",
+    "answers": ["20kJ/kg", "40 kJ/kg", "60 kJ/kg", "80 kJ/kg"],
+    "correct": 3,
+    "explanation": "Pjatoforma e dytë (avullimi) zgjat 2 minuta, pra Q = 2 · 80000 = 160000J. L = Q/m = 160000/2 = 80000J/kg = 80kJ/kg."
+  },
+  {
+    "id": "fizika-termodinamika-037",
+    "question": "Dendësia e ajrit në shtypje 10⁵Pa dhe temperaturë 27°C është 1,3kg/m³. Dendësia e ajrit në temperaturën 127°C dhe në trysninë 4·10⁵Pa është:",
+    "answers": ["1,1 kg/m³", "2,9 kg/m³", "3,9 kg/m³", "5,1 kg/m³"],
+    "correct": 2,
+    "explanation": "ρ = pM/(RT), pra ρ₂ = ρ₁·(p₂/p₁)·(T₁/T₂) = 1,3 · 4 · (300/400) = 3,9kg/m³."
+  },
+  {
+    "id": "fizika-termodinamika-038",
+    "question": "Në një ngjeshje izobarike të gazit ideal, puna dhe ndryshimi i energjisë së brendshme të gazit do të jenë:",
+    "answers": ["ndryshimi i energjisë së brendshme negativ dhe puna negative", "ndryshimi i energjisë së brendshme pozitiv dhe puna zero", "ndryshimi i energjisë së brendshme negativ dhe puna pozitive", "ndryshimi i energjisë së brendshme zero dhe puna negative"],
+    "correct": 0,
+    "explanation": "Ngjeshje → ΔV < 0 → A = pΔV negative. Në izobarik zvogëlimi i vëllimit sjell zvogëlim temperature, pra edhe ΔU negativ."
+  },
+  {
+    "id": "fizika-termodinamika-039",
+    "question": "Një sasi prej 2kg ujë fillimisht në temperaturën 80°C shndërrohet plotësisht në avull. Sasia e nxehtësisë që merr uji është: (cu=4200J/kgK dhe Lv=2,26MJ/kg)",
+    "answers": ["4,688J", "4,688kJ", "4,688MJ", "4,688TJ"],
+    "correct": 2,
+    "explanation": "Q = mcΔT + mL = 2·4200·20 + 2·2,26·10⁶ = 168000 + 4520000 = 4688000J = 4,688MJ."
+  },
+  {
+    "id": "fizika-termodinamika-040",
+    "question": "Dy mole gazi ideal ndodhet në gjendjen A, si në figurë. Me këtë proces gazi shkon në gjendjen B. Puna e kryer nga gazi dhe ndryshimi i temperaturës në këtë proces janë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-040.png",
+    "imageAlt": "Diagram p–V me proces izobarik nga A (0,15 m³) në B (0,3 m³)",
+    "answers": ["-1,5kJ, pozitiv", "0,75kJ, zero", "1,5kJ, pozitiv", "3kJ, negativ"],
+    "correct": 2,
+    "explanation": "Procesi është izobarik me zgjerim: A = pΔV = 10⁴ · 0,15 = 1500J = 1,5kJ, pozitive. Meqë V rritet në shtypje konstante, edhe temperatura rritet — ndryshimi është pozitiv."
+  },
+  {
+    "id": "fizika-termodinamika-041",
+    "question": "Dy mole gazi ideal një atomik ndodhen në temperaturë 0°C dhe ngrohen izohorikisht deri në dyfishimin e temperaturës. Në këto kushte, nxehtësia që i jepet gazit do të jetë (R = 8,31 J/mol·K):",
+    "answers": ["0 J", "1130J", "2686 J", "6806 J"],
+    "correct": 3,
+    "explanation": "Izohorik: Q = ΔU = (3/2)nRΔT. ΔT = 546 − 273 = 273K, pra Q = 1,5 · 2 · 8,31 · 273 ≈ 6806J."
+  },
+  {
+    "id": "fizika-termodinamika-042",
+    "question": "Gazi ideal kryen një proces ciklik, si në figurë. Puna e kryer nga gazi, ndryshimi i energjisë së brendshme dhe nxehtësia e shkëmbyer me mjedisin gjatë procesit do të jenë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-042.png",
+    "imageAlt": "Diagram p–V me cikël A→B→C→A në kah orar",
+    "answers": ["Puna pozitive, ndryshimi i energjisë së brendshme pozitiv, nxehtësia që shkëmben me mjedisin zero", "puna negative, ndryshimi i energjisë së brendshme pozitiv, nxehtësia që shkëmben me mjedisin zero", "puna pozitive, ndryshimi i energjisë së brendshme zero, gazi merr nxehtësi nga mjedisi", "puna pozitive, ndryshimi i energjisë së brendshme negativ, gazi i jep nxehtësi mjedisit"],
+    "correct": 2,
+    "explanation": "Cikli përshkohet në kah orar, pra puna e plotë është pozitive. Meqë gazi kthehet në gjendjen fillestare, ΔU = 0 dhe nga Q = ΔU + A del Q = A > 0 — gazi merr nxehtësi nga mjedisi."
+  },
+  {
+    "id": "fizika-termodinamika-043",
+    "question": "Një gaz i nënshtrohet një ngjeshjeje izotermike. Puna e kryer nga gazi, ndryshimi i energjisë së brendshme dhe nxehtësia e shkëmbyer në fund të procesit, do të jenë:",
+    "answers": ["puna pozitive, ndryshimi i energjisë së brendshme pozitiv, nxehtësia që shkëmben me mjedisin zero.", "puna negative, ndryshimi i energjisë së brendshme zero, gazi i jep nxehtësi mjedisit.", "puna pozitive, ndryshimi i energjisë së brendshme negative, nxehtësia që shkëmben me mjedisin zero.", "puna negative, ndryshimi i energjisë së brendshme zero, gazi merr nxehtësi nga mjedisi."],
+    "correct": 1,
+    "explanation": "Izotermik → ΔU = 0. Ngjeshje → A negative. Nga Q = ΔU + A del Q negative, pra gazi i jep nxehtësi mjedisit."
+  },
+  {
+    "id": "fizika-termodinamika-044",
+    "question": "Një masë gazi prej 12g në temperaturën 7°C zë vëllimin 4·10⁻³m³. Pas nxehjes në trysni konstante dendësia u bë 0,6kg/m³. Sa është temperatura pas ngrohjes së gazit?",
+    "answers": ["1000K", "1127K", "1400K", "1527K"],
+    "correct": 2,
+    "explanation": "V₂ = m/ρ = 0,012/0,6 = 0,02m³. Izobarik: T₂ = T₁·V₂/V₁ = 280 · (0,02/0,004) = 1400K."
+  },
+  {
+    "id": "fizika-termodinamika-045",
+    "question": "Pesë mole gaz ideal kalojnë në një proces izobarik, pa ndryshim të masës së gazit. Temperatura në fund të procesit bëhet 60K. Nëse shtypja është 831kPa, vëllimi i gazit në fund të procesit do të jetë:",
+    "answers": ["3·10⁻³m³", "1,5 m³", "30·10⁻³m³", "22,4 litra"],
+    "correct": 0,
+    "explanation": "V = nRT/p = 5 · 8,31 · 60/831000 = 2493/831000 = 3·10⁻³m³."
+  },
+  {
+    "id": "fizika-termodinamika-046",
+    "question": "Me anë të një procesi, pa ndryshim mase, gazi ideal kalon nga gjendja A, në shtypje 100kPa në gjendjen B, si në figurë. Vlera e shtypjes në gjendjen B dhe lloji i procesit janë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-046.png",
+    "imageAlt": "Grafik V–t(°C) me kalim nga A (27°C, 3l) në B (127°C, 4l)",
+    "answers": ["200 kPa, i çfarëdoshëm", "100 kPa, izobarik", "130 kPa, izobarik", "150 kPa, izotermik"],
+    "correct": 1,
+    "explanation": "Kontrollojmë V/T: 3/300 = 0,01 dhe 4/400 = 0,01 — raporti ruhet, pra procesi është izobarik dhe shtypja mbetet 100kPa."
+  },
+  {
+    "id": "fizika-termodinamika-047",
+    "question": "Në një proces izotermik 3 mole gaz u zgjeruan si në figurë. (R = 8,31 J/mol·K). Temperatura dhe shtypja e gazit në fund të procesit, janë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-047.png",
+    "imageAlt": "Diagram p–V me izotermë nga A (8,31 l; 300 kPa) në B (24,93 l)",
+    "answers": ["100°C, 100 kPa", "100 K, 300 kPa", "10°C, 150 kPa", "100 K, 100 kPa"],
+    "correct": 3,
+    "explanation": "T = pV/(nR) = 300000 · 8,31·10⁻³/(3·8,31) = 100K dhe mbetet e njëjtë. Nga p₁V₁ = p₂V₂: p₂ = 300 · 8,31/24,93 = 100kPa."
+  },
+  {
+    "id": "fizika-termodinamika-048",
+    "question": "Një sasi hekuri me masë 100kg ndodhet në gjendje të lëngët në temperaturën e shkrirjes. Gjatë procesit të ngurtësimit të kësaj mase hekuri, sasia e nxehtësisë dhe kahu i shkëmbimit të saj janë: (Lfe=33kJ/kg)",
+    "answers": ["hekuri jep 3 kJ nxehtësi.", "hekuri nuk shkëmben nxehtësi.", "hekuri merr 33·10⁵J nxehtësi.", "hekuri jep 33·10⁵J nxehtësi."],
+    "correct": 3,
+    "explanation": "Q = mL = 100 · 33000 = 3,3·10⁶J = 33·10⁵J. Ngurtësimi është procesi i kundërt i shkrirjes, prandaj hekuri e çliron këtë nxehtësi."
+  },
+  {
+    "id": "fizika-termodinamika-049",
+    "question": "Një mol gaz ideal në temperaturë 0°C dhe shtypje 1.013·10⁵Pa, zë vëllimin 22,4 litra. Numri i molekulave të gazit në njësinë e vëllimit në këtë rast është: (Na = 6,022·10²³ molekula/mol)",
+    "answers": ["2,69·10²³ molekula/m³", "2,69·10²⁵ molekula/m³", "3,73·10⁻²⁵ molekula/m³", "3,73·10⁻²³ molekula/m³"],
+    "correct": 1,
+    "explanation": "n = Na/V = 6,022·10²³/0,0224 ≈ 2,69·10²⁵ molekula/m³. Kujdes: vëllimi kthehet në m³."
+  },
+  {
+    "id": "fizika-termodinamika-050",
+    "question": "Një bombul oksigjeni me vëllim të panjohur mban 6,4 kg oksigjen në temperaturë 20°C dhe trysni 16 MPa. Vëllimi minimal i kësaj bombule në këto kushte është: (Mo₂ = 32 g/mol, R = 8,31 J/mol·K)",
+    "answers": ["3,28·10² m³", "3,0435·10⁻² m³", "3,045·10⁻⁵ m³", "7,608·10⁻³ m³"],
+    "correct": 1,
+    "explanation": "n = 6400/32 = 200 mole. V = nRT/p = 200 · 8,31 · 293/(16·10⁶) ≈ 3,04·10⁻²m³."
+  },
+  {
+    "id": "fizika-termodinamika-051",
+    "question": "Një copë alumin me masë m e ka nxehtësinë specifike të ngrohjes c. Një copë bakri me masë 2m e ka nxehtësinë specifike të ngrohjes 2c. Të dy metalet marrin të njëjtën nxehtësi dhe temperatura e bakrit rritet me 10°. Me sa do të rritet temperatura e aluminit?",
+    "answers": ["5°C", "10°C", "20°C", "40°C"],
+    "correct": 3,
+    "explanation": "Q = mcΔT. Për bakrin: Q = 2m·2c·10 = 40mc. Për aluminin: 40mc = m·c·ΔT → ΔT = 40°C."
+  },
+  {
+    "id": "fizika-termodinamika-052",
+    "question": "Gazi ndodhet në cilindrin me vëllim 10 cm³ dhe ka temperaturë 27°C. Me anë të një procesi izobarik vëllimi i tij shtohet me 50%. Temperatura e gazit në fund të këtij procesi do të jetë:",
+    "answers": ["40,5°C", "40,5K", "450K", "313,5K"],
+    "correct": 2,
+    "explanation": "T₁ = 300K. Izobarik: T₂ = T₁ · 1,5 = 450K. Rritja me përqindje bëhet mbi temperaturën absolute, jo mbi gradët Celsius."
+  },
+  {
+    "id": "fizika-termodinamika-053",
+    "question": "Një sasi gazi me shtypje p₁ zë vëllimin V₁. Pa ndryshuar masën e gazit, vëllimi dyfishohet, ndërsa shtypja përgjysmohet. Energjia e brendshme e gazit në fund të këtij procesi, krahasuar me energjinë e brendshme fillestare, do të jetë:",
+    "answers": ["katër herë më e madhe.", "njëlloj me fillestaren.", "dy herë më e vogël.", "dy herë më e madhe."],
+    "correct": 1,
+    "explanation": "U varet nga T, dhe T ∝ p·V. Këtu (p/2)·(2V) = pV, pra temperatura nuk ndryshon dhe energjia e brendshme mbetet e njëjtë."
+  },
+  {
+    "id": "fizika-termodinamika-054",
+    "question": "Dhjetë moleve helium i rritet temperatura me 1°C. Ndryshimi i energjisë së brendshme të këtij gazi në këto kushte do të jetë (R = 8,31 J/mol·K, heliumi është gaz njëatomik):",
+    "answers": ["124,65J", "207,75J", "34154,1J", "11348,6J"],
+    "correct": 0,
+    "explanation": "ΔU = (3/2)nRΔT = 1,5 · 10 · 8,31 · 1 = 124,65J. Rritja me 1°C është e barabartë me rritjen me 1K."
+  },
+  {
+    "id": "fizika-termodinamika-055",
+    "question": "Një gaz dyatomik që ndodhet në gjendjen A, kalon në gjendjen B (1atm = 1·10⁵Pa). Ndryshimi i energjisë së brendshme të këtij gazi në këtë proces do të jetë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-055.png",
+    "imageAlt": "Diagram p–V me kalim linear nga A (5 l; 50 atm) në B (12 l; 20 atm)",
+    "answers": ["15kJ", "2.5kJ", "−1,5kJ", "−2,5 kJ"],
+    "correct": 3,
+    "explanation": "Për gaz dyatomik U = (5/2)pV. Në A: pV = 5·10⁶·5·10⁻³ = 25000J; në B: 2·10⁶·12·10⁻³ = 24000J. ΔU = 2,5·(24000−25000) = −2500J = −2,5kJ."
+  },
+  {
+    "id": "fizika-termodinamika-056",
+    "question": "Një mol gaz ndodhet në gjendjen A me shtypje 100kPa dhe vëllim 800dm³. Gazi kalon në gjendjen B me shtypje 100kPa dhe vëllim 1000dm³. Më pas kalon në gjendjen C me shtypje 200kPa dhe vëllim 1000dm³. Puna e plotë e kryer nga gazi në këtë rast, është:",
+    "answers": ["200 J", "20 kJ", "−20 kJ", "20 MJ"],
+    "correct": 1,
+    "explanation": "A→B është izobarik: A = pΔV = 100000 · 0,2 = 20000J. B→C është izohorik, pra punë zero. Gjithsej 20kJ."
+  },
+  {
+    "id": "fizika-termodinamika-057",
+    "question": "Një enë përmban 0,3 mole helium dhe 0,2 mole argon. Energjia e brendshme e përzierjes në temperaturën 200K është: (R=8,31J/mol·K)",
+    "answers": ["14466J", "2077,5J", "554J", "1246,5J"],
+    "correct": 3,
+    "explanation": "Të dy janë gaze njëatomike, pra U = (3/2)nRT me n = 0,5 mole: 1,5 · 0,5 · 8,31 · 200 = 1246,5J."
+  },
+  {
+    "id": "fizika-termodinamika-058",
+    "question": "Një masë e dhënë prej 5 mole gaz i nënshtrohet një ngjeshjeje izobarike në trysni 100kPa nga vëllimi 103,1 litra në vëllimin 20 litra (R = 8,31 J/mol·K). Ndryshimi i temperaturës së gazit do të jetë:",
+    "answers": ["473K", "200K", "0K", "−200K"],
+    "correct": 3,
+    "explanation": "Izobarik: pΔV = nRΔT → ΔT = 100000·(0,020 − 0,1031)/(5·8,31) = −8310/41,55 = −200K. Shenja negative tregon ftohje."
+  },
+  {
+    "id": "fizika-termodinamika-059",
+    "question": "Një gaz ideal zgjerohet në mënyrë izotermike duke kaluar nga gjendja A në gjendjen B, si në figurë. Vlera më e vogël e punës së kryer nga gazi, për të kaluar nga gjendja A në B, me të tjera izoprocese, është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-059.png",
+    "imageAlt": "Diagram p–V me izotermë nga A (2 l; 3 MPa) në B (6 l; 1 MPa)",
+    "answers": ["4 J", "4 kJ", "8 kJ", "12 J"],
+    "correct": 1,
+    "explanation": "Puna më e vogël merret duke ulur së pari shtypjen izohorikisht (punë zero) e pastaj duke u zgjeruar izobarikisht në 1MPa: A = 10⁶ · (6−2)·10⁻³ = 4000J = 4kJ."
+  },
+  {
+    "id": "fizika-termodinamika-060",
+    "question": "Në figurë jepet një shndërrim ciklik i gazit. Puna e gazit dhe nxehtësia e shkëmbyer janë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-060.png",
+    "imageAlt": "Diagram p–V me cikël trekëndor A→B→C→A në kah orar",
+    "answers": ["zero, pozitive", "pozitive, negative", "negative, negative", "pozitive, pozitive"],
+    "correct": 3,
+    "explanation": "Cikli përshkohet në kah orar, prandaj puna e plotë është pozitive. Meqë ΔU = 0 në një cikël, nga Q = ΔU + A del Q = A, pra edhe nxehtësia është pozitive."
+  },
+  {
+    "id": "fizika-termodinamika-061",
+    "question": "Një gaz zë vëllimin 10 dm³ kur në enë shtypja ka vlerën 1atm. Duke mbajtur temperaturën konstante, shtypja e gazit arrin vlerën 5 atm (1atm=10⁵Pa). Vëllimi i gazit në fund të procesit dhe ndryshimi i energjisë së brendshme të gazit në këtë proces, do të jenë respektivisht:",
+    "answers": ["50dm³ dhe 810 J", "2dm³ dhe 0J", "10dm³ dhe 800J", "50dm³ dhe 0J"],
+    "correct": 1,
+    "explanation": "Izotermik: V₂ = V₁·p₁/p₂ = 10·(1/5) = 2dm³. Meqë temperatura nuk ndryshon, ΔU = 0."
+  },
+  {
+    "id": "fizika-termodinamika-062",
+    "question": "Një sasi gazi me vëllim 20dm³ ndodhet në temperaturë 0°C dhe trysni 1atm. Me një proces, pa e ndryshuar masën e gazit, trysnia bëhet 145 kPa dhe temperatura 77K (1atm = 1·10⁵Pa). Vëllimi i ri i gazit do të jetë:",
+    "answers": ["48,9 dm³", "44,4 dm³", "29 dm³", "3,89 dm³"],
+    "correct": 3,
+    "explanation": "V₂ = V₁·(p₁/p₂)·(T₂/T₁) = 20 · (100/145) · (77/273) ≈ 3,89dm³."
+  },
+  {
+    "id": "fizika-termodinamika-063",
+    "question": "Në një balon qelqi gjenden 10 mole hidrogjen në temperaturën 100K. Gazi zgjerohet izobarikisht derisa vëllimi 3-fishohet (M=2·10⁻³kg/mol, R=8.31J/mol·K). Nxehtësia e shkëmbyer gjatë procesit është:",
+    "answers": ["16,62kJ", "24,93kJ", "41,55kJ", "58,17kJ"],
+    "correct": 3,
+    "explanation": "Izobarik me V×3 → T₂ = 300K, ΔT = 200K. Hidrogjeni është dyatomik, pra Q = (7/2)nRΔT = 3,5 · 10 · 8,31 · 200 = 58170J ≈ 58,17kJ."
+  },
+  {
+    "id": "fizika-termodinamika-064",
+    "question": "Gazi ndodhet në gjendjen A me shtypje dhe vëllim të paraqitura në grafik. Pas disa procesesh kthehet përsëri në gjendjen A. Duke përdorur të dhënat e grafikut, puna e plotë e kryer nga gazi do të jetë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-064.png",
+    "imageAlt": "Diagram p–V me cikël në formë trapezi me kulmet A, B, C, D",
+    "answers": ["4,5 kJ", "6kJ", "60J", "600J"],
+    "correct": 0,
+    "explanation": "Puna e plotë e ciklit barazohet me sipërfaqen e mbyllur. Trapezi ka bazat (2,6−1,0) dhe (2,0−0,6), pra lartësi mesatare 1,5 njësi shtypjeje, shumëzuar me gjerësinë 3 njësi vëllimi → 4,5 njësi = 4,5kJ."
+  },
+  {
+    "id": "fizika-termodinamika-065",
+    "question": "Gazi ndodhet në një enë të mbyllur. Me një proces termodinamik shtypja e tij rritet me 0,4% dhe temperatura rritet me 1K. Temperatura fillestare e gazit ka qenë:",
+    "answers": ["250K", "250°C", "125K", "25K"],
+    "correct": 0,
+    "explanation": "Enë e mbyllur = proces izohorik, pra p/T = konst dhe Δp/p = ΔT/T. Nga 0,004 = 1/T del T = 250K."
+  },
+  {
+    "id": "fizika-termodinamika-066",
+    "question": "Një sferë llastiku përmban 2·10⁻³ m³ ajër në temperaturë 300K. Shtypja është 100kPa. Sfera zhytet në ujë në thellësi 10m (du=1000kg/m³, g=10m/s²). Temperatura e ujit është 290K. Vëllimi i ajrit në sferën e zhytur në ujë është:",
+    "answers": ["19,33 m³", "9,66·10⁻⁴ m³", "2,06·10⁻⁴ m³", "1,03·10⁻⁴ m³"],
+    "correct": 1,
+    "explanation": "Shtypja në thellësi = 100000 + ρgh = 100000 + 100000 = 200000Pa. V₂ = V₁·(p₁/p₂)·(T₂/T₁) = 2·10⁻³ · 0,5 · (290/300) ≈ 9,66·10⁻⁴m³."
+  },
+  {
+    "id": "fizika-termodinamika-067",
+    "question": "Në majën e një mali ku shtypja atmosferike është 65kPa dhe temperatura e ajrit 10°C, një alpinist thith njëherësh 1g ajër. Në rrëzën e malit ku temperatura është 25°C dhe shtypja 100kPa, masa e ajrit që do të thith alpinisti do të jetë:",
+    "answers": ["0,62g", "0,68g", "1,46g", "1,63g"],
+    "correct": 2,
+    "explanation": "Vëllimi i mushkërive është i njëjtë, pra m ∝ p/T. m₂ = 1 · (100/65) · (283/298) ≈ 1,46g."
+  },
+  {
+    "id": "fizika-termodinamika-068",
+    "question": "Grafiku tregon ndryshimin e temperaturës së 2kg lënde gjatë ngrohjes me shpejtësi konstante prej 2000J/min. Në fillim të ngrohjes lënda është në gjendje të ngurtë. Treshja e vlerave të nxehtësisë specifike të ngrohjes së trupit të ngurtë, të nxehtësisë latente të shkrirjes dhe nxehtësisë specifike të ngrohjes së lëngut është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-068.png",
+    "imageAlt": "Grafik temperaturë–kohë me pjesën e ngurtë, pjatoformën e shkrirjes A–B dhe pjesën e lëngët",
+    "answers": ["8000 J/kg°C; 6000 J/kg; 3000 J/kg°C", "1330 J/kg°C; 6000 J/kg; 600 J/kg°C", "4000 J/kg°C; 3000 J/kg; 1200 J/kg°C", "1330 J/kg°C; 3000 J/kg; 600 J/kg°C"],
+    "correct": 3,
+    "explanation": "Ngurtë (4 min, ΔT=3°C): c = 8000/(2·3) ≈ 1330 J/kg°C. Shkrirja (3 min): L = 6000/2 = 3000 J/kg. Lëng (3 min, ΔT=5°C): c = 6000/(2·5) = 600 J/kg°C."
+  },
+  {
+    "id": "fizika-termodinamika-069",
+    "question": "Një enë cilindrike horizontale ndahet në dy pjesë me anën e një membrane të hollë, e cila mund të zhvendoset lirshëm pa fërkim. Në dhomën e majtë ndodhet oksigjen dhe në të djathtën hidrogjen, në të njëjtën sasi dhe temperaturë. Të gjendet vendndodhja e baraspeshës së lirshme të membranës (nisur nga skaji i majtë i enës), nëse gjatësia e enës është 68cm. (Masat molare janë MO=32·10⁻³kg/mol dhe MH=2·10⁻³kg/mol)",
+    "image": "/question-images/fizika/termodinamika/termodinamika-069.png",
+    "imageAlt": "Enë cilindrike horizontale e ndarë nga një membranë, me O₂ majtas dhe H₂ djathtas",
+    "answers": ["x = 4cm", "x = 5cm", "x = 6cm", "x = 7cm"],
+    "correct": 0,
+    "explanation": "Në baraspeshë shtypjet dhe temperaturat janë të njëjta, pra V ∝ n. Me masa të barabarta: nO/nH = (1/32)/(1/2) = 1/16, pra vëllimet rrinë 1:16. x = 68/17 = 4cm."
+  },
+  {
+    "id": "fizika-termodinamika-070",
+    "question": "Në enën me vëllim 12 litra ndodhet 0,3 mole oksigjen dhe 0,2 mole argon. Shtypja e përzierjes në temperaturën 1600K është: (R=8,31J/mol·K)",
+    "answers": ["222kPa", "332kPa", "554 kPa", "665kPa"],
+    "correct": 2,
+    "explanation": "Sipas ligjit të Daltonit numërohen molet e përgjithshme: n = 0,5. p = nRT/V = 0,5 · 8,31 · 1600/0,012 = 554000Pa = 554kPa."
+  },
+  {
+    "id": "fizika-termodinamika-071",
+    "question": "Një ngrohës përdoret për ngrohjen e 400g kallaj nga temperatura 323K në 388K. Nxehtësia specifike e ngrohjes së kallajit është 210J/kg·K. Sa kohë zgjat ngrohja, nëse fuqia e tij është 50W dhe rendimenti është 60%?",
+    "answers": ["10,3min", "6,03min", "3,03min", "1,03min"],
+    "correct": 2,
+    "explanation": "Q e dobishme = 0,4 · 210 · 65 = 5460J. Energjia e nevojshme = 5460/0,6 = 9100J. t = 9100/50 = 182s ≈ 3,03min."
+  },
+  {
+    "id": "fizika-termodinamika-072",
+    "question": "Gazi ideal me molekula dy atomike zgjerohet në shtypje konstante 2atm nga vëllimi 5 litra në vëllimin 15 litra. Ndryshimi i energjisë së brendshme të gazit në këtë proces është (1atm=100kPa):",
+    "answers": ["2000J", "3000J", "5000J", "2500J"],
+    "correct": 2,
+    "explanation": "Për gaz dyatomik ΔU = (5/2)pΔV = 2,5 · 200000 · 0,01 = 5000J."
+  },
+  {
+    "id": "fizika-termodinamika-073",
+    "question": "Gazi ideal me molekula dyatomike zgjerohet në shtypje konstante 2atm nga vëllimi 5 litra në vëllimin 15 litra. Sasia e nxehtësisë që merr gazi nga mjedisi në këtë proces është (1atm=100kPa):",
+    "answers": ["2000J", "2500J", "5000J", "7000J"],
+    "correct": 3,
+    "explanation": "Q = ΔU + A = 5000J + pΔV = 5000 + 2000 = 7000J. E njëjta gjë me formulën Q = (7/2)pΔV për gaz dyatomik në izobarik."
+  },
+  {
+    "id": "fizika-termodinamika-074",
+    "question": "Një bllok hekuri me masë 0,5kg, nxehet për 4 minuta me ndihmën e një ngrohësi me fuqi 80W dhe rendiment 62,5%. Temperatura e bllokut rritet nga 22°C në 70°C. Kapaciteti termik specifik i hekurit është:",
+    "answers": ["500J/kg°C", "600J/kg°C", "700J/kg°C", "800J/kg°C"],
+    "correct": 0,
+    "explanation": "Q e dobishme = 80 · 240 · 0,625 = 12000J. c = Q/(mΔT) = 12000/(0,5 · 48) = 500 J/kg°C."
+  },
+  {
+    "id": "fizika-termodinamika-075",
+    "question": "Balloni A me vëllim V₁=2 litra është mbushur me gaz ideal një atomik në shtypje 500kPa. Me anë të një tubi të hollë me rubinet me vëllim të papërfillshëm, balloni lidhet me ballonin B, me vëllim katër herë më të madh ku ndodhet i njëjti gaz në shtypje 5 herë më të vogël. Pasi hapet rubineti, gazet përzihen dhe sistemi ndodhet në ekuilibër termik. Shtypja e përzierjes do të jetë:",
+    "answers": ["180kPa", "200kPa", "300kPa", "500kPa"],
+    "correct": 0,
+    "explanation": "Në temperaturë të njëjtë ruhet shuma p·V: p = (500·2 + 100·8)/10 = 1800/10 = 180kPa."
+  },
+  {
+    "id": "fizika-termodinamika-076",
+    "question": "Një flluskë ajri, që formohet në fundin e një liqeni ka një vëllim prej 1cm³. Temperatura në fund të liqenit është 5°C dhe dendësia e ujit është 1000kg/m³. Pranë sipërfaqes ku temperatura e ujit është 22°C dhe trysnia atmosferike është 10⁵Pa, vëllimi i flluskës bëhet 5,3 cm³. Në këto kushte thellësia ku formohet flluska është:",
+    "answers": ["53m", "40m", "20m", "10m"],
+    "correct": 1,
+    "explanation": "p₁ = p₂·(V₂/V₁)·(T₁/T₂) = 10⁵ · 5,3 · (278/295) ≈ 5·10⁵Pa. Thellësia = (p₁ − p_atm)/(ρg) = 4·10⁵/(1000·10) ≈ 40m."
+  },
+  {
+    "id": "fizika-termodinamika-077",
+    "question": "Një sasi prej 2 mole gazi ideal dyatomik ngrohen në një proces izohorik me vëllim 2 litra, nga 650K në 750K. Ndryshimi i shtypjes së gazit gjatë këtij procesi është (R=8,31J/mol·K):",
+    "answers": ["831kPa", "120kPa", "100kPa", "-100kPa"],
+    "correct": 0,
+    "explanation": "Izohorik: Δp = nRΔT/V = 2 · 8,31 · 100/0,002 = 831000Pa = 831kPa."
+  },
+  {
+    "id": "fizika-termodinamika-078",
+    "question": "Një cilindër horizontal me piston, përmban gaz ideal në temperaturë 127°C. Pistoni fillimisht, ndodhet 40cm larg bazës së cilindrit. Gazi ngrohet dhe zgjerohet, temperatura e gazit rritet me 100°C dhe pistoni lëviz horizontalisht, pa fërkim. Lloji i procesit dhe zhvendosja e pistonit janë:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-078.png",
+    "imageAlt": "Cilindër horizontal me piston, para dhe pas zgjerimit të gazit",
+    "answers": ["Izotermik dhe 50cm", "Izohorik dhe 20cm", "Izobarik dhe 10cm", "Adiabatik dhe 35cm"],
+    "correct": 2,
+    "explanation": "Pistoni lëviz lirshëm, pra shtypja mbetet konstante — procesi është izobarik. T₁ = 400K, T₂ = 500K, pra l₂ = 40 · 500/400 = 50cm dhe zhvendosja = 10cm."
+  },
+  {
+    "id": "fizika-termodinamika-079",
+    "question": "Një cilindër me piston, me rreze të bazës 40cm, përmban një gaz me shtypje 200kPa. Gazi ngrohet në proces izobarik, për pasojë pistoni ngrihet pa fërkim, vertikalisht lart me 10cm. Në këto kushte puna e kryer nga gazi është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-079.png",
+    "imageAlt": "Cilindër vertikal me piston që ngrihet 10cm gjatë zgjerimit izobarik",
+    "answers": ["3200kJ", "320kJ", "100,48kJ", "10,048kJ"],
+    "correct": 3,
+    "explanation": "ΔV = πr²·h = 3,14 · 0,16 · 0,1 ≈ 0,0502m³. A = pΔV = 200000 · 0,0502 ≈ 10048J = 10,048kJ."
+  },
+  {
+    "id": "fizika-termodinamika-080",
+    "question": "Një cilindër me piston, me rreze të bazës 40cm, përmban një gaz me shtypje 100kPa. Gazi ngrohet në proces izobarik, duke përthithur nga mjedisi nxehtësinë 4180J. Për pasojë pistoni ngrihet pa fërkim, vertikalisht lart me 10cm. Në këto kushte ndryshimi i energjisë së brendshme të gazit është:",
+    "image": "/question-images/fizika/termodinamika/termodinamika-080.png",
+    "imageAlt": "Cilindër vertikal me piston që ngrihet 10cm gjatë zgjerimit izobarik",
+    "answers": ["9384J", "4692J", "-844J", "-440J"],
+    "correct": 2,
+    "explanation": "A = pΔV = 100000 · 3,14 · 0,16 · 0,1 ≈ 5024J. ΔU = Q − A = 4180 − 5024 ≈ −844J: gazi kryen më shumë punë se nxehtësia e marrë, prandaj ftohet."
+  }
+]

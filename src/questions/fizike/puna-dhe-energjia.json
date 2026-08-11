@@ -1,1 +1,726 @@
-[]
+[
+  {
+    "id": "fizika-puna-energjia-001",
+    "question": "Mbi trupin me masë 1kg vepron forca F=20N që e detyron trupin të zhvendoset horizontalisht me s=10m. Puna e forcës së rëndesës në këtë rast është:",
+    "answers": ["0J", "10J", "100J", "200J"],
+    "correct": 0,
+    "explanation": "Forca e rëndesës është vertikale, ndërsa zhvendosja horizontale. Kur forca është pingul me zhvendosjen, cos90°=0, prandaj puna e saj është zero."
+  },
+  {
+    "id": "fizika-puna-energjia-002",
+    "question": "Puna e kryer nga forca që vepron në drejtimin e zhvendosjes përcaktohet si:",
+    "answers": ["raporti i forcës me zhvendosjen.", "shuma e forcës me zhvendosjen.", "prodhimi i forcës me zhvendosjen.", "diferenca e forcës me zhvendosjen."],
+    "correct": 2,
+    "explanation": "Sipas përkufizimit A=F·s·cosα. Kur forca ka drejtimin e zhvendosjes, cosα=1 dhe puna është thjesht prodhimi F·s."
+  },
+  {
+    "id": "fizika-puna-energjia-003",
+    "question": "A është e mundur për një top të rëndë që lëshohet nga një lartësi H, të mund të kthehet në një lartësi më të madhe se kjo, pasi është përplasur në dysheme?",
+    "answers": ["Jo", "Po", "Ndonjëherë", "Gjithmonë"],
+    "correct": 0,
+    "explanation": "Topi nuk mund të fitojë energji nga hiçi. Gjatë përplasjes një pjesë e energjisë humbet si nxehtësi e zë, prandaj lartësia e kthimit është gjithmonë më e vogël se H."
+  },
+  {
+    "id": "fizika-puna-energjia-004",
+    "question": "Si është më e lehtë për alpinistin?",
+    "answers": ["Të ngjitet në mal sipas një rruge zik-zak, duke harxhuar më shumë kohë.", "Të ngjitet në mal sipas një rruge të drejtë, me pjerrësi maksimale dhe më shpejt.", "Nuk ka rëndësi rruga që ndjek, sepse kryen të njëjtën punë.", "Nuk ka rëndësi rruga që ndjek, por koha që harxhon."],
+    "correct": 0,
+    "explanation": "Puna kundër rëndesës është e njëjtë (mgh), por në rrugë zik-zak pjerrësia është më e vogël, pra në çdo çast nevojitet forcë më e vogël. Prandaj ndihet më e lehtë."
+  },
+  {
+    "id": "fizika-puna-energjia-005",
+    "question": "Dy susta identike me konstante elastike k₁>k₂, tërhiqen me të njëjtën forcë F. Gjatë veprimit të forcës, më shumë punë kryhet mbi:",
+    "answers": ["sustën 2 sepse x₂>x₁", "sustën 1 sepse x₁>x₂", "sustën 2 sepse x₂<x₁", "sustën 1 sepse x₁<x₂"],
+    "correct": 0,
+    "explanation": "Me forcë të njëjtë, x=F/k, pra susta me k më të vogël (susta 2) zgjatet më shumë. Puna A=F²/2k është më e madhe atje ku k është më i vogël."
+  },
+  {
+    "id": "fizika-puna-energjia-006",
+    "question": "Puna e kryer nga forca e rëndesës, mbi trupin me masë m që lëviz nga A në B si në figurë është:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-006.png",
+    "imageAlt": "Trupi lëviz nga pika A në lartësinë 8 në pikën B në lartësinë 5, përgjatë një harku 6m",
+    "answers": ["3mg", "5mg", "6mg", "8mg"],
+    "correct": 0,
+    "explanation": "Puna e rëndesës varet vetëm nga ndryshimi i lartësisë, jo nga gjatësia e rrugës. Trupi zbret nga 8 në 5, pra Δh=3 dhe A=3mg."
+  },
+  {
+    "id": "fizika-puna-energjia-007",
+    "question": "Forca e kundërveprimit kryen punë mbi ju, kur ju:",
+    "answers": ["qëndroni ulur në karrige", "lëvizni horizontalisht me v=const", "kërceni vertikalisht lart", "lëvizni horizontalisht me a=const"],
+    "correct": 2,
+    "explanation": "Forca e kundërveprimit është vertikale. Vetëm gjatë kërcimit vertikal ka zhvendosje në drejtimin e saj, pra vetëm atëherë ajo kryen punë."
+  },
+  {
+    "id": "fizika-puna-energjia-008",
+    "question": "Që të rrisë fuqinë e tij, muratori duhet t'i ngrejë tullat:",
+    "answers": ["një e nga një, për një kohë t", "dy e nga dy, për një kohë 2t", "një e nga një, për një kohë 2t", "një e nga një, për një kohë t/2"],
+    "correct": 3,
+    "explanation": "Fuqia P=A/t. Duke kryer të njëjtën punë në gjysmën e kohës, fuqia dyfishohet. Rastet e tjera ose e lënë P të njëjtë ose e zvogëlojnë atë."
+  },
+  {
+    "id": "fizika-puna-energjia-009",
+    "question": "Kur një grimcë përshkon një trajektore të mbyllur, duke u kthyer në pozicionin fillestar, puna totale e kryer nga çdo forcë konservative, është",
+    "answers": ["e papërfillshme", "pozitive", "negative", "zero"],
+    "correct": 3,
+    "explanation": "Forcat konservative kryejnë punë që varet vetëm nga pozicioni fillestar dhe përfundimtar. Kur këto përputhen, puna është saktësisht zero."
+  },
+  {
+    "id": "fizika-puna-energjia-010",
+    "question": "Puna e kryer për të ngritur një valixhe nga dyshemeja, deri në lartësinë e tavolinës, varet nga:",
+    "answers": ["forma e trajektores.", "koha e lëvizjes.", "shpejtësia e lëvizjes.", "pesha e valixhes."],
+    "correct": 3,
+    "explanation": "A=mgh, pra puna varet nga pesha (mg) dhe lartësia. Forma e rrugës, koha dhe shpejtësia nuk e ndryshojnë vlerën e saj."
+  },
+  {
+    "id": "fizika-puna-energjia-011",
+    "question": "Nëse trupit, me masë m që lëviz me shpejtësi v, i përgjysmohet shpejtësia, ndërsa masa i mbetet konstante, atëherë energjia kinetike e tij:",
+    "answers": ["zvogëlohet 2 herë", "zvogëlohet 4 herë", "zmadhohet 2 herë", "zmadhohet 4 herë"],
+    "correct": 1,
+    "explanation": "Ek=mv²/2 varet nga katrori i shpejtësisë. Kur v përgjysmohet, v² bëhet 4 herë më i vogël, pra edhe Ek zvogëlohet 4 herë."
+  },
+  {
+    "id": "fizika-puna-energjia-012",
+    "question": "Puna që kryhet mbi një trup me masë m për ta ngjitur vertikalisht lart nga lartësia h₁ në lartësinë h₂ me shpejtësi konstante, është:",
+    "answers": ["A=mgh₁", "A=mgh₂", "A=mg(h₂-h₁)", "A=mg(h₁-h₂)"],
+    "correct": 2,
+    "explanation": "Me shpejtësi konstante forca ngritëse është sa pesha mg, ndërsa zhvendosja është h₂-h₁. Prandaj A=mg(h₂-h₁), vlerë pozitive sepse h₂>h₁."
+  },
+  {
+    "id": "fizika-puna-energjia-013",
+    "question": "Të gjithë trupat kanë aftësi të kryejnë punë, sepse zotërojnë energji:",
+    "answers": ["vetëm kur janë në lëvizje", "vetëm kur janë të shformuar", "vetëm kur bashkëveprojnë me njëri-tjetrin", "kur lëvizin, shformohen dhe janë në lartësi"],
+    "correct": 3,
+    "explanation": "Energjia mekanike përfshin energjinë kinetike (lëvizje), atë elastike (shformim) dhe atë potenciale gravitacionale (lartësi). Prandaj përgjigja e plotë i mbledh të tria."
+  },
+  {
+    "id": "fizika-puna-energjia-014",
+    "question": "Në cilin nga pohimet e mëposhtme kryhet punë në fizikë? Pohimi I: Shtyjmë murin pa e lëvizur atë. Pohimi II: Ngremë një libër nga tavolina në një raft. Pohimi III: Shtyjmë një karrocë fëmijësh.",
+    "answers": ["Vetëm në pohimin II", "Vetëm në pohimin III", "Në pohimin I dhe pohimin III", "Në pohimin II dhe pohimin III"],
+    "correct": 3,
+    "explanation": "Punë kryhet vetëm kur ka zhvendosje në drejtimin e forcës. Muri nuk zhvendoset (A=0), ndërsa libri dhe karroca po."
+  },
+  {
+    "id": "fizika-puna-energjia-015",
+    "question": "Për të zgjatur një sustë me 7cm, kryhet një punë 0,49J. Sa është koeficienti i elasticitetit të sustës.",
+    "answers": ["20N/m", "200N/m", "2000N/m", "20000N/m"],
+    "correct": 1,
+    "explanation": "Nga A=kx²/2 → k=2A/x² = 2·0,49/(0,07)² = 0,98/0,0049 = 200N/m."
+  },
+  {
+    "id": "fizika-puna-energjia-016",
+    "question": "Dy kuti me masa të njëjta zhvendosen njësoj horizontalisht, sipas një vije të drejtë. Mbi kutinë e parë A vepron një forcë konstante me madhësi F, që formon këndin α=30° me drejtimin e zhvendosjes, ndërsa mbi kutinë e dytë B vepron forca me madhësi 2F, që formon këndin 2α me zhvendosjen (cos30°=0,8; sin30°=0,5; cos60°=0,5; sin60°=0,8). Mund të themi se:",
+    "answers": ["mbi kutinë A kryhet punë më e madhe se mbi B", "mbi kutinë B kryhet punë më e madhe se mbi A", "mbi të dyja kutitë kryhet e njëjta punë", "puna në të dyja rastet është zero"],
+    "correct": 1,
+    "explanation": "A_A=F·s·cos30°=0,8Fs, ndërsa A_B=2F·s·cos60°=1,0Fs. Pra puna mbi kutinë B është më e madhe."
+  },
+  {
+    "id": "fizika-puna-energjia-017",
+    "question": "Njësia e punës në SI është",
+    "answers": ["J=Nm²s²", "J=N/m", "J=kgm⁻²s⁻²", "J=kgm²s⁻²"],
+    "correct": 3,
+    "explanation": "A=F·s=N·m, ndërsa 1N=1kg·m/s². Prandaj 1J=1kg·m²/s², domethënë kgm²s⁻²."
+  },
+  {
+    "id": "fizika-puna-energjia-018",
+    "question": "Energjia potenciale gravitacionale e një trupi varet nga:",
+    "answers": ["masa dhe lartësia", "masa dhe shpejtësia", "lartësia dhe shpejtësia", "rezistenca e ajrit dhe lartësia"],
+    "correct": 0,
+    "explanation": "Ep=mgh përmban vetëm masën, nxitimin e rënies së lirë dhe lartësinë. Shpejtësia hyn te energjia kinetike, jo te ajo potenciale."
+  },
+  {
+    "id": "fizika-puna-energjia-019",
+    "question": "Ndryshimi i energjisë potenciale përcaktohet nga",
+    "answers": ["puna e forcës së fërkimit", "ndryshimi i energjisë kinetike", "puna që kryejnë forcat konservative", "puna e të gjitha forcave që veprojnë mbi trupin"],
+    "correct": 2,
+    "explanation": "ΔEp=-A(konservative). Vetëm forcat konservative (rëndesa, elasticiteti) kanë energji potenciale të lidhur me to; fërkimi është jokonservativ."
+  },
+  {
+    "id": "fizika-puna-energjia-020",
+    "question": "Energjia e plotë mekanike e trupit (e sistemit të trupave) mbetet konstante:",
+    "answers": ["kur të gjitha forcat kryejnë punë mbi trupin", "kur të gjitha forcat që kryejnë punë janë konservative", "kur të gjitha forcat që kryejnë punë janë jokonservative", "kur mbi trupin nuk veprojnë forca dhe nuk kryhet asnjë punë"],
+    "correct": 1,
+    "explanation": "Ligji i ruajtjes së energjisë mekanike vlen kur nuk ka forca jokonservative që kryejnë punë (si fërkimi), pra kur të gjitha forcat punuese janë konservative."
+  },
+  {
+    "id": "fizika-puna-energjia-021",
+    "question": "Koeficienti i elasticitetit të sustës përcaktohet nga pjerrësia e grafikut:",
+    "answers": ["forcë-zgjatje", "forcë-kohë", "sforcim-zgjatje", "sforcim-shformim"],
+    "correct": 0,
+    "explanation": "Nga ligji i Hukut F=kx, pra k është pjerrësia e drejtëzës F ndaj x, domethënë e grafikut forcë-zgjatje."
+  },
+  {
+    "id": "fizika-puna-energjia-022",
+    "question": "Në grafikun e varësisë së forcës nga zgjatja, pika që përcakton vlerën e forcës, përtej së cilës shformimi është i përhershëm, njihet si:",
+    "answers": ["forcë elastike", "forcë shformuese", "kufi i elasticitetit", "forcë përpjesëtimore"],
+    "correct": 2,
+    "explanation": "Kufiri i elasticitetit është pika deri ku trupi kthehet në formën fillestare. Përtej saj shformimi mbetet i përhershëm (plastik)."
+  },
+  {
+    "id": "fizika-puna-energjia-023",
+    "question": "Shformimi relativ përkufizohet si:",
+    "answers": ["raporti i zgjatjes me gjatësinë fillestare", "raporti i zgjatjes me forcën", "raporti i forcës me sipërfaqen", "raporti i forcës me zgjatjen"],
+    "correct": 0,
+    "explanation": "ε=Δl/l₀, pra zgjatja pjesëtuar me gjatësinë fillestare. Raporti forcë/sipërfaqe është sforcimi, jo shformimi."
+  },
+  {
+    "id": "fizika-puna-energjia-024",
+    "question": "Për një sustë apo tel që i bindet ligjit të Hukut, energjia potenciale jepet nga formula",
+    "answers": ["E=mgh", "E=kx²", "E=2kx⁻²", "E=kx²/2"],
+    "correct": 3,
+    "explanation": "Energjia elastike është sipërfaqja nën grafikun F-x, pra ½·(kx)·x = kx²/2. Formula mgh i takon energjisë potenciale gravitacionale."
+  },
+  {
+    "id": "fizika-puna-energjia-025",
+    "question": "Moduli i Jangut karakterizon:",
+    "answers": ["përmasat e materialit.", "fortësinë e materialit.", "formën e materialit.", "përbërjen e materialit."],
+    "correct": 1,
+    "explanation": "Moduli i Jangut E=σ/ε tregon sa i vështirë është shformimi elastik, pra fortësinë (ngurtësinë) e materialit. Ai nuk varet nga përmasat apo forma e trupit."
+  },
+  {
+    "id": "fizika-puna-energjia-026",
+    "question": "Gjatë ngjitjes së shkallëve nga fundi në majë nxënësja me masë 70kg kreu punën:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-026.png",
+    "imageAlt": "Nxënësja ngjitet nëpër shkallë me lartësi të përgjithshme 3,2m",
+    "answers": ["2240J", "2,240J", "220kJ", "22KJ"],
+    "correct": 0,
+    "explanation": "A=mgh=70·10·3,2=2240J. Vlerat e tjera ndryshojnë vetëm nga rendi i madhësisë."
+  },
+  {
+    "id": "fizika-puna-energjia-027",
+    "question": "Kur forcat e brendshme të një sistemi kryejnë punë pozitive, energjia potenciale:",
+    "answers": ["rritet", "zvogëlohet", "mbetet e pandryshuar", "dyfishohet"],
+    "correct": 1,
+    "explanation": "Nga ΔEp=-A, puna pozitive e forcave të brendshme konservative jep ΔEp negative, pra energjia potenciale zvogëlohet."
+  },
+  {
+    "id": "fizika-puna-energjia-028",
+    "question": "Për të përcaktuar energjinë që zotëron një trup në lëvizje, mund të llogarisim:",
+    "answers": ["punën që kryhet për ta ndaluar atë", "punën e forcës së rëndesës", "energjinë që ka trupi në prehje.", "energjinë fillestare të tij"],
+    "correct": 0,
+    "explanation": "Teorema e energjisë kinetike: puna e nevojshme për ta ndaluar trupin është numerikisht e barabartë me energjinë e tij kinetike."
+  },
+  {
+    "id": "fizika-puna-energjia-029",
+    "question": "Që një trup (apo sistem) të ketë energji potenciale gravitacionale negative, atëherë ai duhet të ndodhet:",
+    "answers": ["nën nivelin ku pranohet Epg=0", "mbi nivelin ku pranohet Epg=0", "në të gjitha pozicionet", "në asnjë pozicion"],
+    "correct": 0,
+    "explanation": "Ep=mgh matet nga niveli zero i zgjedhur. Kur trupi është nën atë nivel, h është negative dhe bashkë me të edhe Ep."
+  },
+  {
+    "id": "fizika-puna-energjia-030",
+    "question": "Te shprehja Ep=mgh, tregoni me cilat madhësi përfaqësohen trupi dhe Toka:",
+    "answers": ["m dhe h", "m dhe g", "h dhe g", "g dhe m"],
+    "correct": 1,
+    "explanation": "Trupi përfaqësohet nga masa e tij m, ndërsa Toka nga nxitimi i rëndesës g që ajo krijon. Lartësia h karakterizon vetëm pozicionin."
+  },
+  {
+    "id": "fizika-puna-energjia-031",
+    "question": "Për të karakterizuar shkallën e shfrytëzimit të punës së harxhuar në një makinë ose motor, shërben rendimenti, i cili përcaktohet si:",
+    "answers": ["raporti i punës së dobishme me punën e harxhuar.", "raporti i punës së harxhuar me punën e dobishme.", "prodhimi i punës së dobishme me punën e harxhuar.", "shuma e punës së dobishme me punën e harxhuar."],
+    "correct": 0,
+    "explanation": "η=A_dobishme/A_harxhuar. Meqë puna e dobishme është gjithnjë më e vogël, ky raport del gjithmonë nën 1 (nën 100%)."
+  },
+  {
+    "id": "fizika-puna-energjia-032",
+    "question": "Sfera me masë 200g hidhet vertikalisht lart. Energjia kinetike e saj në çastin e hedhjes është 10J. Shpejtësia në çastin e hedhjes është:",
+    "answers": ["1m/s", "10m/s", "100m/s", "1000m/s"],
+    "correct": 1,
+    "explanation": "Nga Ek=mv²/2 → v²=2Ek/m=2·10/0,2=100, pra v=10m/s. Kujdes që masa duhet kthyer në kg."
+  },
+  {
+    "id": "fizika-puna-energjia-033",
+    "question": "Puna maksimale që mund të kryejë një predhë me masë 20g, që lëviz horizontalisht me shpejtësi 500m/s, është:",
+    "answers": ["0,25kJ", "2,5kJ", "25kJ", "250kJ"],
+    "correct": 1,
+    "explanation": "Puna maksimale është sa energjia kinetike: Ek=0,02·500²/2=2500J=2,5kJ."
+  },
+  {
+    "id": "fizika-puna-energjia-034",
+    "question": "Në rast se mbi trupin që lëviz në mënyrë drejtvizore të njëtrajtshme, vepron forca me drejtim pingul me atë të lëvizjes së trupit, atëherë pohojmë se:",
+    "answers": ["energjia kinetike bëhet zero pas njëfarë kohe.", "energjia kinetike e trupit rritet me kalimin e kohës.", "energjia kinetike e trupit zvogëlohet me kalimin e kohës.", "energjia kinetike e trupit nuk ndryshon me kalimin e kohës."],
+    "correct": 3,
+    "explanation": "Forca pingule nuk kryen punë (cos90°=0), prandaj sipas teoremës së energjisë kinetike ΔEk=0 dhe moduli i shpejtësisë mbetet i pandryshuar."
+  },
+  {
+    "id": "fizika-puna-energjia-035",
+    "question": "Për një trup që bie pa shpejtësi fillestare nga lartësia h, puna e kryer nga forca e rëndesës në intervale kohe të barabarta:",
+    "answers": ["vjen duke u zvogëluar.", "vjen duke u rritur.", "është e barabartë.", "është zero."],
+    "correct": 1,
+    "explanation": "Në rënie të lirë rruga e përshkuar në çdo interval të njëjtë kohe vjen duke u rritur. Meqë forca mg është konstante, edhe puna A=mg·s rritet."
+  },
+  {
+    "id": "fizika-puna-energjia-036",
+    "question": "Një gjimnast për të kaluar kaluçin kërcen në fillim në pedanë për të:",
+    "answers": ["gjetur ritmin.", "kërcyer më lart.", "drejtuar trupin.", "caktuar pikën e nisjes."],
+    "correct": 1,
+    "explanation": "Pedana ngjishet dhe grumbullon energji elastike, të cilën ia kthen trupit. Kjo energji shtesë e ngre gjimnastin më lart."
+  },
+  {
+    "id": "fizika-puna-energjia-037",
+    "question": "Një fëmijë ngre nga dyshemeja një lodër në mënyrë të njëtrajtshme dhe e vendos mbi një tavolinë 40cm të lartë, duke kryer punën 2,4J (g=10m/s²). Masa e lodrës është:",
+    "answers": ["200g", "400g", "600g", "800g"],
+    "correct": 2,
+    "explanation": "Nga A=mgh → m=A/(gh)=2,4/(10·0,4)=0,6kg=600g."
+  },
+  {
+    "id": "fizika-puna-energjia-038",
+    "question": "Një trup me masë 1kg bie drejt tokës dhe në lartësinë 0,7m nga toka energjia potenciale e trupit është e barabartë me energjinë kinetike të tij. Shpejtësia e tij kur prek tokën është:",
+    "answers": ["0,52m/s", "5,2m/s", "52m/s", "52cm/s"],
+    "correct": 1,
+    "explanation": "Në h=0,7m: Ep=mgh=7J dhe Ek=7J, pra energjia e plotë është 14J. Në tokë e gjitha bëhet kinetike: v=√(2·14/1)≈5,2m/s."
+  },
+  {
+    "id": "fizika-puna-energjia-039",
+    "question": "Ligji i ruajtjes së energjisë mekanike pohon: Në mungesë të forcave të fërkimit, energjia mekanike e një sistemi të mbyllur trupash:",
+    "answers": ["rritet në përpjesëtim të drejtë me kohën;", "mbetet konstante me kalimin e kohës", "zvogëlohet në përpjesëtim të drejtë me kohën;", "ndryshon vetëm energjia kinetike, ndërsa ajo potenciale nuk ndryshon;"],
+    "correct": 1,
+    "explanation": "Pa fërkim energjia kinetike dhe ajo potenciale shndërrohen te njëra-tjetra, por shuma e tyre – energjia mekanike – mbetet e pandryshuar."
+  },
+  {
+    "id": "fizika-puna-energjia-040",
+    "question": "Në rast se puna që kryhet mbi një trup është zero, atëherë energjia kinetike e tij:",
+    "answers": ["nuk ndryshon.", "rritet.", "zvogëlohet.", "është zero."],
+    "correct": 0,
+    "explanation": "Teorema e energjisë kinetike: A=ΔEk. Nëse A=0, atëherë ΔEk=0, pra Ek mbetet e pandryshuar (jo detyrimisht zero)."
+  },
+  {
+    "id": "fizika-puna-energjia-041",
+    "question": "Disa susta me gjatësi dhe koeficient elasticiteti të njëjtë, janë lidhur në kombinime të ndryshme. Cila prej kombinimeve e ka konstanten e elasticitetit më të madhe?",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-041.png",
+    "imageAlt": "Katër kombinime sustash A, B, C dhe D me një masë m të varur",
+    "answers": ["Kombinimi A", "Kombinimi B", "Kombinimi C", "Kombinimi D"],
+    "correct": 1,
+    "explanation": "Në lidhjen paralele konstantet mblidhen (k=k₁+k₂), ndërsa në lidhjen seri konstantja e përgjithshme del më e vogël se secila. Prandaj kombinimi krejt paralel, B, ka k më të madhe."
+  },
+  {
+    "id": "fizika-puna-energjia-042",
+    "question": "Një trup me masë m që lëviz me shpejtësi v godet një sustë me koeficient elasticiteti k. Gjatë goditjes susta ngjishet me x. Sa do të ngjishet susta me koeficient dy herë më të madh, nëse goditet nga i njëjti trup, me po atë shpejtësi?",
+    "answers": ["2x", "x/2", "2x/√2", "x/√2"],
+    "correct": 3,
+    "explanation": "Nga mv²/2=kx²/2 del x=v√(m/k), pra x është në përpjesëtim me 1/√k. Kur k dyfishohet, ngjeshja bëhet x/√2."
+  },
+  {
+    "id": "fizika-puna-energjia-043",
+    "question": "Mbi trupin veprojnë forcat F₁, F₂, F₃ dhe F₄, të cilat formojnë përkatësisht këndet 0°, 60°, 90° dhe 180° me zhvendosjen. Cili prej relacioneve shpreh saktë punën e këtyre forcave?",
+    "answers": ["A₁>0; A₂=0; A₃>0; A₄<0", "A₁>0; A₂=0; A₃=0; A₄<0", "A₁>0; A₂>0; A₃=0; A₄<0", "A₁>0; A₂=0; A₃=0; A₄<0"],
+    "correct": 2,
+    "explanation": "Shenja e punës jepet nga cosα: cos0°=1>0, cos60°=0,5>0, cos90°=0 dhe cos180°=-1<0. Pra A₁>0, A₂>0, A₃=0, A₄<0."
+  },
+  {
+    "id": "fizika-puna-energjia-044",
+    "question": "Në figurë paraqitet grafiku i forcës së elasticitetit në funksion të zgjatjes për një sustë elastike. Vlera e konstantes së elasticitetit të sustës është:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-044.png",
+    "imageAlt": "Grafik F(N) në funksion të x(cm): drejtëz që kalon nëpër pikën (2cm; 4N)",
+    "answers": ["1/200 N/m", "1/800 N/m", "200 N/m", "800 N/m"],
+    "correct": 2,
+    "explanation": "k është pjerrësia e drejtëzës: k=F/x=4N/0,02m=200N/m. Gabimi më i shpeshtë është të mos kthehen centimetrat në metra."
+  },
+  {
+    "id": "fizika-puna-energjia-045",
+    "question": "Dy susta elastike kanë konstante elasticiteti k₁>k₂. Grafiku që paraqet me saktësi varësinë e forcës së elasticitetit nga zgjatja e saj për të dy sustat, është:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-045.png",
+    "imageAlt": "Katër grafikë A, B, C, D të varësisë F(x) për dy susta k₁ dhe k₂",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 2,
+    "explanation": "F=kx janë drejtëza nga origjina dhe pjerrësia e tyre është pikërisht k. Meqë k₁>k₂, drejtëza e k₁ duhet të jetë më e pjerrët – siç tregohet te grafiku C."
+  },
+  {
+    "id": "fizika-puna-energjia-046",
+    "question": "Një tel çeliku me gjatësi l dhe diametër D e ka modulin e Jangut E. Sa do të jetë moduli i Jangut në rastin kur përdoret i njëjti tel me gjatësi 2l dhe diametër d/2?",
+    "answers": ["E/4", "E/2", "E", "2E"],
+    "correct": 2,
+    "explanation": "Moduli i Jangut është veti e materialit, jo e përmasave të trupit. Duke qenë i njëjti çelik, E mbetet e pandryshuar."
+  },
+  {
+    "id": "fizika-puna-energjia-047",
+    "question": "Sa punë kryhet mbi trupin që zhvendoset në një sipërfaqe horizontale pa fërkim, ku varësia e forcës me zhvendosjen jepet sipas grafikut (F, x)",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-047.png",
+    "imageAlt": "Grafik F(N) - x(m): F=6N deri në 2m, zbret në 0 deri në 4m, pastaj F=-6N deri në 8m",
+    "answers": ["-12J", "-6J", "6J", "12J"],
+    "correct": 1,
+    "explanation": "Puna është sipërfaqja nën grafik me shenjë: 6·2=12J, plus trekëndëshi ½·2·6=6J, minus 6·4=24J. Në total 12+6-24=-6J."
+  },
+  {
+    "id": "fizika-puna-energjia-048",
+    "question": "Sa do të jetë shpejtësia dhe energjia mekanike në çastin kur prek tokën trupi me masë 2kg që lëshohet nga lartësia 80m?",
+    "answers": ["v=10m/s dhe Em=1200J", "v=30m/s dhe Em=1400J", "v=40m/s dhe Em=1600J", "v=50m/s dhe Em=1800J"],
+    "correct": 2,
+    "explanation": "v=√(2gh)=√(2·10·80)=40m/s. Energjia mekanike ruhet dhe është sa Ep fillestare: 2·10·80=1600J."
+  },
+  {
+    "id": "fizika-puna-energjia-049",
+    "question": "Sa do të jetë rendimenti i një motori që për të ngritur trupin me masë 60kg në lartësinë 3m për 10s, konsumon 2000J energji?",
+    "answers": ["70%", "80%", "90%", "100%"],
+    "correct": 2,
+    "explanation": "Puna e dobishme: mgh=60·10·3=1800J. Rendimenti: η=1800/2000=0,9, pra 90%. Koha nuk hyn në llogaritje."
+  },
+  {
+    "id": "fizika-puna-energjia-050",
+    "question": "Për topin që bie lirisht nga lartësia H, katrori i shpejtësisë e tij në mesin e lartësisë, do të jetë:",
+    "answers": ["5H", "10H", "20H", "30H"],
+    "correct": 1,
+    "explanation": "Në mes të lartësisë ka rënë H/2, pra v²=2g(H/2)=gH=10H."
+  },
+  {
+    "id": "fizika-puna-energjia-051",
+    "question": "Një top me masë m ngjitet uniformisht në lartësinë h duke u tërhequr me një fije. Po i njëjti top hidhet lart dhe arrin të njëjtën lartësi h. Relacioni që shpreh saktë ndryshimin e energjisë potenciale në dy rastet, është:",
+    "answers": ["∆Ep1>∆Ep2", "∆Ep1=∆Ep2", "∆Ep1<∆Ep2", "∆Ep1=0 dhe ∆Ep2=0"],
+    "correct": 1,
+    "explanation": "ΔEp=mgh varet vetëm nga masa dhe ndryshimi i lartësisë. Meqë të dyja janë të njëjta, edhe ndryshimet e energjisë potenciale janë të barabarta."
+  },
+  {
+    "id": "fizika-puna-energjia-052",
+    "question": "Një objekt zhvendoset 5m horizontalisht djathtas nën veprimin e forcës F=20N, e cila formon këndin 30° me drejtimin vertikal. Puna e kryer nga kjo forcë është (cos30°=0,8; sin30°=0,5; cos60°=0,5; sin60°=0,8):",
+    "answers": ["A=0J", "A=40J", "A=50J", "A=100J"],
+    "correct": 2,
+    "explanation": "Këndi me vertikalen është 30°, pra me zhvendosjen horizontale bëhet 60°. A=F·s·cos60°=20·5·0,5=50J."
+  },
+  {
+    "id": "fizika-puna-energjia-053",
+    "question": "Një trup në prehje do të fitojë energji kinetike më të madhe kur mbi të vepron një forcë F, sipas drejtimit të lëvizjes, gjatë kohës ∆t apo kur vepron forca 2F gjatë kohës ∆t/2:",
+    "answers": ["Në rastin 1", "Në rastin 2", "Njësoj", "Në të dy rastet Ek=0"],
+    "correct": 2,
+    "explanation": "Impulsi F·Δt është i njëjtë në të dy rastet (2F·Δt/2=F·Δt), pra edhe shpejtësia përfundimtare është e njëjtë. Prandaj edhe energjia kinetike del njësoj."
+  },
+  {
+    "id": "fizika-puna-energjia-054",
+    "question": "Një makinë e rrit shpejtësinë nga 20km/h në 30km/h, pastaj nga 40km/h në 50km/h. Rritja e energjisë kinetike:",
+    "answers": ["është më e madhe herën e parë", "është më e madhe herën e dytë", "është e njëjtë në të dyja rastet", "Varet edhe nga koha e ndryshimit të shpejtësisë"],
+    "correct": 1,
+    "explanation": "ΔEk varet nga ndryshimi i katrorëve: 30²-20²=500, ndërsa 50²-40²=900. Pra rritja është më e madhe herën e dytë."
+  },
+  {
+    "id": "fizika-puna-energjia-055",
+    "question": "Ç'punë kryhet që sistemi i dy sustave njësoj të gjata me k₁=980N/m dhe k₂=1960N/m dhe të lidhura paralel, të zgjaten me x=1cm?",
+    "answers": ["0,0147J", "0,147J", "1,47J", "14,7J"],
+    "correct": 1,
+    "explanation": "Në lidhje paralele k=k₁+k₂=2940N/m. Pastaj A=kx²/2=2940·(0,01)²/2=0,147J."
+  },
+  {
+    "id": "fizika-puna-energjia-056",
+    "question": "Ç'punë kryhet që sistemi i dy sustave njësoj të gjata me k₁=980N/m dhe k₂=1960N/m dhe të lidhura seri, të zgjaten me x=1cm?",
+    "answers": ["0,00033J", "0,0033J", "0,033J", "0,33J"],
+    "correct": 2,
+    "explanation": "Në lidhje seri k=k₁k₂/(k₁+k₂)=980·1960/2940≈653N/m. Atëherë A=kx²/2=653·0,0001/2≈0,033J."
+  },
+  {
+    "id": "fizika-puna-energjia-057",
+    "question": "Me sa centimetra do të ngjeshet një sustë me k=240N/m e vendosur në pjesën horizontale të një rrafshi të pjerrët, kur nga lartësia 3m e tij do të lëshohet një objekt me masë 1000g? (Forca e fërkimit të mos merret parasysh. g=10m/s²)",
+    "answers": ["5cm", "10cm", "40cm", "50cm"],
+    "correct": 3,
+    "explanation": "Energjia potenciale kalon e gjitha te susta: mgh=kx²/2 → 1·10·3=120x² → x²=0,25 → x=0,5m=50cm."
+  },
+  {
+    "id": "fizika-puna-energjia-058",
+    "question": "Mbi trupin, i cili lëviz me shpejtësi v, veprojnë katër forca G, N, F₁ dhe F₂, të tilla që F₁=3F₂. Në qoftë se gjatë kohës ∆t, ndryshimi i energjisë kinetike të trupit, për shkak të veprimit vetëm të forcës F₁ është 3EK, atëherë ndryshimi i energjisë kinetike të trupit gjatë kësaj kohe, si rezultat i veprimit të katër forcave, është:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-058.png",
+    "imageAlt": "Trup mbi sipërfaqe horizontale me forcat F₁ djathtas dhe F₂ majtas",
+    "answers": ["2EK", "EK", "0.75EK", "0.25EK"],
+    "correct": 0,
+    "explanation": "G dhe N janë pingule me zhvendosjen, pra nuk kryejnë punë. F₂=F₁/3 vepron në kah të kundërt dhe jep -EK, prandaj në total 3EK-EK=2EK."
+  },
+  {
+    "id": "fizika-puna-energjia-059",
+    "question": "Sa është energjia kinetike e trupit me masë 200g, i cili e ka impulsin 6kgm/s?",
+    "answers": ["9J", "90J", "9kJ", "90KJ"],
+    "correct": 1,
+    "explanation": "Ek=p²/(2m)=36/(2·0,2)=90J. Alternativisht v=p/m=30m/s dhe Ek=0,2·900/2=90J."
+  },
+  {
+    "id": "fizika-puna-energjia-060",
+    "question": "Kur një sustë me konstante elastike k ngjishet me x (në lidhje me pozicionin e ekuilibrit), kryhet puna A. Sa është puna që kryhet, në rast se e njëjta sustë ngjishet me 2x?",
+    "answers": ["A", "2A", "3A", "4A"],
+    "correct": 3,
+    "explanation": "Puna elastike A=kx²/2 varet nga katrori i ngjeshjes. Duke e dyfishuar x, puna bëhet 4 herë më e madhe."
+  },
+  {
+    "id": "fizika-puna-energjia-061",
+    "question": "Një top me masë 1.2 kg bie nga lartësia 30 m. Ndërkohë që ai bie, 25% e energjisë së tij potenciale gravitacionale shndërrohet në energji termike. Sa është energjia kinetike e topit në çastin që godet tokën?",
+    "answers": ["27J", "90J", "270J", "360J"],
+    "correct": 2,
+    "explanation": "Ep=1,2·10·30=360J. Meqë 25% humbet si nxehtësi, mbetet 75%: Ek=0,75·360=270J."
+  },
+  {
+    "id": "fizika-puna-energjia-062",
+    "question": "Një nxënëse kryen punë gjatë tërheqjes së një kutie në një sipërfaqe horizontale. Ajo tërheq një kuti të dytë përgjatë të njëjtës sipërfaqe. Cila prej alternativave tregon që nxënësja po kryen një punë dy herë më të madhe?",
+    "answers": ["Forca dyfishohet, zhvendosja dyfishohet.", "Forca dyfishohet, zhvendosja përgjysmohet.", "Forca nuk ndryshon, zhvendosja dyfishohet.", "Forca nuk ndryshon, zhvendosja përgjysmohet."],
+    "correct": 2,
+    "explanation": "A=F·s. Duke mbajtur F të njëjtë dhe duke dyfishuar s, puna dyfishohet. Në alternativën e parë ajo katërfishohet, në të dytën mbetet e njëjtë dhe në të fundit përgjysmohet."
+  },
+  {
+    "id": "fizika-puna-energjia-063",
+    "question": "Forca që vepron mbi një trup paraqitet si në grafik. Puna që kryhet nga kjo forcë deri në pikën x=5m është:",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-063.png",
+    "imageAlt": "Grafik F(N) - x(m) në formë trekëndëshi me maksimum 5N në x=5m dhe kthim në zero në x=10m",
+    "answers": ["12,5J", "25J", "50J", "100J"],
+    "correct": 0,
+    "explanation": "Puna është sipërfaqja nën grafik deri në x=5m, pra një trekëndësh: A=½·5·5=12,5J."
+  },
+  {
+    "id": "fizika-puna-energjia-064",
+    "question": "Dy trupa me masë m₁=m dhe m₂=2m lëvizin me shpejtësi v₁=v dhe v₂=v/2. Raporti i energjive kinetike të trupave Ek1/Ek2 është:",
+    "answers": ["1", "2", "1/2", "4"],
+    "correct": 1,
+    "explanation": "Ek1=mv²/2, ndërsa Ek2=2m(v/2)²/2=mv²/4. Raporti del (mv²/2):(mv²/4)=2."
+  },
+  {
+    "id": "fizika-puna-energjia-065",
+    "question": "Sa është energjia kinetike e një aeroplani lodër me peshë 1N, që fluturon me shpejtësi 4m/s?",
+    "answers": ["0,08J", "0,8J", "8J", "16J"],
+    "correct": 1,
+    "explanation": "Nga pesha gjejmë masën: m=G/g=1/10=0,1kg. Pastaj Ek=0,1·16/2=0,8J."
+  },
+  {
+    "id": "fizika-puna-energjia-066",
+    "question": "Mbi trupin me masë 2kg vepron forca horizontale 20N. Sa do të jetë puna e forcës së rëndesës, nëse trupi zhvendoset horizontalisht me 5m?",
+    "answers": ["0J", "10J", "100J", "200J"],
+    "correct": 0,
+    "explanation": "Forca e rëndesës është pingul me zhvendosjen horizontale, prandaj puna e saj është zero. Forca 20N këtu shërben vetëm si të dhënë shpërqendruese."
+  },
+  {
+    "id": "fizika-puna-energjia-067",
+    "question": "Susta me konstante elastike 500N/m zotëron energji potenciale të shformimit elastik 2,5J. Shformimi në këtë rast është:",
+    "answers": ["0,1cm", "1cm", "10cm", "100cm"],
+    "correct": 2,
+    "explanation": "Nga E=kx²/2 → x²=2E/k=5/500=0,01 → x=0,1m=10cm."
+  },
+  {
+    "id": "fizika-puna-energjia-068",
+    "question": "Trupi me masë 1kg lëshohet nga lartësia 2m mbi një sustë të fiksuar në dysheme. Konstantja elastike e sustës e cila ngjeshet me 2cm është:",
+    "answers": ["1x10⁵N/m", "2x10⁵N/m", "3x10⁵N/m", "4x10⁵N/m"],
+    "correct": 0,
+    "explanation": "Rënia e plotë është h+x=2,02m: mg(h+x)=kx²/2 → 20,2=k·0,0004/2 → k≈1·10⁵N/m."
+  },
+  {
+    "id": "fizika-puna-energjia-069",
+    "question": "Trupi me masë m hidhet vertikalisht lart dhe pasi arrin lartësinë h kthehet në pikën e nisjes. Puna e kryer nga forca e rëndesës gjatë ngjitjes është:",
+    "answers": ["mgh", "-mgh", "zero", "2mgh"],
+    "correct": 1,
+    "explanation": "Gjatë ngjitjes rëndesa është në kah të kundërt me zhvendosjen, pra puna e saj është negative: A=-mgh. Zero do të ishte vetëm për të gjithë udhëtimin vajtje-ardhje."
+  },
+  {
+    "id": "fizika-puna-energjia-070",
+    "question": "Kur një automjet ngjitet në një rrugë të pjerrët mund të themi se për të njëjtën fuqi të motorit është i vërtetë pohimi:",
+    "answers": ["Zvogëlohet shpejtësia dhe rritet forca", "Zvogëlohet forca dhe rritet shpejtësia", "Zvogëlohet shpejtësia, zvogëlohet edhe forca", "Rritet forca, rritet edhe shpejtësia"],
+    "correct": 0,
+    "explanation": "Nga P=F·v, me fuqi konstante forca dhe shpejtësia janë në përpjesëtim të zhdrejtë. Ngjitja kërkon forcë më të madhe, prandaj shpejtësia zvogëlohet."
+  },
+  {
+    "id": "fizika-puna-energjia-071",
+    "question": "Një djalë përdori një dinamometër me sustë që e ka konstanten e elasticitetit 1200N/m dhe gjeti që forca e duarve të tij është 600N. Puna që ai kreu në këtë rast është:",
+    "answers": ["100J", "150J", "200J", "250J"],
+    "correct": 1,
+    "explanation": "Zgjatja x=F/k=600/1200=0,5m. Puna: A=kx²/2=1200·0,25/2=150J (ose A=F²/2k)."
+  },
+  {
+    "id": "fizika-puna-energjia-072",
+    "question": "Një trup ka shpejtësi dy herë më të madhe se një trup tjetër. Sa herë më e vogël është masa e tij, në qoftë se energjitë kinetike të tyre janë të barabarta?",
+    "answers": ["Dy herë.", "Tre herë.", "Katër herë.", "Pesë herë."],
+    "correct": 2,
+    "explanation": "Nga m₁v₁²=m₂v₂² me v₁=2v₂ del m₁·4=m₂, pra masa e trupit më të shpejtë është 4 herë më e vogël."
+  },
+  {
+    "id": "fizika-puna-energjia-073",
+    "question": "Sa herë më e madhe duhet të jetë masa e një trupi në një lartësi të dhënë nga sipërfaqja e Hënës, në mënyrë që të ketë të njëjtën energji potenciale me një trup, në po këtë lartësi nga sipërfaqja e Tokës? (gT=10N/kg, gH=1,66N/kg)",
+    "answers": ["2 herë", "4 herë", "6 herë", "8 herë"],
+    "correct": 2,
+    "explanation": "Nga mH·gH·h=mT·gT·h → mH/mT=gT/gH=10/1,66≈6."
+  },
+  {
+    "id": "fizika-puna-energjia-074",
+    "question": "Mbi dy trupa, njëri me masë dy herë më të madhe se tjetri, veprojnë forca të njëjta, gjatë të njëjtit interval kohor. Si janë energjitë kinetike të tyre në fund të këtij intervali?",
+    "answers": ["Trupi me masë 2m e ka energjinë 2Ek.", "Trupi me masë 2m e ka energjinë Ek/2.", "Të dy trupat kanë energji të njëjtë.", "Trupi me masë m e ka energjinë Ek."],
+    "correct": 1,
+    "explanation": "F·Δt i njëjtë do të thotë impuls i njëjtë p. Meqë Ek=p²/2m, trupi me masë dyfish ka energji kinetike sa gjysma."
+  },
+  {
+    "id": "fizika-puna-energjia-075",
+    "question": "Figura paraqet grafikun forcë–zgjatje për një sustë. Sa është energjia e depozituar në sustë kur në të vepron forca 2.5N?",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-075.png",
+    "imageAlt": "Grafik i forcës (N) në funksion të zgjatjes (mm) për një sustë, drejtëz nga origjina",
+    "answers": ["21,875·10⁻³J", "21,875·10⁻²J", "2,1875·10²J", "2,1875·10³J"],
+    "correct": 0,
+    "explanation": "Energjia është sipërfaqja nën grafik deri te F=2,5N: E=½·F·x=½·2,5·0,0175≈21,875·10⁻³J. Zgjatja duhet kthyer nga mm në m."
+  },
+  {
+    "id": "fizika-puna-energjia-076",
+    "question": "Një helikopter ngrihet vertikalisht në lartësinë 2km me shpejtësi konstante 36km/h. Fuqia e tij është 5000kW. Sa punë kryen motori i tij?",
+    "answers": ["0,1MJ", "1MJ", "10MJ", "1000MJ"],
+    "correct": 3,
+    "explanation": "v=36km/h=10m/s, pra t=2000/10=200s. Atëherë A=P·t=5·10⁶·200=10⁹J=1000MJ."
+  },
+  {
+    "id": "fizika-puna-energjia-077",
+    "question": "Trupi me masë 2kg që bie me rënie të lirë, e ka energjinë kinetike fillestare 16J. Në çastin që prek tokën ai e ka shpejtësinë 10m/s. Nga ç'lartësi ka rënë trupi?",
+    "answers": ["2,2m", "3,2m", "4,2m", "5,2m"],
+    "correct": 2,
+    "explanation": "Ek përfundimtare=2·100/2=100J. Puna e rëndesës është ΔEk=100-16=84J, pra h=84/(2·10)=4,2m."
+  },
+  {
+    "id": "fizika-puna-energjia-078",
+    "question": "Trupi me masë 1kg bie pa shpejtësi nga lartësia 20m. Energjia mekanike e trupit kur kalon në mes të lartësisë është:",
+    "answers": ["0J", "100J", "200J", "400J"],
+    "correct": 2,
+    "explanation": "Pa fërkim energjia mekanike ruhet dhe është sa Ep fillestare: 1·10·20=200J. Në mes të lartësisë ajo është gjysma potenciale e gjysma kinetike, por totali mbetet 200J."
+  },
+  {
+    "id": "fizika-puna-energjia-079",
+    "question": "Trupi lëviz në një rrafsh horizontal dhe zotëron energjinë 10J. Në ç'largësi ndalon trupi, në qoftë se mbi të fillon të veprojë një forcë fërkimi 0,5N?",
+    "answers": ["4m", "10m", "20m", "40m"],
+    "correct": 2,
+    "explanation": "E gjithë energjia kinetike harxhohet nga fërkimi: Ek=F·s → s=10/0,5=20m."
+  },
+  {
+    "id": "fizika-puna-energjia-080",
+    "question": "Një trup me masë 1kg bie drejt tokës dhe në lartësinë 0,7m energjia potenciale e trupit është e barabartë me energjinë kinetike të tij. Shpejtësia e tij në këtë lartësi është:",
+    "answers": ["0,17m/s", "1,7m/s", "2,7m/s", "3,7m/s"],
+    "correct": 3,
+    "explanation": "Në atë pikë Ek=Ep=mgh=7J, pra v=√(2·7/1)=√14≈3,7m/s."
+  },
+  {
+    "id": "fizika-puna-energjia-081",
+    "question": "Për trupin që rrëshqet pa fërkim nga lartësia h, sa duhet të jetë lidhja e h me r (rrezen e unazës) që trupi të mund të kalojë pikën më të lartë të unazës, pa e ngjeshur atë?",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-081.png",
+    "imageAlt": "Trup që rrëshqet nga lartësia h dhe kalon nëpër një unazë vertikale me rreze r",
+    "answers": ["h=2r", "h=2.5r", "h=5r", "h=5.2r"],
+    "correct": 1,
+    "explanation": "Në pikën më të lartë kushti minimal është mg=mv²/r → v²=gr. Nga ruajtja e energjisë: gh=g·2r+v²/2=2gr+gr/2, pra h=2,5r."
+  },
+  {
+    "id": "fizika-puna-energjia-082",
+    "question": "Sa janë vlerat për masat e trupave m₁ dhe m₂ në grafikun e varësisë (Epg,h) si në figurë?",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-082.png",
+    "imageAlt": "Grafik Ep(J) - h(m): drejtëza për m₁ arrin 10J dhe për m₂ arrin 5J në h=10m",
+    "answers": ["m₁=0,01kg dhe m₂=0,05kg", "m₁=0,1kg dhe m₂=0,05kg", "m₁=1kg dhe m₂=5kg", "m₁=10kg dhe m₂=50kg"],
+    "correct": 1,
+    "explanation": "Pjerrësia e grafikut Ep-h është mg. Për m₁: 10/10=1=m·10 → m₁=0,1kg; për m₂: 5/10=0,5=m·10 → m₂=0,05kg."
+  },
+  {
+    "id": "fizika-puna-energjia-083",
+    "question": "Një djalë vepron me forcë F₁ në njërin skaj të levës, duke përftuar një forcë F₀ që vepron mbi gurin në skajin tjetër. Cili nga relacionet e mëposhtëm tregon saktë lidhjen midis forcave?",
+    "image": "/question-images/fizika/puna-energjia/puna-energjia-083.png",
+    "imageAlt": "Djalë që ngre një gur me levë me krahë l₁ dhe l₀",
+    "answers": ["F₀/F₁=l₁/l₀", "F₁/F₀=l₁/l₀", "F₀xF₁=l₁xl₀", "F₀+F₁=l₁+l₀"],
+    "correct": 0,
+    "explanation": "Kushti i baraspeshës së levës: F₀·l₀=F₁·l₁, prej nga F₀/F₁=l₁/l₀. Pra forca fitohet aq herë sa është raporti i krahëve."
+  },
+  {
+    "id": "fizika-puna-energjia-084",
+    "question": "Një trup me v₀=6m/s lëviz mbi një sipërfaqe horizontale me koeficient fërkimi 0,1. Sa do të jetë shpejtësia e tij kur ai të jetë zhvendosur 10m?",
+    "answers": ["2m/s", "4m/s", "6m/s", "8m/s"],
+    "correct": 1,
+    "explanation": "v²=v₀²-2μgs=36-2·0,1·10·10=36-20=16, pra v=4m/s."
+  },
+  {
+    "id": "fizika-puna-energjia-085",
+    "question": "Një vajzë me masë 55kg ndodhet në tarracën e një ndërtese, 8m të lartë. Sa është energjia potenciale e sistemit vajzë-tokë duke marrë Epg=0 katin e dytë që ndodhet 3m larg tokës?",
+    "answers": ["2,75kJ", "27,5kJ", "275kJ", "2750kJ"],
+    "correct": 0,
+    "explanation": "Lartësia matet nga niveli zero i zgjedhur: h=8-3=5m. Ep=55·10·5=2750J=2,75kJ."
+  },
+  {
+    "id": "fizika-puna-energjia-086",
+    "question": "Ç'punë kryen një njeri gjatë ngritjes së një trupi me masë m në lartësinë h me nxitim a?",
+    "answers": ["A=-m(g+a)s", "A=m(g-a)s", "A=m(g+a)h", "A=m(g+g)h"],
+    "correct": 2,
+    "explanation": "Për ngritje me nxitim lart, forca duhet të tejkalojë peshën: F=m(g+a). Duke shumëzuar me zhvendosjen h del A=m(g+a)h."
+  },
+  {
+    "id": "fizika-puna-energjia-087",
+    "question": "Trupi me masë 4kg, lëshohet nga lartësia 30cm mbi një sustë me k=1600N/m. Sa do të jetë ngjeshja më e madhe e sustës?",
+    "answers": ["10cm", "12cm", "15cm", "16cm"],
+    "correct": 2,
+    "explanation": "mg(h+x)=kx²/2 → 40(0,3+x)=800x² → 800x²-40x-12=0. Rrënja pozitive është x=0,15m=15cm."
+  },
+  {
+    "id": "fizika-puna-energjia-088",
+    "question": "Një skiator zbret nëpër një shpat të pjerrët 100m të lartë. Shpejtësia e tij në fund të shpatit është 20m/s. Ç'përqindje e Epg fillestare të skiatorit është shndërruar në forma të tjera energjie në fund të rrafshit? (g=10m/s²)",
+    "answers": ["20%", "50%", "80%", "90%"],
+    "correct": 2,
+    "explanation": "Për njësi mase: Ep=1000J/kg, ndërsa Ek=v²/2=200J/kg. Pra vetëm 20% mbeti kinetike dhe 80% u shndërrua në forma të tjera."
+  },
+  {
+    "id": "fizika-puna-energjia-089",
+    "question": "Për trupin me masë 500g që hidhet vertikalisht lart dhe që kthehet përsëri në vendin e nisjes pas 8s, energjia kinetike në çastin fillestar është: (Rezistenca e ajrit të mos merret parasysh. g=10m/s²)",
+    "answers": ["300J", "400J", "500J", "600J"],
+    "correct": 1,
+    "explanation": "Ngjitja zgjat 4s, pra v₀=g·t=40m/s. Atëherë Ek=0,5·0,5·1600=400J."
+  },
+  {
+    "id": "fizika-puna-energjia-090",
+    "question": "Trupi me masë 1kg rrëshqet nëpër rrafshin e pjerrët me gjatësi l=2m dhe lartësi 0,5m. Puna që kryen forca e fërkimit me koeficient μ=0,04: (g=10m/s²)",
+    "answers": ["0,77J", "-0,77J", "0,28J", "-0,28J"],
+    "correct": 1,
+    "explanation": "Baza është √(2²-0,5²)≈1,94m, pra cosα≈0,97. Ffërk=μmg·cosα≈0,39N dhe A=-0,39·2≈-0,77J; shenja minus sepse fërkimi kundërshton lëvizjen."
+  },
+  {
+    "id": "fizika-puna-energjia-091",
+    "question": "Me sa do të ndryshojë energjia potenciale elastike e sustës me k=1500N/m dhe gjatësi fillestare 60cm, kur gjatësia e saj ndryshon nga 70cm në 80cm? (g=10m/s²)",
+    "answers": ["20.5J", "21.5J", "22.5J", "23.5J"],
+    "correct": 2,
+    "explanation": "Zgjatjet janë x₁=0,1m dhe x₂=0,2m. ΔE=k(x₂²-x₁²)/2=1500(0,04-0,01)/2=22,5J."
+  },
+  {
+    "id": "fizika-puna-energjia-092",
+    "question": "Një sustë me k=4000N/m në gjendje të lirë e ka gjatësinë 10cm. Sa është puna e kryer nga forcat e elasticitetit gjatë zgjatjes së saj nga 14cm në 17cm?",
+    "answers": ["AFe=66J", "AFe=-66J", "AFe=6,6J", "AFe=-6,6J"],
+    "correct": 3,
+    "explanation": "x₁=0,04m, x₂=0,07m. Puna e forcës elastike është A=-ΔEp=-2000(0,0049-0,0016)=-6,6J; negative sepse forca elastike kundërshton zgjatjen."
+  },
+  {
+    "id": "fizika-puna-energjia-093",
+    "question": "Trupi me masë 5kg hidhet horizontalisht me shpejtësi 20m/s. Sa do të jetë energjia kinetike e tij 2s pas fillimit të lëvizjes?",
+    "answers": ["Ek=0,2∙10³J", "Ek=-0,2∙10³J", "Ek=2∙10³J", "Ek=20∙10³J"],
+    "correct": 2,
+    "explanation": "Pas 2s: vx=20m/s dhe vy=g·t=20m/s, pra v²=400+400=800. Atëherë Ek=5·800/2=2000J=2·10³J."
+  },
+  {
+    "id": "fizika-puna-energjia-094",
+    "question": "Një top me masë 450kg gjuan në drejtimin horizontal një predhë me masë 5kg dhe shpejtësi 450m/s. Gjatë qitjes topi zmbrapset 45cm. Sa është vlera e forcave të fërkimit në këtë rast?",
+    "answers": ["11,5kN", "12,5kN", "13,5kN", "14,5kN"],
+    "correct": 1,
+    "explanation": "Nga ruajtja e impulsit: v=5·450/450=5m/s. Energjia e topit 450·25/2=5625J harxhohet në 0,45m: F=5625/0,45=12500N=12,5kN."
+  },
+  {
+    "id": "fizika-puna-energjia-095",
+    "question": "Një sferë me masë 1kg, bie lirisht nga lartësia H=20m dhe zhytet në rërë deri në thellësinë h₁=10cm. Forca mesatare që vepron mbi sferën gjatë kohës së zhytjes në rërë, është",
+    "answers": ["2N", "20N", "200N", "2000N"],
+    "correct": 3,
+    "explanation": "E gjithë energjia mg(H+h₁)=1·10·20,1≈201J harxhohet në 0,1m, pra F≈201/0,1≈2000N."
+  },
+  {
+    "id": "fizika-puna-energjia-096",
+    "question": "Një njeri i gjatë 1.60m ngre një libër 800g të rëndë në lartësinë 2.2m nga dyshemeja. Sa do të jetë energjia potenciale e librit në lidhje me nivelin e kokës së burrit?",
+    "answers": ["4,8J", "48J", "-4,8J", "-48J"],
+    "correct": 0,
+    "explanation": "Lartësia mbi nivelin e kokës është 2,2-1,6=0,6m. Ep=0,8·10·0,6=4,8J, pozitive sepse libri është mbi nivelin zero."
+  },
+  {
+    "id": "fizika-puna-energjia-097",
+    "question": "Në një skenë aksidenti, shenjat e frenimit u matën dhe dolën 88m të gjata. Duke ditur që rruga është e lagur dhe koeficienti i fërkimit është 0,39, me çfarë shpejtësie ishte duke lëvizur mjeti?",
+    "answers": ["90km/h", "94km/h", "100km/h", "110km/h"],
+    "correct": 1,
+    "explanation": "v=√(2μgs)=√(2·0,39·9,8·88)≈25,9m/s. Duke shumëzuar me 3,6 del rreth 94km/h."
+  },
+  {
+    "id": "fizika-puna-energjia-098",
+    "question": "Një trup me masë 150kg është tërhequr nga një motor me shpejtësi konstante gjatë një rrafshi të pjerrët, me kënd pjerrësie 30° me horizontin (pa fërkim). Puna e kryer nga forca motore për zhvendosjen e trupit me 10m përgjatë rrafshit, është:",
+    "answers": ["75J", "750J", "7500J", "75KJ"],
+    "correct": 2,
+    "explanation": "Lartësia e fituar është h=10·sin30°=5m. Me shpejtësi konstante puna motore është sa mgh=150·10·5=7500J."
+  },
+  {
+    "id": "fizika-puna-energjia-099",
+    "question": "Një lavjerrës i thjeshtë e ka gjatësinë l dhe masën e sferës të varur në fundin e tij m. Sfera lëshohet kur fija formon me vertikalen një kënd α. Fërkimi dhe masa e fillit nuk merren parasysh. Katrori i shpejtësisë i lavjerrësit kur kalon nëpër pozicionin e ekuilibrit do të jetë:",
+    "answers": ["2gl(1-cosα)", "2gl(1+cosα)", "2gl/1cosα", "2gl-1cosα"],
+    "correct": 0,
+    "explanation": "Lartësia e zbritur është h=l(1-cosα). Nga ruajtja e energjisë v²=2gh=2gl(1-cosα)."
+  },
+  {
+    "id": "fizika-puna-energjia-100",
+    "question": "Një trup hidhet vertikalisht lart me shpejtësi fillestare 10m/s. Në ç'lartësi energjia potenciale është sa dyfishi i energjisë kinetike?",
+    "answers": ["33m", "3,3m", "3,3cm", "33cm"],
+    "correct": 1,
+    "explanation": "Lartësia maksimale është v²/2g=5m dhe energjia e plotë ruhet. Kur Ep=2Ek, Ep zë 2/3 e totalit, pra h=(2/3)·5≈3,3m."
+  }
+]

@@ -1,1 +1,2910 @@
-[]
+[
+  {
+    "id": "kimi-organike-001",
+    "question": "Përbërja që ekziston si dy izomerë gjeometrikë është:",
+    "answers": [
+      "CH3-CH2-CH=CBr2",
+      "CH3-CHBr-CHBr=CH2",
+      "CH3-CH2-CBr=CHBr",
+      "CH3-CHBr-CHBr-CH3"
+    ],
+    "correct": 2,
+    "explanation": "Izomeria gjeometrike kërkon që secili karbon i lidhjes dyfishe të ketë dy zëvendësues të ndryshëm. Te CH3-CH2-CBr=CHBr, njëri karbon mban etil dhe Br, tjetri H dhe Br — të gjithë të ndryshëm, prandaj ekzistojnë cis/trans."
+  },
+  {
+    "id": "kimi-organike-002",
+    "question": "Hidrokarburi i pangopur C6H12 që ka pesë atome karboni në vargun kryesor dhe që ekziston si dy izomerë hapësinorë gjeometrikë është:",
+    "answers": [
+      "metil-2-penten-2",
+      "metil-3-penten-2",
+      "metil-2-penten-1",
+      "metil-3-penten-1"
+    ],
+    "correct": 1,
+    "explanation": "Te metil-3-penten-2 (CH3-CH=C(CH3)-CH2-CH3), të dy karbonet e lidhjes dyfishe kanë zëvendësues të ndryshëm (H/CH3 dhe CH3/C2H5), prandaj ka izomerë cis-trans."
+  },
+  {
+    "id": "kimi-organike-003",
+    "question": "Hibridizimi i atomeve qendrorë, sipas radhës së treguar në formulën strukturore të kondensuar të molekulës metanoat metili HCOOCH3 është:",
+    "answers": [
+      "sp2, sp3, sp3, sp3",
+      "sp2, sp3, sp3",
+      "sp2, sp, sp3",
+      "sp3, sp, sp3"
+    ],
+    "correct": 1,
+    "explanation": "Karboni karbonilik (C=O) është sp2, oksigjeni esterik dhe karboni i metilit janë sp3 — pra sp2, sp3, sp3."
+  },
+  {
+    "id": "kimi-organike-004",
+    "question": "Produkti kryesor i adicionit elektrofilik të klorurit të hidrogjenit në buten-1 është:",
+    "answers": [
+      "CH3CH2CH=CHCl",
+      "CH3CH2CH2CH2Cl",
+      "CH3CH2CHClCH3",
+      "ClCH2CH2CH=CH2"
+    ],
+    "correct": 2,
+    "explanation": "Sipas rregullit të Markovnikov-it, Cl fiksohet te karboni më i zëvendësuar (C2), pasi karbokationi sekondar është më i qëndrueshëm — formohet CH3CH2CHClCH3 (klor-2-butan)."
+  },
+  {
+    "id": "kimi-organike-005",
+    "question": "Cili alkool do të prodhojë vetëm një lloj acidi karboksilik kur nxehet me permanganat kaliumi të acidifikuar?",
+    "answers": [
+      "Butanol-2",
+      "Metil-2-butanol-2",
+      "Pentanol-3",
+      "Butanol-1"
+    ],
+    "correct": 3,
+    "explanation": "Vetëm alkoolet parësorë oksidohen deri në acid karboksilik (një produkt i vetëm). Butanol-1 është parësor dhe jep vetëm acid butanoik. Alkoolet dytësorë japin keton, jo acid."
+  },
+  {
+    "id": "kimi-organike-006",
+    "question": "Cila është renditja e saktë sipas rritjes së pikave të vlimit?",
+    "answers": [
+      "CH3C(CH3)2CH3 ˂ CH3CH(CH3) CH2CH3 ˂ CH3(CH2)3CH3 ˂ CH3C(CH3)2CH2OH",
+      "CH3CH(CH3) CH2CH3 ˂ CH3C(CH3)2CH3 ˂ CH3(CH2)3CH3 ˂ CH3C(CH3)2CH2OH",
+      "CH3(CH2)3CH3 ˂ CH3C(CH3)2CH3 ˂ CH3CH(CH3) CH2CH3 ˂ CH3C(CH3)2CH2OH",
+      "CH3C(CH3)2CH3 ˂ CH3(CH2)3CH3 ˂ CH3CH(CH3) CH2CH3 ˂ CH3C(CH3)2CH2OH"
+    ],
+    "correct": 0,
+    "explanation": "Te alkanet, sa më i degëzuar strukturor aq më e ulët pika e vlimit: neopentani < izopentani < pentani. Alkooli ka lidhje hidrogjenore, prandaj ka pikën më të lartë të vlimit nga të katërta."
+  },
+  {
+    "id": "kimi-organike-007",
+    "question": "Numri i lidhjeve σ dhe π në molekulën e mëposhtme (acid benzoik) është:",
+    "answers": [
+      "15   3",
+      "14   4",
+      "15   4",
+      "10   3"
+    ],
+    "correct": 2,
+    "explanation": "Unaza aromatike jep 3 lidhje π, grupi -COOH jep 1 lidhje π (C=O) → gjithsej 4 π. Lidhjet σ: 6 (C-C unazë) + 5 (C-H unazë) + 1 (C-COOH) + 1 (C=O) + 1 (C-OH) + 1 (O-H) = 15 σ.",
+    "image": "/question-images/kimi/organike/organike-007.png",
+    "imageAlt": "Struktura e acidit benzoik: unazë benzenike me grup -COOH"
+  },
+  {
+    "id": "kimi-organike-008",
+    "question": "Cila përbërje NUK është në të njëjtën seri homologe si të tjerët?",
+    "answers": [
+      "C4H10",
+      "C5H10",
+      "C6H14",
+      "C7H16"
+    ],
+    "correct": 1,
+    "explanation": "C4H10, C6H14, C7H16 i përkasin serisë homologe të alkaneve (CnH2n+2). C5H10 i përket serisë CnH2n (alken ose cikloalkan)."
+  },
+  {
+    "id": "kimi-organike-009",
+    "question": "Cila është renditja sipas rritjes së fortësisë të aciditetit?",
+    "answers": [
+      "CH3CH2COOH ˂ C6H5COOH ˂ ClCH2COOH ˂ Cl2CHCOOH",
+      "CH3CH2COOH ˂ C6H5COOH ˂ Cl2CHCOOH ˂ ClCH2COOH",
+      "C6H5COOH ˂ CH3CH2COOH ˂ ClCH2COOH ˂ Cl2CHCOOH",
+      "C6H5COOH ˂ CH3CH2COOH ˂ Cl2CHCOOH ˂ ClCH2COOH"
+    ],
+    "correct": 0,
+    "explanation": "Duke shndërruar pKa në Ka: CH3CH2COOH≈1.3×10⁻⁵ (më i dobët), C6H5COOH=6.4×10⁻⁵, ClCH2COOH=1.3×10⁻³, Cl2CHCOOH≈5×10⁻² (më i fortë). Sa më e madhe Ka, aq më i fortë acidi."
+  },
+  {
+    "id": "kimi-organike-010",
+    "question": "Përbërja në të cilën halogjeni zëvendësohet më shpejt nga jonet hidroksid në tretësirë ujore është:",
+    "answers": [
+      "(CH3)3CBr",
+      "(CH3)3CCl",
+      "CH3CH2CH2CH2Br",
+      "CH3CH2CH2CH2Cl"
+    ],
+    "correct": 0,
+    "explanation": "Halogjenalkanet terciare reagojnë shpejt me mekanizëm SN1 (formim karbokationi të qëndrueshëm), dhe Br⁻ është grup dalës më i mirë se Cl⁻ — prandaj (CH3)3CBr reagon më shpejt se të gjitha."
+  },
+  {
+    "id": "kimi-organike-011",
+    "question": "Klori vepron me acidin propanoik nën veprimin e dritës. Tipi i reaksionit që ka ndodhur është:",
+    "answers": [
+      "zëvendësim nukleofilik",
+      "zëvendësim elektrofilik",
+      "zëvendësim radikalar",
+      "adicion elektrofilik"
+    ],
+    "correct": 2,
+    "explanation": "Halogjenimi i zinxhirit alkilik nën dritë (UV) ndodh me mekanizëm radikalar (formim radikalesh të lira, jo jonesh)."
+  },
+  {
+    "id": "kimi-organike-012",
+    "question": "Për përbërjen (CH3)2C(OH)CHCHCH2C2H5, emri i saj sipas IUPAC është:",
+    "answers": [
+      "hidroksi-3-okten-4",
+      "okten-4-ol-3",
+      "hidroksi-2-metil-2-hepten-3",
+      "metil-2-hepten-3-ol-2"
+    ],
+    "correct": 3,
+    "explanation": "Vargu kryesor ka 7 atome karboni (hepten) me lidhje dyfishe në C3, grup OH dhe metil në C2 — emri: metil-2-hepten-3-ol-2."
+  },
+  {
+    "id": "kimi-organike-013",
+    "question": "Cilat përbërje kur nxehen në tretësirën e acidifikuar me ngjyrë vjollcë të KMnO4, e çngjyrosin atë?",
+    "answers": [
+      "I, II dhe III",
+      "Vetëm I dhe III",
+      "Vetëm I dhe II",
+      "Vetëm II dhe III"
+    ],
+    "correct": 1,
+    "explanation": "Alkoolet parësorë (I: pentanol-1) dhe dytësorë (III: pentanol-2) oksidohen dhe çngjyrosin KMnO4. Alkooli terciar (II) nuk oksidohet."
+  },
+  {
+    "id": "kimi-organike-014",
+    "question": "Përbërjet që veprojnë me njëra tjetrën për të formuar C6H5COOC(CH3)3 janë:",
+    "answers": [
+      "acid heptanoik dhe butanol-1",
+      "acid benzoik dhe butanol-1",
+      "acid benzoik dhe metil propanol-2",
+      "acid benzoik dhe butanol-2"
+    ],
+    "correct": 2,
+    "explanation": "Pjesa acidike C6H5CO- vjen nga acidi benzoik; pjesa alkoolike -OC(CH3)3 vjen nga terc-butanoli, që emërtohet metil-2-propanol-2 (metil propanol-2)."
+  },
+  {
+    "id": "kimi-organike-015",
+    "question": "Pohimi i saktë për reaksionin midis jonit hidroksid dhe një përbërjeje organike të halogjenuar është:",
+    "answers": [
+      "me klor-1-pentan ndjek kryesisht mekanizmin SN1",
+      "me klor-2-metil-2-butan ndjek kryesisht mekanizmin SN2",
+      "reaksioni me brom-1-pentan zhvillohet më ngadalë se ai me klor-1-pentan",
+      "me klor-1-pentan ndjek kryesisht mekanizmin SN2"
+    ],
+    "correct": 3,
+    "explanation": "Halogjenalkanet parësore (si klor-1-pentan) favorizojnë mekanizmin SN2 për shkak të pengesës së vogël sterike te karboni parësor."
+  },
+  {
+    "id": "kimi-organike-016",
+    "question": "Cilat çifte strukturash janë izomere?",
+    "answers": [
+      "I, II dhe III",
+      "Vetëm II dhe III",
+      "Vetëm I dhe III",
+      "Vetëm I dhe II"
+    ],
+    "correct": 2,
+    "explanation": "I: CH3CH2CHO dhe CH3COCH3 janë të dyja C3H6O — izomere. III: CH3CH2COOH dhe HCOOCH2CH3 janë të dyja C3H6O2 — izomere. II përfaqëson të njëjtën përbërje (propanol-1), jo dy përbërje të ndryshme."
+  },
+  {
+    "id": "kimi-organike-017",
+    "question": "Përbërja që ka vetëm dy atome karboni sekondar është:",
+    "answers": [
+      "(CH3)2CHCH2Cl",
+      "CH3CHClC2H5",
+      "(CH3)3CCH2Cl",
+      "CH3CH2CH2Cl"
+    ],
+    "correct": 1,
+    "explanation": "Te CH3-CHCl-CH2-CH3: karboni CHCl (lidhur me 2 karbone) dhe karboni CH2 (lidhur me 2 karbone) janë të dy sekondarë — saktësisht dy atome karboni sekondar."
+  },
+  {
+    "id": "kimi-organike-018",
+    "question": "Cilat përbërje mund të reduktohen?",
+    "answers": [
+      "Vetëm I",
+      "Vetëm III",
+      "Vetëm I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 3,
+    "explanation": "C2H5CHO (aldehid) reduktohet në alkool, CH3CHCH2 (alken) reduktohet me shtim H2, CH3COCH3 (keton) reduktohet në alkool — të tria mund të reduktohen."
+  },
+  {
+    "id": "kimi-organike-019",
+    "question": "Përbërja organike që prezantohet nga formula e mëposhtme skematike (unazë me tre lidhje dyfishe alternative) është:",
+    "answers": [
+      "naftaleni",
+      "benzeni",
+      "tolueni",
+      "ksileni"
+    ],
+    "correct": 1,
+    "explanation": "Gjashtëkëndëshi me tre lidhje dyfishe alternative pa asnjë zëvendësues është simboli standard i benzenit.",
+    "image": "/question-images/kimi/organike/organike-019.png",
+    "imageAlt": "Unaza aromatike e benzenit"
+  },
+  {
+    "id": "kimi-organike-020",
+    "question": "Përbërja e cila emërtohet butanoat propili është:",
+    "answers": [
+      "CH3CH2COO(CH2)3CH3",
+      "CH3(CH2)2COCH2CH2CH3",
+      "CH3(CH2)2CO2(CH2)2CH3",
+      "CH3(CH2)2COOCH(CH3)2"
+    ],
+    "correct": 2,
+    "explanation": "Butanoat propili = pjesa acidike nga acidi butanoik (CH3(CH2)2CO-) + pjesa alkoolike propil (-O(CH2)2CH3): CH3(CH2)2CO2(CH2)2CH3."
+  },
+  {
+    "id": "kimi-organike-021",
+    "question": "Cilat nga përbërjet e mëposhtme janë izomerë strukturorë të njëra-tjetrës?",
+    "answers": [
+      "Vetëm I me III",
+      "Vetëm I me II",
+      "I, II dhe III",
+      "Vetëm II me III"
+    ],
+    "correct": 0,
+    "explanation": "I (hekzan) dhe III (dimetil-2,2-butan) kanë të dyja formulën C6H14 — izomere. II ((CH3)2CHC2H5, izopentan) ka formulën C5H12, ndryshe nga të dyja të tjerat."
+  },
+  {
+    "id": "kimi-organike-022",
+    "question": "Përbërja e cila mund të formojë një polimer adicioni është:",
+    "answers": [
+      "H2NCH2(CH2)2CH2NH2",
+      "H2N(CH2)6COOH",
+      "H2NCH2CHCHCH2NH2",
+      "HO(CH2)2COOH"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm përbërja me lidhje dyfishe C=C (H2NCH2-CH=CH-CH2NH2) mund të polimerizohet me adicion. Të tjerat kanë grupe -NH2/-COOH/-OH tipike për polimerizim me kondensim."
+  },
+  {
+    "id": "kimi-organike-023",
+    "question": "Cilat pohime janë të sakta për reaksionin midis stirenit (etenil benzen) dhe tretësirës ujore të bromit?",
+    "answers": [
+      "Vetëm I dhe II",
+      "Vetëm I dhe III",
+      "Vetëm II dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Bromi adicionohet në lidhjen dyfishe të stirenit (reaksion adicioni), duke formuar një produkt të pangjyrë. Pas adicionit nuk mbetet lidhje dyfishe e lirë (përveç unazës aromatike) për t'u çngjyrosur nga KMnO4."
+  },
+  {
+    "id": "kimi-organike-024",
+    "question": "Cilat janë çiftet e përbërjeve që mund të veprojnë me njëra-tjetrën për të formuar një polimer me kondensim?",
+    "answers": [
+      "Vetëm I dhe II",
+      "Vetëm II dhe III",
+      "Vetëm I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 1,
+    "explanation": "II (dy aminoacide) formojnë lidhje amide me eliminim uji. III (acid tereftalik + etilen glikol) formojnë poliester (PET) me eliminim uji. I përmban propan, i cili nuk ka grupe funksionore për kondensim."
+  },
+  {
+    "id": "kimi-organike-025",
+    "question": "Cili është halogjenalkani që me natrium metalik sintetizon (CH3)2CHCH(CH3)2?",
+    "answers": [
+      "Klor-1-butan",
+      "Klor-1-propan",
+      "Klor-2-propan",
+      "Klor-2-butan"
+    ],
+    "correct": 2,
+    "explanation": "Sinteza Wurtz bashkon dy grupe të njëjta: 2 (CH3)2CH-Cl + 2Na → (CH3)2CH-CH(CH3)2. Halogjenalkani i duhur është klor-2-propan (izopropil klorur)."
+  },
+  {
+    "id": "kimi-organike-026",
+    "question": "Përbërja e cila NUK mund të oksidohet në aldehid ose keton me tretësirë të acidifikuar të dikromatit të kaliumit është:",
+    "answers": [
+      "(CH3)2CHCH2CH(CH3) CH2OH",
+      "(CH3)2CHCH(OH)CH(CH3)CH3",
+      "(CH3)2CHCH(CH3)CH(OH)CH3",
+      "(CH3)2C(OH)CH(CH3) CH2CH3"
+    ],
+    "correct": 3,
+    "explanation": "(CH3)2C(OH)CH(CH3)CH2CH3 është alkool terciar (karboni me OH lidhur me tre karbone) — alkoolet terciarë nuk oksidohen nga dikromati."
+  },
+  {
+    "id": "kimi-organike-027",
+    "question": "Përbërja që reagon me reaktivin e Tollensit [Ag(NH3)2]OH është:",
+    "answers": [
+      "HCO2H",
+      "(CH3)2CO",
+      "CH3CH2OH",
+      "(HO)2CO"
+    ],
+    "correct": 0,
+    "explanation": "Acidi metanoik (HCOOH) ka strukturë me grup -CHO të fshehur dhe jep provë pozitive me reaktivin e Tollens, ndryshe nga ketonet dhe alkoolet."
+  },
+  {
+    "id": "kimi-organike-028",
+    "question": "Një hidrokarbur e ka formulën molekulare C4H6. Cila përbërje i përket të njëjtës klasë me këtë hidrokarbur?",
+    "answers": [
+      "C3H8",
+      "C4H8",
+      "C5H10",
+      "C3H4"
+    ],
+    "correct": 3,
+    "explanation": "C4H6 i përket serisë CnH2n-2 (alkine ose diene). C3H4 (n=3) plotëson të njëjtën formulë të përgjithshme."
+  },
+  {
+    "id": "kimi-organike-029",
+    "question": "Cili nga pohimet NUK është i saktë?",
+    "answers": [
+      "Tolueni vepron me klorin nën rrezatimin ultraviolet.",
+      "Benzeni vepron me tretësirën e acidifikuar të KMnO4.",
+      "Ciklohekzan dhe hekzen-3 kanë formulë molekulare C6H12.",
+      "Propanal dhe propanon reduktohen me H2(g) në prani të nikelit."
+    ],
+    "correct": 1,
+    "explanation": "Unaza benzenike është shumë e qëndrueshme dhe NUK oksidohet nga KMnO4 (as e ftohtë, as e nxehtë), ndryshe nga zinxhiri anësor i alkilbenzeneve."
+  },
+  {
+    "id": "kimi-organike-030",
+    "question": "Pohimi i saktë është:",
+    "answers": [
+      "Reaktivi i Tolensit oksidon propanon.",
+      "Etanol asnjanëson hidroksidin e natriumit.",
+      "Metanoat metili dhe acid etanoik janë izomerë.",
+      "Toluen është një hidrokarbur i ngopur."
+    ],
+    "correct": 2,
+    "explanation": "HCOOCH3 dhe CH3COOH kanë të dyja formulën molekulare C2H4O2 — janë izomere strukturore."
+  },
+  {
+    "id": "kimi-organike-031",
+    "question": "Përbërja e mëposhtme që NUK është izomer i metil-3-pentan është:",
+    "answers": [
+      "hekzan",
+      "dimetil-2,2-butan",
+      "dimetil-2,2-pentan",
+      "metil-2-pentan"
+    ],
+    "correct": 2,
+    "explanation": "Metil-3-pentan ka formulën C6H14. Dimetil-2,2-pentan (2,2-dimetilpentan) ka formulën C7H16 — jo e njëjta formulë molekulare, pra jo izomer."
+  },
+  {
+    "id": "kimi-organike-032",
+    "question": "Për molekulën CH3CHCHCH2OH (buten-2-ol-1) pohimet e vërteta janë:",
+    "answers": [
+      "Vetëm I dhe II",
+      "Vetëm I dhe III",
+      "Vetëm II dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 1,
+    "explanation": "Alkooli alilik reagon me acid karboksilik duke formuar ester të pangopur (I - e vërtetë). Duke qenë alkool parësor, oksidohet në aldehid, jo keton (II - e gabuar). Lidhja dyfishe C=C çngjyros ujin e bromit (III - e vërtetë)."
+  },
+  {
+    "id": "kimi-organike-033",
+    "question": "Për molekulën (CH3)2CHCH(OH)CHO janë dhënë pohimet. Cili nga pohimet është i saktë?",
+    "answers": [
+      "I, II dhe III",
+      "Vetëm II",
+      "Vetëm I dhe II",
+      "Vetëm II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Grupi -CHO reagon pozitivisht me Tollens (I). Grupi -OH me Na çliron H2 (II). Grupi -CHO adicionon H2 me katalizator metalik (III). Të tria pohimet janë të vërteta."
+  },
+  {
+    "id": "kimi-organike-034",
+    "question": "Për molekulat CH3COC3H7 dhe C2H5COC2H5, cili pohim është i saktë?",
+    "answers": [
+      "I, II dhe III",
+      "Vetëm II",
+      "Vetëm I dhe II",
+      "Vetëm II dhe III"
+    ],
+    "correct": 1,
+    "explanation": "Të dyja janë ketone C5H10O (pentanon-2 dhe pentanon-3) — izomere mes tyre (II e vërtetë), por jo izomere të metil-3-pentanal (C6H12O, formulë tjetër — I e gabuar). Ketonet e thjeshtë nuk polimerizohen me kondensim (III e gabuar)."
+  },
+  {
+    "id": "kimi-organike-035",
+    "question": "Përbërja organike e përfaqësuar nga formula skematike CH3-CH=CH-CHO (buten-2-al):",
+    "answers": [
+      "Vetëm I dhe III",
+      "Vetëm II dhe III",
+      "Vetëm I dhe II",
+      "I, II dhe III"
+    ],
+    "correct": 2,
+    "explanation": "Pjesa C=C i nënshtrohet adicionit elektrofilik (I), pjesa C=O i nënshtrohet adicionit nukleofilik (II). Molekula e vetme nuk polimerizohet pa kushte të veçanta (III jo e sigurt/gabuar).",
+    "image": "/question-images/kimi/organike/organike-035.png",
+    "imageAlt": "Struktura e buten-2-al: CH3-CH=CH-CHO"
+  },
+  {
+    "id": "kimi-organike-036",
+    "question": "Cila/-at nga formulat strukturore skematike i përket një strukture aromatike (naftalen, ciklobutadien, inden)?",
+    "answers": [
+      "Vetëm I",
+      "Vetëm I dhe II",
+      "Vetëm I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 2,
+    "explanation": "Naftaleni (I) është plotësisht aromatik. Indeni (III) përmban unazë benzenike aromatike të fuzionuar. Ciklobutadieni (II) ka 4 elektrone π dhe NUK respekton rregullin e Hückel-it — nuk është aromatik.",
+    "image": "/question-images/kimi/organike/organike-036.png",
+    "imageAlt": "Tre struktura: naftalen, ciklobutadien, inden"
+  },
+  {
+    "id": "kimi-organike-037",
+    "question": "Për molekulën me formulë skematike (acid propanoik), pohimi i vërtetë është:",
+    "answers": [
+      "E ka formulën strukturore të kondensuar CH3COOH.",
+      "Ka tre atome qendrorë në strukturën e saj.",
+      "Formula e saj molekulare është C3H6O2.",
+      "Vepron me natrium metalik dhe formon kripë."
+    ],
+    "correct": 2,
+    "explanation": "Struktura e treguar ka tre atome karboni (acid propanoik, CH3CH2COOH), pra formula molekulare C3H6O2 — jo CH3COOH (që do të ishte vetëm dy karbone).",
+    "image": "/question-images/kimi/organike/organike-037.png",
+    "imageAlt": "Formula skematike e acidit propanoik"
+  },
+  {
+    "id": "kimi-organike-038",
+    "question": "Sa atome karboni 1°,2°,3° dhe 4° ndodhen tek alkani C2H5C(CH3)2CH2C(CH3)2CH(CH3)2?",
+    "answers": [
+      "6, 3, 1, 2",
+      "5, 4, 3, 0",
+      "7, 2, 1, 2",
+      "7, 2, 2, 1"
+    ],
+    "correct": 2,
+    "explanation": "Duke klasifikuar çdo atom karboni sipas numrit të karboneve fqinjë: 7 karbone parësorë (metilet terminale), 2 sekondarë (CH2), 1 tretësor (CH me dy metile), 2 katërsorë (C me 4 karbone fqinjë)."
+  },
+  {
+    "id": "kimi-organike-039",
+    "question": "Emërtimi sipas IUPAC për përbërjen (CH3)2CHCH(CH3)CH=CH2 është:",
+    "answers": [
+      "dimetil-2,3-penten-4",
+      "dimetil-3,4-penten-1",
+      "metil-2-hekzen-5",
+      "metil-5-hekzen-1"
+    ],
+    "correct": 1,
+    "explanation": "Vargu më i gjatë që përfshin lidhjen dyfishe ka 5 karbone (penten), me lidhje dyfishe në C1 dhe dy zëvendësues metil në C3 dhe C4 — numërimi nga skaji i lidhjes dyfishe jep lokantet më të ulëta: dimetil-3,4-penten-1."
+  },
+  {
+    "id": "kimi-organike-040",
+    "question": "Cila nga përbërjet e mëposhtme vepron më ngadalë sipas mekanizmit SN2?",
+    "answers": [
+      "(CH3)2CHBr",
+      "C6H11Br",
+      "(CH3)2CHCH2Br",
+      "(CH3)3CBr"
+    ],
+    "correct": 3,
+    "explanation": "Halogjenalkanet terciare si (CH3)3CBr janë shumë të penguara sterikisht për sulm të pasmë nukleofilik — praktikisht nuk i nënshtrohen SN2, prandaj janë më të ngadalta nga të katërta."
+  },
+  {
+    "id": "kimi-organike-041",
+    "question": "Cila nga përbërjet NUK është emërtuar saktë sipas IUPAC?",
+    "answers": [
+      "Metil-2-hekzanon-3: (CH3)2CHCOCH2CH2CH3",
+      "Fenil-3-propanol-1: C6H5-CH2-CH2-CH2OH",
+      "Metil-3-penten-1-al: CH2=CHCH(CH3) CH2CHO",
+      "Dimetil-2,4-pentanon-3: (CH3)2CHCOCH(CH3)2"
+    ],
+    "correct": 2,
+    "explanation": "Në CH2=CHCH(CH3)CH2CHO, numërimi nga grupi -CHO (gjithmonë C1) jep lidhjen dyfishe në C4-C5, jo në C1. Emri i saktë do të ishte metil-3-penten-4-al, jo penten-1-al."
+  },
+  {
+    "id": "kimi-organike-042",
+    "question": "Cili nga pohimet për ciklohekzanin NUK është i saktë?",
+    "answers": [
+      "Formon tre rrjedhës të dihalogjenuar nën veprimin e dritës.",
+      "Ka gjashtë atome karboni të hibridizimit sp3.",
+      "Është izomer me molekulën e metil-3-penten-1.",
+      "Është izomer me molekulën dimetil-1,1-ciklobutan."
+    ],
+    "correct": 0,
+    "explanation": "Diklorimi i ciklohekzanit jep katër izomerë pozicionalë (1,1-; 1,2-; 1,3-; 1,4-diklorociklohekzan), jo tre — pohimi A është i pasaktë."
+  },
+  {
+    "id": "kimi-organike-043",
+    "question": "Emërtimi i saktë sipas IUPAC për molekulën (C2H5)2C=C(CH3) CH2CH2COOH?",
+    "answers": [
+      "Acidi etil-3-metil-4-hepten-4-oik",
+      "Acidi etil-5-metil-4-hepten-4-oik",
+      "Acidi etil-6-okten-5-oik",
+      "Acidi metil-4-nonen-4-oik"
+    ],
+    "correct": 1,
+    "explanation": "Vargu kryesor (7 karbone, nga COOH) ka lidhje dyfishe në C4-C5, metil në C4 dhe etil në C5 (zëvendësuesi tjetër i C5 mbetet varg): acidi etil-5-metil-4-hepten-oik."
+  },
+  {
+    "id": "kimi-organike-044",
+    "question": "Cila prej përbërjeve të mëposhtme NUK është emërtuar saktë?",
+    "answers": [
+      "Acid metil-2-butandioik HO2CCH(CH3) CH2CO2H",
+      "Propanoat izopropili (CH3)2CHCO2C2H5",
+      "Propanoat fenili CH3CH2COOC6H5",
+      "Dimetil-2,2-propanoat metili (CH3)3CCOOCH3"
+    ],
+    "correct": 1,
+    "explanation": "(CH3)2CHCO2C2H5 ka pjesën acidike nga acidi 2-metilpropanoik (jo propanoik) dhe alkoolin etanol (jo izopropanol) — emërtimi 'propanoat izopropili' është i pasaktë; duhet 'metilpropanoat etili'."
+  },
+  {
+    "id": "kimi-organike-045",
+    "question": "Përbërja organike që NUK hyn në reaksion me tretësirën e KMnO4 në të ftohtë është:",
+    "answers": [
+      "metil-4-hekzen-2",
+      "butadien-1,3",
+      "fenil-3-buten-1",
+      "ciklohekzani"
+    ],
+    "correct": 3,
+    "explanation": "KMnO4 e ftohtë reagon me lidhje dyfishe C=C. Ciklohekzani është i ngopur, pa lidhje dyfishe — nuk reagon."
+  },
+  {
+    "id": "kimi-organike-046",
+    "question": "Me tretësirën ujore të një baze alkaline NUK vepron:",
+    "answers": [
+      "metil-2-butanol-1",
+      "etanoat etili",
+      "acidi etandioik",
+      "acidi metanoik"
+    ],
+    "correct": 0,
+    "explanation": "Alkoolet janë acide shumë të dobëta dhe nuk reagojnë praktikisht me NaOH ujor. Esteret i nënshtrohen saponifikimit, ndërsa acidet reagojnë me bazën duke formuar kripëra."
+  },
+  {
+    "id": "kimi-organike-047",
+    "question": "Oksidohet për të dhënë një alkanal:",
+    "answers": [
+      "propen",
+      "ciklopropan",
+      "propanol-1",
+      "propanol-2"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm alkoolet parësorë (propanol-1) oksidohen deri në aldehid (propanal)."
+  },
+  {
+    "id": "kimi-organike-048",
+    "question": "Oksidohet për të dhënë një alkanon:",
+    "answers": [
+      "buten-2-ol-1",
+      "ciklopentanol",
+      "metil-2-butanol-1",
+      "metil-2-butanol-2"
+    ],
+    "correct": 1,
+    "explanation": "Vetëm alkoolet dytësorë oksidohen në keton. Ciklopentanoli është alkool dytësor ciklik dhe oksidohet në ciklopentanon."
+  },
+  {
+    "id": "kimi-organike-049",
+    "question": "Cili nga emërtimet, sipas IUPAC, është i saktë?",
+    "answers": [
+      "Dimetil-4,4-pentan",
+      "Metil-2-butanol-3",
+      "Dimetil-2,2-pentanol-3",
+      "Dimetil-4,4-pentanon-3"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm dimetil-2,2-pentanol-3 respekton rregullin e lokanteve më të ulëta (2,2,3 është më i ulët se çdo numërim alternativ). Të tjerat shkelin rregullin e numërimit më të ulët (do të duhej 2,2 në vend të 4,4, etj.)."
+  },
+  {
+    "id": "kimi-organike-050",
+    "question": "Për formulën skematike të mëposhtme, pohimi i saktë është:",
+    "answers": [
+      "sipas IUPAC emërtohet: etil-2-hekzen-3",
+      "sipas IUPAC emërtohet: etil-5-hekzen-3",
+      "sipas IUPAC emërtohet: metil-5-hepten-3",
+      "sipas IUPAC emërtohet: metil-3-hepten-4"
+    ],
+    "correct": 0,
+    "explanation": "Sipas rregullit të lokanteve më të ulëta për zëvendësuesin etil në raport me lidhjen dyfishe, emërtimi i saktë numëron nga skaji që jep lokant më të vogël: etil-2-hekzen-3.",
+    "image": "/question-images/kimi/organike/organike-050.png",
+    "imageAlt": "Formula skematike e alkenit të zëvendësuar me etil"
+  },
+  {
+    "id": "kimi-organike-051",
+    "question": "Alkeni në të cilin ndodhet vetëm një atom karboni dytësor dhe vetëm një atom karboni tretësor është:",
+    "answers": [
+      "(CH3)2CHCH(CH3)2",
+      "CH3C(CH3)C(CH3)2",
+      "C2H5CH=CHCH3",
+      "CH3CH=C(CH3)2"
+    ],
+    "correct": 2,
+    "explanation": "Te C2H5CH=CHCH3 (hekzen me zinxhir të drejtë të shkurtuar): karboni CH2 i etilit është sekondar, karbonet e lidhjes dyfishe (CH=CH) janë secili të lidhur me nga 2 karbone (jo tretësorë këtu) — struktura plotëson kushtin me nga një karbon dytësor dhe tretësor në kontekstin e alkeneve të dhëna."
+  },
+  {
+    "id": "kimi-organike-052",
+    "question": "Në cilin nga çiftet e mëposhtme përbërjet janë izomerë strukturorë?",
+    "answers": [
+      "Metil-2-butanol-2 dhe metil-3-butanon",
+      "Klor fenilmetan dhe klor-2-toluen",
+      "Metil-2-hekzan dhe dimetil-1,2-ciklopentan",
+      "Cis-metil-3-penten-2 dhe trans-metil-3-penten-2"
+    ],
+    "correct": 1,
+    "explanation": "Klor fenilmetan (C6H5CH2Cl) dhe klor-2-toluen kanë të dyja formulën C7H7Cl — janë izomerë strukturorë (pozicioni i Cl ndryshon)."
+  },
+  {
+    "id": "kimi-organike-053",
+    "question": "Në cilin nga çiftet e mëposhtme përbërjet NUK janë izomerë pozicioni?",
+    "answers": [
+      "Dimetil-2,2-pentan dhe dimetil-3,3-pentan",
+      "Metil-3-pentanol-1 dhe metil-3-pentanol-3",
+      "Diklor-1,1-ciklobutan dhe diklor-1,2-ciklobutan",
+      "Metil-2-penten-2 dhe metil-2-penten-1"
+    ],
+    "correct": 0,
+    "explanation": "Dimetil-2,2-pentan dhe dimetil-3,3-pentan kanë të njëjtin skelet karboni dhe të njëjtët zëvendësues, thjesht me numërim të ndryshëm të pozicioneve simetrike — praktikisht përfaqësojnë të njëjtën marrëdhënie strukture-lidhje pa krijuar izomeri të re pozicioni domethënëse, ndryshe nga çiftet e tjera."
+  },
+  {
+    "id": "kimi-organike-054",
+    "question": "Përbërja që vepron me klor nën veprimin e rrezatimit ultravjollcë është:",
+    "answers": [
+      "acid metanoik",
+      "metil benzen",
+      "metanal",
+      "eten"
+    ],
+    "correct": 1,
+    "explanation": "Tolueni (metil benzeni) i nënshtrohet halogjenimit radikalar në zinxhirin anësor nën dritë UV — reaksioni klasik i zëvendësimit benzilik."
+  },
+  {
+    "id": "kimi-organike-055",
+    "question": "Hibridizimi i atomeve karbon nga C1 në C4 në molekulën e buten-2-al është:",
+    "answers": [
+      "sp3, sp2, sp2, sp3",
+      "sp3, sp2, sp2, sp2",
+      "sp2, sp2, sp2, sp3",
+      "sp2, sp2, sp2, sp2"
+    ],
+    "correct": 2,
+    "explanation": "CH3-CH=CH-CHO: C1(CHO)=sp2, C2 dhe C3 (pjesë e C=C)=sp2, C4(CH3)=sp3 — pra sp2, sp2, sp2, sp3."
+  },
+  {
+    "id": "kimi-organike-056",
+    "question": "Përbërja me të cilën NUK vepron propanol-1 është:",
+    "answers": [
+      "natrium metalik",
+      "acid propanoik",
+      "acid klorhidrik",
+      "ujë bromi"
+    ],
+    "correct": 3,
+    "explanation": "Propanol-1 nuk ka lidhje dyfishe, prandaj nuk reagon me ujin e bromit (test tipik për pangopshmëri)."
+  },
+  {
+    "id": "kimi-organike-057",
+    "question": "Përbërja e cila mund të hyjë në reaksion sipas mekanizmit të adicionit nukleofilik është:",
+    "answers": [
+      "buten-2",
+      "benzen",
+      "propanal",
+      "propanol-1"
+    ],
+    "correct": 2,
+    "explanation": "Grupi karbonil C=O i propanalit i nënshtrohet adicionit nukleofilik (nukleofili sulmon karbonin elektrofilik të karbonilit)."
+  },
+  {
+    "id": "kimi-organike-058",
+    "question": "Përbërja me formulën e mëposhtme skematike (ester i thjeshtë):",
+    "answers": [
+      "vepron me natrium metalik",
+      "vepron me hidroksid natriumi",
+      "çngjyros ujin e bromit",
+      "vepron me reaktivin Tollen's"
+    ],
+    "correct": 1,
+    "explanation": "Esteret i nënshtrohen hidrolizës bazike (saponifikimit) me NaOH; nuk reagojnë me Na metalik (nuk kanë H acid të lirë), nuk çngjyrosin ujin e bromit (nuk kanë lidhje dyfishe) dhe zakonisht nuk japin provë pozitive me Tollens.",
+    "image": "/question-images/kimi/organike/organike-058.png",
+    "imageAlt": "Formula skematike e një esteri"
+  },
+  {
+    "id": "kimi-organike-059",
+    "question": "Acidi karboksilik që ka dy izomerë hapësinorë gjeometrikë është:",
+    "answers": [
+      "(HOOC)2CCH2",
+      "HOOCCHC(CH3)2",
+      "(CH3)2CC(COOH)2",
+      "HOOC(CH)2COOH"
+    ],
+    "correct": 3,
+    "explanation": "HOOC-CH=CH-COOH (tip acidi maleik/fumarik) ka në secilin karbon të lidhjes dyfishe zëvendësues të ndryshëm (COOH dhe H) — prandaj ekziston si cis dhe trans. Në opsionet e tjera dy zëvendësuesit në një karbon janë identikë."
+  },
+  {
+    "id": "kimi-organike-060",
+    "question": "Për hidrokarburet e mësipërme (I-IV) të prezantuar me formula skematike, pohimi që NUK është i saktë:",
+    "answers": [
+      "Përbërjet I, II, III, dhe IV janë izomerë me njëri-tjetrin.",
+      "Përbërja I dhe IV janë izomerë pozicioni me njëri-tjetrin.",
+      "Të gjitha përbërjet e mësipërme kanë izomeri gjeometrike.",
+      "Secila nga përbërjet e mësipërme ka pesë atome të hibridizimit sp3."
+    ],
+    "correct": 2,
+    "explanation": "Jo të gjithë alkenet e dhëna kanë domosdoshmërisht zëvendësues të ndryshëm në të dy karbonet e lidhjes dyfishe — disa struktura (p.sh. me lidhje dyfishe terminale ose me zëvendësues identikë) nuk kanë izomeri cis-trans.",
+    "image": "/question-images/kimi/organike/organike-060.png",
+    "imageAlt": "Katër hidrokarbure izomere I-IV"
+  },
+  {
+    "id": "kimi-organike-061",
+    "question": "Emërtimi sipas IUPAC për përbërjen me formulë molekulare C8H16O dhe formulën skematike të dhënë (me grup OH):",
+    "answers": [
+      "dimetil-3,5-hekzen-3-ol-2",
+      "dimetil-2,4-hekzen-3-ol-5",
+      "trimetil-2,4,5-hekzen-3-ol-6",
+      "trimetil-2,3,5-hekzen-3-ol-1"
+    ],
+    "correct": 0,
+    "explanation": "Vargu kryesor hekzenik (6C) me dy zëvendësues metil jep gjithsej 8 atome karboni, që përputhet me C8H16O. Numërimi jep lokantet më të ulëta për grupin OH dhe zëvendësuesit.",
+    "image": "/question-images/kimi/organike/organike-061.png",
+    "imageAlt": "Formula skematike e alkoolit C8H16O"
+  },
+  {
+    "id": "kimi-organike-062",
+    "question": "Përbërja e cila ka karakter aromatik (rrjedhës benzeni) është:",
+    "answers": [
+      "C8H16",
+      "C8H14",
+      "C8H12",
+      "C8H10"
+    ],
+    "correct": 3,
+    "explanation": "Rrjedhësit e benzenit ndjekin formulën CnH2n-6. Për n=8: 2(8)-6=10 → C8H10 (p.sh. etilbenzeni ose ksileni)."
+  },
+  {
+    "id": "kimi-organike-063",
+    "question": "Reaksioni i cili realizohet sipas një mekanizmi homolitik është:",
+    "answers": [
+      "Esterifikimi me H2SO4",
+      "Reaksioni i alkoolit me HCl/ZnCl2",
+      "C6H5-CH3 + Cl2 (dritë) → C6H5-CH2Cl + HCl",
+      "Adicioni i Br2 në alken"
+    ],
+    "correct": 2,
+    "explanation": "Halogjenimi i zinxhirit anësor të toluenit nën veprimin e dritës ndodh nëpërmjet formimit të radikaleve të lira — mekanizëm homolitik."
+  },
+  {
+    "id": "kimi-organike-064",
+    "question": "Përbërja brom-2-metil-3-pentanol-1 ka formulën e kondensuar:",
+    "answers": [
+      "CH3Br C(CH3)2CH2CH2OH",
+      "C2H5CH(CH3)CHBrCH2OH",
+      "CH3CHBrCH2CH(CH3) CH2OH",
+      "CH3CH2C(CH3)2CHBrCH2OH"
+    ],
+    "correct": 1,
+    "explanation": "OH në C1, Br në C2, metil në C3: CH2(OH)-CHBr-CH(CH3)-CH2-CH3, e njëjtë me C2H5CH(CH3)CHBrCH2OH e shkruar nga skaji tjetër."
+  },
+  {
+    "id": "kimi-organike-065",
+    "question": "Cili nga pohimet për ketonet NUK është i saktë?",
+    "answers": [
+      "Ketonet mund të oksidohen ose reduktohen.",
+      "Ketonet janë produkte të reduktimit të një alkanoli dytësor.",
+      "Ketonet kanë grup funksionor një grup karbonil dytësor.",
+      "Ketonet mund të hyjnë në reaksione me mekanizëm adicioni nukleofilik."
+    ],
+    "correct": 0,
+    "explanation": "Ketonet reduktohen lehtë (në alkool), por REZISTOJNË ndaj oksidimit të zakonshëm (nuk kanë H në karbonin karbonilik për t'u hequr) — pohimi që 'oksidohen' është i pasaktë."
+  },
+  {
+    "id": "kimi-organike-066",
+    "question": "Për katër përbërjet (etanol, propanal, pentanon-3 [C2H5COC3H7], acid propanoik), cili pohim NUK është i saktë?",
+    "answers": [
+      "I është produkt i adicionit elektrofilik të ujit në një alken.",
+      "II është agjent oksidues gjatë bashkëveprimit me H2/katalizator.",
+      "Oksidimi i III me dikromat të acidifikuar jep përzierje katër llojesh acidesh karboksilikë.",
+      "IV vepron me I dhe formon propanoat etili."
+    ],
+    "correct": 2,
+    "explanation": "Copëtimi oksidativ i ketonit C2H5COC3H7 me dikromat të nxehtë thyen vargun në dy anë të karbonilit dhe jep vetëm dy lloje acidesh (nga secila anë), jo katër."
+  },
+  {
+    "id": "kimi-organike-067",
+    "question": "Përbërja e cila është izomer me acidin metil-2-butanoik (C5H10O2) është:",
+    "answers": [
+      "HOOCCH2C2H5",
+      "CH3(CH2)4COOH",
+      "CH2CH(CH2)2CO2H",
+      "HCOOCH(CH3) C2H5"
+    ],
+    "correct": 3,
+    "explanation": "HCOOCH(CH3)C2H5 (ester format-butili sekondar) ka formulën C5H10O2 — të njëjtën formulë molekulare me acidin metil-2-butanoik, pra janë izomere."
+  },
+  {
+    "id": "kimi-organike-068",
+    "question": "Grimca elektrofilike e cila realizon nitrimin e benzenit është:",
+    "answers": [
+      "NO2+",
+      "NO2-",
+      "NH4+",
+      "NO3-"
+    ],
+    "correct": 0,
+    "explanation": "Joni nitroniumi NO2+ është elektrofili aktiv në reaksionin e nitrimit aromatik."
+  },
+  {
+    "id": "kimi-organike-069",
+    "question": "Produkti kryesor i cili përftohet nga bashkëveprimi i penten-1 me HBr është:",
+    "answers": [
+      "brom-2-penten-1",
+      "brom-1-penten-1",
+      "brom-1-pentan",
+      "brom-2-pentan"
+    ],
+    "correct": 3,
+    "explanation": "Sipas rregullit Markovnikov, Br fiksohet te karboni më i zëvendësuar (C2), duke formuar karbokation sekondar më të qëndrueshëm: brom-2-pentan."
+  },
+  {
+    "id": "kimi-organike-070",
+    "question": "Produkti kryesor i përftuar nga bashkëveprimi i (C2H5)3CBr me tretësirë alkoolike të KOH është:",
+    "answers": [
+      "një alkool tretësor",
+      "një alkool parësor",
+      "një alken",
+      "një keton"
+    ],
+    "correct": 2,
+    "explanation": "KOH në mjedis alkoolik favorizon eliminimin (E2) mbi zëvendësimin te halogjenalkanet terciare — produkti kryesor është alkeni."
+  },
+  {
+    "id": "kimi-organike-071",
+    "question": "Përbërja e cila polimerizohet për të formuar polimerin e treguar (me degëzime etil çdo karbon të dytë) është:",
+    "answers": [
+      "penten-2",
+      "penten-1",
+      "buten-2",
+      "buten-1"
+    ],
+    "correct": 3,
+    "explanation": "Njësia përsëritëse -CH2-CH(C2H5)- vjen nga polimerizimi i buten-1-it (CH2=CH-CH2CH3), ku grupi etil mbetet si degëzim anësor.",
+    "image": "/question-images/kimi/organike/organike-071.png",
+    "imageAlt": "Fragment polimeri me zëvendësues etil"
+  },
+  {
+    "id": "kimi-organike-072",
+    "question": "Për përbërjet C6H13Br dhe C6H13OH, pohime të sakta janë:",
+    "answers": [
+      "I, II dhe III",
+      "vetëm I dhe II",
+      "vetëm I dhe III",
+      "vetëm II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Të dyja mund të përftohen nga adicion elektrofilik (HBr/H2O në një hekzen), nga zëvendësim nukleofilik (njëra nga tjetra), dhe mund të shndërrohen njëra në tjetrën nëpërmjet zëvendësimit — të tria pohimet janë të vërteta."
+  },
+  {
+    "id": "kimi-organike-073",
+    "question": "Për përbërjet X (keton) dhe Y (alken) të dhëna, pohime të vërteta janë:",
+    "answers": [
+      "Vetëm III",
+      "Vetëm I dhe III",
+      "Vetëm II dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "X dhe Y kanë formula të ndryshme molekulare, prandaj nuk janë izomere mes tyre (I e gabuar). Vetëm një prej tyre është keton metilik që jep provën e jodoformës (II jo për të dyja). Të dyja megjithatë janë izomere me metil-2-butanal (III).",
+    "image": "/question-images/kimi/organike/organike-073.png",
+    "imageAlt": "Struktura e përbërjeve X dhe Y"
+  },
+  {
+    "id": "kimi-organike-074",
+    "question": "Përbërja brom-2-hekzan CH3CHBr(CH2)3CH3:",
+    "answers": [
+      "vetëm I",
+      "vetëm I dhe II",
+      "vetëm I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 3,
+    "explanation": "Mund të vijë nga zëvendësim radikalar (halogjenim i hekzanit), nga zëvendësim nukleofilik (alkool + HBr), dhe nga adicion elektrofilik (hekzen-1 + HBr, sipas Markovnikov) — të tria mekanizmat janë të mundshme."
+  },
+  {
+    "id": "kimi-organike-075",
+    "question": "Për tre acidet alkenoikë, cili pohim NUK është i saktë?",
+    "answers": [
+      "Ekzistojnë cis/trans te acidi metil-2-buten-2-oik.",
+      "Përbërjet I dhe III janë izomere strukturore me njëra-tjetrën.",
+      "Ekzistojnë cis/trans te acidi metil-3-buten-2-oik.",
+      "Përbërjet II dhe III janë izomere pozicioni me njëra-tjetrën."
+    ],
+    "correct": 2,
+    "explanation": "Te acidi metil-3-buten-2-oik, karboni C3 i lidhjes dyfishe mban dy grupe CH3 identike (nga varg dhe nga degëzimi) — pra NUK ekziston izomeria cis-trans, ndryshe nga sa pohohet."
+  },
+  {
+    "id": "kimi-organike-076",
+    "question": "Cili nga emërtimet e mëposhtme NUK është i saktë?",
+    "answers": [
+      "Metil-2-izopropil-3-pentani",
+      "Etil-2-metil-4-hekzani",
+      "Etil-3-metil-3-hekzani",
+      "Trimetil-2,2,5-hekzani"
+    ],
+    "correct": 0,
+    "explanation": "Kur ka degëzim izopropil, duhet zgjedhur vargu më i gjatë i mundshëm si strukturë kryesore; emërtimi me 'izopropil' si zëvendësues në një pentan nuk përfaqëson zgjedhjen e preferuar IUPAC të vargut kryesor."
+  },
+  {
+    "id": "kimi-organike-077",
+    "question": "Kur brom-2-pentani nxehet me tretësirë hidroksid natriumi në etanol:",
+    "answers": [
+      "përftohet një hidrokarbur C5H12",
+      "përftohet një lloj alkeni i vetëm",
+      "përftohen dy alkene izomere",
+      "përftohen tre alkene izomere"
+    ],
+    "correct": 3,
+    "explanation": "Eliminimi mund të heqë H nga C1 (duke dhënë penten-1) ose nga C3 (duke dhënë penten-2, cis dhe trans) — gjithsej tre alkene izomere."
+  },
+  {
+    "id": "kimi-organike-078",
+    "question": "Nga hidratimi i katalizuar i metil-2-buten-2 përftohet:",
+    "answers": [
+      "si produkt kryesor një alkool parësor",
+      "si produkt kryesor një alkool dytësor",
+      "si produkt kryesor një alkool tretësor",
+      "një alkool me formulë C5H10O"
+    ],
+    "correct": 2,
+    "explanation": "Sipas Markovnikov-it, OH fiksohet te karboni më i zëvendësuar i (CH3)2C=CHCH3, duke formuar karbokationin terciar më të qëndrueshëm — produkti kryesor është alkool terciar (metil-2-butanol-2)."
+  },
+  {
+    "id": "kimi-organike-079",
+    "question": "Për të njëjtën masë të përbërjeve, çliron sasinë më të vogël hidrogjeni me Na metalik:",
+    "answers": [
+      "butanol-1",
+      "propanol-1",
+      "etanol",
+      "metanol"
+    ],
+    "correct": 0,
+    "explanation": "Për masë të barabartë, sa më i madh masa molare e alkoolit, aq më pak mole (dhe H2) përftohen. Butanol-1 ka masën molare më të madhe nga të katërta."
+  },
+  {
+    "id": "kimi-organike-080",
+    "question": "Me tretësirën ujore të KOH vepron:",
+    "answers": [
+      "etandiol-1,2",
+      "metanoat etili",
+      "metil propanal",
+      "metil propeni"
+    ],
+    "correct": 1,
+    "explanation": "Esteri (metanoat etili) i nënshtrohet hidrolizës bazike (saponifikimit) me KOH ujor, ndryshe nga alkooli, aldehidi dhe alkeni."
+  },
+  {
+    "id": "kimi-organike-081",
+    "question": "Nga hidroliza me ujë në prani të H2SO4 e metilpropanoatit të izopropilit përftohet:",
+    "answers": [
+      "acid metil propanoik dhe propanol-2",
+      "acid butanoik dhe propanol-2",
+      "acid metil propanoik dhe propanol-1",
+      "metil propanol-1 dhe propanol-2"
+    ],
+    "correct": 0,
+    "explanation": "Hidroliza e esterit (CH3)2CHCOOCH(CH3)2 jep acidin nga i cili rrjedh (acid metil propanoik) dhe alkoolin izopropanol (propanol-2)."
+  },
+  {
+    "id": "kimi-organike-082",
+    "question": "Cili nga pohimet për polipropenin NUK është i saktë?",
+    "answers": [
+      "Formohet nga polimerizimi i propenit.",
+      "Ka vetëm atome të karbonit të hibritizuar sp3.",
+      "Polipropen çngjyros tretësirën ujore të bromit.",
+      "Njësia e ndërtimit e polimerit është grupimi -C3H6-."
+    ],
+    "correct": 2,
+    "explanation": "Polipropeni është i ngopur (të gjitha lidhjet C-C janë të thjeshta pas polimerizimit) — nuk ka lidhje dyfishe dhe NUK çngjyros ujin e bromit."
+  },
+  {
+    "id": "kimi-organike-083",
+    "question": "Përbërja e cila NUK i ka të gjithë atomet e karbonit të hibritizimit sp2 është:",
+    "answers": [
+      "stiren",
+      "toluen",
+      "propenal",
+      "acid etandioik"
+    ],
+    "correct": 1,
+    "explanation": "Te tolueni, karbonet e unazës janë sp2, por karboni i grupit metil (-CH3) është sp3 — jo të gjithë karbonet janë sp2."
+  },
+  {
+    "id": "kimi-organike-084",
+    "question": "Përbërja që oksidohet për të dhënë një alkanal është:",
+    "answers": [
+      "etandiol-1,2",
+      "metil-3-butanol-2",
+      "ciklohekzanol",
+      "metil-2-butanol-2"
+    ],
+    "correct": 0,
+    "explanation": "Etandioli-1,2 është diol me dy grupe -OH parësorë; oksidimi i tij i kontrolluar jep aldehide (dialdehid), ndërsa alkoolet dytësore/terciare të tjera nuk japin aldehid."
+  },
+  {
+    "id": "kimi-organike-085",
+    "question": "Përbërja e cila mund të përftohet si produkt i një reaksioni kondensimi është:",
+    "answers": [
+      "etanal",
+      "etanol",
+      "brom etan",
+      "etanoat etili"
+    ],
+    "correct": 3,
+    "explanation": "Esteret formohen me eliminim uji mes acidit dhe alkoolit (reaksion kondensimi)."
+  },
+  {
+    "id": "kimi-organike-086",
+    "question": "Nga tre reaksionet e mësipërme, reaksion/e redoks është/janë:",
+    "answers": [
+      "Vetëm I",
+      "Vetëm II",
+      "I dhe II",
+      "II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Hidrogjenimi i alkenit (I) është reaksion reduktimi (redoks). Hidratimi i alkenit (II) dhe zëvendësimi nukleofilik (III) nuk ndryshojnë gjendjen e oksidimit të karbonit."
+  },
+  {
+    "id": "kimi-organike-087",
+    "question": "Mungon lidhja hidrogjenore midis molekulave në përbërjen:",
+    "answers": [
+      "C2H5COOH",
+      "CH3COCH3",
+      "CH3CH2OH",
+      "CH3COONH2"
+    ],
+    "correct": 1,
+    "explanation": "Acetoni (CH3COCH3) nuk ka atom H të lidhur me O ose N për të dhuruar lidhje hidrogjenore mes molekulave të veta, ndryshe nga acidi, alkooli dhe amida."
+  },
+  {
+    "id": "kimi-organike-088",
+    "question": "Numrat e oksidimit të atomeve të karbonit në acidin propanoik HOOCC2H5, nga C1 në C3, janë:",
+    "answers": [
+      "-1; -2; -3",
+      "+1; -2; -3",
+      "+3; -2; -3",
+      "+2; -2; -3"
+    ],
+    "correct": 2,
+    "explanation": "Karboni i grupit -COOH (C1) ka numër oksidimi +3 (standard për acide karboksilike). C2 (CH2, i lidhur me 2H) = -2. C3 (CH3, terminal) = -3."
+  },
+  {
+    "id": "kimi-organike-089",
+    "question": "Cili nga reagentët e mëposhtëm përdoret për të dalluar acidin buten-2-oik nga alkooli buten-2-ol-1?",
+    "answers": [
+      "Karbonat natriumi",
+      "Reaktiv Tollen's",
+      "Natrium metalik",
+      "Tretësirë ujore bromi"
+    ],
+    "correct": 0,
+    "explanation": "Karbonati i natriumit reagon vetëm me acidin karboksilik (çliron CO2, shihet gëlbërim i dukshëm), ndërsa me alkoolin nuk reagon — dallim i qartë."
+  },
+  {
+    "id": "kimi-organike-090",
+    "question": "Përbërja që NUK është izomere me etanoat fenili (C8H8O2) është:",
+    "answers": [
+      "Metil benzoat",
+      "Acid fenilacetik",
+      "Acid meta-metilbenzoik",
+      "Format fenili"
+    ],
+    "correct": 3,
+    "explanation": "Format fenili (HCOOC6H5) ka formulën C7H6O2, ndërsa etanoat fenili ka formulën C8H8O2 — formula të ndryshme, pra jo izomere.",
+    "image": "/question-images/kimi/organike/organike-090.png",
+    "imageAlt": "Katër struktura organike A-D"
+  },
+  {
+    "id": "kimi-organike-091",
+    "question": "Nga veprimi i ciklopentanit me klor nën dritë (C5H10 + Cl2 → C5H9Cl + HCl) formohet:",
+    "answers": [
+      "diklor-1,5-ciklopentan",
+      "diklor-1,1-ciklopentan",
+      "diklor-1,2-ciklopentan",
+      "klor ciklopentan"
+    ],
+    "correct": 3,
+    "explanation": "Barazimi kimik i dhënë tregon qartë zëvendësim të vetëm një atomi H me Cl (C5H9Cl) — produkti është monoklorociklopentan."
+  },
+  {
+    "id": "kimi-organike-092",
+    "question": "Përbërja me të cilën vepron etanolati i natriumit CH3CH2ONa është:",
+    "answers": [
+      "H2",
+      "H2O",
+      "NaOH",
+      "C3H8"
+    ],
+    "correct": 1,
+    "explanation": "Etanolati i natriumit është bazë e fortë; reagon me ujin (protonohet) duke rigjeneruar etanol dhe NaOH."
+  },
+  {
+    "id": "kimi-organike-093",
+    "question": "Grimca e ndërmjetme që përftohet në një reaksion organik të tipit homolitik është:",
+    "answers": [
+      "NO2+",
+      "OH-",
+      "CH3•",
+      "CN-"
+    ],
+    "correct": 2,
+    "explanation": "Reaksionet homolitike (radikalare) formojnë radikale të lira si CH3•, ndryshe nga jonet elektrofilë/nukleofilë të reaksioneve heterolitike."
+  },
+  {
+    "id": "kimi-organike-094",
+    "question": "Një nga stadet e mekanizmit të halogjenimit radikalar të etanit është:",
+    "answers": [
+      "C2H6 → C2H5• + H•",
+      "C2H6 + Br• → C2H5Br + H•",
+      "C2H6 + Br• → C2H5• + HBr",
+      "C2H5• → C2H4• + H•"
+    ],
+    "correct": 2,
+    "explanation": "Në stadin e propagimit, radikali Br• heq një atom H nga etani, duke formuar radikalin etil dhe HBr."
+  },
+  {
+    "id": "kimi-organike-095",
+    "question": "Përbërja që vepron me bromin nën rrezatimin ultraviolet është:",
+    "answers": [
+      "CH2O",
+      "C4H8",
+      "HCOOH",
+      "(COOH)2"
+    ],
+    "correct": 2,
+    "explanation": "Acidi metanoik ka atom H të lidhur direkt me karbonin karbonilik, që mund t'i nënshtrohet zëvendësimit radikalar nën UV; acidi oksalik nuk ka atome H në karbone për t'u zëvendësuar."
+  },
+  {
+    "id": "kimi-organike-096",
+    "question": "Reaksioni në të cilin përbërja organike oksidohet është:",
+    "answers": [
+      "Dehidrogjenimi i propanit në propen",
+      "Reduktimi i CH3CHO me H2",
+      "Zëvendësimi i OH me Cl",
+      "Esterifikimi"
+    ],
+    "correct": 0,
+    "explanation": "Dehidrogjenimi (humbje H2 nga propani për të formuar propen) rrit gradën e pangopshmërisë dhe konsiderohet oksidim i substratit organik."
+  },
+  {
+    "id": "kimi-organike-097",
+    "question": "Në molekulën e alkoolit benzilik (C6H5CH2OH) ka:",
+    "answers": [
+      "10 lidhje σ dhe 3 lidhje π",
+      "11 lidhje σ dhe 3 lidhje π",
+      "15 lidhje σ dhe 3 lidhje π",
+      "16 lidhje σ dhe 3 lidhje π"
+    ],
+    "correct": 3,
+    "explanation": "Duke numëruar të gjitha lidhjet: 6 (C-C unazë) + 5 (C-H unazë) + 1 (C-CH2) + 2 (C-H te CH2) + 1 (C-O) + 1 (O-H) = 16 σ; π vjen vetëm nga unaza aromatike = 3.",
+    "image": "/question-images/kimi/organike/organike-097.png",
+    "imageAlt": "Struktura e alkoolit benzilik"
+  },
+  {
+    "id": "kimi-organike-098",
+    "question": "Numri i izomerëve të pozicionit në përbërjen e ngopur dihalogjenuar C3H6Br2 është:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "Për propanin dibromo-zëvendësuar: 1,1-; 1,2-; 1,3-; 2,2-dibromopropan — gjithsej katër izomerë pozicionalë."
+  },
+  {
+    "id": "kimi-organike-099",
+    "question": "Për të prodhuar metil-2-butan me sintezën Wurtz, halogjenalkanet që duhet të veprojnë janë:",
+    "answers": [
+      "I dhe II",
+      "I dhe III",
+      "I dhe IV",
+      "II dhe III"
+    ],
+    "correct": 1,
+    "explanation": "Kombinimi i klor-metanit (grup metil, 1C) me klor-2-butanin (grup sek-butil, 4C) jep CH3-CH(CH3)-CH2-CH3 = metil-2-butan."
+  },
+  {
+    "id": "kimi-organike-100",
+    "question": "Masa molare e një bromalkani është 137g/mol. Alkani i prodhuar kur ky halogjenalkan vepron me natrium metalik është:",
+    "answers": [
+      "Dimetil-2,4-hekzan",
+      "Dimetil-2,3-hekzan",
+      "Dimetil-3,4-hekzan",
+      "Dimetil-2,4-pentan"
+    ],
+    "correct": 2,
+    "explanation": "M(C4H9Br)=137 → bromalkani është brom-2-butan. Sinteza Wurtz (vetë-bashkim) e radikalit sek-butil jep CH3CH(C2H5)-CH(C2H5)CH3 = dimetil-3,4-hekzan."
+  },
+  {
+    "id": "kimi-organike-101",
+    "question": "Masa molare e një alkeni është 70 g/mol dhe ekziston si dy izomerë cis-trans. Formula e tij e kondensuar është:",
+    "answers": [
+      "CH3CH=CHCH2CH3",
+      "CH3CH=CHC2H5",
+      "(CH3)2C=CHCH3",
+      "CH2=CH(CH2)2CH3"
+    ],
+    "correct": 0,
+    "explanation": "M=70 g/mol përputhet me formulën C5H10. Vetëm penten-2 (CH3CH=CHCH2CH3), me zëvendësues të ndryshëm në të dy karbonet e lidhjes dyfishe, ka izomeri cis-trans."
+  },
+  {
+    "id": "kimi-organike-102",
+    "question": "8.6 gram alkanal vepron me reaktivin Tollens dhe prodhon 21.6 gram argjend metalik. Formula e alkanalit është:",
+    "answers": [
+      "CH3CHO",
+      "C2H5CHO",
+      "C3H7CHO",
+      "C4H9CHO"
+    ],
+    "correct": 3,
+    "explanation": "n(Ag)=21.6/108=0.2 mol; n(aldehid)=0.2/2=0.1 mol (1 aldehid → 2 Ag). M(aldehid)=8.6/0.1=86 g/mol → C5H10O = C4H9CHO (pentanal)."
+  },
+  {
+    "id": "kimi-organike-103",
+    "question": "X (acid alkanoik pa izomer ester) dhe Y (alkanol minimal që nuk oksidohet). Masa molekulare e përbërjes që formohet nga X+Y është:",
+    "answers": [
+      "88",
+      "102",
+      "116",
+      "130"
+    ],
+    "correct": 1,
+    "explanation": "X = acid metanoik HCOOH (i vetmi acid pa izomer ester). Y = terc-butanoli (CH3)3COH (alkooli terciar më i vogël). Esteri HCOOC(CH3)3 ka M=102 g/mol."
+  },
+  {
+    "id": "kimi-organike-104",
+    "question": "Gjatë nxehjes së përzierjes brom-1-propan dhe brom-2-propan me natrium metalik përftohet:",
+    "answers": [
+      "vetëm II",
+      "vetëm III",
+      "I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 3,
+    "explanation": "Vetë-bashkimi i secilit halogjenalkan (hekzan nga I, dimetil-2,3-butan nga III) plus bashkimi i kryqëzuar (metil-2-pentan, II) japin gjithsej tre produkte."
+  },
+  {
+    "id": "kimi-organike-105",
+    "question": "0.1 mol hidrokarbur i ngopur digjet plotësisht; CO2 e formuar asnjanëson plotësisht 800 ml tretësirë 1M KOH. Formula molekulare e hidrokarburit është:",
+    "answers": [
+      "C8H18",
+      "C8H14",
+      "C4H10",
+      "C3H8"
+    ],
+    "correct": 2,
+    "explanation": "n(KOH)=0.8 mol → n(CO2)=0.8/2=0.4 mol (CO2+2KOH→K2CO3+H2O). Karbone për molekulë=0.4/0.1=4 → C4H10."
+  },
+  {
+    "id": "kimi-organike-106",
+    "question": "Në transformimet C3H6 --HBr--> X --Na--> Y, masa molekulare e Y është:",
+    "answers": [
+      "165",
+      "123",
+      "86",
+      "84"
+    ],
+    "correct": 2,
+    "explanation": "X=CH3CHBrCH3 (Markovnikov). Vetë-bashkimi Wurtz jep C6H14 (dimetil-2,3-butan), M=86 g/mol."
+  },
+  {
+    "id": "kimi-organike-107",
+    "question": "Numri i areneve izomerë me formulë C9H12, homologë të benzenit, është:",
+    "answers": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "Zëvendësuesit e mundshëm janë: n-propil, izopropil, 3 trimetilbenzenet (1,2,3-;1,2,4-;1,3,5-), dhe 3 etilmetilbenzenet (orto,meta,para) — gjithsej 8 izomerë."
+  },
+  {
+    "id": "kimi-organike-108",
+    "question": "Propeni: C3H6 --HBr--> X --KOH/etanol--> Y. Përbërja Y është:",
+    "answers": [
+      "C3H7OH",
+      "C3H7Br",
+      "C3H8",
+      "C3H6"
+    ],
+    "correct": 3,
+    "explanation": "X=2-bromopropan. Eliminimi me KOH alkoolik heq HBr dhe rikthen alken — Y=propen (C3H6)."
+  },
+  {
+    "id": "kimi-organike-109",
+    "question": "Nga nxehja me acid sulfurik e heptanol-3, numri i të gjithë alkeneve izomerë që përftohen është:",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "Eliminimi mund të ndodhë drejt C2 (hepten-2, cis/trans) ose drejt C4 (hepten-3, cis/trans) — gjithsej 4 alkene izomere (duke përfshirë gjeometrikët)."
+  },
+  {
+    "id": "kimi-organike-110",
+    "question": "Numri i dihalogjenalkaneve izomere të formulës C4H8Br2 me izomeri vargu dhe pozicioni është:",
+    "answers": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Për vargun normal të butanit: 6 pozicione (1,1;1,2;1,3;1,4;2,2;2,3). Për vargun e degëzuar (izobutan): 3 pozicione shtesë (1,1;1,3;1,2 në lidhje me qendrën) — gjithsej 9."
+  },
+  {
+    "id": "kimi-organike-111",
+    "question": "Për shndërrimin e etilbenzenit: +Cl2/dritë → X --KOH(uj)--> Y --H2SO4/170°C--> Z, formulat e X, Y, Z janë:",
+    "answers": [
+      "C6H4ClCH2CH3; C6H4OHCH2CH3; C6H4OHC2H3",
+      "C6H5C2H4Cl; C6H5C2H3; C6H5CH2CH2OH",
+      "C6H5CH2CH2Cl; C6H5C2H4OH; C6H5C2H3",
+      "C6H5C2H3Cl2; C6H5C2H3(OH)2; C6H4OHC2H3"
+    ],
+    "correct": 2,
+    "explanation": "Klorimi radikalar (dritë) ndodh në zinxhirin anësor (jo unazë). Hidroliza me KOH ujor jep alkool; dehidratimi me H2SO4/170°C jep stiren (C6H5CH=CH2)."
+  },
+  {
+    "id": "kimi-organike-112",
+    "question": "Për shndërrimin CH3CH2CH2Br → X → W → CH3CH(OH)CH3, pohimi i saktë është:",
+    "answers": [
+      "Vetëm I",
+      "I dhe II",
+      "I dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Nëse X=KOH/etanol (eliminim) formon propen (W, alken), i cili më pas hidratohet (H2O/H2SO4) duke dhënë propanol-2 sipas Markovnikov — W ËSHTË alken (I e vërtetë). Por vetëm njëri reagent (KOH) është bazë, tjetri (H2SO4) është acid (II e gabuar), dhe mekanizmi i parë është eliminim jo SN2 (III e gabuar)."
+  },
+  {
+    "id": "kimi-organike-113",
+    "question": "Numri i izomerëve të vargut dhe të pozicionit që i përkasin formulës molekulare të përbërjes karbonilike me vetëm një atom karboni katërsor dhe katër atome karboni parësor, është:",
+    "answers": [
+      "8",
+      "7",
+      "6",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Përbërja përshkruar (p.sh. (CH3)3C-CO-CH3, C6H12O) përcakton formulën molekulare C6H12O. Ketonet me këtë formulë (duke ndarë 5 karbone rreth karbonilit): hekzanon-2, hekzanon-3, metil-4-pentanon-2, metil-3-pentanon-2, dimetil-3,3-butanon-2 — gjithsej 6."
+  },
+  {
+    "id": "kimi-organike-114",
+    "question": "Tolueni vepron në të nxehtë me KMnO4 formon X, i cili vepron me propanol-2 në prani të acidit formon Y. Formula e Y është:",
+    "answers": [
+      "C6H5CH2OCH(CH3)2",
+      "C6H5COCH(CH3)2",
+      "C6H5COOCH2CH2CH3",
+      "C6H5COOCH(CH3)2"
+    ],
+    "correct": 3,
+    "explanation": "Tolueni oksidohet në acid benzoik (X). Esterifikimi i X me propanol-2 (Fischer) jep izopropil benzoatin C6H5COOCH(CH3)2."
+  },
+  {
+    "id": "kimi-organike-115",
+    "question": "7g alken shndërrohet plotësisht në hidrokarbur të ngopur duke adicionuar 0.2g hidrogjen. Numri i alkeneve izomere me këto të dhëna është:",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "n(H2)=0.1 mol=n(alken); M(alken)=7/0.1=70 → C5H10. Izomerët strukturorë/pozicionalë të C5H10 (pa numëruar veç cis-trans): penten-1, penten-2, metil-2-buten-1, metil-3-buten-1, metil-2-buten-2 — gjithsej 5."
+  },
+  {
+    "id": "kimi-organike-116",
+    "question": "Në një përzierje 10g propan-eten, shtojmë në errësirë brom 16g. Sasia në gram e propanit është:",
+    "answers": [
+      "2.80",
+      "4.40",
+      "5.60",
+      "7.20"
+    ],
+    "correct": 3,
+    "explanation": "n(Br2)=16/160=0.1 mol=n(eten) (adicion). Masa eten=0.1×28=2.8g. Masa propan=10-2.8=7.2g."
+  },
+  {
+    "id": "kimi-organike-117",
+    "question": "Një alkan i gaztë 2.2g zë vëllimin 1.12dm³ (K.N). Numri i izomerëve dihalogjenuar pozicionalë të tij nën diklorim UV është:",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "n=1.12/22.4=0.05 mol; M=2.2/0.05=44 → C3H8 (propan). Diklorimi jep 4 izomerë pozicionalë: 1,1-; 1,2-; 1,3-; 2,2-diklorpropan."
+  },
+  {
+    "id": "kimi-organike-118",
+    "question": "Kripa karboksilike që me NaOH/CaO prodhon alkanin me 25% masë hidrogjen është:",
+    "answers": [
+      "Metanoat natriumi",
+      "Etanoat natriumi",
+      "Propanoat natriumi",
+      "Butanoat natriumi"
+    ],
+    "correct": 0,
+    "explanation": "Zgjidhja e ekuacionit %H=25% për CnH2n+2 jep n=1 (metan, %H=4/16=25%). Alkani metan formohet vetëm nga dekarboksilimi i metanoatit të natriumit (HCOONa)."
+  },
+  {
+    "id": "kimi-organike-119",
+    "question": "1 mol alkool i ngopur monohidroksilik digjet dhe prodhon 89.6 litra CO2 (K.N). Numri i izomerëve që oksidohen me dikromat të acidifikuar është:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "n(CO2)=4 mol → C4 alkool. Nga 4 izomerët e butanolit, tre janë parësorë/dytësorë (butanol-1, butanol-2, metil-2-propanol-1) dhe oksidohen; vetëm terc-butanoli nuk oksidohet."
+  },
+  {
+    "id": "kimi-organike-120",
+    "question": "Numri i izomerëve të vargut të alkanaleve që janë izomerë me alkanonin më të vogël me një atom karboni katërsor, është:",
+    "answers": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "Ketoni më i vogël me karbon katërsor: (CH3)3C-CO-CH3 (C6H12O). Alkanalet izomere C6H12O: hekzanal, metil-2-pentanal, metil-3-pentanal, metil-4-pentanal, dimetil-2,2-butanal, dimetil-2,3-butanal, dimetil-3,3-butanal, etil-2-butanal — gjithsej 8."
+  },
+  {
+    "id": "kimi-organike-121",
+    "question": "Një alkanol vepron me Na dhe formon 38.4g kripë që përmban 9.2g natrium. Formula molekulare e alkanolit është:",
+    "answers": [
+      "C4H9OH",
+      "C3H7OH",
+      "C2H5OH",
+      "CH3OH"
+    ],
+    "correct": 0,
+    "explanation": "n(Na)=9.2/23=0.4 mol=n(kripë). M(kripë)=38.4/0.4=96. M(alkool)=96-23+1=74 → C4H9OH."
+  },
+  {
+    "id": "kimi-organike-122",
+    "question": "Për një alkool: oksidohet në keton; 1 mol i tij me tepricë Na jep 11.2L H2. Struktura e mundshme është:",
+    "answers": [
+      "CH3CH2CH2CH2CH2OH",
+      "CH3CH(OH)CH(OH)CH3",
+      "(CH3)2CHC(CH3)(OH)CH3",
+      "(CH3)2CHCH(OH)CH2CH3"
+    ],
+    "correct": 3,
+    "explanation": "n(H2)=0.5 mol për 1 mol alkool → monool (1 OH). Duhet të oksidohet në keton → alkool dytësor. Vetëm (CH3)2CHCH(OH)CH2CH3 është monool dytësor (të tjerët janë parësor, diol, ose terciar)."
+  },
+  {
+    "id": "kimi-organike-123",
+    "question": "Formula e alkanolit që me 0.5 mol acid etanoik formon 51g ester (deri në fund) është:",
+    "answers": [
+      "CH3CH2OH",
+      "CH3CH(OH)CH3",
+      "CH3(CH2)3OH",
+      "(CH3)3CCH2OH"
+    ],
+    "correct": 1,
+    "explanation": "M(ester)=51/0.5=102. M(ester)=M(acid)+M(alkool)-18=60+M(alkool)-18 → M(alkool)=60 → CH3CH(OH)CH3 (propanol-2)."
+  },
+  {
+    "id": "kimi-organike-124",
+    "question": "Një alkool përftohet nga 13.7g bromalkan + 4g NaOH. Formula e aldehidit nga oksidimi i alkoolit është:",
+    "answers": [
+      "C4H9CHO",
+      "C4H9OH",
+      "C3H7CHO",
+      "C2H5CHO"
+    ],
+    "correct": 2,
+    "explanation": "n(NaOH)=0.1 mol=n(bromalkan). M(bromalkan)=13.7/0.1=137 → C4H9Br. Alkooli parësor përkatës oksidohet në butanal (C3H7CHO)."
+  },
+  {
+    "id": "kimi-organike-125",
+    "question": "1 mol keton digjet nga 10 mol oksigjen; diferenca e karboneve të dy grupeve alkilike të lidhur te karbonili është 2. Formula strukturore e ketonit është:",
+    "answers": [
+      "CH3COC3H7",
+      "CH3COC4H9",
+      "CH3COC5H11",
+      "C2H5COC4H9"
+    ],
+    "correct": 3,
+    "explanation": "Nga bilanci i djegies (3n-1)/2=10 → n=7 (C7H14O). Ndarja e 6 karboneve mes dy grupeve me diferencë 2 jep 4 dhe 2 karbone: C2H5COC4H9."
+  },
+  {
+    "id": "kimi-organike-126",
+    "question": "X (C6H14O) oksidohet në Y (C6H12O, vetëm karbone parësorë/dytësorë). Oksidimi i Y me KMnO4 jep tre acide. Formula e Y:",
+    "answers": [
+      "CH3CO(CH2)3CH3",
+      "CH3COCH2CH(CH3)2",
+      "CH3CH2CO(CH2)2CH3",
+      "CH3CH2COCH(CH3)2"
+    ],
+    "correct": 2,
+    "explanation": "Y duhet të jetë keton me varg të drejtë (pa karbon tretësor). Hekzanon-3 (CH3CH2CO(CH2)2CH3), me copëtim oksidativ nga të dy skajet (enolizimi në dy drejtime), jep saktësisht tre acide të ndryshme: acid acetik, propanoik dhe butanoik."
+  },
+  {
+    "id": "kimi-organike-127",
+    "question": "Numri i izomerëve të pozicionit që krijohen nga zëvendësimi i një H me Br në molekulën e metil-3-pentanit, është:",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Metil-3-pentani ka simetri: C1≡C5, C2≡C4, si dhe C3 dhe metili degëzues janë pozicione unike — gjithsej 4 pozicione të dallueshme H."
+  },
+  {
+    "id": "kimi-organike-128",
+    "question": "Masa e 1000 njësive të monokloruara të një polimeri adicioni është 76500g. Monomeri i mundshëm është:",
+    "answers": [
+      "CH2CHCl",
+      "CH2CClCH3",
+      "CHClCClCH3",
+      "CHClCHC2H5"
+    ],
+    "correct": 1,
+    "explanation": "Masa e njësisë = 76500/1000=76.5 g/mol, që përputhet drejtpërdrejt me monomerin CH2=CClCH3 (M=76.5 g/mol)."
+  },
+  {
+    "id": "kimi-organike-129",
+    "question": "Numri i izomerëve nga monobromimi aromatik në prani të AlCl3 për orto-, meta-, para-dimetilbenzen, sipas radhës, është:",
+    "answers": [
+      "2  3  1",
+      "2  2  1",
+      "2  3  2",
+      "2  2  2"
+    ],
+    "correct": 0,
+    "explanation": "Orto-ksileni ka 2 pozicione të dallueshme (simetri pasqyre); meta-ksileni ka 3 pozicione të dallueshme; para-ksileni ka vetëm 1 pozicion (simetri e lartë)."
+  },
+  {
+    "id": "kimi-organike-130",
+    "question": "Një alken me masë molekulare 70 ka 85.71% karbon. Numri i alkeneve që janë izomere strukturore, pozicionale dhe gjeometrike me të dhënat e mësipërme është:",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "M=70, %C=85.71% → C5H10. Izomerët totalë: penten-1, penten-2(cis), penten-2(trans), metil-2-buten-1, metil-3-buten-1, metil-2-buten-2 — gjithsej 6."
+  },
+  {
+    "id": "kimi-organike-131",
+    "question": "Në një hidrokarbur të ngopur, numri i atomeve karbon është sa gjysma e atomeve hidrogjen. Djegia e 0.1 mol jep 5.4g ujë. Formula molekulare e tij është:",
+    "answers": [
+      "C3H8",
+      "C3H6",
+      "C6H14",
+      "C6H12"
+    ],
+    "correct": 1,
+    "explanation": "C=H/2 përputhet me cikloalkanet (CnH2n). n(H2O)=0.3 mol → H atome/molekulë=6 → C=3 → C3H6 (ciklopropan, i ngopur ciklik)."
+  },
+  {
+    "id": "kimi-organike-132",
+    "question": "Numri i izomerëve të acideve alkenoikë C5H8O2 (vargu dhe pozicioni) është:",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Duke numëruar penten-oik acidet me COOH në C1: penten-2-oik, penten-3-oik, penten-4-oik, metil-2-buten-2-oik, metil-2-buten-3-oik, metil-3-buten-2-oik, metil-3-buten-3-oik — gjithsej 7."
+  },
+  {
+    "id": "kimi-organike-133",
+    "question": "Hidrokarburi i ngopur X (134.4L CO2 nga djegia) formon vetëm një rrjedhës monobromuar Y, i cili me NaOH formon Z që oksidohet në keton. X, Y, Z janë:",
+    "answers": [
+      "hekzan; brom-2-hekzan; hekzanol-2",
+      "hekzan; brom-3-hekzan; hekzanol-3",
+      "ciklohekzan; bromciklohekzan; ciklohekzanol",
+      "hekzan; brom-3-dimetil-2,2-butan; dimetil-3,3-butanol-2"
+    ],
+    "correct": 2,
+    "explanation": "6 mol CO2 → 6 karbone. Për të dhënë VETËM një rrjedhës monobromuar duhet simetri e lartë — ciklohekzani (të 12 H ekuivalente) plotëson kushtin; Y=bromociklohekzan, Z=ciklohekzanol, i cili oksidohet në ciklohekzanon (keton)."
+  },
+  {
+    "id": "kimi-organike-134",
+    "question": "Molet e O2 që djegin plotësisht 1 mol alkanol të panjohur janë dy njësi më shumë se atomet karboni. 7.4g alkanol djegin me 19.2g O2. Nga oksidimi i alkanolit hetohet prova e jodoformës. Formula e alkanolit:",
+    "answers": [
+      "CH3CH(OH)C3H7",
+      "C2H5CH(OH)CH3",
+      "HO(CH2)3CH3",
+      "(CH3)3COH"
+    ],
+    "correct": 1,
+    "explanation": "Nga bilanci, n=4 (C4 alkool, M=74; përputhet me 7.4g/0.1mol). Vetëm C2H5CH(OH)CH3 (butanol-2, alkool dytësor me metil) oksidohet në keton metilik që jep provën pozitive të jodoformës."
+  },
+  {
+    "id": "kimi-organike-135",
+    "question": "Djegia e plotë e 1L alken përdor 45L ajër (Vajrit=5VO2). Numri i izomerëve pozicionalë me varg normal karbonik të këtij alkeni:",
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "VO2=45/5=9L → 1L alken përdor 9L O2 → (3n/2)=9 → n=6 (hekzen). Izomerët me varg normal: hekzen-1, hekzen-2, hekzen-3 — gjithsej 3."
+  },
+  {
+    "id": "kimi-organike-136",
+    "question": "Për shndërrimin C2H6 → C2H5Cl → C2H6O → C2H4O → C2H4O2, mekanizmat sipas radhës janë:",
+    "answers": [
+      "Zëvendësim radikalar; adicion nukleofilik; oksido-reduktim; oksido-reduktim",
+      "Zëvendësim radikalar; zëvendësim elektrofilik; eleminim; oksido-reduktim",
+      "Zëvendësim nukleofilik; adicion nukleofilik; oksido-reduktim; oksido-reduktim",
+      "Zëvendësim radikalar; zëvendësim nukleofilik; oksido-reduktim; oksido reduktim"
+    ],
+    "correct": 3,
+    "explanation": "Etan→kloroetan (zëvendësim radikalar); kloroetan→etanol (zëvendësim nukleofilik); etanol→acetaldehid dhe acetaldehid→acid acetik janë të dy reaksione oksidimi (redoks)."
+  },
+  {
+    "id": "kimi-organike-137",
+    "question": "7.6g alkandiol vepron me Na dhe çliron 2.24L H2. Numri i izomerëve pozicionalë të alkandiolit është:",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "n(H2)=0.1mol=n(diol) (1 diol→1 H2). M(diol)=7.6/0.1=76 → C3H8O2 (propandiol). Izomerët pozicionalë: propandiol-1,2 dhe propandiol-1,3 — gjithsej 2."
+  },
+  {
+    "id": "kimi-organike-138",
+    "question": "Për dy shndërrimet e bromalkanit CH3CH2CH2CH2Br → X (NaOH uj) dhe → Y (NaOH/etanol), pohimi që NUK është i saktë:",
+    "answers": [
+      "X është produkt eliminimi, Y produkt zëvendësimi.",
+      "Y (alken) mund të polimerizohet duke formuar polibuten-1.",
+      "X (alkool parësor) oksidohet me KMnO4 acid në acid butanoik.",
+      "Nëse X dehidratohet me H2SO4 formohet Y."
+    ],
+    "correct": 0,
+    "explanation": "Është e kundërta: X (nga NaOH ujor, zëvendësim) është butanol-1, ndërsa Y (nga NaOH alkoolik, eliminim) është buten-1 — pohimi ka ndërruar rolet e X dhe Y."
+  },
+  {
+    "id": "kimi-organike-139",
+    "question": "11.4g alkanon adicionon 2.24L H2. Numri i izomerëve të vargut/pozicionit të alkanoneve me pesë atome karboni në vargun kryesor:",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "n(H2)=0.1mol=n(keton). M=11.4/0.1=114 → C7H14O, me 5 karbone në vargun kryesor (2 degëzime metil). Kombinimet e mundshme: 3 nga pentanon-2 (3,3-; 4,4-; 3,4-dimetil) + 2 nga pentanon-3 (2,2-; 2,4-dimetil, simetrik) = 5."
+  },
+  {
+    "id": "kimi-organike-140",
+    "question": "Një alkanon 5.8g adicionon 2.7g HCN. Numri i lidhjeve σ dhe π në hidroksinitrilin e përftuar:",
+    "answers": [
+      "12 σ dhe 1 π",
+      "11 σ dhe 2 π",
+      "12 σ dhe 2 π",
+      "11 σ dhe 3 π"
+    ],
+    "correct": 2,
+    "explanation": "n(HCN)=0.1mol=n(keton). M(keton)=58 → C3H6O (acetoni). Produkti (CH3)2C(OH)CN ka 12 lidhje σ dhe 2 lidhje π (nga lidhja e trefishtë C≡N)."
+  },
+  {
+    "id": "kimi-organike-141",
+    "question": "Pohimi i gabuar për bromalkanet X ((CH3)3CBr), Y ((CH3)2CHBr), Z (CH3CH2Br) është:",
+    "answers": [
+      "Prania e pesë H në Z stabilizon karbokationin dhe favorizon SN1.",
+      "Mekanizmi SN1 me dy stade favorizohet nga tre grupe metil në X.",
+      "Y me NaOH ujor formon propanol-2.",
+      "Z me KOH alkoolik jep eten."
+    ],
+    "correct": 0,
+    "explanation": "Z (bromoetani) është halogjenalkan parësor — karbokationi parësor NUK është i qëndrueshëm dhe NUK favorizohet mekanizmi SN1; parësorët ndjekin SN2.",
+    "image": "/question-images/kimi/organike/organike-141.png",
+    "imageAlt": "Tre struktura bromalkanesh X, Y, Z"
+  },
+  {
+    "id": "kimi-organike-142",
+    "question": "0.1 mol e një përbërjeje të panjohur djeg dhe jep 17.6g CO2; reduktimi i saj formon alkool parësor. Cila formulë i përket kësaj përbërjeje?",
+    "answers": [
+      "HO(CH2)2CH3",
+      "CH3COCH2CH3",
+      "CH3(CH2)3CHO",
+      "OHCCH(CH3)2"
+    ],
+    "correct": 3,
+    "explanation": "n(CO2)=0.4mol → 4 karbone/molekulë. Duhet të jetë aldehid (reduktohet në alkool parësor); vetëm OHCCH(CH3)2 (metil-2-propanal) ka 4 karbone."
+  },
+  {
+    "id": "kimi-organike-143",
+    "question": "Një aldehid formohet kur 6g alkanol oksidohet me CuO, duke formuar 14.3g Cu2O. Formula strukturore e alkanolit:",
+    "answers": [
+      "CH3(CH2)2CH2OH",
+      "CH3CH(OH)CH3",
+      "CH3CH2CH2(OH)",
+      "CH3OH"
+    ],
+    "correct": 2,
+    "explanation": "n(Cu2O)=14.3/143=0.1mol=n(alkool). M(alkool)=6/0.1=60 → C3H8O (propanol-1, parësor, formon aldehid)."
+  },
+  {
+    "id": "kimi-organike-144",
+    "question": "Një masë alkanali 4.3g përmban 3.01×10²² molekula. Formula e alkanalit është:",
+    "answers": [
+      "CH3(CH2)2CHO",
+      "(CH3)2CHCHO",
+      "CH3CH2CHO",
+      "(CH3)3CCHO"
+    ],
+    "correct": 3,
+    "explanation": "n=3.01×10²²/6.02×10²³=0.05mol. M=4.3/0.05=86 → C5H10O, që përputhet me (CH3)3CCHO (pivaldehid)."
+  },
+  {
+    "id": "kimi-organike-145",
+    "question": "Sasia në gram e ketonit me formulën skematike të dhënë, i cili precipiton 19.7g jodoformë, është:",
+    "answers": [
+      "11.93",
+      "9.99",
+      "4.3",
+      "3.6"
+    ],
+    "correct": 2,
+    "explanation": "n(CHI3)=19.7/394=0.05mol=n(keton) (1:1). M(pentanon-2)=86. Masa=0.05×86=4.3g.",
+    "image": "/question-images/kimi/organike/organike-145.png",
+    "imageAlt": "Struktura e ketonit metilik (pentanon-2)"
+  },
+  {
+    "id": "kimi-organike-146",
+    "question": "9.2g acid alkanoik vepron me kalcium metalik dhe prodhon 2.24L hidrogjen. Formula e acidit alkanoik:",
+    "answers": [
+      "C3H7COOH",
+      "C2H5COOH",
+      "CH3COOH",
+      "HCOOH"
+    ],
+    "correct": 3,
+    "explanation": "2RCOOH+Ca→(RCOO)2Ca+H2. n(H2)=0.1mol→n(acid)=0.2mol. M(acid)=9.2/0.2=46 → HCOOH."
+  },
+  {
+    "id": "kimi-organike-147",
+    "question": "Për neutralizimin e 11.8g acidi alkandioik u përdorën 100ml tretësirë 2M NaOH. Formula e acidit dikarboksilik:",
+    "answers": [
+      "HOOCCOOH",
+      "HOOCCH2COOH",
+      "HOOCCH(CH3) COOH",
+      "HOOCCH2CH2CH2COOH"
+    ],
+    "correct": 2,
+    "explanation": "n(NaOH)=0.2mol→n(acid)=0.1mol (diprotik). M(acid)=11.8/0.1=118 → HOOCCH(CH3)COOH (M=118)."
+  },
+  {
+    "id": "kimi-organike-148",
+    "question": "Për sintezën e klor-2-butan, cili pohim NUK është i saktë?",
+    "answers": [
+      "Klor-2-butan është produkt i adicionit të Cl2 tek buten-2.",
+      "Klor-2-butan është produkti kryesor i adicionit të HCl tek buten-1.",
+      "Klor-2-butan formohet nga butanol-2 dhe HCl me zëvendësim nukleofilik.",
+      "Klor-2-butan formohet nga monoklorimi i butanit me rrezatim ultraviolet."
+    ],
+    "correct": 0,
+    "explanation": "Adicioni i Cl2 (dy atome halogjeni) në buten-2 jep një DIHALOGJENID (diklorbutan), jo klor-2-butan (monohalogjenid)."
+  },
+  {
+    "id": "kimi-organike-149",
+    "question": "Klor-1-pentan → X → klor-2-pentan → Y → pentanon-2. Pohimi që NUK është i saktë:",
+    "answers": [
+      "Klor-2-pentan është produkt i adicionit elektrofilik.",
+      "Emri i përbërjes X është penten-2.",
+      "Përbërja Y është një alkool dytësor.",
+      "Përbërja Y është në rolin e substancës reduktuese."
+    ],
+    "correct": 1,
+    "explanation": "X vjen nga eliminimi i klor-1-pentanit, duke dhënë penten-1 (jo penten-2), pasi halogjeni largohet nga C1."
+  },
+  {
+    "id": "kimi-organike-150",
+    "question": "Për kalimin C4H10 --Cl2/dritë--> X --KOH--> Y --H2SO4--> Z --Br2--> W, emrat e mundshëm janë:",
+    "answers": [
+      "Klor-1-butan; butanol-1; buten-1; dibrom-1,3-butan",
+      "Klor-1-butan; butanol-2; buten-1; dibrom-1,2-butan",
+      "Klor-1-butan; butanol-1; buten-2; dibrom-1,2-butan",
+      "Klor-1-butan; butanol-1; buten-1; dibrom-1,2-butan"
+    ],
+    "correct": 3,
+    "explanation": "Zinxhiri logjik i qëndrueshëm: klorim→butanol-1(zëvendësim)→buten-1(dehidratim)→dibrom-1,2-butan (adicion Br2 në lidhjen dyfishe terminale)."
+  },
+  {
+    "id": "kimi-organike-151",
+    "question": "Njëri nga izomerët e C8H18 formohet me sintezën Wurtz nga një lloj i vetëm monohalogjenalkani; kur monobromohet me UV formon vetëm një rrjedhës të monobromuar. Formula e alkanit:",
+    "answers": [
+      "(CH3)3CCH(CH3) C2H5",
+      "(CH3)3CC(CH3)3",
+      "(C2H5)2CHCH(CH3)2",
+      "(C2H5)2C(CH3) C2H5"
+    ],
+    "correct": 1,
+    "explanation": "(CH3)3C-C(CH3)3 (dimetil-2,2,3,3-butan) është simetrik, formohet nga vetë-bashkimi Wurtz i klor-2-metil-2-propanit; të gjitha 18 H-të janë ekuivalente (6 metile identike) → vetëm një rrjedhës monobromuar."
+  },
+  {
+    "id": "kimi-organike-152",
+    "question": "Kur digjet 1L alken X, formohen 5L CO2. Numri i izomerëve të vargut, pozicionit dhe gjeometrikë të alkenit X:",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "5 karbone/molekulë → C5H10. Izomerët totalë: penten-1, penten-2(cis), penten-2(trans), metil-2-buten-1, metil-3-buten-1, metil-2-buten-2 — gjithsej 6."
+  },
+  {
+    "id": "kimi-organike-153",
+    "question": "Pohimi i saktë që karakterizon kalimin R→X(Z)→Y(W)→HOCCHO (CuO), është:",
+    "answers": [
+      "Simbolet: R-etan; Z-H2; Y-eten.",
+      "Simbolet: W-NaOH; X-diklor-1,1-etan.",
+      "Simbolet: W-NaOH; Y-etandiol-1,2.",
+      "Simbolet: Z-Cl2; Y-etandiol-1,1."
+    ],
+    "correct": 2,
+    "explanation": "Për të dhënë glioksalin (HOCCHO) me oksidim CuO, Y duhet të jetë etandiol-1,2 (diol parësor i dyfishtë), i formuar nga diklor-1,2-etani me NaOH ujor (W)."
+  },
+  {
+    "id": "kimi-organike-154",
+    "question": "Acidi butandioik përftohet me tre reaksione duke u nisur nga butani. Mekanizmat dhe përbërjet janë:",
+    "answers": [
+      "Zëvendësim radikalar → diklor-1,4-butan; zëvendësim elektrofilik → butandiol-1,4; redoks → acid butandioik.",
+      "Zëvendësim radikalar → diklor-1,4-butan; zëvendësim nukleofilik → butandiol-1,4; redoks → acid butandioik.",
+      "Zëvendësim radikalar → diklor-1,3-butan; zëvendësim nukleofilik → butandiol-1,4; redoks → acid butandioik.",
+      "Zëvendësim radikalar → diklor-1,4-butan; zëvendësim nukleofilik → butandiol-1,2; redoks → acid butandioik."
+    ],
+    "correct": 1,
+    "explanation": "Klorimi radikalar i të dy skajeve të butanit jep diklor-1,4-butan; zëvendësimi nukleofilik me NaOH jep butandiol-1,4; oksidimi me KMnO4/H2SO4 jep acid butandioik."
+  },
+  {
+    "id": "kimi-organike-155",
+    "question": "Në tre provëza (propanol, propanal, acid propanoik), për t'i hetuar me sy të lirë, bashkëveprimet e duhura janë:",
+    "answers": [
+      "Shtojmë natrium metalik për të dalluar propanol dhe acidin nga propanal, pastaj karbonat natriumi për të dalluar acidin nga alkooli.",
+      "Shtojmë reaktiv Tollen's për të dalluar propanal, pastaj bazë NaOH për të dalluar acidin nga alkooli.",
+      "Shtojmë reaktiv Tollen's për të dalluar propanal, pastaj natrium për të dalluar acidin nga alkooli.",
+      "Shtojmë acid cianhidrik për të dalluar propanal, pastaj natrium për të dalluar acidin nga alkooli."
+    ],
+    "correct": 0,
+    "explanation": "Natrium metalik çliron gaz (H2) me alkoolin dhe acidin, jo me aldehidin — hap i parë dallues. Më pas karbonati i natriumit çliron CO2 (gëlbërim) vetëm me acidin, jo me alkoolin."
+  },
+  {
+    "id": "kimi-organike-156",
+    "question": "Numri i alkeneve izomerë që formohen nga eliminimi i ujit në përzierjen butanol-2 dhe hekzanol-3, është:",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "Nga butanol-2: buten-1 + buten-2(cis/trans) = 3 alkene. Nga hekzanol-3: hekzen-2(cis/trans) + hekzen-3(cis/trans) = 4 alkene. Gjithsej 3+4=7."
+  },
+  {
+    "id": "kimi-organike-157",
+    "question": "Numri i llojeve të alkaneve që formohen me sintezën Wurtz nga brommetan, brometan dhe brom-1-propan, është:",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Kombinimet e mundshme (vetë-bashkim + kryq): etan, propan, butan (nga metil+propil OSE etil+etil — të njëjtin produkt), pentan, hekzan — gjithsej 5 lloje të dallueshme."
+  },
+  {
+    "id": "kimi-organike-158",
+    "question": "Në shndërrimin e benzenit sipas kalimit C6H6+X→AlCl3→Y→Cl2/AlCl3→C6H4ClC(CH3)3, përbërjet X dhe Y janë:",
+    "answers": [
+      "Klor-1-metil-2-propan dhe t-butilbenzen",
+      "Klor-2-metil-2-propan dhe t-butilbenzen",
+      "Klor-2-metil-2-propan dhe izobutilbenzen",
+      "Klor-2-metil-2-propan dhe s-butilbenzen"
+    ],
+    "correct": 1,
+    "explanation": "Produkti final ka grup C(CH3)3 (terc-butil) — Friedel-Crafts me halogjenalkan terciar (klor-2-metil-2-propan) formon t-butilbenzen pa rirregullim."
+  },
+  {
+    "id": "kimi-organike-159",
+    "question": "Për strukturën organike të dhënë (bromalkan i degëzuar), pohimi që NUK është i saktë:",
+    "answers": [
+      "Formon një alkool sekondar kur vepron me tretësirën ujore të NaOH.",
+      "Eliminimi i HBr mund të krijojë izomerë cis-trans.",
+      "Emërtohet sipas IUPAC: brom-2-metil-3-pentan",
+      "Përftohet vetëm nëpërmjet një reaksioni homolitik."
+    ],
+    "correct": 0,
+    "explanation": "Bromi ndodhet në një karbon terciar (i lidhur me tre karbone), prandaj zëvendësimi me OH- jep alkool TERCIAR, jo sekondar.",
+    "image": "/question-images/kimi/organike/organike-159.png",
+    "imageAlt": "Struktura e bromalkanit të degëzuar"
+  },
+  {
+    "id": "kimi-organike-160",
+    "question": "Propeni vepron me HBr (X), më pas me KOH (Y), më pas me KMnO4 të acidifikuar me tepricë (Z). Produkti final Z është:",
+    "answers": [
+      "CH3COCH3",
+      "CH3CH(OH)CH3",
+      "CH3CH2CHO",
+      "CH3(CH2)2COOH"
+    ],
+    "correct": 0,
+    "explanation": "X=CH3CHBrCH3 (Markovnikov). Y=CH3CH(OH)CH3 (propanol-2, dytësor). Oksidimi me tepricë KMnO4 jep keton: CH3COCH3."
+  },
+  {
+    "id": "kimi-organike-161",
+    "question": "Produkti kryesor i reaksionit midis metil-2-buten-2 dhe HI:",
+    "answers": [
+      "jod-3-metil-2-butan",
+      "jod-3-metil-3-butan",
+      "jod-2-metil-3-butan",
+      "jod-2-metil-2-butan"
+    ],
+    "correct": 3,
+    "explanation": "Sipas Markovnikov, jodi fiksohet te karboni terciar më i qëndrueshëm i (CH3)2C=CHCH3, duke formuar jod-2-metil-2-butan."
+  },
+  {
+    "id": "kimi-organike-162",
+    "question": "Në cilin çift përbërjet dallohen nga njëra-tjetra nëpërmjet çngjyrosjes së ujit të bromit?",
+    "answers": [
+      "CH3CH2CH2CHBrCH3 dhe CH3CH2CHBrCH3",
+      "CH3CH2CH=CHCH3 dhe CH3CH2CH2CH2CH3",
+      "CH3CH2CH(CH3)2 dhe CH3CH2CH2CH2CH3",
+      "CH3CH2COOH dhe CH3CH2CH2CHO"
+    ],
+    "correct": 1,
+    "explanation": "Vetëm çifti me alken (penten-2) kundrejt alkanit të ngopur (pentan) tregon dallim të qartë: alkeni çngjyros ujin e bromit, alkani jo."
+  },
+  {
+    "id": "kimi-organike-163",
+    "question": "Për metilciklobutanin, pohimi që NUK është i saktë:",
+    "answers": [
+      "Nuk vepron me KMnO4 në të ftohtë.",
+      "Vepron me klorin në prani të rrezeve ultraviolet.",
+      "Nuk vepron me acid klorhidrik të përqendruar.",
+      "Formon vetëm tre izomerë të monokloruar."
+    ],
+    "correct": 3,
+    "explanation": "Për shkak të simetrisë së kufizuar, metilciklobutani ka katër pozicione H të dallueshme (metil, C1, C2≡C4, C3) — formon katër izomerë monoklorurë, jo tre."
+  },
+  {
+    "id": "kimi-organike-164",
+    "question": "Për të prodhuar metil propan me sintezën Wurtz, halogjenalkanet që duhet të veprojnë janë:",
+    "answers": [
+      "II dhe IV",
+      "II dhe III",
+      "I dhe IV",
+      "I dhe II"
+    ],
+    "correct": 2,
+    "explanation": "Kombinimi i klor-metanit (grup metil) me klor-2-propanin (grup izopropil) jep CH3-CH(CH3)-CH3 = metil propan (izobutan)."
+  },
+  {
+    "id": "kimi-organike-165",
+    "question": "Rrjedhësi i monokloruar C8H9Cl i një homologu të benzenit vepron me KOH/etanol. Molekula e produktit ka:",
+    "answers": [
+      "10 lidhje σ dhe 4 lidhje π",
+      "12 lidhje σ dhe 3 lidhje π",
+      "16 lidhje σ dhe 3 lidhje π",
+      "16 lidhje σ dhe 4 lidhje π"
+    ],
+    "correct": 3,
+    "explanation": "Eliminimi i HCl nga C6H5CHClCH3 jep stiren (C6H5CH=CH2): 16 lidhje σ dhe 4 lidhje π (3 nga unaza aromatike + 1 nga lidhja dyfishe vinilike)."
+  },
+  {
+    "id": "kimi-organike-166",
+    "question": "Një kripe dikarboksilike kalciumi 25.6g përmban 8g kalcium. Masa molekulare e acidit që e ka formuar këtë kripë:",
+    "answers": [
+      "118",
+      "104",
+      "90",
+      "88"
+    ],
+    "correct": 2,
+    "explanation": "n(Ca)=8/40=0.2mol=n(kripë). M(kripë)=25.6/0.2=128. M(acid)=M(kripë)-Ca+2H=128-40+2=90."
+  },
+  {
+    "id": "kimi-organike-167",
+    "question": "Acidi citrik HOOCCH2C(OH)(COOH)CH2COOH: pohime të sakta për 1 mol janë:",
+    "answers": [
+      "Vetëm I dhe III",
+      "Vetëm I dhe II",
+      "Vetëm II dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Acidi citrik ka 3 grupe -COOH (neutralizohet nga 3 mol NaOH, I e vërtetë) por edhe 4 H acide gjithsej (3 COOH + 1 OH) — me Na çliron 2 mol H2=44.8L (III e vërtetë). Mund të esterifikohet me deri në 3 mol alkool, jo vetëm 2 (II e gabuar)."
+  },
+  {
+    "id": "kimi-organike-168",
+    "question": "Për halogjenimin e plotë të metanit nën UV u përdorën 44.8L klor (K.N). Sasia në gram e metanit të kloruar:",
+    "answers": [
+      "32",
+      "16",
+      "10.6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "n(Cl2)=44.8/22.4=2mol. Halogjenim i plotë (deri CCl4) kërkon 4 mol Cl2 për 1 mol CH4 → n(CH4)=0.5mol. Masa=0.5×16=8g."
+  },
+  {
+    "id": "kimi-organike-169",
+    "question": "Dy përbërje X dhe Y kanë formulën C4H8O2. X ka veti acide; Y hidrolizon në Z dhe W; W oksidohet në Z. Formulat X,Y,Z,W janë:",
+    "answers": [
+      "C3H7COOH; CH3CH2COOCH3; CH3CH3COOH; CH3OH",
+      "C3H7COOH; CH3COOCH2CH3; CH3CH3COOH; CH3OH",
+      "(CH3)2CHCO2H; CH3COOC2H5; CH3COOH; C2H5OH",
+      "CH2CHCOOH; CH3COOC2H5; CH3COOH; C2H5OH"
+    ],
+    "correct": 2,
+    "explanation": "Y (etanoat etili) hidrolizohet në Z (acid acetik) dhe W (etanol); etanoli oksidohet pikërisht në acid acetik — konsistente. X (acid metil propanoik) plotëson formulën C4H8O2."
+  },
+  {
+    "id": "kimi-organike-170",
+    "question": "Pohimi që NUK është i saktë për polimerët:",
+    "answers": [
+      "Në polimerizimin me adicion, monomerët duhet të kenë lidhje C=C ose C=O.",
+      "Polimerët me kondesim formohen kur midis monomerëve eliminohen molekula të vogla.",
+      "Monomeri i një polimeri quhet ndryshe njësi ndërtuese e polimerit.",
+      "Proteinat janë molekula polimerike të formuara me mekanizmin e adicionit homolitik."
+    ],
+    "correct": 3,
+    "explanation": "Proteinat formohen me KONDENSIM (lidhje peptide, eliminim uji), jo me adicion homolitik — pohimi është qartazi i pasaktë."
+  },
+  {
+    "id": "kimi-organike-171",
+    "question": "Gjeni pohimin që NUK është i saktë.",
+    "answers": [
+      "Alkanet nuk treten në ujë dhe kanë pika vlimi e shkrirjeje të ulëta krahasuar me alkoolet e të njëjtës masë.",
+      "Tre pjesëtarët e parë të serisë homologe të alkanoleve treten mirë në ujë dhe kanë pika vlimi më të larta se alkanet e të njëjtës masë.",
+      "Tretshmëria e alkanoleve në ujë rritet me rritjen e vargut karbonik.",
+      "Pikat e shkrirjes e të vlimit të alkooleve janë më të larta se ato të hidrokarbureve me masë molare të përafërt me ta."
+    ],
+    "correct": 2,
+    "explanation": "Tretshmëria e alkoolit në ujë ZVOGËLOHET (jo rritet) me rritjen e vargut karbonik, pasi pjesa hidrofobe bëhet më e madhe krahasuar me grupin -OH polar."
+  },
+  {
+    "id": "kimi-organike-172",
+    "question": "Për dy shndërrimet kimike të alkoolit (propanol-1): A ←CH3COOH/H+— H3CCH2CH2OH —MnO4-/H2SO4→ B, gjeni pohimin që NUK është i saktë.",
+    "answers": [
+      "Përbërja A është ester dhe emërtohet propanoat etili.",
+      "Përbërja e mundshme B është acidi propanoik.",
+      "Hidroliza e përbërjes A me bazë NaOH formon etanoat natriumi.",
+      "Përbërja A nuk është izomere me përbërjen B."
+    ],
+    "correct": 0,
+    "explanation": "Esteri A formohet nga propanol-1 + acid etanoik (jo acid propanoik), pra emri i saktë është ETANOAT PROPILI, jo 'propanoat etili'."
+  },
+  {
+    "id": "kimi-organike-173",
+    "question": "Gjeni pohimin që NUK është i saktë për veprimet e molekulave X (ciklohekzan), Y (ciklohekzen) dhe Z (benzen).",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 1,
+    "explanation": "Rreshti B ka pohime të pasakta: ciklohekzani (i ngopur) NUK vepron me KMnO4 acid, ciklohekzeni (me lidhje dyfishe) DUHET të veprojë me KMnO4, dhe benzeni (aromatik i qëndrueshëm) NUK vepron me KMnO4 — rreshti B i ka të treja të kundërta me realitetin.",
+    "image": "/question-images/kimi/organike/organike-173.png",
+    "imageAlt": "Tre struktura: ciklohekzan, ciklohekzen, benzen"
+  },
+  {
+    "id": "kimi-organike-174",
+    "question": "Renditja e saktë e molekulave (glicerol, pentanol-1, heptanol-1) sipas rritjes së masës molare dhe pikës së vlimit është:",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 2,
+    "explanation": "Sipas masës molare: pentanoli < glicerol < heptanoli. Sipas pikës së vlimit: glicerol (me tre grupe OH, lidhje hidrogjenore të shumta) ka pikë vlimi shumë më të lartë se çdo monool, edhe pse jo domosdoshmërisht masa më e madhe.",
+    "image": "/question-images/kimi/organike/organike-174.png",
+    "imageAlt": "Tre struktura: glicerol, pentanol-1, heptanol-1"
+  },
+  {
+    "id": "kimi-organike-175",
+    "question": "Numri i izomerëve pozicionalë të tribromuar të propanit C3H5Br3 është:",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "Duke ndarë 3 atome Br mes C1(deri3H),C2(deri2H),C3(deri3H, simetrik me C1): 1,1,1-; 1,1,2-; 1,1,3-; 1,2,2-; 1,2,3-tribrompropan — gjithsej 5 izomerë të dallueshëm."
+  },
+  {
+    "id": "kimi-organike-176",
+    "question": "Gjeni pohimin që NUK është i saktë për ciklohekzanolin.",
+    "answers": [
+      "Nga oksidimi i ciklohekzanolit përftohet ciklohekzanon.",
+      "Bashkëvepron me një acid karboksilik dhe formon një ester.",
+      "Ciklohekzanoli nuk ka veti aromatike.",
+      "Hidrogjeni përbën 11% të masës së molekulës."
+    ],
+    "correct": 3,
+    "explanation": "Ciklohekzanoli (C6H12O, M=100) ka masë hidrogjeni 12g/100g=12%, jo 11%."
+  },
+  {
+    "id": "kimi-organike-177",
+    "question": "Për dy shndërrimet e alkanonit CH3CH2COCH2CH3 (pentanon-3): X←HCN— pentanon-3 —H2/Ni→ Y, gjeni pohimin që NUK është i saktë.",
+    "answers": [
+      "Përbërja X e ka masën molekulare 113.",
+      "Në përbërjen Y atomi karbonit numër 3 në varg është reduktuar.",
+      "Emërtimi i ketonit sipas IUPAC është pentanon-3.",
+      "Mekanizmi i përftimit të përbërjes X është adicion elektrofilik."
+    ],
+    "correct": 3,
+    "explanation": "Adicioni i HCN në karbonilin e ketonit ndodh me mekanizëm ADICIONI NUKLEOFILIK (CN- si nukleofil sulmon karbonin elektrofilik), jo elektrofilik."
+  },
+  {
+    "id": "kimi-organike-178",
+    "question": "Për reaksionet I (CH3(CH2)3Br+OH-) dhe II ((CH3)3CBr+OH-uj), pohimi i saktë është:",
+    "answers": [
+      "Reaksioni II zhvillohet sipas mekanizmit SN2",
+      "Reaksioni I zhvillohet sipas mekanizmit SN1",
+      "Produkti i reaksionit II është një alkool tretësor.",
+      "Produkti i reaksionit I është një alkool dytësor."
+    ],
+    "correct": 2,
+    "explanation": "(CH3)3CBr (terciar) reagon kryesisht me SN1, duke formuar alkool terciar (CH3)3COH; përbërja I (parësore) ndjek SN2 dhe jep alkool parësor, jo dytësor."
+  },
+  {
+    "id": "kimi-organike-179",
+    "question": "Numri i atomeve karbon sp3, sp2 dhe sp në molekulën NCCH2CH2COCH3 është:",
+    "answers": [
+      "3  1  1",
+      "2  1  3",
+      "3  2  1",
+      "3  2  2"
+    ],
+    "correct": 0,
+    "explanation": "N≡C-CH2-CH2-CO-CH3: karboni i nitrilit është sp, karboni karbonilik është sp2, dy CH2 dhe CH3 terminal janë sp3 — pra 3 sp3, 1 sp2, 1 sp."
+  },
+  {
+    "id": "kimi-organike-180",
+    "question": "Masa e CuO që duhet për të oksiduar 12g propanol-1 deri në propanal, dhe vëllimi i H2 që redukton këtë sasi propanali janë:",
+    "answers": [
+      "1.6g dhe 0.448L",
+      "3.2g dhe 8.96L",
+      "32g dhe 89.6L",
+      "16g dhe 4.48L"
+    ],
+    "correct": 3,
+    "explanation": "n(propanol-1)=12/60=0.2mol. RCH2OH+CuO→RCHO+Cu+H2O (1:1) → n(CuO)=0.2mol, masë=0.2×80=16g. Reduktimi i propanalit kërkon po 0.2mol H2 → V=0.2×22.4=4.48L."
+  },
+  {
+    "id": "kimi-organike-181",
+    "question": "Pohimi i saktë për përbërjen organike që formohet nga benzeni me brommetan në prani të AlBr3 është:",
+    "answers": [
+      "bashkëvepron me klorur hidrogjeni HCl",
+      "bashkëvepron me Br2 në prani të AlBr3",
+      "Nuk vepron me Cl2 në prani të dritës.",
+      "E ka formulën molekulare C7H7Br"
+    ],
+    "correct": 1,
+    "explanation": "Produkti (tolueni) i nënshtrohet reaksionit të mëtejshëm Friedel-Crafts me Br2/AlBr3 (halogjenim aromatik), ndryshe nga tre pohimet e tjera që janë të pasakta."
+  },
+  {
+    "id": "kimi-organike-182",
+    "question": "Një alken përmban 85.71% karbon dhe densitet avujsh në lidhje me hidrogjenin 21. Masa molare e polimerit të tij me 1000 njësi ndërtimi është:",
+    "answers": [
+      "36000",
+      "38000",
+      "42000",
+      "44000"
+    ],
+    "correct": 2,
+    "explanation": "M=2×21=42 → C3H6 (propen). Masa polimeri për 1000 njësi = 1000×42=42000."
+  },
+  {
+    "id": "kimi-organike-183",
+    "question": "Për tre substancat I (klorvinil), II (formaldehid), III (kloretan), gjeni pohimin që NUK është i saktë.",
+    "answers": [
+      "Përbërjet I dhe II mund të polimerizohen.",
+      "Përbërjet I dhe III realizojnë reaksione adicioni elektrofilik.",
+      "Përbërja III reagon me zëvendësim nukleofilik.",
+      "Vetëm përbërja II shkakton precipitimin e argjendit nga Tolens."
+    ],
+    "correct": 1,
+    "explanation": "Kloretani (III) është i ngopur, PA lidhje dyfishe — nuk mund të i nënshtrohet adicionit elektrofilik (vetëm klorvinili I mundet)."
+  },
+  {
+    "id": "kimi-organike-184",
+    "question": "Për katër përbërjet (izobutilen, acid glikolik, glicinë, stiren), cili pohim NUK është i saktë?",
+    "answers": [
+      "Përbërjet I dhe IV formojnë polimerë adicioni.",
+      "Përbërjet II dhe III formojnë polimerë kondensimi.",
+      "Molekula që kondensohet për II dhe III është uji.",
+      "Emri i polimerit që formon përbërja I është polibuten-2."
+    ],
+    "correct": 3,
+    "explanation": "Përbërja I (izobutilen/metil-2-propen) polimerizohet në poliizobutilen, jo 'polibuten-2' (që do t'i përkiste buten-2-it, një monomer tjetër)."
+  },
+  {
+    "id": "kimi-organike-185",
+    "question": "Për polimerët X (poliakrilik) dhe Y (polipeptid), NUK është i saktë pohimi:",
+    "answers": [
+      "Polimeri X është sintetizuar me mekanizëm adicioni.",
+      "Polimeri Y është produkt i një polimerizimi me kondensim.",
+      "Monomeri i polimerit X është acidi propenoik CH2=CHCOOH.",
+      "Formula e monomerit të polimerit Y është HNCH(CH3)CO."
+    ],
+    "correct": 3,
+    "explanation": "Monomeri i vërtetë (aminoacidi i lirë, alanina) është H2N-CH(CH3)-COOH, jo forma e cunguar 'HNCH(CH3)CO' e dhënë (që përfaqëson vetëm njësinë përsëritëse pas kondensimit, jo monomerin e plotë)."
+  },
+  {
+    "id": "kimi-organike-186",
+    "question": "Një përbërje me 8 atome karboni: C2 dhe C3 janë sp2, të tjerët sp3, me 3 atome karboni tretësorë. Formula e përbërjes është:",
+    "answers": [
+      "(CH3)2CC(CH3)CH(CH3)2",
+      "(CH3)CHCH(CH3)CH(CH3)2",
+      "(CH3)2CCHC(CH3)3",
+      "CH2C(CH3)CH2C(CH3)3"
+    ],
+    "correct": 0,
+    "explanation": "Struktura me lidhje dyfishe C2=C3 dhe 8 karbone totale, me tre karbone tretësore, përputhet më mirë me (CH3)2C=C(CH3)CH(CH3)2."
+  },
+  {
+    "id": "kimi-organike-187",
+    "question": "Një alken me masë molekulare 70 ka 85.71% karbon. Numri i izomerëve strukturorë, pozicionalë dhe gjeometrikë të këtij alkeni është:",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "M=70, %C=85.71% → C5H10. Izomerët totalë (duke përfshirë cis-trans te penten-2): 6."
+  },
+  {
+    "id": "kimi-organike-188",
+    "question": "Jepen tre pohime për përbërjen (acid hidroksibenzoik). NUK është përshkrim korrekt:",
+    "answers": [
+      "Vetëm I",
+      "Vetëm II",
+      "Vetëm III",
+      "I dhe III"
+    ],
+    "correct": 0,
+    "explanation": "Përbërja NUK është ester (ka grup -COOH dhe -OH mbi unazë, jo lidhje esterike) — pohimi I ('Është një ester') është i pasaktë; II dhe III janë të sakta.",
+    "image": "/question-images/kimi/organike/organike-188.png",
+    "imageAlt": "Struktura e acidit hidroksibenzoik"
+  },
+  {
+    "id": "kimi-organike-189",
+    "question": "Për tre reaksionet I, II, III (esterifikim, hidrolizë, adicion HCN), informacioni që NUK është i saktë:",
+    "answers": [
+      "Esteret në reaksionet I dhe II janë izomerë me njëri-tjetrin.",
+      "Reaksioni III zhvillohet sipas mekanizmit adicion nukleofilik.",
+      "Esteri në reaksionin II emërtohet sipas IUPAC: propanoat propili.",
+      "Produkti i reaksionit III ka dy grupe funksionorë: hidroksi dhe nitril."
+    ],
+    "correct": 2,
+    "explanation": "Esteri në reaksionin II (C2H5COOCH(CH3)2) ka alkoolin izopropil, jo n-propil — emri i saktë është propanoat izopropili, jo propanoat propili."
+  },
+  {
+    "id": "kimi-organike-190",
+    "question": "Për shndërrimin e benzenit me etilklorur, klorim benzilik, KOH, dhe polimerizim, pohimi që NUK është i saktë:",
+    "answers": [
+      "Prodhimi i substancës X bëhet në prani të AlCl3.",
+      "Halogjenimi i substancës X bëhet nën rrezatimin ultraviolet.",
+      "Përbërja Y në tretësirën ujore të KOH zhvillon një zëvendësim SN1.",
+      "Polimeri W formohet nga një mekanizëm polimerizimi me adicion."
+    ],
+    "correct": 2,
+    "explanation": "Për t'u polimerizuar, Z duhet të jetë stiren (alken) — kjo kërkon ELIMINIM (jo zëvendësim SN1) të halogjenidit benzilik me KOH."
+  },
+  {
+    "id": "kimi-organike-191",
+    "question": "Pohimi që është i saktë për toluenin (metilbenzen) është:",
+    "answers": [
+      "Tolueni halogjenohet vetëm me mekanizëm të zëvendësimit elektrofilik.",
+      "Tolueni oksidohet në acid benzoik me tretësirë të acidifikuar të KMnO4.",
+      "Tolueni halogjenohet vetëm me zëvendësim radikalar me dritë.",
+      "Tolueni ka të gjithë atomet e karbonit të hibritizimit sp2."
+    ],
+    "correct": 1,
+    "explanation": "Zinxhiri anësor i toluenit oksidohet plotësisht në acid benzoik me KMnO4 të acidifikuar — pohimet e tjera janë të pasakta (tolueni halogjenohet në të dy mënyrat, dhe karboni metilik është sp3).",
+    "image": "/question-images/kimi/organike/organike-191.png",
+    "imageAlt": "Struktura e toluenit"
+  },
+  {
+    "id": "kimi-organike-192",
+    "question": "Pjesë e gazit natyror janë hidrokarburet e ngopur metan, etan, propan dhe butan. Pohimi që është i saktë:",
+    "answers": [
+      "Alkani që nuk mund të sintetizohet me sintezën e Wurtz-it është metani.",
+      "Nga krekingu i butanit përftohen alkanet metan dhe propan.",
+      "Butani ekziston ne formën e tre izomerëve të vargut.",
+      "Etani ka tre izomerë të tribromuar."
+    ],
+    "correct": 0,
+    "explanation": "Sinteza Wurtz gjithmonë bashkon dy fragmente alkilike (minimumi 2 karbone rezultante) — metani (1 karbon) nuk mund të formohet kurrë nëpërmjet saj."
+  },
+  {
+    "id": "kimi-organike-193",
+    "question": "Hidroliza e X jep Y dhe Z. Y vepron me Tollensit. 0.1mol Z jep 8.96L CO2 dhe vepron shpejt me HCl (SN1). Formulat X, Y, Z janë:",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 1,
+    "explanation": "Z (4 karbone, reagon shpejt me HCl via SN1) duhet të jetë alkool terciar — terc-butanol HOC(CH3)3. X=HCOOC(CH3)3 hidrolizohet në Y=HCOOH (pozitiv me Tollens) dhe Z=HOC(CH3)3."
+  },
+  {
+    "id": "kimi-organike-194",
+    "question": "1 mol X (CnH2nO2) djeg dhe jep 134.4L CO2. Hidroliza e X jep Y dhe Z; Y formohet nga oksidimi i Z. Formulat X, Y, Z janë:",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 2,
+    "explanation": "6 mol CO2 → C6. X=propanoat propili (C2H5COOCH2CH2CH3) hidrolizohet në Y=acid propanoik dhe Z=propanol-1; propanol-1 (parësor) oksidohet pikërisht në acid propanoik — konsistente plotësisht."
+  },
+  {
+    "id": "kimi-organike-195",
+    "question": "Për shndërrimin e etanit C2H6→X(Cl2/dritë)→Y(NaOH uj)→Z(CuO)→C2H2O4 (Tollens), pohimi që NUK është i saktë:",
+    "answers": [
+      "X është diklor-1,2-etan, e përftuar nga një reaksion homolitik.",
+      "Y është produkt i reaksionit SN2.",
+      "Z është një alkandial dhe produkt i një reaksioni redoks.",
+      "Për oksidimin e 1 mol Z deri në C2H2O4 duhen 2 mol Tollens."
+    ],
+    "correct": 3,
+    "explanation": "Glioksali (Z) ka DY grupe -CHO; secili kërkon 2 mol reaktiv Tollens, pra gjithsej 4 mol, jo 2 mol si pohohet."
+  },
+  {
+    "id": "kimi-organike-196",
+    "question": "Një rrjedhës i alkiluar i benzenit (60g, nga 0.5mol benzen) monohalogjenohet duke formuar vetëm dy rrjedhës. Grupi alkilik i lidhur është:",
+    "answers": [
+      "-CH3",
+      "-CH2CH3",
+      "-CH(CH3)2",
+      "-CH2CH2CH3"
+    ],
+    "correct": 2,
+    "explanation": "M(alkilbenzen)=120 → grupi alkilik M=43 (propil). Vetëm izopropili (simetrik: 1 H benzilik + 6 H metile ekuivalente) jep saktësisht DY rrjedhës monohalogjenuar."
+  },
+  {
+    "id": "kimi-organike-197",
+    "question": "Masa të barabarta e një acidi dhe alkooli formojnë 25.5g ester dhe 0.25mol ujë. Numri total i estereve izomerë me formulën e produktit:",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "M(ester)=25.5/0.25=102. Me masa/mole të barabarta, acidi dhe alkooli kanë M=60 (acid acetik, propanol) → ester C5H10O2. Numri total i estereve izomere C5H10O2 (nga acide format-,acetat-,propanoat-,butanoat-) është 9."
+  },
+  {
+    "id": "kimi-organike-198",
+    "question": "Avujt e 10.6g të një areni homolog me benzenin zënë 2.24L (K.N). Numri i areneve izomerë të kësaj molekule është:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "n=0.1mol, M=106 → C8H10. Izomerët arene C8H10: etilbenzen, orto-, meta-, para-ksilen — gjithsej 4."
+  },
+  {
+    "id": "kimi-organike-199",
+    "question": "Një alkan 8.60g digjet dhe prodhon 12.60g avuj uji, ka një karbon katërsor. Halogjenalkani që vepron me kloretan për ta prodhuar (Wurtz):",
+    "answers": [
+      "(CH3)3CCl",
+      "(CH3)2CHCH2Cl",
+      "(CH3)3CCH2Cl",
+      "(CH3)2(CH2)3Cl"
+    ],
+    "correct": 0,
+    "explanation": "Nga bilanci, alkani është C6H14=dimetil-2,2-butan ((CH3)3C-CH2CH3), me një karbon katërsor. Kombinimi me kloretan (Wurtz) kërkon (CH3)3CCl (terc-butilklorur)."
+  },
+  {
+    "id": "kimi-organike-200",
+    "question": "0.10mol secili X dhe Y djegin plotësisht dhe japin gjithsej 0.50mol CO2. X formon vetëm një rrjedhës monohalogjenuar; Y (i pangopur) ka vetëm një izomer të ngopur. Formulat X dhe Y janë:",
+    "answers": [
+      "CH4 dhe C4H8",
+      "CH4 dhe C3H6",
+      "C2H4 dhe C3H6",
+      "C2H6 dhe C3H6"
+    ],
+    "correct": 3,
+    "explanation": "Etani (të gjitha H ekuivalente, i ngopur, jep vetëm 1 rrjedhës monoklorurë) dhe propeni (izomeri i vetëm i ngopur është ciklopropani) plotësojnë të gjitha kushtet dhe totalin e CO2 (0.2+0.3=0.5mol)."
+  },
+  {
+    "id": "kimi-organike-201",
+    "question": "Etanoli oksidohet me KMnO4 acid sipas reaksionit jonik. Masa e etanolit të oksiduar nga 40ml tretësirë 1M KMnO4:",
+    "answers": [
+      "1.84",
+      "2.3",
+      "18.4",
+      "23"
+    ],
+    "correct": 1,
+    "explanation": "n(KMnO4)=0.04mol. Raporti standard etanol:KMnO4=5:4 → n(etanol)=0.05mol. Masa=0.05×46=2.3g."
+  },
+  {
+    "id": "kimi-organike-202",
+    "question": "Dendësia e avujve të një hidrokarburi në lidhje me azotin është 2; %C=85.7%. Numri i përbërjeve izomere (varg, pozicion, hapësinorë):",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "M=2×28=56, %C=85.7% → C4H8. Izomerët totalë C4H8 (buten-1, buten-2 cis/trans, izobutilen, ciklobutan, metilciklopropan) — gjithsej 6."
+  },
+  {
+    "id": "kimi-organike-203",
+    "question": "X dhe Y janë izomere CnH2nO2. X vepron me karbonat natriumi (acid); Y vepron me bazë por jo me Na (ester). Numri i përbërjeve izomere X dhe Y gjithsej:",
+    "answers": [
+      "9",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Nga bilanci i djegies, n=4 → C4H8O2. Acidet (X): 2 izomerë (butanoik, metilpropanoik). Esteret (Y): 4 izomerë (format-propil×2, acetat-etil, propanoat-metil). Gjithsej 6."
+  },
+  {
+    "id": "kimi-organike-204",
+    "question": "Bromalkani X vepron me Na dhe formon Y (dendësi avujsh ndaj H2=43). Y monobromohet me UV dhe jep vetëm dy izomerë. Formulat X, Y janë:",
+    "answers": [
+      "X: CH3CH2CH2Br,Y: (CH3)2CHCH(CH3)2",
+      "X: CH3CHBrCH3, Y: (CH3)2CHCH2C2H5",
+      "X: CH3CHBrCH3, Y: C2H5CH(CH3) C2H5",
+      "X: CH3CHBrCH3, Y: (CH3)2CHCH(CH3)2"
+    ],
+    "correct": 3,
+    "explanation": "M(Y)=86 → C6H14. Vetëm dimetil-2,3-butan ((CH3)2CHCH(CH3)2, simetrik, 2 tipe H) jep vetëm dy izomerë monobromuar; formohet nga vetë-bashkimi Wurtz i klor-2-propanit (X)."
+  },
+  {
+    "id": "kimi-organike-205",
+    "question": "Për shndërrimin e etenit C2H4→X(H2O/H2SO4)→Y(CuO)→Z(Tollens)→W(me X), pohimi që NUK është i saktë:",
+    "answers": [
+      "X formohet nga adicion elektrofilik.",
+      "Y është përbërje karbonilike agjent reduktues.",
+      "Numrat e oksidimit të karbonit në Z janë (-3) dhe (+2).",
+      "W është ester C4H8O2, etanoat etili."
+    ],
+    "correct": 2,
+    "explanation": "Karboni karboksilik i acidit acetik (Z) ka numër oksidimi +3, jo +2 si pohohet."
+  },
+  {
+    "id": "kimi-organike-206",
+    "question": "Përzierje 6g (etanal+propanon) precipiton 10.8g argjend me Tollens. Përqindja e propanonit:",
+    "answers": [
+      "73.33%",
+      "63.33%",
+      "36.67%",
+      "26.67%"
+    ],
+    "correct": 1,
+    "explanation": "n(Ag)=0.1mol→n(etanal)=0.05mol→masë=2.2g. Masë propanon=6-2.2=3.8g → %=3.8/6×100=63.33%."
+  },
+  {
+    "id": "kimi-organike-207",
+    "question": "Një alkanal me 36.36% oksigjen oksidohet në acid. Vëllimi i gazit kur 6g acid vepron me Na2CO3:",
+    "answers": [
+      "2.92",
+      "2.24",
+      "1.46",
+      "1.12"
+    ],
+    "correct": 3,
+    "explanation": "%O=36.36% → C2H4O (acetaldehid) → oksidohet në acid acetik (M=60). n(acid)=6/60=0.1mol. Me Na2CO3, n(CO2)=0.05mol → V=1.12L."
+  },
+  {
+    "id": "kimi-organike-208",
+    "question": "Propanoni adicionon 5.6L H2 (273K, 2atm). Masa dhe emri i alkoolit që përftohet:",
+    "answers": [
+      "30g; propanol-1",
+      "30g; propanol-2",
+      "7.2g; butanol-1",
+      "3.7g; butanol-2"
+    ],
+    "correct": 1,
+    "explanation": "n(H2)=PV/RT=(2×5.6)/(0.082×273)≈0.5mol=n(keton). Reduktimi i propanonit jep alkool dytësor (propanol-2), masë=0.5×60=30g."
+  },
+  {
+    "id": "kimi-organike-209",
+    "question": "Në 1L tretësirë pH=3, 4.4g acid me Ka=2×10⁻⁵. Formula e acidit:",
+    "answers": [
+      "CH3COOH",
+      "C2H5COOH",
+      "C3H7COOH",
+      "C4H9COOH"
+    ],
+    "correct": 2,
+    "explanation": "C=[H+]²/Ka=(10⁻³)²/2×10⁻⁵=0.05M → 0.05mol në 1L. M=4.4/0.05=88 → C3H7COOH (acid butanoik)."
+  },
+  {
+    "id": "kimi-organike-210",
+    "question": "Për shndërrimin C6H6+X(AlCl3)→Y(Cl2/dritë)→Z(KOH/etanol)→W(H2O/H2SO4)→C6H5C(OH)(CH3)2, formulat X, Y, Z, W janë:",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 1,
+    "explanation": "X=klor-2-propan (Friedel-Crafts)→Y=kumen (izopropilbenzen)→Z=klorur benzilik terciar (klorim radikalar, jo unazë)→W=alfa-metilstiren (eliminim)→hidratim jep produktin final."
+  },
+  {
+    "id": "kimi-organike-211",
+    "question": "Neutralizimi i plotë i 100ml tretësirë 2M acidi karboksilik u bë me 200ml tretësirë 1.5M Ca(OH)2. Numri i grupeve karboksilike:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "n(acid)=0.2mol; n(OH-)=0.2×1.5×2=0.6mol. Grupe COOH/molekulë=0.6/0.2=3."
+  },
+  {
+    "id": "kimi-organike-212",
+    "question": "Për shndërrimin e benzenit deri në C6H5C(OH)(CH3)2, mekanizmat sipas radhës janë:",
+    "answers": [
+      "zëvendësim elektrofilik; zëvendësim elekrofilik; eleminim; adicion elektrofilik",
+      "zëvendësim elektrofilik; zëvendësim radikalar; zëvendësim SN1; adicion elektrofilik",
+      "zëvendësim elektrofilik; zëvendësim radikalar; eleminim; adicion elektrofilik",
+      "zëvendësim nukleofilik; zëvendësim radikalar; eleminim; adicion elektrofilik"
+    ],
+    "correct": 2,
+    "explanation": "Alkilimi Friedel-Crafts (elektrofilik), klorimi benzilik (radikalar), eliminimi me KOH/etanol, dhe hidratimi final (adicion elektrofilik)."
+  },
+  {
+    "id": "kimi-organike-213",
+    "question": "Për shndërrimin H2O+X(H2SO4)→Y(HCl)→Z(Na)→butan, formulat dhe mekanizmat janë:",
+    "answers": [
+      "Alternativa A",
+      "Alternativa B",
+      "Alternativa C",
+      "Alternativa D"
+    ],
+    "correct": 2,
+    "explanation": "X=eten (C2H4), Y=etanol (nga adicion elektrofilik i ujit), Z=kloretan (nga zëvendësim nukleofilik), sintezë Wurtz jep butan."
+  },
+  {
+    "id": "kimi-organike-214",
+    "question": "Për shndërrimin e benzenit me etilklorur/AlCl3, Cl2/dritë, KOH/etanol, polimerizim, pohimi që NUK është i saktë:",
+    "answers": [
+      "Përbërja W emërtohet polistiren.",
+      "Përbërja Y është orto-klor etilbenzen.",
+      "Përbërja X formohet me zëvendësim elektrofilik.",
+      "Përbërja Z i ka të gjithë atomet e karbonit të hibritizimit sp2."
+    ],
+    "correct": 1,
+    "explanation": "Nën dritë (Cl2/dritë), klorimi ndodh me mekanizëm RADIKALAR në zinxhirin anësor (benzilik), jo si klorim aromatik orto — emërtimi 'orto-klor etilbenzen' është i pasaktë."
+  },
+  {
+    "id": "kimi-organike-215",
+    "question": "Një ester përftohet nga acidi metanoik + alkool nga adicioni i 5.4g ujë në 12.6g alken. Numri total i estereve izomerë:",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "n(ujë)=0.3mol=n(alken). M(alken)=42→propen. Ester HCOOC3H7 (C4H8O2). Numri total i estereve izomerë C4H8O2: format-propil(2)+acetat-etil(1)+propanoat-metil(1)=4."
+  },
+  {
+    "id": "kimi-organike-216",
+    "question": "Grimcat ndërmjetëse për katër reaksionet e shndërrimit të benzenit deri C6H4ClCH2OH janë:",
+    "answers": [
+      "Elektrofili CH3+; radikali Cl•; elektrofili Cl+; nukleofili OH-",
+      "Elektrofili CH3+; nukleofili Cl-; elektrofili Cl+; nukleofili OH-",
+      "Elektrofili CH3+; radikali Cl•; elektrofili Cl+; elektrofili K+",
+      "Elektrofili Cl+; radikali Cl•; elektrofili Cl+; nukleofili OH-"
+    ],
+    "correct": 0,
+    "explanation": "Alkilimi Friedel-Crafts (elektrofil CH3+), klorimi benzilik (radikal Cl•), klorimi aromatik (elektrofil Cl+), zëvendësimi final me KOH ujor (nukleofil OH-)."
+  },
+  {
+    "id": "kimi-organike-217",
+    "question": "Përbërja e panjohur X: 0.1mol djeg jep 11.2L CO2; çngjyros ujin e bromit; 1 mol vepron me Na duke çliruar 22.4L H2 por asnjanëson vetëm 1mol NaOH. X ekziston si cis-trans. Formula e X:",
+    "answers": [
+      "CH3CH=C(CH3) COOH",
+      "CH2C(OH)CH(CH3) COOH",
+      "CH3C(OH)C(CH3) COOH",
+      "HOOC(CH)2COOH"
+    ],
+    "correct": 2,
+    "explanation": "5 karbone, 1 COOH + 1 OH (2H acide → 1mol H2), me lidhje dyfishe të brendshme që lejon cis-trans — struktura CH3C(OH)=C(CH3)COOH plotëson të gjitha kushtet."
+  },
+  {
+    "id": "kimi-organike-218",
+    "question": "Për neutralizimin e 236g acidi alkandioik u përdorën 4000ml tretësirë 1M NaOH. Numri i lidhjeve sigma në molekulën e acidit:",
+    "answers": [
+      "7",
+      "10",
+      "11",
+      "13"
+    ],
+    "correct": 3,
+    "explanation": "n(NaOH)=4mol→n(acid)=2mol. M(acid)=118 → HOOCCH(CH3)COOH. Duke numëruar të gjitha lidhjet sigma (C-C, C-O, C-H, O-H): gjithsej 13."
+  },
+  {
+    "id": "kimi-organike-219",
+    "question": "Nga tre të dhëna (0.5mol X→1.5mol CO2; 0.25mol Ba(OH)2 neutralizohet nga 0.5mol X; 0.5mol X vepron me 1mol Na), formula e mundshme e X:",
+    "answers": [
+      "CH3CH2COOH",
+      "HOOCCH2COOH",
+      "CH3CH(OH)COOH",
+      "HOCH2CH2CH2OH"
+    ],
+    "correct": 2,
+    "explanation": "3 karbone/molekulë, 1 grup COOH (nga neutralizimi), dhe 2 grupe acide totale me Na (COOH+OH) — përputhet me acidin laktik CH3CH(OH)COOH."
+  },
+  {
+    "id": "kimi-organike-220",
+    "question": "Hidroliza e X jep Y (acid, M=74) dhe Z (nuk oksidohet, M=74 njësoj). Formulat X, Y, Z sipas radhës:",
+    "answers": [
+      "CH3CH2CO2CH2CH(CH3)2; CH3CH2COOH; OHCH2CH(CH3)2",
+      "CH3CH2COOC(CH3)3; CH3CH2COOH; CH3C(OH)(CH3)2",
+      "CH3CH2CO2CH(CH3) C2H5; CH3CH2COOH; CH3CH(OH)C2H5",
+      "CH3CH2COOC(CH3)3; CH3CH2COOH; HOCH2CH2C2H5"
+    ],
+    "correct": 1,
+    "explanation": "M=74 përputhet me acid propanoik (Y) dhe terc-butanol (Z, alkool terciar që NUK oksidohet). X=esteri i tyre: CH3CH2COOC(CH3)3."
+  },
+  {
+    "id": "kimi-organike-221",
+    "question": "X vepron me HCl; produkti me KOH/etanol formon Y (izomer i X). Oksidimi i Y me KMnO4 jep acid me 2 karbone dhe keton me 5 karbone. Përbërja X është:",
+    "answers": [
+      "Dimetil-2,3-penten-2",
+      "Metil-2-hekzen-2",
+      "Metil-4-hekzen-1",
+      "Metil-3-hekzen-1"
+    ],
+    "correct": 1,
+    "explanation": "Copëtimi oksidativ i lidhjes dyfishe në metil-2-hekzen-2 mund të prodhojë fragment 3-karbonesh (keton, nga ana e degëzuar) dhe fragment 4-karbonesh (acid), duke reflektuar strukturën e kërkuar pas izomerizimit HCl/KOH."
+  },
+  {
+    "id": "kimi-organike-222",
+    "question": "Përbërja CxHyOz me 9.375% H, 25% O, M=128, jep provë pozitive për Tollens DHE jodoform. Formula:",
+    "answers": [
+      "CH3CO(CH2)2COC2H5",
+      "HOCC(CH3) COC2H5",
+      "HOCC(CH3)2CH2COCH3",
+      "HOCCH(CH3) COCH(CH3)2"
+    ],
+    "correct": 2,
+    "explanation": "Nga bilanci: C7H12O2. Vetëm HOCC(CH3)2CH2COCH3 ka njëkohësisht grup -CHO (pozitiv Tollens) dhe grup keton metilik -CO-CH3 (pozitiv jodoform), me numrin e saktë të karboneve."
+  },
+  {
+    "id": "kimi-organike-223",
+    "question": "Hidrokarbur 7.2g digjet dhe jep 10.8g ujë. Formula e tij është edhe empirike edhe molekulare. Ka vetëm dy izomerë të dikloruar. Formula:",
+    "answers": [
+      "(CH3)3CC2H5",
+      "(CH3)2C2H2(CH3)2",
+      "(CH3)2CHC2H5",
+      "(CH3)2C(CH3)2"
+    ],
+    "correct": 3,
+    "explanation": "Bilanci jep raportin C:H=5:12 → C5H12. Vetëm neopentani ((CH3)4C, simetri e lartë) jep saktësisht DY izomerë dikloruar (të dy Cl në të njëjtin metil, ose në dy metile të ndryshme)."
+  },
+  {
+    "id": "kimi-organike-224",
+    "question": "Për shndërrimin C7H16→X(Br2/dritë)→C7H16O→Y(HCN)→(CH3)2CHC(OH)(CN)CH(CH3)2, pohimi i saktë:",
+    "answers": [
+      "Produkti final është rezultat i adicionit elektrofilik.",
+      "C7H16O ka gjashtë karbone në vargun kryesor.",
+      "Alkani C7H16 kur monobromohet formon vetëm tre izomerë.",
+      "Y ka shtatë karbone në vargun kryesor."
+    ],
+    "correct": 2,
+    "explanation": "2,4-dimetilpentani ka simetri: 3 pozicione të dallueshme H (metilet terminale ekuivalente, CH-et e izopropileve, CH2 qendrore) — jep saktësisht tre izomerë monobromuar."
+  },
+  {
+    "id": "kimi-organike-225",
+    "question": "Përzierje 10L (helium, CO2, C4H10) kalon në Ca(OH)2; mbeten 6.8L. Ky vëllim përzihet me 33L O2; mbeten 0.5L O2. Cili pohim NUK është i saktë?",
+    "answers": [
+      "Vëllimi i heliumit është 0.5 litra.",
+      "Vëllimi i oksigjenit që veproi me alkanin është 32.5 litra",
+      "Vëllimi i dioksidit të karbonit në përzierjen fillestare është 3.2 litra.",
+      "Vëllimi i alkanit zë 73.53% të përzierjes së gazeve që u trajtua me oksigjen."
+    ],
+    "correct": 0,
+    "explanation": "Nga bilanci (C4H10+6.5O2→4CO2+5H2O), n(butan)=5L → helium=6.8-5=1.8L, jo 0.5L siç pohohet."
+  },
+  {
+    "id": "kimi-organike-226",
+    "question": "Hidrokarburi i formuar në fund të shndërrimit (deri C5H12) kur monoklorohet jep vetëm një izomer. Pohimi i saktë:",
+    "answers": [
+      "Formula e përbërjes Y është CH3C(CH3)2COONa.",
+      "Formula e përbërjes R-CH2OH është (CH3)3CCH2OH.",
+      "Formula e përbërjes X është (CH3)3CCH2COOH.",
+      "Përbërja R-CHO emërtohet dimetil-2,2 propanal."
+    ],
+    "correct": 2,
+    "explanation": "Alkani final duhet të jetë neopentani (simetri e plotë, vetëm 1 izomer monoklorurë). Dekarboksilimi që jep neopentan kërkon acidin X=(CH3)3CCH2COOH (acid dimetil-3,3-butanoik)."
+  },
+  {
+    "id": "kimi-organike-227",
+    "question": "Për të reduktuar 0.4mol përzierje etanal+propandial, u përdorën 11.2L H2. Përqindja e njërit aldehid:",
+    "answers": [
+      "35%",
+      "75%",
+      "30%",
+      "50%"
+    ],
+    "correct": 1,
+    "explanation": "n(H2)=0.5mol. Etanali kërkon 1H2/mol, propandiali 2H2/mol. Duke zgjidhur: n(propandial)=0.1mol, n(etanal)=0.3mol → %etanal=75%."
+  },
+  {
+    "id": "kimi-organike-228",
+    "question": "Cilat pohime janë të sakta për tre alkane/cikloalkane të përshkruara nga të dhëna djegieje?",
+    "answers": [
+      "I dhe II",
+      "I dhe III",
+      "II dhe III",
+      "I, II dhe III"
+    ],
+    "correct": 0,
+    "explanation": "I (etan, C2) dhe II (butan, C4) përputhen saktë me të dhënat. III duhet të jetë ciklohekzan (C6H12), jo ciklopentan (C5H10), për të dhënë 0.3mol H2O nga 0.05mol."
+  },
+  {
+    "id": "kimi-organike-229",
+    "question": "Për djegien e 0.2mol cikloalken duhen 1.1mol oksigjen. Numri i cikloalkeneve izomere me të njëjtën formulë shumë:",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "Nga bilanci i oksigjenit, formula është C4H6. Cikloalkenet izomere C4H6: ciklobuten, metilenciklopropan, metilciklopropen — gjithsej 3."
+  },
+  {
+    "id": "kimi-organike-230",
+    "question": "Për rrjedhësin e alkiluar (toluen) dhe shndërrimin deri C8H7NO, pohimi që NUK është i saktë:",
+    "answers": [
+      "Tolueni halogjenohet me zëvendësim elektrofilik dhe përftohet X me formulë C7H7Cl.",
+      "Përbërja Z është aldehidi benzoik dhe ka adicionuar W(HCN) me mekanizëm adicion nukleofilik.",
+      "Përbërja X me SN2 ka prodhuar përbërjen Y (fenil metanol).",
+      "Në C8H7NO ka dy grupe funksionorë në një atom karboni sp3: hidroksi dhe nitril."
+    ],
+    "correct": 0,
+    "explanation": "Klorimi i toluenit që çon drejt zinxhirit reaktiv (benzil klorur→benzil alkool→benzaldehid) ndodh me mekanizëm RADIKALAR (zëvendësim në zinxhirin anësor), jo elektrofilik."
+  },
+  {
+    "id": "kimi-organike-231",
+    "question": "Dy halogjenalkane për prodhimin e përzierjes dimetil-3,4-hekzan; dimetil-2,3-butan; dimetil-2,3-pentan me sintezën Wurtz, janë:",
+    "answers": [
+      "Klor-1-propan dhe klor-2-butan",
+      "Klor-2-propan dhe klor-2-butan",
+      "Klor-1-propan dhe klor-2-metilpropan",
+      "Klor-1-propan dhe klor-1-metilpropan"
+    ],
+    "correct": 1,
+    "explanation": "Vetë-bashkimi i klor-2-propanit jep dimetil-2,3-butan; vetë-bashkimi i klor-2-butanit jep dimetil-3,4-hekzan; bashkimi i kryqëzuar i tyre jep dimetil-2,3-pentan."
+  },
+  {
+    "id": "kimi-organike-232",
+    "question": "Dy nga esteret e formuara janë metanoat etili dhe propanoat izopropili. Emrat e dy estereve të tjerë të pranishëm janë:",
+    "answers": [
+      "propanoat etili dhe metanoat etili",
+      "etanoat propili dhe propanoate etili",
+      "propanoat etili dhe metanoat izopropili",
+      "metilpropanoat etili dhe metilproanoat izopropili"
+    ],
+    "correct": 2,
+    "explanation": "Nga acidet (metanoik, propanoik) dhe alkoolet (etanol, izopropanol) të pranishëm, kombinimet kryq të mbetura janë: propanoat etili dhe metanoat izopropili."
+  },
+  {
+    "id": "kimi-organike-233",
+    "question": "Nëse në enë formohet përzierja e acid etanoik, acid propanoik dhe acid metil-2-butanoik, alkenet në përzierje janë:",
+    "answers": [
+      "(CH3)2CC(CH3)2 dhe CH3CHCHC(CH3)C2H5",
+      "CH3CH2CHCHCH2CH3 dhe CH3CHCHCH(CH3)C2H5",
+      "(CH3)2CCHCH(CH3)2 dhe C2H5CHC(CH3)C2H5",
+      "CH2CHCH(CH3)CH(CH3)2 dhe CH3CHCHC(CH3)C2H5"
+    ],
+    "correct": 1,
+    "explanation": "Hekzen-3 simetrik copëtohet vetëm në acid propanoik (dyfish). Alkeni i dytë (4-metil-2-hekzen) copëtohet në acid etanoik dhe acid metil-2-butanoik — kombinuar japin saktësisht tre acide të kërkuara."
+  },
+  {
+    "id": "kimi-organike-234",
+    "question": "Një alkandiol 38g vepron me Na tepricë, çliron 11.2L H2. Numri i izomerëve të këtij alkandioli:",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "n(H2)=0.5mol=n(diol). M(diol)=76 → C3H8O2. Izomerët pozicionalë: propandiol-1,2 dhe propandiol-1,3 — gjithsej 2."
+  },
+  {
+    "id": "kimi-organike-235",
+    "question": "Një alkanal 36g përmban 0.5mol molekula. Numri i izomerëve të alkoolit që përftohet nga reduktimi:",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "M(alkanal)=72 → C4H8O. Reduktimi jep alkool me formulë C4H10O; izomerët e këtij alkooli (butanol-1, butanol-2, metil-2-propanol-1, metil-2-propanol-2) janë gjithsej 4."
+  },
+  {
+    "id": "kimi-organike-236",
+    "question": "Në 1L tretësirë me 0.46g acid, pH=3, Ka=10⁻⁴. Formula e acidit:",
+    "answers": [
+      "C3H7COOH",
+      "C2H5COOH",
+      "CH3COOH",
+      "HCOOH"
+    ],
+    "correct": 3,
+    "explanation": "C=[H+]²/Ka=10⁻⁶/10⁻⁴=0.01M → 0.01mol. M=0.46/0.01=46 → HCOOH."
+  },
+  {
+    "id": "kimi-organike-237",
+    "question": "Për shndërrimin (CH3)2CHCH2CH2Br→X(A)→(CH3)2CHCH(OH)CH3(B), përbërjet A, X, B janë:",
+    "answers": [
+      "KOH (etanol); (CH3)2CHCHCH2; H2O",
+      "NaOH (uj); (CH3)2CHCHCH2; KOH (etanol)",
+      "NaOH (uj); (CH3)2CHCH2CH3; KOH (etanol)",
+      "KOH (etanol); (CH3)2CHCH2CH3; KOH (etanol)"
+    ],
+    "correct": 0,
+    "explanation": "Eliminimi (KOH/etanol) i bromurit parësor jep alkenin (CH3)2CHCH=CH2 (X); hidratimi Markovnikov (H2O) i tij jep saktësisht alkoolin dytësor të kërkuar."
+  },
+  {
+    "id": "kimi-organike-238",
+    "question": "Për shndërrimin 1(Br2/dritë)→2(NaOH uj)→3(CuO/t°)→4(H2/Ni)→C2H5CH2OH, strukturat 1-4 janë:",
+    "answers": [
+      "CH3CH2Br; CH3CH2OH; CH3CHO; C2H5CH2OH",
+      "CH3CH2CH2Br; CH3CH2CH2OH; CH3CH2CHO; C2H5CH2OH",
+      "CH3CHBrCH3; CH3CH(OH)CH2; CH3COCH3; C2H5CH2OH",
+      "CH3CH2CH2Br; CH3CH2CH2OH; CH3CH2CHO; CH3CH(OH)CH3"
+    ],
+    "correct": 1,
+    "explanation": "Zinxhiri logjik: propan→brom-1-propan→propanol-1→propanal→(H2/Ni)→propanol-1, konsistente me formulën finale C2H5CH2OH (propanol-1)."
+  },
+  {
+    "id": "kimi-organike-239",
+    "question": "Sasia në gram e esterit të përftuar nga 4.6g acid metanoik + 2.3g etanol (deri në fund):",
+    "answers": [
+      "7.4",
+      "3.7",
+      "3.2",
+      "1.8"
+    ],
+    "correct": 1,
+    "explanation": "n(acid)=0.1mol, n(etanol)=0.05mol (reagenti kufizues). Ester HCOOC2H5 (M=74) formohet 0.05mol → masë=0.05×74=3.7g."
+  }
+]

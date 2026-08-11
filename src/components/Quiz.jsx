@@ -83,7 +83,7 @@ function Quiz({ quiz, exitQuiz }) {
 
   return (
     <div className="infoPanel">
-      <h1>{quiz.title}</h1>
+      <h1 className="quizTitle">{quiz.title}</h1>
 
       <p>
         Question {currentQuestion + 1} of {quiz.questions.length}

@@ -1,1 +1,800 @@
-[]
+[
+  {
+    "id": "fizika-magnetizmi-001",
+    "question": "Një përcjellës drejtvizor prej teli lëviz sipas drejtimit pingul, me vijat e fushës magnetike. Vlera e forcës elektromotore e induktuar në të, varet nga:",
+    "answers": ["vlera e induksionit të fushës magnetike", "orientimi i përcjellësit në lidhje me fushën magnetike", "gjatësia e përcjellësit drejtvizor prej teli", "vlera e fushës, gjatësia e përcjellësit dhe shpejtësia e lëvizjes së tij"],
+    "correct": 3,
+    "explanation": "Formula është ε=B·l·v, pra në të hyjnë të tria madhësitë njëkohësisht. Secila prej alternativave të tjera jep vetëm një pjesë të përgjigjes."
+  },
+  {
+    "id": "fizika-magnetizmi-002",
+    "question": "Ligji i Faradeit thotë që forca elektromotore e induktuar në një spirë rrethore është përpjesëtimore me:",
+    "answers": ["Φ(B)", "Φ(B)S", "∆Φ(B)", "I / ∆t"],
+    "correct": 2,
+    "explanation": "ε=-ΔΦ/Δt, pra rëndësi ka ndryshimi i fluksit, jo vetë fluksi. Një fluks i madh por i pandryshuar nuk jep asnjë fem."
+  },
+  {
+    "id": "fizika-magnetizmi-003",
+    "question": "Diagrami tregon fushën magnetike që rrethon një magnet në formë shufre. Sipas diagramit ku është fusha më e fortë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-003.png",
+    "imageAlt": "Magnet shufër me vijat e fushës magnetike përreth tij",
+    "answers": ["Në polin e Veriut", "Në polin e Jugut", "Në mes", "Në të dy polet"],
+    "correct": 3,
+    "explanation": "Fusha është aq më e fortë sa më të dendura të jenë vijat. Vijat dendësohen njësoj në të dy polet, ndërsa në mes ato janë të rralla."
+  },
+  {
+    "id": "fizika-magnetizmi-004",
+    "question": "Një përcjellës vertikal me rrymë nga poshtë-lart është vendosur në fushën magnetike të njëtrajtshme të drejtuar drejt Veriut. Drejtimi i forcës që ushtron fusha magnetike mbi përcjellësin do të jetë për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-004.png",
+    "imageAlt": "Përcjellës vertikal me rrymë lart, në fushë magnetike të drejtuar drejt Veriut",
+    "answers": ["Veriu", "Jugu", "Lindja", "Perëndimi"],
+    "correct": 3,
+    "explanation": "Zbatojmë rregullin e dorës së majtë ose F=I·l×B: me rrymën lart dhe fushën për nga Veriu, forca del pingul me të dyja, për nga Perëndimi."
+  },
+  {
+    "id": "fizika-magnetizmi-005",
+    "question": "Trajektorja e një elektroni që lëviz me shpejtësi të drejtuar në Jug, pasi hyn në një fushë magnetike përkulet për sipër. Drejtimi i fushës magnetike do të jetë për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-005.png",
+    "imageAlt": "Elektron me shpejtësi drejt Jugut, me trajektore që përkulet për sipër",
+    "answers": ["Veriu", "Jugu", "Lindja", "Perëndimi"],
+    "correct": 3,
+    "explanation": "Për elektronin forca është e kundërt me v×B sepse ngarkesa është negative. Që forca të dalë për sipër me v drejt Jugut, fusha duhet të jetë për nga Perëndimi."
+  },
+  {
+    "id": "fizika-magnetizmi-006",
+    "question": "Trajektorja e një protoni që lëviz me shpejtësi të drejtuar në Jug, pasi hyn në një fushë magnetike përkulet për sipër. Drejtimi i fushës magnetike do të jetë për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-006.png",
+    "imageAlt": "Proton me shpejtësi drejt Jugut, me trajektore që përkulet për sipër",
+    "answers": ["Veriu", "Jugu", "Lindja", "Perëndimi"],
+    "correct": 2,
+    "explanation": "Protoni ka ngarkesë pozitive, pra forca jepet drejtpërdrejt nga qv×B. Me v drejt Jugut dhe forcë për sipër, fusha del për nga Lindja – e kundërta e rastit të elektronit."
+  },
+  {
+    "id": "fizika-magnetizmi-007",
+    "question": "Një shufër horizontale e orientuar në drejtimin Lindje-Perëndim lëviz drejt Veriut në një fushë magnetike të drejtuar nga poshtë–lart. Cili nga pohimet e mëposhtme është i saktë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-007.png",
+    "imageAlt": "Shufër horizontale Lindje-Perëndim që lëviz drejt Veriut në fushë magnetike vertikale",
+    "answers": ["Skaji perëndimor i shufrës ka potencial më të ulët se ai lindor.", "Skaji perëndimor i shufrës ka potencial më të lartë se ai lindor.", "Sipërfaqja e sipërme e shufrës ka potencial më të ulët se ajo e poshtme.", "Sipërfaqja e sipërme e shufrës ka potencial më të lartë se ajo e poshtme."],
+    "correct": 0,
+    "explanation": "Forca qv×B mbi ngarkesat pozitive del për nga Lindja, prandaj ato grumbullohen në skajin lindor. Ai skaj bëhet me potencial më të lartë, pra ai perëndimor më i ulët."
+  },
+  {
+    "id": "fizika-magnetizmi-008",
+    "question": "Një përcjellës vertikal me rrymë nga lart – poshtë është vendosur në fushën magnetike të njëtrajtshme të drejtuar drejt Veriut. Drejtimi i forcës që ushtron fusha magnetike mbi përcjellësin do të jetë për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-008.png",
+    "imageAlt": "Përcjellës vertikal me rrymë poshtë, në fushë magnetike të drejtuar drejt Veriut",
+    "answers": ["Veriu", "Jugu", "Lindja", "Perëndimi"],
+    "correct": 2,
+    "explanation": "Kur kahu i rrymës përmbyset ndaj rastit të mëparshëm, edhe forca përmbyset. Prandaj tani ajo është për nga Lindja."
+  },
+  {
+    "id": "fizika-magnetizmi-009",
+    "question": "Një grimcë e ngarkuar lëviz me shpejtësi konstante në një fushë magnetike të njëtrajtshme. Në qoftë se fusha është e drejtuar nga poshtë – lart, atëherë Forca e Lorencit që vepron mbi grimcën, do të jetë maksimale, kur grimca lëviz:",
+    "answers": ["vertikalisht lart", "vertikalisht poshtë", "në një kënd 45° me horizontin", "në drejtimin horizontal"],
+    "correct": 3,
+    "explanation": "F=qvB·sinα është maksimale për α=90°, pra kur shpejtësia është pingul me fushën. Meqë fusha është vertikale, shpejtësia duhet të jetë horizontale."
+  },
+  {
+    "id": "fizika-magnetizmi-010",
+    "question": "Në një çast një proton që lëviz drejt Lindjes me shpejtësi konstante hyn në një fushë magnetike të drejtuar vertikalisht poshtë. Forca e Lorencit që vepron mbi të është drejtuar për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-010.png",
+    "imageAlt": "Proton që lëviz drejt Lindjes në fushë magnetike vertikale poshtë",
+    "answers": ["Lindja", "Veriu", "Jugu", "Perëndimi"],
+    "correct": 1,
+    "explanation": "Për ngarkesë pozitive F=qv×B. Me v drejt Lindjes dhe B vertikalisht poshtë, prodhimi vektorial jep drejtimin për nga Veriu."
+  },
+  {
+    "id": "fizika-magnetizmi-011",
+    "question": "Në një çast një elektron që lëviz drejt Lindjes me shpejtësi konstante hyn në një fushë magnetike të drejtuar vertikalisht poshtë. Forca e Lorencit që vepron mbi të është drejtuar për nga:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-011.png",
+    "imageAlt": "Elektron që lëviz drejt Lindjes në fushë magnetike vertikale poshtë",
+    "answers": ["Lindja", "Veriu", "Jugu", "Perëndimi"],
+    "correct": 2,
+    "explanation": "Elektroni ka ngarkesë negative, prandaj forca është e kundërt me rastin e protonit. Në vend të Veriut, ajo drejtohet për nga Jugu."
+  },
+  {
+    "id": "fizika-magnetizmi-012",
+    "question": "Një ngarkesë pozitive e palëvizshme ndodhet në një fushë magnetike, të drejtuar vertikalisht nga poshtë – lart. Forca magnetike që vepron mbi të është:",
+    "answers": ["e drejtuar vertikalisht lart", "e drejtuar në të majtë", "e drejtuar në të djathtë", "e barabartë me zero"],
+    "correct": 3,
+    "explanation": "F=qvB·sinα përmban shpejtësinë. Për një ngarkesë të palëvizshme v=0, prandaj fusha magnetike nuk ushtron asnjë forcë mbi të."
+  },
+  {
+    "id": "fizika-magnetizmi-013",
+    "question": "Poli me numrin 3 përfaqëson:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-013.png",
+    "imageAlt": "Dy magnete me vijat e fushës midis tyre, me polet e shënuara V, 1, 2 dhe 3",
+    "answers": ["Polin Veri sepse po tërhiqet nga Poli Jug përballë tij.", "Polin Jug sepse po tërhiqet nga Poli Veri përballë tij.", "Polin Veri sepse po shtyhet nga Poli Jug përballë tij.", "Polin Jug sepse po shtyhet nga Poli Jug përballë tij."],
+    "correct": 0,
+    "explanation": "Vijat e fushës kalojnë pa u ndërprerë nga njëri magnet te tjetri, çka tregon tërheqje midis poleve përballë. Meqë poli përballë është Jug, poli 3 është Veri."
+  },
+  {
+    "id": "fizika-magnetizmi-014",
+    "question": "Përcjellësi drejtvizor me rrymë, si në figurë është në ekuilibër nën veprimin e forcës së fushës magnetike, nëse fusha magnetike është e drejtuar:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-014.png",
+    "imageAlt": "Përcjellës horizontal me rrymë të drejtuar majtas",
+    "answers": ["vertikalisht lart.", "vertikalisht poshtë.", "pingul-hyrës me fletën.", "pingul-dalës me fletën."],
+    "correct": 3,
+    "explanation": "Që përcjellësi të rrijë në ekuilibër, forca magnetike duhet të jetë lart, sa pesha. Me rrymën në të majtë, kjo arrihet vetëm kur fusha është pingul-dalëse nga fleta."
+  },
+  {
+    "id": "fizika-magnetizmi-015",
+    "question": "Një shufër horizontale e orientuar në drejtimin Lindje-Perëndim lëviz drejt Jugut në një fushë magnetike të drejtuar nga poshtë–lart. Cila nga alternativat e mëposhtme është e vërtetë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-015.png",
+    "imageAlt": "Shufër horizontale Lindje-Perëndim që lëviz drejt Jugut në fushë magnetike vertikale",
+    "answers": ["Skaji perëndimor i shufrës ka potencial më të ulët se ai lindor.", "Skaji perëndimor i shufrës ka potencial më të lartë se ai lindor.", "Sipërfaqja e sipërme e shufrës ka potencial më të ulët se ajo e poshtme.", "Sipërfaqja e sipërme e shufrës ka potencial më të lartë se ajo e poshtme."],
+    "correct": 1,
+    "explanation": "Kur kahu i lëvizjes përmbyset (drejt Jugut në vend të Veriut), edhe forca mbi ngarkesat pozitive përmbyset. Tani ato grumbullohen në perëndim, pra ai skaj ka potencial më të lartë."
+  },
+  {
+    "id": "fizika-magnetizmi-016",
+    "question": "Dy përcjellës drejtvizorë përshkohen nga rryma me kahe të kundërta. Shënojmë F₁ forcën që ushtron përcjellësi i parë dhe F₂ forcën që ushtron përcjellësi i dytë. Cili prej barazimeve të mëposhtëm është i saktë, nëse rryma në përcjellësin e dytë është 2 herë më e madhe se ajo në përcjellësin e parë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-016.png",
+    "imageAlt": "Dy përcjellës paralelë me rryma I1 dhe I2 me kahe të kundërta",
+    "answers": ["F₁ = F₂", "F₁ = ½F₂", "2F₁ = F₂", "F₁ = 2F₂"],
+    "correct": 0,
+    "explanation": "Bëhet fjalë për një çift veprim–kundërveprim sipas ligjit të tretë të Njutonit. Forcat janë gjithmonë të barabarta në modul, pavarësisht se rrymat ndryshojnë."
+  },
+  {
+    "id": "fizika-magnetizmi-017",
+    "question": "Një spirë ndodhet në fushën magnetike B, që formon këndin 60° me pingulen në spirë. Spira rrotullohet derisa këndi merr vlerën 90°. Çfarë ndodh me fluksin e B?",
+    "answers": ["Mbetet konstant", "Bëhet sa gjysma e fillestarit.", "Bëhet dyfish.", "Bëhet zero."],
+    "correct": 3,
+    "explanation": "Φ=B·S·cosα, ku α është këndi me pingulen. Për α=90°, cos90°=0 dhe fluksi bëhet zero."
+  },
+  {
+    "id": "fizika-magnetizmi-018",
+    "question": "Vijat e fushës së një magneti të drejtë përshkojnë një bobinë. Në cilin prej rasteve më poshtë NUK ndryshon fluksi i fushës në bobinë?",
+    "answers": ["Magneti i afrohet ose i largohet bobinës.", "Bobina rrotullohet në kahun orar në lidhje me magnetin.", "Bobina rrotullohet në kahun kundërorar në lidhje me magnetin.", "Magneti dhe bobina lëvizin në të njëjtin kah me të njëjtën shpejtësi."],
+    "correct": 3,
+    "explanation": "Kur të dy lëvizin njëlloj, pozicioni i tyre i ndërsjellë nuk ndryshon fare, pra as fluksi. Në të gjitha rastet e tjera ndryshon largësia ose këndi."
+  },
+  {
+    "id": "fizika-magnetizmi-019",
+    "question": "Për një përcjellës të lirë, me rrymë, të vendosur në një fushë magnetike, forca e fushës magnetike e zhvendos përcjellësin:",
+    "answers": ["përgjatë drejtimit të fushës magnetike.", "paralelisht me drejtimin e rrymës elektrike.", "pingul vetëm me fushën magnetike.", "pingul me fushën dhe drejtimin e rrymës."],
+    "correct": 3,
+    "explanation": "Forca e Amperit F=I·l×B është prodhim vektorial, prandaj del pingul me të dy vektorët njëkohësisht."
+  },
+  {
+    "id": "fizika-magnetizmi-020",
+    "question": "Një spirë rrethore është vendosur në të njëjtin plan me një përcjellës drejtvizor me rrymë nga poshtë-lart. Në mënyrë që në spirë të kemi rrymë të induktuar në kahun kundër-orar. Si duhet zhvendosur spira?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-020.png",
+    "imageAlt": "Spirë rrethore majtas dhe përcjellës vertikal djathtas me rrymë nga poshtë-lart",
+    "answers": ["Vertikalisht lart.", "Vertikalisht poshtë.", "Nga e majta.", "Nga e djathta."],
+    "correct": 2,
+    "explanation": "Fusha e përcjellësit në zonën e spirës është dalëse nga fleta. Rryma kundërorare krijon fluks dalës, pra sipas Lencit ajo kundërshton zvogëlimin e fluksit – spira duhet të largohet nga përcjellësi, pra nga e majta."
+  },
+  {
+    "id": "fizika-magnetizmi-021",
+    "question": "Pse hekuri është një material i përshtatshëm për bërthamën e një transformatori?",
+    "answers": ["Është një metal", "Nuk do të nxehet", "Magnetizohet lehtësisht", "Është përçues elektrik"],
+    "correct": 2,
+    "explanation": "Hekuri është ferromagnetik, pra magnetizohet e çmagnetizohet lehtë dhe e përqendron fluksin magnetik nga parësori te dytësori. Përçueshmëria elektrike këtu është madje e padëshiruar."
+  },
+  {
+    "id": "fizika-magnetizmi-022",
+    "question": "Në figurë paraqitet një përcjellës me rrymë në një fushë magnetike. Rryma në përcjellës ka drejtimin pingul dalës nga fleta. Çfarë drejtimi ka vektori i forcës së Amperit që vepron në këtë përcjellës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-022.png",
+    "imageAlt": "Përcjellës me rrymë dalëse nga fleta në fushën B të drejtuar lart, me katër drejtime 1-4",
+    "answers": ["Drejtimin 1", "Drejtimin 2", "Drejtimin 3", "Drejtimin 4"],
+    "correct": 2,
+    "explanation": "Me rrymën dalëse nga fleta dhe fushën lart, prodhimi I·l×B jep forcë horizontale në të majtë, pra drejtimin 3."
+  },
+  {
+    "id": "fizika-magnetizmi-023",
+    "question": "Cilat shkronja mund të jenë të dyja polet e Veriut?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-023.png",
+    "imageAlt": "Solenoid me skajet A dhe B i lidhur me burim rryme, dhe një gjilpërë magnetike me skajet C dhe D",
+    "answers": ["A dhe D", "B dhe A", "A dhe C", "B dhe C"],
+    "correct": 2,
+    "explanation": "Kahu i rrymës në mbështjellje përcakton se poli Veri i solenoidit është skaji A. Gjilpëra magnetike orientohet sipas fushës, pra poli i saj Veri është C."
+  },
+  {
+    "id": "fizika-magnetizmi-024",
+    "question": "Çfarë ndodh me spirat A dhe B, gjatë afrimit të magnetit?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-024.png",
+    "imageAlt": "Dy spira A dhe B të varura pranë njëra-tjetrës dhe një magnet që u afrohet",
+    "answers": ["Spirat largohen", "Spirat afrohen", "Spirat rrotullohen", "Spirat nuk lëvizin"],
+    "correct": 1,
+    "explanation": "Në të dyja spirat induktohet rrymë me të njëjtin kah, sepse ndryshimi i fluksit është i njëjtë. Dy rryma paralele me kah të njëjtë tërhiqen, prandaj spirat afrohen."
+  },
+  {
+    "id": "fizika-magnetizmi-025",
+    "question": "Çfarë ndodh me spirën e varur, gjatë afrimit të magnetit?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-025.png",
+    "imageAlt": "Spirë e mbyllur e varur me fill dhe magnet që i afrohet",
+    "answers": ["Spira afrohet drejt magnetit", "Spira largohet prej tij", "Spira fillon të rrotullohet", "Spira nuk lëviz"],
+    "correct": 1,
+    "explanation": "Sipas ligjit të Lencit rryma e induktuar kundërshton shkakun që e krijon. Meqë shkaku është afrimi, spira shtyhet dhe largohet nga magneti."
+  },
+  {
+    "id": "fizika-magnetizmi-026",
+    "question": "Çfarë ndodh me spirën e varur gjatë afrimit të magnetit?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-026.png",
+    "imageAlt": "Spirë e hapur (e prerë) e varur me fill dhe magnet që i afrohet",
+    "answers": ["Spira afrohet drejt magnetit", "Spira largohet prej tij", "Spira fillon të rrotullohet", "Spira nuk lëviz"],
+    "correct": 3,
+    "explanation": "Kjo spirë është e prerë, pra qarku nuk është i mbyllur dhe rryma e induktuar nuk mund të qarkullojë. Pa rrymë nuk ka forcë magnetike dhe spira mbetet e palëvizshme."
+  },
+  {
+    "id": "fizika-magnetizmi-027",
+    "question": "Një spirë rrethore është vendosur në një fushë magnetike si në figurë. Cili nga pohimet e mëposhtme është i vërtetë nëse rryma në spirë rrjedh sipas kahut orar?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-027.png",
+    "imageAlt": "Spirë rrethore në planin e fletës, në fushë magnetike hyrëse në fletë",
+    "answers": ["Spira nuk lëviz.", "Spira lëviz sipas drejtimit të fushës magnetike.", "Spira lëviz sipas drejtimit të kundërt të fushës magnetike.", "Spira rrotullohet në mënyrë që plani i saj të jetë paralel me vijat e fushës."],
+    "correct": 0,
+    "explanation": "Fusha është e njëtrajtshme dhe plani i spirës është pingul me të. Forcat mbi pjesët e spirës janë radiale dhe anulojnë njëra-tjetrën, pra rezultantja dhe momenti rrotullues janë zero."
+  },
+  {
+    "id": "fizika-magnetizmi-028",
+    "question": "Një përcjellës drejtvizor është vendosur në fushë magnetike të njëtrajtshme. Rryma ka drejtimin pingul, me planin e fletës dhe kah hyrës tek ajo. Cili është drejtimi i forcës magnetike që vepron mbi përcjellësin?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-028.png",
+    "imageAlt": "Përcjellës me rrymë hyrëse në fletë midis poleve N dhe S, me katër drejtime 1-4",
+    "answers": ["Drejtimi 1", "Drejtimi 2", "Drejtimi 3", "Drejtimi 4"],
+    "correct": 2,
+    "explanation": "Fusha shkon nga poli N te poli S, pra në të djathtë. Me rrymë hyrëse në fletë, I·l×B jep forcë të drejtuar poshtë – drejtimi 3."
+  },
+  {
+    "id": "fizika-magnetizmi-029",
+    "question": "Një përcjellës drejtvizor është vendosur në fushë magnetike, të njëtrajtshme. Rryma ka drejtimin pingul me planin e fletës dhe kah dalës prej saj. Cili është drejtimi i forcës magnetike që vepron mbi përcjellësin?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-029.png",
+    "imageAlt": "Përcjellës me rrymë dalëse nga fleta midis poleve N dhe S, me katër drejtime 1-4",
+    "answers": ["Drejtimi 1", "Drejtimi 2", "Drejtimi 3", "Drejtimi 4"],
+    "correct": 0,
+    "explanation": "Kahu i rrymës është i kundërt me ushtrimin e mëparshëm, prandaj edhe forca përmbyset. Tani ajo drejtohet lart – drejtimi 1."
+  },
+  {
+    "id": "fizika-magnetizmi-030",
+    "question": "Protoni me shpejtësi V, futet në një fushë magnetike homogjene pingul me vijat e induksionit të kësaj fushe, të cilat kanë drejtimin pingul me planin e fletës dhe kah hyrës tek ajo. Cila prej katër trajektoreve tregon lëvizjen e protonit brenda fushës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-030.png",
+    "imageAlt": "Proton me shpejtësi V në fushë hyrëse në fletë, me katër trajektore të mundshme 1-4",
+    "answers": ["Trajektorja 1", "Trajektorja 2", "Trajektorja 3", "Trajektorja 4"],
+    "correct": 0,
+    "explanation": "Për ngarkesë pozitive me v djathtas dhe B hyrëse në fletë, forca qv×B drejtohet lart. Prandaj trajektorja përkulet për sipër – trajektorja 1."
+  },
+  {
+    "id": "fizika-magnetizmi-031",
+    "question": "Elektroni me shpejtësi V futet në një fushë magnetike homogjene, pingul me vijat e induksionit të kësaj fushe, të cilat kanë drejtimin pingul me planin e fletës dhe kah hyrës tek ajo. Cila prej katër trajektoreve tregon lëvizjen e elektronit brenda fushës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-031.png",
+    "imageAlt": "Elektron me shpejtësi V në fushë hyrëse në fletë, me katër trajektore të mundshme 1-4",
+    "answers": ["Trajektorja 1", "Trajektorja 2", "Trajektorja 3", "Trajektorja 4"],
+    "correct": 2,
+    "explanation": "Ngarkesa negative e përmbys forcën ndaj rastit të protonit, pra ajo drejtohet poshtë. Trajektorja përkulet për poshtë – trajektorja 3."
+  },
+  {
+    "id": "fizika-magnetizmi-032",
+    "question": "Protoni me shpejtësi V futet në një fushë magnetike homogjene pingul me vijat e induksionit të kësaj fushe, të cilat kanë drejtimin pingul me planin e fletës dhe kah dalës prej saj. Cila prej katër trajektoreve tregon lëvizjen e protonit brenda fushës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-032.png",
+    "imageAlt": "Proton me shpejtësi V në fushë dalëse nga fleta, me katër trajektore të mundshme 1-4",
+    "answers": ["Trajektorja 1", "Trajektorja 2", "Trajektorja 3", "Trajektorja 4"],
+    "correct": 2,
+    "explanation": "Kur kahu i fushës përmbyset, përmbyset edhe forca. Për protonin ajo tani drejtohet poshtë – trajektorja 3."
+  },
+  {
+    "id": "fizika-magnetizmi-033",
+    "question": "Elektroni me shpejtësi V, futet në një fushë magnetike homogjene pingul me vijat e induksionit të kësaj fushe, të cilat kanë drejtimin pingul me planin e fletës dhe kah dalës prej saj. Cila prej katër trajektoreve tregon lëvizjen e elektronit brenda fushës.",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-033.png",
+    "imageAlt": "Elektron me shpejtësi V në fushë dalëse nga fleta, me katër trajektore të mundshme 1-4",
+    "answers": ["Trajektorja 1", "Trajektorja 2", "Trajektorja 3", "Trajektorja 4"],
+    "correct": 0,
+    "explanation": "Këtu përmbyset edhe ngarkesa edhe kahu i fushës ndaj rastit bazë, pra forca kthehet lart. Trajektorja përkulet për sipër – trajektorja 1."
+  },
+  {
+    "id": "fizika-magnetizmi-034",
+    "question": "Nëse numri i spirave të një bobine dyfishohet dhe të gjithë faktorët e tjerë nuk ndryshojnë, si ndryshon vlera e forcës elektromotore, të induktuar në bobinë?",
+    "answers": ["Ɛin dyfishohet", "Ɛin trefishohet", "Ɛin katërfishohet", "Nuk ndryshon"],
+    "correct": 0,
+    "explanation": "ε=N·ΔΦ/Δt është në përpjesëtim të drejtë me numrin e spirave. Duke e dyfishuar N, dyfishohet edhe fem-ja."
+  },
+  {
+    "id": "fizika-magnetizmi-035",
+    "question": "Çfarë ndodh në spirë gjatë afrimit të magnetit?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-035.png",
+    "imageAlt": "Magnet horizontal me polet N dhe S që zbret vertikalisht mbi një spirë horizontale",
+    "answers": ["Në spirë induktohet rrymë në kahun-orar", "Në spirë induktohet rrymë në kahun kundërorar", "Spira largohet nga magneti", "Në spirë nuk induktohet rrymë"],
+    "correct": 3,
+    "explanation": "Magneti është horizontal dhe zbret pikërisht mbi qendër, prandaj fluksi që hyn nga njëra gjysmë e spirës barazohet me atë që del nga tjetra. Fluksi i përgjithshëm mbetet zero dhe nuk induktohet rrymë."
+  },
+  {
+    "id": "fizika-magnetizmi-036",
+    "question": "Çfarë ndodh kur në kuadër kalon rrymë me kah si në figurë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-036.png",
+    "imageAlt": "Kuadër me rrymë i vendosur midis poleve N dhe S të një magneti",
+    "answers": ["Kuadri nuk do të lëvizë.", "Kuadri rrotullohet në kahun orar.", "Kuadri rrotullohet në kahun kundërorar.", "Kuadri del jashtë fushës magnetike."],
+    "correct": 1,
+    "explanation": "Në dy brinjët e kundërta të kuadrit rryma ka kahe të kundërta, prandaj forcat mbi to formojnë një çift që e rrotullon atë. Me kahun e dhënë të rrymës, rrotullimi është orar – ky është parimi i motorit elektrik."
+  },
+  {
+    "id": "fizika-magnetizmi-037",
+    "question": "Çfarë ndodh me bobinat A dhe B kur në to kalon rrymë e njëjtë me kah si në figurë?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-037.png",
+    "imageAlt": "Dy bobina A dhe B të vendosura përballë njëra-tjetrës me rrymë me të njëjtin kah",
+    "answers": ["Nuk do të lëvizin sepse në to kalon rrymë e njëjtë.", "Shtyhen sepse do të kenë përballë njëra-tjetrës të dyja polin Veri.", "Shtyhen sepse do të kenë përballë njëra-tjetrës të dyja polin Jug.", "Tërhiqen sepse do të kenë përballë njëra-tjetrës pole të kundërta."],
+    "correct": 3,
+    "explanation": "Me të njëjtin kah rryme, secila bobinë sillet si magnet me poleritet të tillë që skajet përballë janë të kundërta. Pole të kundërta tërhiqen."
+  },
+  {
+    "id": "fizika-magnetizmi-038",
+    "question": "Kur në bobinë kalon rrymë, gjilpëra magnetike e busullës orientohet si në figurë. Çfarë mund të themi për polaritetin e daljeve A dhe B, të burimit të rrymës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-038.png",
+    "imageAlt": "Bobinë majtas e lidhur me burim me daljet A dhe B, dhe busull djathtas me polet N dhe S",
+    "answers": ["Dalja A ka potencial më të ulët se B", "Dalja A ka potencial më të lartë se B", "Dalja A ka potencial të njëjtë me B", "Dalja B ka potencial më të lartë se A"],
+    "correct": 1,
+    "explanation": "Orientimi i gjilpërës tregon se cili skaj i bobinës është poli Veri, e nga ai përcaktohet kahu i rrymës në mbështjellje. Rryma del nga poli pozitiv i burimit, pra nga dalja A me potencial më të lartë."
+  },
+  {
+    "id": "fizika-magnetizmi-039",
+    "question": "Kur në bobinë kalon rrymë, gjilpëra magnetike e busullës orientohet si në figurë. Ç'mund të themi për polaritetin e daljeve A dhe B, të burimit të rrymës?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-039.png",
+    "imageAlt": "Busull majtas me polet S dhe N dhe bobinë djathtas e lidhur me burim me daljet A dhe B",
+    "answers": ["Dalja A ka potencial më të ulët se B", "Dalja A ka potencial më të lartë se B", "Dalja A ka potencial të njëjtë me B", "Dalja A ka potencial më të lartë se ndodhet më pranë gjilpërës"],
+    "correct": 0,
+    "explanation": "Këtu gjilpëra është orientuar në kah të kundërt me rastin e mëparshëm, pra edhe rryma në bobinë ka kah të kundërt. Prandaj tani dalja A është ajo me potencial më të ulët."
+  },
+  {
+    "id": "fizika-magnetizmi-040",
+    "question": "Po të rrotullojmë një kuadër brenda fushës magnetike mund të gjenerojmë elektricitet. Vlera e rrymës elektrike të gjeneruar do të zvogëlohet nëse:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-040.png",
+    "imageAlt": "Kuadër që rrotullohet midis poleve të një magneti",
+    "answers": ["përdorim një kuadër me shumë spira", "zmadhojmë sipërfaqen e spirave të kuadrit", "rrotullojmë shpejt kuadrin", "rrotullojmë ngadalë kuadrin"],
+    "correct": 3,
+    "explanation": "ε=N·ΔΦ/Δt: rrotullimi më i ngadaltë e zgjat kohën Δt dhe e zvogëlon fem-në. Të tria alternativat e tjera e rrisin rrymën e gjeneruar."
+  },
+  {
+    "id": "fizika-magnetizmi-041",
+    "question": "Një përcjellës drejtvizor me rrymë është vendosur në fushë magnetike pingul me vijat e forcës së fushës. Kur rryma që rrjedh në të është 2A, forca e ushtruar në njësinë e gjatësisë së tij është 0,04N/cm. Induksioni i fushës magnetike ka vlerën:",
+    "answers": ["0.02 T", "0.08 T", "2 T", "8 T"],
+    "correct": 2,
+    "explanation": "F/l=0,04N/cm=4N/m. Nga F/l=B·I → B=4/2=2T."
+  },
+  {
+    "id": "fizika-magnetizmi-042",
+    "question": "Një përcjellës drejtvizor me rrymë është vendosur në fushë magnetike me B=0.5T, pingul me vijat e forcës së fushës. Kur rryma që rrjedh në të është 2mA, forca e ushtruar mbi përcjellësin ka vlerën 0.2∙10⁻³N. Gjatësia e përcjellësit është:",
+    "answers": ["0.2 mm", "0.2 cm", "0.2 m", "0.02m"],
+    "correct": 2,
+    "explanation": "Nga F=B·I·l → l=F/(B·I)=0,2·10⁻³/(0,5·2·10⁻³)=0,2m."
+  },
+  {
+    "id": "fizika-magnetizmi-043",
+    "question": "Një përcjellës drejtvizor me rrymë është vendosur në fushë magnetike me B=4T, pingul me vijat e forcës së fushës. Nëse forca e ushtruar në njësinë e gjatësisë së tij është 0,008N/cm, atëherë rryma që rrjedh në të ka vlerën:",
+    "answers": ["0.002 mA", "0.032 A", "0.002 A", "0.2 A"],
+    "correct": 3,
+    "explanation": "F/l=0,008N/cm=0,8N/m. Nga F/l=B·I → I=0,8/4=0,2A."
+  },
+  {
+    "id": "fizika-magnetizmi-044",
+    "question": "Një përcjellës drejtvizor me gjatësi 20cm lëviz me shpejtësi konstante 5m/s, pingul me vijat e forcës së fushës magnetike me B=4mT. Vlera e forcës elektromotore të induktuar në përcjellës do të jetë:",
+    "answers": ["2 mV", "4 mV", "2 V", "4V"],
+    "correct": 1,
+    "explanation": "ε=B·l·v=4·10⁻³·0,2·5=4·10⁻³V=4mV."
+  },
+  {
+    "id": "fizika-magnetizmi-045",
+    "question": "Fluksi magnetik që përshkon njërën nga spirat e një bobine zvogëlohet me shpejtësi 3Wb/s. Nëse vlera e forcës elektromotore të induktuar në bobinë është 150V, sa do të jetë numri i spirave të saj?",
+    "answers": ["30 spira", "40 spira", "50 spira", "60 spira"],
+    "correct": 2,
+    "explanation": "Nga ε=N·ΔΦ/Δt → N=150/3=50 spira."
+  },
+  {
+    "id": "fizika-magnetizmi-046",
+    "question": "Një përcjellës drejtvizor lëviz me shpejtësi konstante 20cm/s pingul me vijat e forcës së fushës magnetike me B=0.3T. Vlera e forcës elektromotore të induktuar në përcjellës është 300mV. Gjatësia e përcjellësit është:",
+    "answers": ["5 mm", "5 cm", "5 m", "50 m"],
+    "correct": 2,
+    "explanation": "Nga ε=B·l·v → l=0,3/(0,3·0,2)=5m."
+  },
+  {
+    "id": "fizika-magnetizmi-047",
+    "question": "Një përcjellës drejtvizor me rrymë, me gjatësi 50cm është vendosur pingul me vijat e forcës së fushës magnetike me B=8mT. Në qoftë se në prerjen tërthore të përcjellësit kalojnë 10¹⁹ elektrone në sekondë, sa është forca magnetike që ushtron fusha mbi të? (e=1.6∙10⁻¹⁹C)",
+    "answers": ["6.4 mN", "0.64 N", "6.4 N", "64 N"],
+    "correct": 0,
+    "explanation": "Fillimisht I=n·e=10¹⁹·1,6·10⁻¹⁹=1,6A. Pastaj F=B·I·l=8·10⁻³·1,6·0,5=6,4·10⁻³N=6,4mN."
+  },
+  {
+    "id": "fizika-magnetizmi-048",
+    "question": "Një bobinë përbëhet nga 200 spira me sipërfaqe 10cm². Ajo është vendosur në një fushë magnetike të njëtrajtshme me induksion 2T, vijat e induksionit të së cilës shpojnë pingul planin e spirës. Fluksi magnetik që përshkon bobinën ka vlerën:",
+    "answers": ["Φ(B)= 0.4 Wb", "Φ(B)= 40 Wb", "Φ(B)= 400 Wb", "Φ(B)= 4000 Wb"],
+    "correct": 0,
+    "explanation": "Φ=N·B·S=200·2·10·10⁻⁴=0,4Wb. Kujdes me kthimin e cm² në m² (1cm²=10⁻⁴m²)."
+  },
+  {
+    "id": "fizika-magnetizmi-049",
+    "question": "Fluksi magnetik që përshkon njërën nga spirat e një bobine zvogëlohet nga 6Wb në 2Wb për 2 sekonda. Nëse bobina ka 150 spira, sa do të jetë vlera e forcës elektromotore të induktuar në spirat e saj?",
+    "answers": ["2 V", "8 V", "24 V", "300 V"],
+    "correct": 3,
+    "explanation": "ε=N·ΔΦ/Δt=150·(6-2)/2=150·2=300V."
+  },
+  {
+    "id": "fizika-magnetizmi-050",
+    "question": "Një përcjellës drejtvizor me gjatësi 20cm lëviz me shpejtësi konstante, pingul me vijat e forcës, së fushës magnetike me B=0.8T. Vlera e forcës elektromotore të induktuar në përcjellës është 1.6V. Shpejtësia e lëvizjes së përcjellësit është:",
+    "answers": ["0.01 m/s", "0.1 m/s", "1m/s", "10 m/s"],
+    "correct": 3,
+    "explanation": "Nga ε=B·l·v → v=1,6/(0,8·0,2)=10m/s."
+  },
+  {
+    "id": "fizika-magnetizmi-051",
+    "question": "Forca elektromotore e induktuar në një bobinë me 100 spira rrethore me diametër 1m ka vlerën 300V. Shpejtësia e ndryshimit të induksionit të fushës magnetike gjatë rrotullimit të bobinës do të jetë (π≈3):",
+    "answers": ["0.25 T/s", "1 T/s", "3T/s", "4 T/s"],
+    "correct": 3,
+    "explanation": "S=πd²/4=3·1/4=0,75m². Nga ε=N·S·ΔB/Δt → ΔB/Δt=300/(100·0,75)=4T/s."
+  },
+  {
+    "id": "fizika-magnetizmi-052",
+    "question": "Forca që ushtron fusha magnetike mbi një përcjellës drejtvizor me rrymë është 4∙10⁻³N. Nëse rryma që rrjedh në të trefishohet, induksioni i fushës magnetike përgjysmohet dhe gjatësia e tij reduktohet deri në 40% të gjatësisë së tij, forca që do të ushtrojë fusha është:",
+    "answers": ["2.4∙10⁻³ N", "3.6∙10⁻³ N", "4.8∙10⁻³ N", "7.2∙10⁻³ N"],
+    "correct": 0,
+    "explanation": "F=B·I·l, pra faktori i ndryshimit është 3·0,5·0,4=0,6. Atëherë F'=0,6·4·10⁻³=2,4·10⁻³N."
+  },
+  {
+    "id": "fizika-magnetizmi-053",
+    "question": "Spira rrethore me sipërfaqe 200cm² është vendosur në një fushë magnetike të njëtrajtshme me induksion 50mT, në mënyrë që plani i saj të jetë paralel me vijat e fushës. Forca elektromotore e induktuar në spirë gjatë 100ms, kur ajo rrotullohet me 90° do të jetë:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-053.png",
+    "imageAlt": "Spirë rrethore fillimisht paralel me vijat e fushës dhe pastaj e rrotulluar me 90°",
+    "answers": ["10⁻² V", "10⁻⁴ V", "10⁻⁷ V", "100V"],
+    "correct": 0,
+    "explanation": "Fillimisht plani është paralel me vijat, pra Φ=0; pas rrotullimit Φ=B·S=0,05·0,02=10⁻³Wb. Atëherë ε=10⁻³/0,1=10⁻²V."
+  },
+  {
+    "id": "fizika-magnetizmi-054",
+    "question": "Forca që ushtron fusha magnetike mbi një përcjellës drejtvizor me gjatësi 30cm, në të cilin rrjedh rryma 1.2A, kur ai pret vijat e forcës së fushës magnetike nën këndin 30° është 4.8∙10⁻³N. Sa do të jetë kjo forcë nëse ai vendoset pingul me vijat e forcës së fushës magnetike? (sin30°=0.5; cos30°=0.8)",
+    "answers": ["2.4∙10⁻³N", "3.6∙10⁻³N", "4.8∙10⁻³N", "9.6∙10⁻³N"],
+    "correct": 3,
+    "explanation": "F=BIl·sinα. Me sin30°=0,5, del BIl=4,8·10⁻³/0,5=9,6·10⁻³N, që është pikërisht forca kur α=90° (sin90°=1)."
+  },
+  {
+    "id": "fizika-magnetizmi-055",
+    "question": "Bobina e një motori elektrik ka 200 mbështjella në formën e spirave katrore me brinjë 20cm, në të cilat rrjedh rryma 1.2A. Bobina rrotullohet në një fushë magnetike të njëtrajtshme me B= 0.05T. Vlera maksimale e momentit rrotullues që vepron mbi bobinën është:",
+    "answers": ["0.0024 Nm", "0.024 Nm", "0.48 Nm", "4.8 Nm"],
+    "correct": 2,
+    "explanation": "M=N·B·I·S=200·0,05·1,2·0,04=0,48Nm, ku S=(0,2)²=0,04m²."
+  },
+  {
+    "id": "fizika-magnetizmi-056",
+    "question": "Grimca me ngarkesë 3.2∙10⁻¹⁹C që lëviz me shpejtësi 300km/s, hyn pingul me vijat e forcës të një fushe magnetike me induksion 5mT, duke përshkuar një rreth me rreze 15cm. Masa e grimcës është:",
+    "answers": ["0.8∙10⁻²⁷ kg", "0.8∙10⁻²¹ kg", "0.8∙10⁻²⁴ kg", "8∙10⁻²⁷ kg"],
+    "correct": 0,
+    "explanation": "Nga r=mv/(qB) → m=qBr/v=3,2·10⁻¹⁹·5·10⁻³·0,15/(3·10⁵)=0,8·10⁻²⁷kg."
+  },
+  {
+    "id": "fizika-magnetizmi-057",
+    "question": "Mbi dy shina paralele të lidhura midis tyre me një përcjellës me rezistencë të papërfillshme, rrëshqet pa fërkim me shpejtësi 6m/s, një përcjellës AB me gjatësi 0.5m dhe rezistencë 2Ω. Nëse sistemi ndodhet në një fushë magnetike me induksion 0.8T, intensiteti i rrymës në shufrën AB është:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-057.png",
+    "imageAlt": "Shufra AB që rrëshqet mbi dy shina paralele në fushë magnetike",
+    "answers": ["0.4 A", "0.6 A", "1.2 A", "2.4 A"],
+    "correct": 2,
+    "explanation": "Fillimisht ε=B·l·v=0,8·0,5·6=2,4V. Pastaj I=ε/R=2,4/2=1,2A."
+  },
+  {
+    "id": "fizika-magnetizmi-058",
+    "question": "Bobina katrore me brinjë 4cm dhe 100 mbështjella, hyn në një zonë të fushës magnetike të njëtrajtshme me induksion 0.5T me shpejtësi konstante 0.4m/s. Forca elektromotore e induktuar në bobinë, kur ajo ndodhet plotësisht brenda fushës magnetike, është:",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-058.png",
+    "imageAlt": "Bobinë katrore me brinjë 4cm që hyn në zonën e fushës magnetike hyrëse në fletë",
+    "answers": ["0.008 V", "0.08 V", "0.8V", "8 V"],
+    "correct": 2,
+    "explanation": "Gjatë hyrjes ΔΦ=N·B·a²=100·0,5·0,0016=0,08Wb dhe koha e hyrjes t=a/v=0,04/0,4=0,1s. Atëherë ε=0,08/0,1=0,8V."
+  },
+  {
+    "id": "fizika-magnetizmi-059",
+    "question": "Spira rrethore me rreze 5cm dhe rezistencë 0.3Ω, hyn në një zonë të fushës magnetike të njëtrajtshme me induksion 2T me shpejtësi konstante 0.5m/s. Vlera e rrymës së induktuar në spirë, kur ajo ndodhet plotësisht brenda fushës magnetike, është (π≈3):",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-059.png",
+    "imageAlt": "Spirë rrethore me rreze 5cm që hyn në zonën e fushës magnetike hyrëse në fletë",
+    "answers": ["0.0025 A", "0.25 A", "2.5 A", "25 A"],
+    "correct": 1,
+    "explanation": "ΔΦ=B·πr²=2·3·0,0025=0,015Wb dhe koha e hyrjes t=2r/v=0,1/0,5=0,2s. Pra ε=0,075V dhe I=0,075/0,3=0,25A."
+  },
+  {
+    "id": "fizika-magnetizmi-060",
+    "question": "Elektroni që lëviz me shpejtësi 4∙10⁶ m/s hyn pingul me vijat e forcës së një fushe magnetike duke përshkuar një rreth me R=1.9cm. Vlera e induksionit të fushës magnetike është: (me=9.11∙10⁻³¹kg; e=1.6∙10⁻¹⁹C)",
+    "answers": ["0.0012 T", "0.012 T", "0.12 T", "1.2 T"],
+    "correct": 0,
+    "explanation": "Nga r=mv/(eB) → B=mv/(er)=9,11·10⁻³¹·4·10⁶/(1,6·10⁻¹⁹·0,019)≈1,2·10⁻³T."
+  },
+  {
+    "id": "fizika-magnetizmi-061",
+    "question": "Një tufë grimcash të ngarkuara, pasi përshpejtohet në tensionin 500V, hyn pingul me vijat e forcës së një fushe magnetike me induksion 0.9mT, duke përshkuar një rreth me rreze 50cm. Ngarkesa specifike e grimcave të ngarkuara ka vlerën:",
+    "answers": ["0.49 C/kg", "49 C/kg", "0.49∙10⁶ C/kg", "4.9∙10⁹ C/kg"],
+    "correct": 3,
+    "explanation": "Duke bashkuar qU=mv²/2 me r=mv/(qB) del q/m=2U/(B²r²)=1000/((0,9·10⁻³)²·0,25)≈4,9·10⁹C/kg."
+  },
+  {
+    "id": "fizika-magnetizmi-062",
+    "question": "Mbi një përcjellës drejtvizor me rrymë, me gjatësi 50cm të vendosur pingul me vijat e forcës së fushës magnetike vepron forca 0.4N. Në qoftë se në prerjen tërthore të përcjellësit kalojnë 10¹⁸ elektrone në sekondë, sa është vlera e induksionit të fushës magnetike që vepron mbi të? (e=1.6∙10⁻¹⁹C)",
+    "answers": ["0.5 T", "1 T", "2.5 T", "5 T"],
+    "correct": 3,
+    "explanation": "I=10¹⁸·1,6·10⁻¹⁹=0,16A. Pastaj B=F/(I·l)=0,4/(0,16·0,5)=5T."
+  },
+  {
+    "id": "fizika-magnetizmi-063",
+    "question": "Forca që ushtron fusha magnetike mbi një thërrmijë të ngarkuar, kur ajo hyn në fushë, nën këndin 60° me vijat e forcës së fushës magnetike, është 8.4∙10⁻³N. Sa do të jetë kjo forcë nëse ajo do të futet pingul me vijat e forcës së fushës magnetike? (sin60°=0.8; cos60°=0.5)",
+    "answers": ["4.2∙10⁻³N", "6.7∙10⁻³N", "10.5∙10⁻³N", "16.8∙10⁻³N"],
+    "correct": 2,
+    "explanation": "F=qvB·sinα, pra Fmax=F/sin60°=8,4·10⁻³/0,8=10,5·10⁻³N."
+  },
+  {
+    "id": "fizika-magnetizmi-064",
+    "question": "Skajet e një bobine lidhen me një rezistencë 10Ω. Bobina ka 200 spira me sipërfaqe 80cm². Induksioni magnetik pingul me sipërfaqen e bazës së spirave të saj, rritet nga 2T në 6T për 0.1s. Sa do të jetë ngarkesa që kalon në bobinë gjatë kësaj kohe?",
+    "answers": ["0.64 C", "6.4 C", "64 C", "640 C"],
+    "correct": 0,
+    "explanation": "q=N·ΔΦ/R=200·(4·80·10⁻⁴)/10=200·0,032/10=0,64C. Vini re se koha nuk hyn – ajo thjeshtohet."
+  },
+  {
+    "id": "fizika-magnetizmi-065",
+    "question": "Fluksi magnetik përmes një bobine me N spira ndryshon nga 0.65 Wb në 0.7 Wb, gjatë 0.5s. Sa do të jetë numri i spirave nëse forca elektromotore e induktuar është 5V?",
+    "answers": ["5 spira", "50 spira", "150 spira", "200spira"],
+    "correct": 1,
+    "explanation": "ΔΦ=0,05Wb, pra N=ε·Δt/ΔΦ=5·0,5/0,05=50 spira."
+  },
+  {
+    "id": "fizika-magnetizmi-066",
+    "question": "Sa duhet të jetë tensioni i përshpejtimit të tufës së elektroneve, në mënyrë që kur të hynë në një fushë magnetike, trajektorja e tyre të përkulet sipas një rrethi me rreze të njëjtë me atë të tufës së protoneve të përshpejtuar në tensionin 500V? (mp≈2∙10³me)",
+    "answers": ["1kV", "10kv", "100kV", "1MV"],
+    "correct": 3,
+    "explanation": "Nga r=√(2mU/q)/B, për rreze të njëjtë dhe ngarkesë të njëjtë duhet m·U e njëjtë. Pra Ue=(mp/me)·Up=2·10³·500=10⁶V=1MV."
+  },
+  {
+    "id": "fizika-magnetizmi-067",
+    "question": "Vlera e forcës elektromotore të induktuar në një përcjellës drejtvizor me gjatësi 50cm, kur ai lëviz me shpejtësi 4m/s pingul me vijat e fushës magnetike, ka vlerën 1.2V. Sa do të jetë kjo vlerë nëse përcjellësi lëviz me dyfishin e shpejtësisë në të njëjtën fushë, duke prerë vijat e fushës magnetike nën këndin 30°? (sin30°=0.5; cos30°=0.8)",
+    "answers": ["0.12 V", "1.2 mV", "1.2 V", "12 V"],
+    "correct": 2,
+    "explanation": "Nga rasti i parë B·l=1,2/4=0,3. Në rastin e dytë ε=B·l·2v·sin30°=0,3·8·0,5=1,2V – dyfishimi i shpejtësisë kompensohet nga sin30°=0,5."
+  },
+  {
+    "id": "fizika-magnetizmi-068",
+    "question": "Bobina e një motori elektrik ka 200 mbështjella në formën e spirave katrore me brinjë 20 cm në të cilat rrjedh rryma 1.2A. Kur bobina rrotullohet në një fushë magnetike të njëtrajtshme, vlera maksimale e momentit rrotullues që vepron mbi bobinën është 0.48 Nm. Sa do të jetë vlera e induksionit të fushës magnetike?",
+    "answers": ["0.005 T", "0.05 T", "0.5 T", "5 T"],
+    "correct": 1,
+    "explanation": "Nga M=N·B·I·S → B=0,48/(200·1,2·0,04)=0,05T."
+  },
+  {
+    "id": "fizika-magnetizmi-069",
+    "question": "Një përcjellës drejtvizor me gjatësi 20cm lëviz me shpejtësi konstante 5m/s, duke prerë vijat e forcës së fushës magnetike nën këndin 30°. Vlera e forcës elektromotore të induktuar në përcjellës ka vlerën 1mV. Nëse vlera e shpejtësisë përgjysmohet, sa do të jetë vlera e forcës elektromotore të induktuar në përcjellës kur ai lëviz pingul me vijat e fushës magnetike? (sin30°=0.5; cos30°=0.8)",
+    "answers": ["0.5 mV", "1 mV", "1.5 mV", "2 mV"],
+    "correct": 1,
+    "explanation": "Nga rasti i parë B=1mV/(0,2·5·0,5)=2mT. Tani ε=B·l·(v/2)=2·10⁻³·0,2·2,5=1mV – përgjysmimi i shpejtësisë kompensohet nga kalimi në pozicion pingul."
+  },
+  {
+    "id": "fizika-magnetizmi-070",
+    "question": "Kur një transformator ulës tensioni lidhet me tensionin e rrjetit 180V, rryma që përshkon spirat e dytësorit të tij është 0.3A. Në qoftë se rezistenca e spirave të dytësorit është 2Ω, sa do të jetë rryma në spirat e parësorit?",
+    "answers": ["0.001A", "0.01A", "0.1A", "1A"],
+    "correct": 0,
+    "explanation": "Tensioni i dytësorit U₂=I₂·R=0,3·2=0,6V. Nga barazimi i fuqive I₁=I₂·U₂/U₁=0,3·0,6/180=0,001A."
+  },
+  {
+    "id": "fizika-magnetizmi-071",
+    "question": "Llamba e një abazhuri ka fuqi 66W dhe punon në tensionin 12V. Sa do të jetë rryma në parësorin e transformatorit të abazhurit, kur llamba është e ndezur, nëse tensioni i rrjetit në prizë është 220V?",
+    "answers": ["0.15 A", "0.3 A", "5.5 A", "6 A"],
+    "correct": 1,
+    "explanation": "Duke marrë transformatorin pa humbje, fuqia në parësor është po 66W. Pra I₁=P/U₁=66/220=0,3A."
+  },
+  {
+    "id": "fizika-magnetizmi-072",
+    "question": "Transformatori i laboratorit përdoret për tensionin e rrjetit 220V. Në dalje ai ka disa borno për tensionet 8V, 10V dhe 12V. Sa është numri i plotë i spirave në dytësor, kur dihet që numri i spirave në parësor është 880?",
+    "answers": ["32 spira", "40 spira", "48 spira", "120 spira"],
+    "correct": 2,
+    "explanation": "Bornot janë degëzime të së njëjtës mbështjellje, pra numri i plotë i takon tensionit më të madh: N₂=880·12/220=48 spira. Bornot e tjera janë prizat te spira 32 dhe 40."
+  },
+  {
+    "id": "fizika-magnetizmi-073",
+    "question": "Një përcjellës drejtvizor me gjatësi 20cm lëviz me shpejtësi konstante 5m/s, duke prerë vijat e forcës së fushës magnetike me B=2mT, nën këndin 30°. (sin30°=0.5; cos30°=0.8) Vlera e forcës elektromotore të induktuar në përcjellës do të jetë:",
+    "answers": ["1 mV", "1 V", "1.6 mV", "1.6 V"],
+    "correct": 0,
+    "explanation": "ε=B·l·v·sin30°=2·10⁻³·0,2·5·0,5=1·10⁻³V=1mV."
+  },
+  {
+    "id": "fizika-magnetizmi-074",
+    "question": "Spira drejtkëndëshe me përmasa a=5cm dhe b=10cm vendoset pingul me vijat e një fushë magnetike të njëtrajtshme me induksion 0.6T. Sa do të jetë momenti i forcave magnetike rrotulluese, që vepron mbi spirën, nëse në të rrjedh rryma 4A?",
+    "answers": ["12∙10⁻³ Nm", "6∙10⁻² Nm", "120∙10⁻³ Nm", "60∙10⁻² Nm"],
+    "correct": 0,
+    "explanation": "M=B·I·S=0,6·4·(0,05·0,1)=0,6·4·0,005=12·10⁻³Nm."
+  },
+  {
+    "id": "fizika-magnetizmi-075",
+    "question": "Transformatori i një radioje shndërron tensionin 220V në 8 V. Sa do të ishte tensioni në dytësorin e tij, nëse ai lidhet në të kundërt (të shërbejë si rritës)?",
+    "answers": ["1760 V", "3520 V", "5050 V", "6050 V"],
+    "correct": 3,
+    "explanation": "Koeficienti i shndërrimit është k=220/8=27,5. Duke e lidhur në të kundërt: U=220·27,5=6050V."
+  },
+  {
+    "id": "fizika-magnetizmi-076",
+    "question": "Gjeni rrymën në dytësorin e një transformatori me koeficient shndërrimi 11, i cili jep fuqinë 32W, kur parësori i tij lidhet me rrjetin e qytetit me tension 220V.",
+    "answers": ["0.8 A", "1.6 A", "2.4 A", "3.2 A"],
+    "correct": 1,
+    "explanation": "U₂=220/11=20V. Pastaj I₂=P/U₂=32/20=1,6A."
+  },
+  {
+    "id": "fizika-magnetizmi-077",
+    "question": "Rryma që përshkon spirat e dytësorit të një transformatori me koeficient shndërrimi 8, ka vlerën 3mA. Gjeni rrymën në spirat e parësorit, në qoftë se rendimenti i transformatorit është 75%.",
+    "answers": ["0.5m A", "32 mA", "0.32 A", "5 A"],
+    "correct": 0,
+    "explanation": "Pa humbje do të kishim I₁=I₂/k=3/8=0,375mA; duke marrë parasysh rendimentin I₁=0,375/0,75=0,5mA."
+  },
+  {
+    "id": "fizika-magnetizmi-078",
+    "question": "Gjeni rezistencën e spirave të dytësorit të një transformatori me koeficient shndërrimi 15, i cili jep fuqinë 32W, kur parësori i tij lidhet me rrjetin e qytetit me tension 220V.",
+    "answers": ["0.458 Ω", "4.58 Ω", "6.7 Ω", "67 Ω"],
+    "correct": 2,
+    "explanation": "U₂=220/15≈14,7V dhe I₂=32/14,7≈2,18A. Pastaj R=U₂/I₂≈6,7Ω (ose R=U₂²/P)."
+  },
+  {
+    "id": "fizika-magnetizmi-079",
+    "question": "Një përcjellës drejtvizor ndodhet në një fushë magnetike me induksion 0.01T dhe formon me vijat e fushës këndin 30°. Forca që ushtrohet në çdo 10cm gjatësi të përcjellësit është 0.01N. (sin30°=0.5; cos30°=0.8) Vlera e intensitetit të rrymës që rrjedh në përcjellës është:",
+    "answers": ["1.25 A", "2 A", "12.5 A", "20 A"],
+    "correct": 3,
+    "explanation": "Nga F=B·I·l·sinα → I=0,01/(0,01·0,1·0,5)=20A."
+  },
+  {
+    "id": "fizika-magnetizmi-080",
+    "question": "Në një transformator rritës tensioni, kur në parësor kemi një tension 20V, tensioni në dytësor është 180V. Intensiteti i rrymës në spirat e parësorit është 50mA, ndërsa në spirat e dytësorit është 4.5mA. Sa është rendimenti i transformatorit?",
+    "answers": ["50%", "60.5%", "81%", "100%"],
+    "correct": 2,
+    "explanation": "P₁=20·0,05=1W dhe P₂=180·0,0045=0,81W. Rendimenti η=0,81/1=81%."
+  },
+  {
+    "id": "fizika-magnetizmi-081",
+    "question": "Një përcjellës me gjatësi 50cm dhe peshë 0.02N është vendosur në tryezën e laboratorit në drejtimin lindje-perëndim, ku përbërësja horizontale e fushës magnetike të Tokës është Bh=1.6∙10⁻⁵T. Sa është intensiteti minimal i rrymës dhe kahu i saj që përcjellësi të shkëputet nga tryeza?",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-081.png",
+    "imageAlt": "Përcjellës mbi tryezë në drejtimin lindje-perëndim, i lidhur me burim, në fushën horizontale të Tokës",
+    "answers": ["0.025 mA, nga P-L", "0.025 mA, nga L-P", "2500 A , nga P-L", "2500 A , nga L-P"],
+    "correct": 2,
+    "explanation": "Forca duhet të barazojë peshën: I=G/(B·l)=0,02/(1,6·10⁻⁵·0,5)=2500A. Që forca të dalë vertikalisht lart me fushën për nga Veriu, rryma duhet të rrjedhë nga Perëndimi në Lindje."
+  },
+  {
+    "id": "fizika-magnetizmi-082",
+    "question": "Një spirë prej teli të hollë me sipërfaqe 20cm² e lidhur me një kondensator me kapacitet 10μF, futet në një fushë magnetike, vijat e së cilës shpojnë pingul sipërfaqen e saj. Përcaktoni ngarkesën e pllakave të kondensatorit, nëse induksioni i fushës magnetike ndryshon me shpejtësi 10³T/s.",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-082.png",
+    "imageAlt": "Spirë e lidhur me kondensator, e vendosur pingul me vijat e fushës magnetike",
+    "answers": ["2 mC", "20 mC", "2 μC", "20 μC"],
+    "correct": 3,
+    "explanation": "Fem-ja e induktuar ε=S·ΔB/Δt=20·10⁻⁴·10³=2V. Pastaj q=C·U=10·10⁻⁶·2=20μC."
+  },
+  {
+    "id": "fizika-magnetizmi-083",
+    "question": "Një përcjellës horizontal qëndron i fiksuar horizontalisht midis poleve të një magneti duke qenë i baraslarguar prej tyre. Magneti është vendosur mbi një peshore. Kur në përcjellës nuk rrjedh rrymë peshorja tregon 102.45g, ndërsa kur në përcjellës kalon rryma 2A, peshorja tregon 99.05g. Sa është gjatësia e përcjellësit që ndodhet brenda fushës, nëse induksioni i fushës B=0.068T? (g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-083.png",
+    "imageAlt": "Përcjellës i fiksuar midis poleve të një magneti të vendosur mbi peshore",
+    "answers": ["0.25 cm", "0.25 dm", "0.25 m", "2.5 m"],
+    "correct": 2,
+    "explanation": "Ndryshimi i leximit është 3,4g, pra forca F=3,4·10⁻³·10=0,034N. Nga F=B·I·l → l=0,034/(0,068·2)=0,25m."
+  },
+  {
+    "id": "fizika-magnetizmi-084",
+    "question": "Joni i heliumit e ka masën m=6.69∙10⁻²⁷ kg. Pasi përshpejtohet në fushën elektrike me tension 1kV, ai futet pingul me vijat e forcës së fushës magnetike. Gjeni vlerën e induksionit të kësaj fushe nëse rrezja e rrethit që përshkon joni është 10 cm. (qHe+= 1.6∙10⁻¹⁹C)",
+    "answers": ["0.009 T", "0.09T", "0.9T", "9 T"],
+    "correct": 1,
+    "explanation": "Nga qU=mv²/2 dhe r=mv/(qB) del B=√(2mU/q)/r=√(2·6,69·10⁻²⁷·1000/1,6·10⁻¹⁹)/0,1≈0,09T."
+  },
+  {
+    "id": "fizika-magnetizmi-085",
+    "question": "Një rrotë biçiklete është montuar në një bosht horizontal dhe ndodhet në një fushë magnetike të njëtrajtshme. Mbi perimetrin metalik të rrotës dhe mbi bosht janë vendosur kontakte rrëshqitëse. Kur rrota kryen 5 rrotullime në sekondë, forca elektomotore e induktuar ndërmjet kontakteve ka vlerën 1.8mV. Gjeni induksionin e fushës magnetike kur dihet se rrezja e rrotës është 20cm. (π≈3)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-085.png",
+    "imageAlt": "Rrotë biçiklete që rrotullohet në fushë magnetike me kontakte rrëshqitëse te boshti dhe perimetri",
+    "answers": ["0.003 T", "0.03T", "0.3T", "3 T"],
+    "correct": 0,
+    "explanation": "Për një tel që rrotullohet ε=½B·ω·r², me ω=2πn=2·3·5=30rad/s. Pra B=2ε/(ω·r²)=2·1,8·10⁻³/(30·0,04)=0,003T."
+  },
+  {
+    "id": "fizika-magnetizmi-086",
+    "question": "Një shufër përcjellëse me rezistencë 2Ω lëviz pingul me vijat e fushës magnetike me induksion 6T, me shpejtësi 4m/s. Nëse forca magnetike që vepron mbi shufrën është 18N, sa do të jetë gjatësia e shufrës?",
+    "answers": ["20 cm", "40 cm", "50 cm", "100 cm"],
+    "correct": 2,
+    "explanation": "Duke bashkuar ε=Blv, I=ε/R dhe F=BIl del F=B²l²v/R. Pra l²=F·R/(B²v)=18·2/(36·4)=0,25 → l=0,5m=50cm."
+  },
+  {
+    "id": "fizika-magnetizmi-087",
+    "question": "Një përcjellës i lëvizshëm AB mund të rrëshqasë mbi dy shina metalike të lidhura me një burim si në figurë. Nëse në qark kalon rryma 2A dhe gjatësia e përcjellësit që ndodhet brenda fushës është 10cm, gjeni induksionin e fushës magnetike, në mënyrë që masa e varur 5g të qëndrojë në baraspeshë.",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-087.png",
+    "imageAlt": "Përcjellës i lëvizshëm AB mbi shina, i lidhur me burim dhe me një masë të varur me fill",
+    "answers": ["0.25 mT", "0.25 T", "2.5 mT", "2.5 T"],
+    "correct": 1,
+    "explanation": "Forca magnetike duhet të balancojë peshën: B=mg/(I·l)=0,005·10/(2·0,1)=0,25T."
+  },
+  {
+    "id": "fizika-magnetizmi-088",
+    "question": "Një kornizë katrore me brinjë 5cm përmban 100 spira. Ajo vendoset pingul me vijat e forcës së një fushe magnetike homogjene me induksion 0,6T, si në figurë. Korniza del nga zona ku vepron fusha për një interval kohor 0.1s. Gjeni energjinë e çliruar në kornizë nga rryma e induktuar duke ditur se rezistenca e saj është 100Ω.",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-088.png",
+    "imageAlt": "Kornizë katrore me 100 spira që del nga zona e fushës magnetike",
+    "answers": ["2.25μJ", "2.25mJ", "22.5J", "225J"],
+    "correct": 1,
+    "explanation": "ΔΦ=N·B·a²=100·0,6·0,0025=0,15Wb, pra ε=0,15/0,1=1,5V. Energjia W=ε²·t/R=2,25·0,1/100=2,25·10⁻³J=2,25mJ."
+  },
+  {
+    "id": "fizika-magnetizmi-089",
+    "question": "Tufa e joneve që lëviz me shpejtësi 2∙10⁸m/s kalon pa u shmangur nëpër fushën elektrike të krijuar midis pllakave të një kondensatori me largësi 2cm dhe diferencë potenciali 1kV, dhe një fushe magnetike me induksion B. Gjeni induksionin e fushës magnetike.",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-089.png",
+    "imageAlt": "Tufë jonesh që kalon nëpër fusha elektrike dhe magnetike të kryqëzuara",
+    "answers": ["0.25 mT", "0.25 T", "2.5 mT", "2.5 T"],
+    "correct": 0,
+    "explanation": "Për të kaluar pa u shmangur duhet qE=qvB. E=U/d=1000/0,02=5·10⁴V/m, pra B=E/v=5·10⁴/2·10⁸=2,5·10⁻⁴T=0,25mT."
+  },
+  {
+    "id": "fizika-magnetizmi-090",
+    "question": "Gjeni tensionin e përshpejtimit të elektroneve në mënyrë që tufa e elektroneve të kalojë pa u shmangur nëpër fushën elektrike me intensitet 6∙10⁵V/m dhe fushën magnetike me induksion 3mT. (me=9.11∙10⁻³¹kg; e=1.6∙10⁻¹⁹C)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-090.png",
+    "imageAlt": "Tufë elektronesh që kalon nëpër fusha elektrike dhe magnetike të kryqëzuara",
+    "answers": ["1.14 V", "11.4 V", "114 V", "114 kV"],
+    "correct": 3,
+    "explanation": "Nga kushti i mosshmangies v=E/B=6·10⁵/3·10⁻³=2·10⁸m/s. Pastaj U=mv²/(2e)=9,11·10⁻³¹·4·10¹⁶/(3,2·10⁻¹⁹)≈114kV."
+  },
+  {
+    "id": "fizika-magnetizmi-091",
+    "question": "Joni me ngarkesë q=+2e hyn pingul në fushën magnetike me induksion 0.05T pasi përshpejtohet në tensionin 500V dhe përshkon një trajektore rrethore me rreze 20cm, gjeni periodën e rrotullimit të tij. (π≈3)",
+    "answers": ["12 ms", "12 μs", "1.2 s", "12 s"],
+    "correct": 1,
+    "explanation": "Nga qU=mv²/2 dhe r=mv/(qB) del m=qB²r²/(2U)=3,2·10⁻²⁶kg. Pastaj T=2πm/(qB)=6·3,2·10⁻²⁶/(3,2·10⁻¹⁹·0,05)=1,2·10⁻⁵s=12μs."
+  },
+  {
+    "id": "fizika-magnetizmi-092",
+    "question": "Një shufër përcjellëse AB me masë 50g dhe gjatësi 40cm, është varur në dy susta vertikale të lidhura me një burim rryme si në figurë. Shufra është vendosur pingul me vijat e forcës së fushës magnetike, të cilat kanë drejtimin pingul me planin e fletës dhe kah hyrës tek ajo, me induksion 0.5T. Cili është kahu i rrymës dhe vlera e saj në mënyrë që sustat të mos shformohen? (g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-092.png",
+    "imageAlt": "Shufra AB e varur në dy susta vertikale, në fushë magnetike hyrëse në fletë",
+    "answers": ["0.025 A, nga B në A", "0.025 A, nga A në B", "2.5 A, nga B në A", "2.5 A, nga A në B"],
+    "correct": 3,
+    "explanation": "Që sustat të mos shformohen, forca magnetike duhet të mbajë peshën: I=mg/(B·l)=0,5/(0,5·0,4)=2,5A. Me fushën hyrëse në fletë, forca del lart vetëm kur rryma rrjedh nga A në B."
+  },
+  {
+    "id": "fizika-magnetizmi-093",
+    "question": "Skajet e një bobine lidhen me një rezistencë 10Ω. Induksioni magnetik pingul me sipërfaqen e bazës së spirave të saj rritet nga 2T në 6T për 0.1s. Sipërfaqja e spirave të bobinës është 80cm². Sa do të jetë numri i spirave të bobinës nëse ngarkesa që kalon në bobinë është 6.4C?",
+    "answers": ["2 spira", "20 spira", "200 spira", "2000 spira"],
+    "correct": 3,
+    "explanation": "Nga q=N·ΔΦ/R → N=q·R/ΔΦ=6,4·10/(4·80·10⁻⁴)=64/0,032=2000 spira."
+  },
+  {
+    "id": "fizika-magnetizmi-094",
+    "question": "Një shufër përcjellëse me gjatësi 0.5m lëviz pingul me vijat e fushës magnetike me induksion 6T, me shpejtësi 4m/s. Nëse rezistenca e saj është 2Ω, sa do të jetë forca magnetike që vepron mbi shufrën?",
+    "answers": ["0.9 N", "3 N", "4.5 N", "18 N"],
+    "correct": 3,
+    "explanation": "ε=Blv=6·0,5·4=12V, pra I=12/2=6A. Atëherë F=B·I·l=6·6·0,5=18N."
+  },
+  {
+    "id": "fizika-magnetizmi-095",
+    "question": "Një përcjellës i drejtë qëndron i fiksuar horizontalisht midis poleve të një magneti duke qenë i baraslarguar prej tyre. Magneti është vendosur mbi një peshore. Kur në përcjellës rrjedh rryma 2.6A sipas drejtimit BA, leximi i peshores rritet me 2.6g. Gjatësia e përcjellësit që ndodhet brenda fushës është 5cm. Sa është induksioni i fushës magnetike midis poleve të magnetit? (g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-095.png",
+    "imageAlt": "Përcjellës horizontal midis poleve të magnetit të vendosur mbi peshore",
+    "answers": ["0.2 mT", "0.2 T", "2 T", "20 T"],
+    "correct": 1,
+    "explanation": "Rritja e leximit i përgjigjet forcës F=2,6·10⁻³·10=0,026N. Nga F=B·I·l → B=0,026/(2,6·0,05)=0,2T."
+  },
+  {
+    "id": "fizika-magnetizmi-096",
+    "question": "Midis skajeve A dhe C të dy shinave paralele dhe vertikale, lidhet rezistenca 5Ω. Mbi shina rrëshqet pa fërkim dhe pa e shkëputur kontaktin shufra EF me gjatësi 50cm dhe masë 10g. Gjithë sistemi ndodhet në një fushë magnetike me induksion 0.5T. Përcaktoni shpejtësinë me të cilën rrëshqet shufra. (g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-096.png",
+    "imageAlt": "Shufra EF që rrëshqet mbi dy shina vertikale të lidhura me rezistencë, në fushë magnetike",
+    "answers": ["2 m/s", "4 m/s", "6 m/s", "8 m/s"],
+    "correct": 3,
+    "explanation": "Shpejtësia bëhet konstante kur forca magnetike barazon peshën: mg=B²l²v/R. Pra v=mgR/(B²l²)=0,1·5/(0,25·0,25)=8m/s."
+  },
+  {
+    "id": "fizika-magnetizmi-097",
+    "question": "Spira rrethore ndodhet në një fushë magnetike me induksion 0.6T, vijat e induksionit të së cilës shpojnë pingul planin e spirës. Nëse diametri i spirës rritet nga 6cm në 24cm për 0.5s, sa është rryma që rrjedh në spirë nëse rezistenca e saj është 20Ω? (π≈3)",
+    "answers": ["2.43 mA", "2.43 A", "24.3 mA", "24.3 A"],
+    "correct": 0,
+    "explanation": "ΔΦ=B·π(r₂²-r₁²)=0,6·3·(0,0144-0,0009)=0,0243Wb, pra ε=0,0243/0,5=0,0486V. Atëherë I=0,0486/20≈2,43mA."
+  },
+  {
+    "id": "fizika-magnetizmi-098",
+    "question": "Një përcjellës i lëvizshëm AB mund të rrëshqasë mbi dy shina metalike të lidhura me një burim si në figurë. Nëse induksioni i fushës magnetike ka vlerën 2T dhe gjatësia e përcjellësit që ndodhet brenda fushës është 10cm, gjeni intensitetin e rrymës që duhet të kalojë në përcjellës, në mënyrë që masa e varur 10g të qëndrojë në baraspeshë. (g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-098.png",
+    "imageAlt": "Përcjellës i lëvizshëm AB mbi shina me një masë 10g të varur",
+    "answers": ["0.05mA", "0.05A", "0.5mA", "0.5A"],
+    "correct": 3,
+    "explanation": "Nga kushti i baraspeshës B·I·l=mg → I=0,01·10/(2·0,1)=0,5A."
+  },
+  {
+    "id": "fizika-magnetizmi-099",
+    "question": "Një shufër përcjellëse AB me masë 40g dhe gjatësi 50cm, është varur në dy susta vertikale të lidhura me një burim rryme si në figurë. Shufra është vendosur në një fushë magnetike, vijat e forcës të së cilës formojnë këndin 60° me përcjellësin AB. Sa duhet të jetë vlera e induksionit të fushës magnetike, në mënyrë që kur në përcjellës të kalojë rryma 2A, sustat të mos shformohen? (sin60°=0.8; cos60°=0.5; g≈10m/s²)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-099.png",
+    "imageAlt": "Shufra AB e varur në dy susta, me fushën magnetike që formon kënd 60° me të",
+    "answers": ["0.005 T", "0.008 T", "0.5 T", "0.8 T"],
+    "correct": 2,
+    "explanation": "Nga B·I·l·sin60°=mg → B=0,4/(2·0,5·0,8)=0,5T."
+  },
+  {
+    "id": "fizika-magnetizmi-100",
+    "question": "Një rrotë biçiklete është montuar në një bosht horizontal dhe ndodhet në një fushë magnetike të njëtrajtshme me induksion 5mT. Mbi perimetrin metalik të rrotës dhe mbi boshtin e saj janë vendosur kontakte rrëshqitëse. Nëse rrezja e rrotës është 20cm, sa duhet të jetë numri i rrotullimeve të rrotës në një minutë, në mënyrë që forca elektromotore e induktuar ndërmjet kontakteve të ketë vlerën 1.5mV? (π≈3)",
+    "image": "/question-images/fizika/magnetizmi/magnetizmi-100.png",
+    "imageAlt": "Rrotë biçiklete në fushë magnetike me kontakte rrëshqitëse te boshti dhe perimetri",
+    "answers": ["2.5 rrot/min", "15 rrot/min", "25 rrot/min", "150 rrot/min"],
+    "correct": 3,
+    "explanation": "Nga ε=½B·ω·r² → ω=2·1,5·10⁻³/(5·10⁻³·0,04)=15rad/s. Pra n=ω/2π=2,5 rrot/s, që janë 150 rrot/min."
+  }
+]

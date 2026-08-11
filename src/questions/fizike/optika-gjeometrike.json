@@ -1,1 +1,486 @@
-[]
+[
+  {
+    "id": "fizika-optika-gjeometrike-001",
+    "question": "Treguesi i përthyerjes në një mjedis të tejdukshëm është:",
+    "answers": ["një numër çfarëdo, por pozitiv", "një numër midis 0 dhe 1", "një numër më i madh ose i barabartë me 1", "një numër çfarëdo"],
+    "correct": 2,
+    "explanation": "n=c/v, ku c është shpejtësia e dritës në zbrazëti dhe asnjë mjedis nuk e lejon dritën të lëvizë më shpejt se c. Prandaj n≥1, me n=1 për zbrazëtinë."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-002",
+    "question": "Këndi i rënies është:",
+    "answers": ["Këndi midis rrezes rënëse dhe sipërfaqes pasqyruese", "Këndi midis rrezes rënëse dhe rrezes së pasqyruar", "Këndi midis normales dhe sipërfaqes pasqyruese", "Këndi midis normales dhe rrezes rënëse"],
+    "correct": 3,
+    "explanation": "Të gjithë këndet në optikë maten nga normalja (pingulja mbi sipërfaqe), jo nga vetë sipërfaqja. Prandaj këndi i rënies është ai midis normales dhe rrezes rënëse."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-003",
+    "question": "Shëmbëllimi i një objekti të dhënë nga një pasqyrë e rrafshët është:",
+    "answers": ["i zvogëluar", "i përmbysur", "virtual", "real"],
+    "correct": 2,
+    "explanation": "Rrezet nuk priten realisht pas pasqyrës – priten vetëm zgjatimet e tyre. Prandaj shëmbëllimi është virtual, i drejtë dhe me përmasa të njëjta me objektin."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-004",
+    "question": "Në pasqyrimin e dritës mund të dallohen dy plane: ai i rënies dhe ai i pasqyrimit. Cili nga pohimet e mëposhtme është i vërtetë në lidhje me dy planet?",
+    "answers": ["Dy planet përputhen", "Dy planet janë paralelë", "Dy planet janë pingulë", "Dy planet janë të ndryshëm"],
+    "correct": 0,
+    "explanation": "Ligji i parë i pasqyrimit thotë se rrezja rënëse, normalja dhe rrezja e pasqyruar ndodhen në të njëjtin plan. Pra plani i rënies dhe ai i pasqyrimit përputhen."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-005",
+    "question": "Sa është këndi i rënies së dritës, nëse rrezja e pasqyruar formon me rrezen rënëse këndin 50°?",
+    "answers": ["25°", "40°", "50°", "65°"],
+    "correct": 0,
+    "explanation": "Këndi midis rrezes rënëse dhe asaj të pasqyruar është 2i, sepse këndi i rënies barazohet me atë të pasqyrimit. Pra i=50°/2=25°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-006",
+    "question": "Me sa gradë ndryshon këndi ndërmjet rrezes rënëse dhe të pasqyruar nëse këndi i rënies zvogëlohet me 10°?",
+    "answers": ["Zvogëlohet me 10°", "Zvogëlohet me 20°", "Rritet me 10°", "Rritet me 20°"],
+    "correct": 1,
+    "explanation": "Këndi ndërmjet dy rrezeve është 2i. Kur i zvogëlohet me 10°, ky kënd zvogëlohet me 2·10°=20°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-007",
+    "question": "Në figurë tregohen rrugët e kalimit të disa rrezeve të dritës nga uji në ajër. Cila nga rrezet e dritës ka pësuar pasqyrim të plotë?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-007.png",
+    "imageAlt": "Katër rreze drite që nisen nga burimi S në ujë dhe takojnë sipërfaqen ujë-ajër me kënde të ndryshme",
+    "answers": ["Rrezja 1", "Rrezja 2", "Rrezja 3", "Rrezja 4"],
+    "correct": 3,
+    "explanation": "Pasqyrim i plotë ndodh kur këndi i rënies i kalon këndin kufi dhe drita nuk del fare në ajër. Vetëm rrezja 4 kthehet e tëra brenda ujit."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-008",
+    "question": "Cili nga pohimet e mëposhtme, lidhur me pasqyrimin e plotë të brendshëm, është i saktë?",
+    "answers": ["Për këndet më të vegjël se këndi kufi nuk ka pasqyrim të plotë.", "Pasqyrimi i plotë i brendshëm e ka këndin e rënies 90°.", "Nuk ka pasqyrim të plotë të brendshëm kur rrezja kalon nga një mjedis më i dendur në një tjetër më pak të dendur.", "Kur drita kalon nga xhami në ujë ka gjithmonë pasqyrim të plotë të brendshëm."],
+    "correct": 0,
+    "explanation": "Kushti i pasqyrimit të plotë është kalimi nga mjedis më i dendur në më pak të dendur dhe kënd rënieje mbi këndin kufi. Nën këtë kënd drita ende del jashtë, pra pohimi i parë është i saktë."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-009",
+    "question": "Në figurë tregohen disa diagrame për rrezet e dritës që bien në thjerrën përmbledhëse. Cili nga diagramat tregon saktë rrugën e rrezeve pas përthyerjes?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-009.png",
+    "imageAlt": "Katër diagrame A, B, C, D me rrezet që bien mbi një thjerrë përmbledhëse",
+    "answers": ["diagrami A", "diagrami B", "diagrami C", "diagrami D"],
+    "correct": 1,
+    "explanation": "Thjerra përmbledhëse i afron rrezet: rrezet paralele me boshtin mblidhen në vatër pas thjerrës. Vetëm diagrami B tregon këtë përmbledhje, ndërsa të tjerët japin shpërndarje ose prerje të gabuar."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-010",
+    "question": "Një material plastik ka këndin kufi në lidhje me ajrin, të barabartë me 45°. Vlera numerike e treguesit të tij të përthyerjes është:",
+    "answers": ["1,4", "1,6", "1,8", "2.4"],
+    "correct": 0,
+    "explanation": "Nga sin(ikufi)=1/n → n=1/sin45°=1/0,707≈1,41."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-011",
+    "question": "Kur drita kalon nga xhami (n₁=1,5) në ajër (n₂=1), vlera e këndit kufi është:",
+    "answers": ["30°", "42°", "45°", "60°"],
+    "correct": 1,
+    "explanation": "sin(ikufi)=n₂/n₁=1/1,5=0,667, prej nga ikufi≈42°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-012",
+    "question": "Një rreze drite bie nga ajri mbi një pllakë qelqi me faqe paralele nën këndin 60°. Vlera e këndit me të cilën rrezja del përsëri në ajër është:",
+    "answers": ["30°", "60°", "90°", "120°"],
+    "correct": 1,
+    "explanation": "Në një pllakë me faqe paralele përthyerja hyrëse dhe ajo dalëse anulojnë njëra-tjetrën. Rrezja del paralel me atë hyrëse, pra me të njëjtin kënd 60°, vetëm e zhvendosur anash."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-013",
+    "question": "Një rreze bie mbi një pasqyrë të rrafshët dhe rrezja e pasqyruar shmanget me 72° nga rrezja rënëse. Këndi i rënies është:",
+    "answers": ["72°", "60°", "36°", "18°"],
+    "correct": 2,
+    "explanation": "Këndi ndërmjet rrezes rënëse dhe asaj të pasqyruar është 2i, pra i=72°/2=36°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-014",
+    "question": "Përpara një pasqyre të rrafshët vertikale qëndron një njeri. Si ndryshon distanca midis njeriut dhe shëmbëllimit të tij, nëse njeriu afrohet tek pasqyra me 1m?",
+    "answers": ["Zvogëlohet me 1m", "Zvogëlohet me 2m", "Rritet me 1m", "Rritet me 2m"],
+    "correct": 1,
+    "explanation": "Shëmbëllimi ndodhet gjithmonë aq larg pas pasqyrës sa është njeriu përpara saj, pra largësia e ndërsjellë është 2d. Kur d zvogëlohet me 1m, distanca zvogëlohet me 2m."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-015",
+    "question": "Një rreze drite përshkon një bllok materiali të tejdukshëm, me formë kuboidi. Rrezja bie me një kënd prej 60°, mbi sipërfaqen e ndarjes së bllokut me ajrin (si në figurë në faqen DC). Këndi me të cilën bie rrezja e pasqyruar në faqen CB është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-015.png",
+    "imageAlt": "Bllok kuboid ABCD me rreze drite që bie në faqen DC nën këndin 60°",
+    "answers": ["30°", "45°", "60°", "90°"],
+    "correct": 0,
+    "explanation": "Faqet DC dhe CB janë pingule, prandaj edhe normalet e tyre janë pingule. Nëse në faqen e parë këndi është 60°, në të dytën ai bëhet 90°-60°=30°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-016",
+    "question": "Treguesi i përthyerjes së mjedisit, në të cilin shpejtësia e përhapjes së dritës është 2,25m/s x 10⁸, ka vlerën:",
+    "answers": ["1,33", "1,42", "1,5", "2,4"],
+    "correct": 0,
+    "explanation": "n=c/v=3·10⁸/2,25·10⁸=1,33 – vlera tipike e ujit."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-017",
+    "question": "Një rreze drite përhapet në ajër dhe bie mbi një trup që ka tregues përthyerje n. Lidhja midis këndit të rënies dhe të përthyerjes për këtë situatë është:",
+    "answers": ["α=β", "sinα/sinβ = n", "sinβ/sinα = n", "α/β = n"],
+    "correct": 1,
+    "explanation": "Ligji i Snelit: n₁sinα=n₂sinβ. Meqë rrezja vjen nga ajri (n₁=1), del sinα/sinβ=n. Raporti i vetë këndeve nuk vlen, vetëm i sinuseve."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-018",
+    "question": "Këndi kufi në thyerjen xham-ajër është rreth 42°. Dy rreze drite të cilat përhapen në një trup xhami bien në sipërfaqen e ndarjes xham-ajër me kënde përkatësisht 30° dhe 45°. Çfarë ndodh me rrezet?",
+    "answers": ["Rrezet pasqyrohen dhe përthyhen të dyja", "Rrezja e parë pasqyrohet dhe përthyhet, e dyta vetëm përthyhet", "Rrezja e parë pasqyrohet dhe përthyhet, e dyta vetëm pasqyrohet", "Rrezja e parë pasqyrohet, e dyta edhe pasqyrohet edhe përthyhet"],
+    "correct": 2,
+    "explanation": "30°<42°, pra rrezja e parë del pjesërisht (përthyhet dhe pjesërisht pasqyrohet). 45°>42°, pra e dyta pëson pasqyrim të plotë dhe nuk del fare."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-019",
+    "question": "Drita përhapet në një të miliontën e sekondës, në tri mjedise të ndryshme: në ajër, në xham dhe në ujë. Largësitë e përshkuara nga drita në këto mjedise janë:",
+    "answers": ["të barabarta", "largësia në xham është më e madhja dhe ajo në ajër më e vogla", "largësia në ujë është më e madhja dhe ajo në xham më e vogla", "largësia në ajër është më e madhja dhe në xham më e vogla"],
+    "correct": 3,
+    "explanation": "Për të njëjtën kohë s=v·t, pra rruga është më e gjatë atje ku shpejtësia është më e madhe. Meqë n(ajër)<n(ujë)<n(xham), shpejtësia është më e madhe në ajër dhe më e vogël në xham."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-020",
+    "question": "Një rreze drite përshkon një diamant me tregues përthyerje n = 2,4 dhe bie mbi një faqe me këndin 30°. Çfarë ndodh me rrezen?",
+    "answers": ["Rrezja del nga diamanti duke ju larguar normales në pikën ku ra", "Rrezja del nga diamanti duke ju afruar normales në pikën ku ra", "Rrezja del nga diamanti pandryshuar rrugën", "Rrezja vazhdon rrugën brenda në diamant"],
+    "correct": 3,
+    "explanation": "Këndi kufi i diamantit është sin⁻¹(1/2,4)≈24,6°. Meqë 30° është më i madh se ky kufi, ndodh pasqyrim i plotë dhe drita mbetet brenda gurit – prej nga vjen shkëlqimi i tij."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-021",
+    "question": "Një trekëndësh kënddrejtë dybrinjënjëshëm me katet AB=5cm dhe AC=5cm vendoset para një pasqyre të rrafshët. Kulmi A ndodhet 10cm larg pasqyrës, kulmi B ndodhet 5cm larg dhe kulmi C 10cm larg saj. Gjatësia e kateteve A`B` dhe A`C` është:",
+    "answers": ["A`B`=10cm dhe A`C`=10cm", "A`B`=5cm dhe A`C`=10cm", "A`B`=10cm dhe A`C`=5cm", "A`B`=5cm dhe A`C`=5cm"],
+    "correct": 3,
+    "explanation": "Pasqyra e rrafshët jep shëmbëllim me përmasa të njëjta me objektin (zmadhimi është 1). Prandaj katetet e shëmbëllimit mbeten 5cm secili."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-022",
+    "question": "Një trekëndësh kënddrejtë dybrinjënjëshëm me katet AB=5cm dhe AC=5cm vendoset para një pasqyre të rrafshët. Kulmi A ndodhet 10cm larg pasqyrës, kulmi B ndodhet 5cm larg dhe kulmi C 10cm larg saj. Largësia midis kulmit A dhe A` është:",
+    "answers": ["5cm", "10cm", "15cm", "20cm"],
+    "correct": 3,
+    "explanation": "Shëmbëllimi ndodhet po aq larg pas pasqyrës sa objekti përpara saj. Pra AA`=2·10cm=20cm."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-023",
+    "question": "Pas kalimit të dritës së bardhë nëpër qelqin e pastër me ngjyrë blu, drita dalëse është blu sepse:",
+    "answers": ["qelqi pasqyron vetëm dritë blu", "qelqi lejon dritën blu dhe përthith gjithë ngjyrat e tjera", "drita e bardhë i përmban të gjitha ngjyrat", "qelqi përthith ngjyrën blu dhe transmeton gjithë ngjyrat e tjera"],
+    "correct": 1,
+    "explanation": "Një filtër me ngjyrë transmeton ngjyrën e vet dhe përthith të tjerat. Prandaj nga drita e bardhë del vetëm përbërësja blu."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-024",
+    "question": "Largësia nga thjerra përmbledhëse, ku duhet të vendoset llamba me hark karbonik për të fituar tufë rrezesh paralele, është:",
+    "answers": ["Gjysma e largësisë vatrore", "Distanca e largësisë vatrore", "Dyfishi i largësisë vatrore", "Katrori i largësisë vatrore"],
+    "correct": 1,
+    "explanation": "Burimi i vendosur pikërisht në vatër jep rreze dalëse paralele me boshtin optik. Ky është parimi i projektorëve dhe i fenerëve."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-025",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-025.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN të vendosur para pikës 2F",
+    "answers": ["Real, i zvogëluar", "Real, i zmadhuar", "Virtual, i zvogëluar", "Virtual, i zmadhuar"],
+    "correct": 0,
+    "explanation": "Objekti ndodhet më larg se 2F nga thjerra përmbledhëse. Në këtë rast shëmbëllimi bie midis F dhe 2F në anën tjetër: real, i përmbysur dhe i zvogëluar."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-026",
+    "question": "Gjatë kalimit të një rrezeje drite nga një mjedis në një tjetër, këndi i rënies është i barabartë me 60°, kurse këndi i përthyerjes është 30°. Përcaktoni treguesin e përthyerjes së mjedisit të dytë në lidhje me të parin.",
+    "answers": ["0,5", "0,6", "1", "1,7"],
+    "correct": 3,
+    "explanation": "n=sin60°/sin30°=0,866/0,5≈1,7. Vlera mbi 1 tregon se mjedisi i dytë është më i dendur optikisht."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-027",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-027.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN midis pikave 2F dhe F",
+    "answers": ["Real, i zvogëluar", "Real, i zmadhuar", "Virtual, i zvogëluar", "Virtual, i zmadhuar"],
+    "correct": 1,
+    "explanation": "Objekti ndodhet midis F dhe 2F. Shëmbëllimi del përtej 2F në anën tjetër: real, i përmbysur dhe i zmadhuar – parimi i projektorit."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-028",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-028.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN midis vatrës F dhe thjerrës",
+    "answers": ["Real, i zvogëluar", "Real, i zmadhuar", "Virtual, i zvogëluar", "Virtual, i zmadhuar"],
+    "correct": 3,
+    "explanation": "Kur objekti është më afër se vatra, rrezet dalëse divergjojnë dhe priten vetëm zgjatimet e tyre. Shëmbëllimi është virtual, i drejtë dhe i zmadhuar – parimi i lupës."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-029",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-029.png",
+    "imageAlt": "Thjerrë shpërndarëse me objektin MN të vendosur para saj",
+    "answers": ["Real, i zvogëluar", "Real, i zmadhuar", "Virtual, i zvogëluar", "Virtual, i zmadhuar"],
+    "correct": 2,
+    "explanation": "Thjerra shpërndarëse jep gjithmonë të njëjtin lloj shëmbëllimi, pavarësisht pozicionit të objektit: virtual, i drejtë dhe i zvogëluar."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-030",
+    "question": "Drejtëza MN paraqet boshtin optik kryesor të një thjerre, AB paraqet një objekt, kurse A`B` shëmbëllimin e tij. Thjerra që ka dhënë këtë shëmbëllim është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-030.png",
+    "imageAlt": "Objekti AB nën boshtin optik dhe shëmbëllimi A`B` mbi bosht, në anën e kundërt",
+    "answers": ["Përmbledhëse dhe ndodhet brenda segmentit BB`", "Shpërndarëse dhe ndodhet brenda segmentit BB`", "Përmbledhëse dhe ndodhet jashtë segmentit BB`", "Shpërndarëse dhe ndodhet jashtë segmentit BB`"],
+    "correct": 0,
+    "explanation": "Shëmbëllimi është i përmbysur dhe në anën e kundërt të objektit – pra real, gjë që e jep vetëm thjerra përmbledhëse. Në këtë rast thjerra ndodhet detyrimisht midis objektit dhe shëmbëllimit, brenda segmentit BB`."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-031",
+    "question": "Drejtëza MN paraqet boshtin optik kryesor të një thjerre, AB paraqet një objekt, kurse A`B` shëmbëllimin e tij. Thjerra që ka dhënë këtë shëmbëllim është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-031.png",
+    "imageAlt": "Objekti AB mbi boshtin optik dhe shëmbëllimi A`B` i përmbysur nën bosht, më djathtas",
+    "answers": ["Përmbledhëse dhe ndodhet brenda segmentit BB`", "Shpërndarëse dhe ndodhet brenda segmentit BB`", "Shpërndarëse dhe ndodhet jashtë segmentit BB`", "Përmbledhëse dhe ndodhet jashtë segmentit BB`"],
+    "correct": 0,
+    "explanation": "Shëmbëllimi i përmbysur do të thotë shëmbëllim real, pra thjerrë përmbledhëse. Rrezet duhet të kalojnë nëpër thjerrë para se të priten, prandaj ajo ndodhet brenda segmentit BB`."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-032",
+    "question": "Drejtëza MN paraqet boshtin optik kryesor të një thjerre, AB paraqet një objekt, kurse A`B` shëmbëllimin e tij. Thjerra që ka dhënë këtë shëmbëllim është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-032.png",
+    "imageAlt": "Objekti AB dhe shëmbëllimi A`B` i drejtë, më i vogël, në të njëjtën anë të boshtit",
+    "answers": ["Përmbledhëse dhe ndodhet brenda segmentit BB`", "Shpërndarëse dhe ndodhet brenda segmentit BB`", "Shpërndarëse dhe ndodhet jashtë segmentit BB`", "Përmbledhëse dhe ndodhet jashtë segmentit BB`"],
+    "correct": 2,
+    "explanation": "Shëmbëllimi është i drejtë dhe i zvogëluar, gjë që e jep vetëm thjerra shpërndarëse. Shëmbëllimi virtual bie midis objektit dhe thjerrës, pra thjerra mbetet jashtë segmentit BB`."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-033",
+    "question": "Drejtëza MN paraqet boshtin optik kryesor të një thjerre, AB paraqet një objekt, kurse A`B` shëmbëllimin e tij. Thjerra që ka dhënë këtë shëmbëllim është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-033.png",
+    "imageAlt": "Objekti AB dhe shëmbëllimi A`B` i drejtë dhe i zmadhuar, në të njëjtën anë të boshtit",
+    "answers": ["Përmbledhëse dhe ndodhet brenda segmentit BB`", "Përmbledhëse dhe ndodhet jashtë segmentit BB`", "Shpërndarëse dhe ndodhet jashtë segmentit BB`", "Shpërndarëse dhe ndodhet brenda segmentit BB`"],
+    "correct": 1,
+    "explanation": "Shëmbëllimi është i drejtë dhe i zmadhuar – kjo ndodh vetëm te thjerra përmbledhëse kur objekti është brenda vatrës. Shëmbëllimi virtual del në të njëjtën anë por më larg, pra thjerra ndodhet jashtë segmentit BB`."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-034",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-034.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN përtej pikës 2F",
+    "answers": ["Real, i drejtë", "Real, i përmbysur", "Virtual, i drejtë", "Virtual, i përmbysur"],
+    "correct": 1,
+    "explanation": "Objekti ndodhet jashtë vatrës së thjerrës përmbledhëse, prandaj rrezet priten realisht pas saj. Çdo shëmbëllim real i dhënë nga thjerra është i përmbysur."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-035",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-035.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN midis 2F dhe F",
+    "answers": ["I drejtë, i zvogëluar", "I drejtë, i zmadhuar", "I përmbysur, i zvogëluar", "I përmbysur, i zmadhuar"],
+    "correct": 3,
+    "explanation": "Kur objekti është midis F dhe 2F te thjerra përmbledhëse, shëmbëllimi del përtej 2F: real, i përmbysur dhe i zmadhuar."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-036",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-036.png",
+    "imageAlt": "Thjerrë përmbledhëse me objektin MN të vendosur para vatrës",
+    "answers": ["Real, i drejtë", "Real, i përmbysur", "Virtual, i drejtë", "Virtual, i përmbysur"],
+    "correct": 1,
+    "explanation": "Objekti ndodhet jashtë vatrës, pra thjerra përmbledhëse jep shëmbëllim real. Shëmbëllimet reale nga thjerrat janë gjithmonë të përmbysura."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-037",
+    "question": "Në figurë tregohet një thjerrë, pozicioni i boshtit optik kryesor të saj, vatrat kryesore dhe objekti MN. Si do të jetë shëmbëllimi i objektit MN?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-037.png",
+    "imageAlt": "Thjerrë shpërndarëse me objektin MN përpara saj",
+    "answers": ["I drejtë, i zvogëluar", "I drejtë, i zmadhuar", "I përmbysur, i zvogëluar", "I përmbysur, i zmadhuar"],
+    "correct": 0,
+    "explanation": "Thjerra shpërndarëse jep gjithmonë shëmbëllim virtual, të drejtë dhe të zvogëluar, pavarësisht se ku ndodhet objekti."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-038",
+    "question": "Drejtëza MN paraqet boshti optik kryesor të një thjerre, S paraqet një burim kurse S` shëmbëllimin e tij. Thjerra që ka dhënë këtë shëmbëllim është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-038.png",
+    "imageAlt": "Burimi S mbi boshtin optik dhe shëmbëllimi S` nën bosht, në anën e kundërt",
+    "answers": ["Përmbledhëse dhe brenda segmentit që bashkon SS`", "Përmbledhëse dhe jashtë segmentit që bashkon SS`", "Shpërndarëse dhe jashtë segmentit që bashkon SS`", "Shpërndarëse dhe brenda segmentit që bashkon SS`"],
+    "correct": 0,
+    "explanation": "Shëmbëllimi bie në anën tjetër të boshtit dhe të thjerrës, pra është real – vetëm thjerra përmbledhëse e jep atë. Rrezet duhet ta kalojnë thjerrën, prandaj ajo ndodhet brenda segmentit SS`."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-039",
+    "question": "Drejtëza MN paraqet boshti optik kryesor të një thjerre, S paraqet një burim, kurse S` shëmbëllimin e tij. Karakteristikat e shëmbëllim S` janë:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-039.png",
+    "imageAlt": "Burimi S dhe shëmbëllimi S` në të njëjtën anë të boshtit optik, S` më larg boshtit",
+    "answers": ["Real, i drejtë, i zvogëluar", "Virtual, i drejtë, i zmadhuar", "Real, i përmbysur, i zvogëluar", "Virtual, i përmbysur, i zmadhuar"],
+    "correct": 1,
+    "explanation": "S` ndodhet në të njëjtën anë me burimin dhe më larg boshtit, pra nuk formohet nga prerja e vërtetë e rrezeve. Kjo do të thotë shëmbëllim virtual, i drejtë dhe i zmadhuar."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-040",
+    "question": "Një peshkatar i zhytur në thellësinë 3m kërkon të gjuajë me shigjetë një peshk 10m larg tij dhe afër fundit të liqenit. Për ta qëlluar, peshkatari duhet të marrë shenjë nën pozicionin e dukshëm të peshkut sepse:",
+    "answers": ["Shpejtësia e dritës në ujë nuk është e njëjtë me shpejtësinë e saj në ajër", "Rrezja e dritës që shikon peshkatari pasqyrohet nga sipërfaqja e ujit", "Rrezet e dritës nga poshtë peshkut interferojnë me rrezet e dritës nga sipër tij", "Drita difraktohet nga peshku"],
+    "correct": 0,
+    "explanation": "Ndryshimi i shpejtësisë së dritës midis mjediseve shkakton përthyerje, e cila e zhvendos pozicionin e dukshëm të peshkut më lart se ai i vërteti. Prandaj duhet marrë shenjë poshtë tij."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-041",
+    "question": "Rrezja njëngjyrëshe vjollcë λ=4*10⁻⁷m, kalon nga ajri në një pllakë qelqi organik dhe pastaj del në ajër. Krahasuar me shpejtësinë e ngjyrës vjollcë në ajër. Shpejtësia e kësaj ngjyre në qelqin organik është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-041.png",
+    "imageAlt": "Rreze vjollcë që kalon nga ajri në një pllakë qelqi organik dhe del përsëri në ajër",
+    "answers": ["më e vogël se shpejtësia në ajër.", "më e madhe se shpejtësia në ajër.", "janë të njëjta.", "nuk mund të krahasohen."],
+    "correct": 0,
+    "explanation": "Nga v=c/n dhe n(qelq)>n(ajër), shpejtësia në qelq del më e vogël. Kjo është arsyeja pse rrezja i afrohet normales kur hyn në pllakë."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-042",
+    "question": "Rrezja e dritës që kalon nëpër vatër, pas përthyerjes, kalon sipas drejtimit:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-042.png",
+    "imageAlt": "Thjerrë përmbledhëse me rreze që kalon nëpër vatrën F dhe katër drejtime të mundshme A, B, C, D",
+    "answers": ["A", "B", "C", "D"],
+    "correct": 1,
+    "explanation": "Rrezja që kalon nëpër vatër del gjithmonë paralel me boshtin optik kryesor – kjo është e kundërta e rregullit për rrezen paralele. Vetëm drejtimi B është paralel me boshtin."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-043",
+    "question": "Rrezja njëngjyrëshe vjollcë λ=4 x 10⁻⁷m, kalon nga ajri në një pllakë qelqi organik dhe pastaj del në ajër. Pasi arrin pikën B, rrezja e dritës kalon nëpër:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-043.png",
+    "imageAlt": "Rreze që hyn në pllakën e qelqit dhe arrin pikën B në faqen e poshtme, me pikat C, D, E, F përreth",
+    "answers": ["pikën F", "pikën E", "pikën D", "pikën C"],
+    "correct": 2,
+    "explanation": "Në daljen nga qelqi në ajër rrezja largohet nga normalja dhe merr sërish drejtimin paralel me rrezen fillestare. Ky drejtim kalon nëpër pikën D."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-044",
+    "question": "Dy pasqyra të rrafshëta janë pingule midis tyre. Një rreze drite bie mbi njërën prej tyre me këndin 45° si në figurë. Rrezja e pasqyruar nga pasqyra e dytë:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-044.png",
+    "imageAlt": "Dy pasqyra pingule P1 dhe P2 me rreze drite që bie nën këndin 45°",
+    "answers": ["del pingul me rrezen rënëse", "del paralel me rrezen rënëse", "është prerëse me rrezen rënëse", "përputhet me rrezen rënëse"],
+    "correct": 1,
+    "explanation": "Te dy pasqyra pingule shuma e këndeve të pasqyrimit jep një kthim prej 180°. Prandaj rrezja dalëse është gjithmonë paralele me atë rënëse, por me kah të kundërt."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-045",
+    "question": "Shpejtësia e përhapjes së dritës në qelqin me tregues përthyerje n = 1,5 është (c = 3×10⁸ m/s):",
+    "answers": ["2×10⁸ m/s", "2,5×10⁸ m/s", "2,7×10⁸ m/s", "2,9×10⁸ m/s"],
+    "correct": 0,
+    "explanation": "v=c/n=3·10⁸/1,5=2·10⁸ m/s."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-046",
+    "question": "Nëse pozicioni i burimit të dritës në figurë ndryshon në mënyrë që këndi i rënies t`i afrohet këndit kufi (kritik), atëherë këndi i përthyerjes do t'i afrohet vlerës:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-046.png",
+    "imageAlt": "Rreze drite që del nga uji në ajër nën këndin α",
+    "answers": ["0°", "41°", "90°", "180°"],
+    "correct": 2,
+    "explanation": "Këndi kufi përkufizohet pikërisht si ai kënd rënieje për të cilin rrezja e përthyer rrëshqet përgjatë sipërfaqes ndarëse, pra kur këndi i përthyerjes bëhet 90°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-047",
+    "question": "Kur drita kalon nga uji në ajër, mund të pësojë pasqyrim të plotë të brendshëm (nuji = 1,33; najrit = 1). Cili prej barazimeve të mëposhtme është i drejtë në këtë rast?",
+    "answers": ["sinα = 0.75", "sinα = 1.33", "sinβ = 90", "sinβ = 0.33"],
+    "correct": 0,
+    "explanation": "Për këndin kufi: sinα=n(ajër)/n(ujë)=1/1,33≈0,75. Vlerat mbi 1 për një sinus janë të pamundura, prandaj alternativat e tjera bien."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-048",
+    "question": "Një rreze drite përshkon një diamant me tregues përthyerje n=2,4. Shpejtësia e dritës në diamant është:",
+    "answers": ["1.15×10⁸ m/s", "1.25×10⁸ m/s", "1.35×10⁸ m/s", "1.55×10⁸ m/s"],
+    "correct": 1,
+    "explanation": "v=c/n=3·10⁸/2,4=1,25·10⁸ m/s."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-049",
+    "question": "Një pasqyrë e rrafshët rrotullohet me këndin α. Rrezja e pasqyruar është rrotulluar me këndin:",
+    "answers": ["α", "2α", "α/2", "α/4"],
+    "correct": 1,
+    "explanation": "Rrotullimi i pasqyrës me α e rrotullon normalen me α, çka e ndryshon këndin e rënies me α dhe atë të pasqyrimit po me α. Në total rrezja dalëse rrotullohet me 2α."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-050",
+    "question": "Dy pasqyra të rrafshëta formojnë këndin 120° midis tyre. Një rreze drite bie nën këndin 65° ndaj pingules së pasqyrës së parë. Drejtimi i rrezes së pasqyruar nga pasqyra e dytë është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-050.png",
+    "imageAlt": "Dy pasqyra P1 dhe P2 që formojnë kënd 120°, me rreze që bie nën 65° ndaj pingules së P1",
+    "answers": ["85°", "75°", "65°", "55°"],
+    "correct": 3,
+    "explanation": "Rrezja formon 25° me pasqyrën e parë. Në trekëndëshin e formuar me këndin 120°, këndi me pasqyrën e dytë del 35°, pra këndi i rënies (dhe i pasqyrimit) atje është 55°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-051",
+    "question": "Një rreze drite bie mbi hipotenuzën e një prizmi prej qelqi me prerje trekëndore, si në figurë. Këndi midis rrezes që del nga prizmi dhe rrezes rënëse është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-051.png",
+    "imageAlt": "Prizëm kënddrejtë 45° me rreze drite që bie pingul mbi hipotenuzë",
+    "answers": ["0°", "45°", "90°", "180°"],
+    "correct": 3,
+    "explanation": "Rrezja pëson dy pasqyrime të plota të brendshme mbi të dy katetet, ku secili e kthen atë me 90°. Në total rrezja kthehet prapa, pra me 180° ndaj asaj rënëse."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-052",
+    "question": "Një rreze drite bie mbi katetin e një prizmi qelqi me prerje trekëndësh kënddrejtë dybrinjënjëshëm, si në figurë. Këndi midis rrezes që del nga prizmi dhe rrezes rënëse është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-052.png",
+    "imageAlt": "Prizëm kënddrejtë dybrinjënjëshëm me rreze drite që bie pingul mbi katet",
+    "answers": ["0°", "45°", "90°", "180°"],
+    "correct": 2,
+    "explanation": "Rrezja hyn pa u përthyer, bie mbi hipotenuzë nën 45° (mbi këndin kufi të qelqit) dhe pëson një pasqyrim të vetëm të plotë. Një pasqyrim e kthen atë me 90°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-053",
+    "question": "Dy sipërfaqe plane pasqyruese janë pingule me njëra-tjetrën. Mbi sipërfaqen e parë S₁ bie rrezja nën këndin 50°, në largësinë 25cm nga sipërfaqja S₂. Rruga që përshkon drita nga S₁ në S₂ është (sin50°= 0,77 ; cos50°= 0.64):",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-053.png",
+    "imageAlt": "Dy sipërfaqe pasqyruese pingule S1 dhe S2 me rreze që bie nën 50° në largësi 25cm",
+    "answers": ["50,5cm", "32,5cm", "25,5cm", "15,5cm"],
+    "correct": 1,
+    "explanation": "Rruga midis dy pasqyrimeve është hipotenuza e trekëndëshit kënddrejtë me katet 25cm: l=25/sin50°=25/0,77≈32,5cm."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-054",
+    "question": "Në figurë tregohen katër variante për rrugën që ndjek rrezja rënëse pas kalimit në thjerrë. Varianti i saktë është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-054.png",
+    "imageAlt": "Katër variante a, b, c, d të rrugës së rrezes pas kalimit nëpër thjerrë",
+    "answers": ["varianti a", "varianti b", "varianti c", "varianti d"],
+    "correct": 2,
+    "explanation": "Rrezja paralele me boshtin duhet të kalojë nëpër vatër pas thjerrës, ndërsa ajo që kalon nëpër qendrën optike nuk devijon. Vetëm varianti c i respekton të dyja këto rregulla."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-055",
+    "question": "Një rreze drite kalon nëpër tre mjedise të ndryshme si në figurë. Cili nga relacionet e mëposhtme që kanë të bëjnë me treguesit e përthyerjes së tre mjediseve, është i vërtetë?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-055.png",
+    "imageAlt": "Rreze drite që kalon nëpër tre shtresa mjedisesh n1, n2 dhe n3",
+    "answers": ["n₁>n₃>n₂", "n₁=n₂>n₃", "n₁>n₂>n₃", "n₁>n₂=n₃"],
+    "correct": 2,
+    "explanation": "Sa herë rrezja largohet nga normalja, ajo kalon në mjedis me tregues më të vogël. Meqë largimi ndodh në secilin kufi, del n₁>n₂>n₃."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-056",
+    "question": "Gjatë kalimit të një rrezeje drite nga një mjedis në një tjetër, raporti i sinusit të këndit të rënies me sinusin e këndit të përthyerjes është n. Sa do të jetë ky raport nëse këndi i rënies së rrezes rritet dy herë?",
+    "answers": ["n/2", "n", "2n", "4n"],
+    "correct": 1,
+    "explanation": "Treguesi i përthyerjes varet vetëm nga çifti i mjediseve, jo nga këndi. Kur këndi i rënies ndryshon, ndryshon edhe ai i përthyerjes, por raporti i sinuseve mbetet n."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-057",
+    "question": "Cilat nga rrezet e dritës të paraqitura në figurë, që bien mbi një thjerrë shpërndarëse, nuk është paraqitur drejt?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-057.png",
+    "imageAlt": "Katër rreze 1, 2, 3, 4 që bien mbi një thjerrë shpërndarëse me vatrat F dhe F`",
+    "answers": ["Rrezja 1", "Rrezja 2", "Rrezja 3", "Rrezja 4"],
+    "correct": 3,
+    "explanation": "Te thjerra shpërndarëse rrezet dalëse duhet të divergjojnë, sikur të vinin nga vatra në anën e rrezes rënëse. Rrezja 4 është vizatuar duke u përmbledhur, gjë që bie ndesh me këtë rregull."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-058",
+    "question": "Një rreze drite bie nga ajri mbi një bllok të tejdukshëm me faqe paralele si në figurë. Vlera e këndit të rënies së rrezes së dritës në kufirin ajër-bllok është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-058.png",
+    "imageAlt": "Rreze drite që hyn në një bllok të tejdukshëm, me këndin 40° të shënuar ndaj sipërfaqes",
+    "answers": ["40°", "50°", "57°", "67°"],
+    "correct": 1,
+    "explanation": "Këndi 40° në figurë matet nga sipërfaqja, ndërsa këndi i rënies matet gjithmonë nga normalja. Prandaj i=90°-40°=50°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-059",
+    "question": "Dy sipërfaqe plane pasqyruese janë pingule me njëra-tjetrën si në figurë. Në sipërfaqen e parë S₁ bie rrezja e dritës nën këndin 30°. Këndi i daljes së dritës nga sipërfaqja e dytë është:",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-059.png",
+    "imageAlt": "Dy sipërfaqe pasqyruese pingule S1 dhe S2 me rreze që bie nën këndin 30°",
+    "answers": ["0°", "30°", "60°", "90°"],
+    "correct": 2,
+    "explanation": "Meqë pasqyrat janë pingule, shuma e këndeve të rënies në to është 90°. Nëse në S₁ këndi është 30°, në S₂ këndi i rënies dhe i daljes bëhet 60°."
+  },
+  {
+    "id": "fizika-optika-gjeometrike-060",
+    "question": "Në figurë tregohen dy rreze drite që kalojnë nga i njëjti mjedis i tejdukshëm në ajër. Sa është vlera e përafërt e këndit θ?",
+    "image": "/question-images/fizika/optika-gjeometrike/optika-gjeometrike-060.png",
+    "imageAlt": "Dy rreze X dhe Y që kalojnë nga mjedisi i tejdukshëm në ajër, me këndet 27°, 68° dhe θ",
+    "answers": ["22°", "25°", "29°", "32°"],
+    "correct": 1,
+    "explanation": "Nga rrezja e parë gjejmë treguesin e mjedisit me ligjin e Snelit; rrezja e dytë del duke rrëshqitur përgjatë sipërfaqes, pra θ është këndi kufi. Nga sinθ=1/n del θ≈25°."
+  }
+]

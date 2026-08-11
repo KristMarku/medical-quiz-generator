@@ -16,7 +16,8 @@
 
 }
 
-.infoPanel .topicTitle{
+.infoPanel .topicTitle,
+.infoPanel .quizTitle{
 
     font-size:40px;
 
@@ -105,7 +106,8 @@
 
 @media(max-width:768px){
 
-    .infoPanel .topicTitle{
+    .infoPanel .topicTitle,
+    .infoPanel .quizTitle{
 
         font-size:28px;
 
