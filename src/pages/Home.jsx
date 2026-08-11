@@ -34,8 +34,8 @@ function Home() {
     setHistory(history.slice(0, -1));
   }
 
-  function startQuiz() {
-    const generatedQuiz = generateQuiz(currentNode, data);
+  function startQuiz(shuffleLesson = false) {
+    const generatedQuiz = generateQuiz(currentNode, data, shuffleLesson);
 
     if (generatedQuiz === null) {
       setQuizMessage("This topic has no questions yet.");
@@ -80,7 +80,6 @@ function Home() {
       ) : (
         <Quiz quiz={quiz} exitQuiz={exitQuiz} />
       )}
-
     </div>
   );
 }

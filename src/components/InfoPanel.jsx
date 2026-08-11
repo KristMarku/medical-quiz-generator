@@ -17,19 +17,24 @@ function InfoPanel({ currentNode, onStartQuiz, quizMessage }) {
       )}
 
       {currentNode.type === "folder" && (
-        <button className="randomButton" onClick={onStartQuiz}>
+        <button className="randomButton" onClick={() => onStartQuiz()}>
           🎲 Random Test
         </button>
       )}
 
       {currentNode.type === "lesson" && (
-        <button className="startButton" onClick={onStartQuiz}>
-          ▶ Start Test
-        </button>
+        <div className="testOptions">
+          <button className="startButton" onClick={() => onStartQuiz(false)}>
+            ▶ Start Test
+          </button>
+          <button className="shuffleButton" onClick={() => onStartQuiz(true)}>
+            Shuffle Questions
+          </button>
+        </div>
       )}
 
       {currentNode.type === "exam" && (
-        <button className="examButton" onClick={onStartQuiz}>
+        <button className="examButton" onClick={() => onStartQuiz()}>
           ▶ Start Exam
         </button>
       )}

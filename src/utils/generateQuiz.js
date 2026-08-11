@@ -34,13 +34,15 @@ function shuffleQuestions(questions) {
   return shuffled;
 }
 
-export default function generateQuiz(currentNode, rootNode) {
+export default function generateQuiz(currentNode, rootNode, shuffleLesson) {
   const selectedNode = currentNode.type === "exam" ? rootNode : currentNode;
   const questionFilePaths = getQuestionFiles(selectedNode);
   const availableQuestions = getQuestions(questionFilePaths);
   const questions =
     currentNode.type === "lesson"
-      ? availableQuestions
+      ? shuffleLesson
+        ? shuffleQuestions(availableQuestions)
+        : availableQuestions
       : shuffleQuestions(availableQuestions).slice(0, 50);
 
   if (questions.length === 0) {
