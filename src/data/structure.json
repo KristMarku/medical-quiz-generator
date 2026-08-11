@@ -2,47 +2,47 @@
   "id": "root",
   "title": "Quiz Generator",
   "type": "root",
-  "description": "Choose a subject to begin.",
+  "description": "Zgjidh Lenden.",
   "children": [
     {
       "id": "exam",
       "title": "📝 Provimi",
       "type": "exam",
-      "description": "Practice with questions from all subjects."
+      "description": "Praktiko me pyetje nga te gjitha kapitujt."
     },
     {
       "id": "biologji",
       "title": "🧬 Biologji",
       "type": "folder",
-      "description": "Practice Biology.",
+      "description": "Praktiko Biologjine.",
       "children": [
         {
           "id": "ciklet",
           "title": "Ciklet",
           "type": "lesson",
           "questionFile": "biologji/ciklet.json",
-          "description": "Practice Ciklet."
+          "description": "Praktiko Ciklet."
         },
         {
           "id": "diversiteti",
           "title": "Diversiteti",
           "type": "lesson",
           "questionFile": "biologji/diversiteti.json",
-          "description": "Practice Diversiteti."
+          "description": "Praktiko Diversitetin."
         },
         {
           "id": "nderveprimet",
           "title": "Ndërveprimet",
           "type": "lesson",
           "questionFile": "biologji/nderveprimet.json",
-          "description": "Practice Ndërveprimet."
+          "description": "Praktiko Ndërveprimet."
         },
         {
           "id": "sistemet",
           "title": "Sistemet",
           "type": "lesson",
           "questionFile": "biologji/sistemet.json",
-          "description": "Practice Sistemet."
+          "description": "Praktiko Sistemet."
         }
       ]
     },

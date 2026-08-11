@@ -1,1 +1,4830 @@
-[]
+[
+  {
+    "id": "bio-sistemet-001",
+    "question": "Shpërhapja e thjeshtë (difuzioni) është mënyra pasive e përshkueshmërisë së membranës plazmatike. Ajo është lëvizje e molekulave nga:",
+    "answers": [
+      "mjedisi me përqendrim më të ulët tek mjedisi me përqendrim më të lartë",
+      "mjedisi me përqendrim më të lartë tek mjedisi me përqendrim më të ulët",
+      "njëri mjedis në tjetrin kur përqendrimi nuk ndryshon",
+      "njëri mjedis në tjetrin duke kërkuar energji"
+    ],
+    "correct": 1,
+    "explanation": "Difuzioni ndodh GJITHMONË sipas gradientit: nga shumë → tek pak, pa shpenzim energjie. Kujto: 'nga i mbushuri tek i zbrazëti'."
+  },
+  {
+    "id": "bio-sistemet-002",
+    "question": "Gradienti i përqendrimit shpreh:",
+    "answers": [
+      "diferencën e përqendrimit të një lënde ndërmjet mjedisit të jashtëm e atij të brendshëm",
+      "ekuilibrin statik mes dy anëve të membranës plazmatike",
+      "lëvizjen e sheqerit në brendësi të qelizës",
+      "spostimin e lëndëve brenda qelizës"
+    ],
+    "correct": 0,
+    "explanation": "Gradient = ndryshim (diferencë) përqendrimi midis dy mjediseve. Ai është 'shkalla' që bën të mundur difuzionin; nëse s'ka diferencë, s'ka gradient."
+  },
+  {
+    "id": "bio-sistemet-003",
+    "question": "Shpërhapja e ujit përmes membranës gjysmë të përshkueshme quhet ndryshe:",
+    "answers": [
+      "difuzion",
+      "osmozë",
+      "transport aktiv",
+      "difuzion i lehtësuar"
+    ],
+    "correct": 1,
+    "explanation": "Osmoza = difuzioni i UJIT përmes një membrane gjysmë të përshkueshme. Fjala kyçe që e dallon nga difuzioni i thjeshtë është 'uji'."
+  },
+  {
+    "id": "bio-sistemet-004",
+    "question": "Plazmoliza është procesi i kalimit të ujit nga:",
+    "answers": [
+      "brenda qelizës në vakuolë",
+      "brenda qelizës – jashtë saj",
+      "jashtë qelizës – brenda saj",
+      "potenciali më i lartë drejt atij më të ulët"
+    ],
+    "correct": 1,
+    "explanation": "Në tretësirë hipertonike uji del nga qeliza, citoplazma tkurret dhe shkëputet nga muri qelizor → plazmolizë. Kujto: 'plazma largohet nga muri'."
+  },
+  {
+    "id": "bio-sistemet-005",
+    "question": "Shpërhapja e lehtësuar ndihmon kalimin e molekulave të mëdha (p.sh. sheqernat) nëpërmjet:",
+    "answers": [
+      "poreve membranore",
+      "organeleve qelizore",
+      "proteinave qelizore",
+      "proteinave transportuese"
+    ],
+    "correct": 3,
+    "explanation": "Molekulat e mëdha e polare nuk kalojnë dyshtresën lipidike, prandaj përdorin proteina TRANSPORTUESE (bartëse/kanale). Është pasive: pa ATP, por me ndihmë."
+  },
+  {
+    "id": "bio-sistemet-006",
+    "question": "Transporti aktiv kryhet:",
+    "answers": [
+      "në drejtim të gradientit të përqendrimit",
+      "në të njëjtin drejtim me shpërhapjen e lehtësuar",
+      "në drejtim të kundërt me gradientin e përqendrimit",
+      "në të njëjtin drejtim me shpërhapjen, pa shpenzim energjie"
+    ],
+    "correct": 2,
+    "explanation": "Transporti aktiv shkon KUNDËR gradientit (nga pak → tek shumë), prandaj kërkon ATP. Kujto: 'të ngjitesh përpjetë kërkon energji'."
+  },
+  {
+    "id": "bio-sistemet-007",
+    "question": "Transporti aktiv kryhet me ndihmën e:",
+    "answers": [
+      "kolesterolit",
+      "fosfolipideve",
+      "glukoproteinave",
+      "pompave membranore"
+    ],
+    "correct": 3,
+    "explanation": "Pompat membranore janë proteina që përdorin ATP për të shtyrë lëndët kundër gradientit (p.sh. pompa Na⁺–K⁺). Pompë = transport aktiv."
+  },
+  {
+    "id": "bio-sistemet-008",
+    "question": "Pompa natrium – kalium:",
+    "answers": [
+      "quhet ndryshe ATP-azë",
+      "nuk është proteinë integrale membranore",
+      "transporton jonet kalium nga brenda jashtë qelizës",
+      "transporton jonet natrium nga jashtë brenda qelizës"
+    ],
+    "correct": 0,
+    "explanation": "Pompa Na⁺–K⁺ e zbërthen ATP-në për të punuar, prandaj quhet Na⁺/K⁺-ATP-azë. Drejtimi i saktë: 3Na⁺ JASHTË dhe 2K⁺ BRENDA (e kundërta e alternativave C dhe D)."
+  },
+  {
+    "id": "bio-sistemet-009",
+    "question": "Transporti i lëndëve me përmasa shumë të mëdha nëpërmjet membranës plazmatike realizohet nëpërmjet:",
+    "answers": [
+      "endocitozës dhe ekzocitozës",
+      "shpërhapjes së lehtësuar",
+      "shpërhapjes së thjeshtë",
+      "transportit aktiv"
+    ],
+    "correct": 0,
+    "explanation": "Për grimca shumë të mëdha membrana formon fshikëza: endocitozë (brenda) dhe ekzocitozë (jashtë). Quhet edhe transport me fshikëza."
+  },
+  {
+    "id": "bio-sistemet-010",
+    "question": "Pinocitoza është procesi nëpërmjet të cilit qeliza merr nga mjedisi:",
+    "answers": [
+      "lëngje",
+      "sheqer",
+      "amidon",
+      "aminoacide"
+    ],
+    "correct": 0,
+    "explanation": "Pino- vjen nga greqishtja 'të pish' → qeliza 'pi' lëngje. Fagocitoza (fago- = të hash) merr grimca të ngurta."
+  },
+  {
+    "id": "bio-sistemet-011",
+    "question": "Endocitoza është procesi i cili njihet ndryshe si transport:",
+    "answers": [
+      "me fshikëza",
+      "me kanale",
+      "i thjeshtë",
+      "pasiv"
+    ],
+    "correct": 0,
+    "explanation": "Membrana gropëzohet dhe mbyllet duke formuar një fshikëz (vezikul) brenda qelizës — prandaj quhet transport me fshikëza."
+  },
+  {
+    "id": "bio-sistemet-012",
+    "question": "Pinocitoza është procesi nëpërmjet të cilit qeliza merr nga mjedisi:",
+    "answers": [
+      "yndyrna të pa tretshme",
+      "glicerinë",
+      "lëngje",
+      "vajra"
+    ],
+    "correct": 2,
+    "explanation": "E njëjta rregull: pinocitozë = marrje lëngjesh (me lëndët e tretura në to). Yndyrnat e patretshme merren me fagocitozë."
+  },
+  {
+    "id": "bio-sistemet-013",
+    "question": "Endocitoza me ndërmjetësinë e receptorëve mundëson transportin në qelizë të:",
+    "answers": [
+      "baktereve",
+      "kolesterolit",
+      "aminoacideve",
+      "joneve Na+ – K+"
+    ],
+    "correct": 1,
+    "explanation": "Kolesteroli qarkullon si LDL dhe hyn në qelizë duke u lidhur me receptorë specifikë membranorë — shembulli klasik i endocitozës me receptorë."
+  },
+  {
+    "id": "bio-sistemet-014",
+    "question": "Ekzocitoza është proces që mundëson transportin jashtë qelizës të:",
+    "answers": [
+      "neuroneve",
+      "receptorëve",
+      "hormoneve",
+      "joneve Na+-K+"
+    ],
+    "correct": 2,
+    "explanation": "Hormonet dhe enzimat, si molekula të mëdha proteinike, çlirohen jashtë me fshikëza që shkrihen me membranën → ekzocitozë (sekretim)."
+  },
+  {
+    "id": "bio-sistemet-015",
+    "question": "Shpërhapja (difuzioni) është procesi i lëvizjes rastësore të molekulave, nën veprimin e energjisë:",
+    "answers": [
+      "kimike",
+      "elektrike",
+      "kinetike",
+      "termike"
+    ],
+    "correct": 2,
+    "explanation": "Molekulat lëvizin vetvetiu sepse kanë energji KINETIKE (energji lëvizjeje). Prandaj difuzioni nuk kërkon ATP nga qeliza."
+  },
+  {
+    "id": "bio-sistemet-016",
+    "question": "Shpejtësia me të cilën lëndët shpërhapen përmes membranës plazmatike varen nga një sërë faktorësh. Njeri prej tyre është:",
+    "answers": [
+      "trysnia",
+      "katalizatori",
+      "drita e diellit",
+      "diferenca e përqendrimeve"
+    ],
+    "correct": 3,
+    "explanation": "Sa më i madh gradienti (diferenca e përqendrimeve), aq më i shpejtë difuzioni. Faktorë të tjerë: temperatura, sipërfaqja, trashësia e membranës."
+  },
+  {
+    "id": "bio-sistemet-017",
+    "question": "Cila nga këto lëndë transportohen me anë të ksilemës:",
+    "answers": [
+      "uji",
+      "sheqernat",
+      "oksigjeni",
+      "hormonet"
+    ],
+    "correct": 0,
+    "explanation": "Ksilema transporton UJË + kripëra minerale, vetëm nga rrënjët lart. Sheqernat i transporton floema. Kujto: 'ksilemë = ujë'."
+  },
+  {
+    "id": "bio-sistemet-018",
+    "question": "Transporti i lëndëve organike te bimët quhet:",
+    "answers": [
+      "translokim",
+      "translatim",
+      "transpirim",
+      "transferim"
+    ],
+    "correct": 0,
+    "explanation": "Translokim = lëvizja e lëndëve organike (sakarozë) nëpër floemë. Mos e ngatërro me transpirimin (humbje uji) dhe translatimin (sinteza e proteinave)."
+  },
+  {
+    "id": "bio-sistemet-019",
+    "question": "Thithja e ujit nga toka, përmes qimeve thithëse realizohet me:",
+    "answers": [
+      "shpërhapje të lehtësuar",
+      "transport aktiv",
+      "pinocitozë",
+      "osmozë"
+    ],
+    "correct": 3,
+    "explanation": "Uji hyn pasivisht me OSMOZË, sepse qimja thithëse ka potencial ujor më të ulët se toka. Vetëm jonet minerale hyjnë me transport aktiv."
+  },
+  {
+    "id": "bio-sistemet-020",
+    "question": "Uji lëviz nga rrënjët për në pjesët e tjera të bimës me anë të:",
+    "answers": [
+      "gypave të ksilemës",
+      "gypave të floemës",
+      "rrugës apoplaste",
+      "rrugës simplaste"
+    ],
+    "correct": 0,
+    "explanation": "Ngjitja e ujit deri te gjethet bëhet vetëm nëpër gypat e ksilemës. Apoplasti dhe simplasti janë rrugë brenda rrënjës, jo në gjatësi të bimës."
+  },
+  {
+    "id": "bio-sistemet-021",
+    "question": "Cili nga organet e mëposhtme shërben si organ burim?",
+    "answers": [
+      "Vezorja",
+      "Thekët",
+      "Gjethja",
+      "Dega"
+    ],
+    "correct": 2,
+    "explanation": "Burim (source) = organi që PRODHON sheqernat → gjethja fotosintetizuese. Organet që i konsumojnë ose i depozitojnë janë 'gropa' (sink)."
+  },
+  {
+    "id": "bio-sistemet-022",
+    "question": "Traket dhe Trakeidet janë përbërës të:",
+    "answers": [
+      "sklerenkimës",
+      "kolenkimës",
+      "ksilemës",
+      "floemës"
+    ],
+    "correct": 2,
+    "explanation": "Traket dhe trakeidet janë qeliza të vdekura, të lignifikuara, që formojnë ksilemën. Floema ka gypa me shoshë + qeliza shoqëruese."
+  },
+  {
+    "id": "bio-sistemet-023",
+    "question": "Kohezioni është dukuria ku molekulat e ujit:",
+    "answers": [
+      "arrijnë të ndahen nga njëra tjetra",
+      "krijojnë lidhje hidrogjenore",
+      "lidhen me molekula të tjera",
+      "krijojnë lidhje kovalente"
+    ],
+    "correct": 1,
+    "explanation": "Kohezion = tërheqje UJË–UJË me lidhje hidrogjenore, që mban kolonën e ujit të pandërprerë në ksilemë. Tërheqja ujë–mur quhet adhezion."
+  },
+  {
+    "id": "bio-sistemet-024",
+    "question": "Floema është e ndërtuar nga:",
+    "answers": [
+      "trake dhe trakeide",
+      "parenkimatike dhe sklerenkimatike",
+      "gypat me shoshë dhe qelizat shoqëruese",
+      "kambiumit të Tapes dhe kambiumit Enëzor"
+    ],
+    "correct": 2,
+    "explanation": "Floema = gypa me shoshë (qeliza të gjalla pa bërthamë) + qeliza shoqëruese (që u japin energji dhe kontroll). Traket janë të ksilemës."
+  },
+  {
+    "id": "bio-sistemet-025",
+    "question": "Kur një bimë futet në një qese plastike, humbja e ujit është:",
+    "answers": [
+      "më e madhe sepse rritet lagështia",
+      "më e madhe sepse ulet lagështia",
+      "më e vogël sepse rritet lagështia",
+      "më e vogël sepse ulet lagështia"
+    ],
+    "correct": 2,
+    "explanation": "Në qese ajri ngopet me avuj → lagështia rritet → gradienti i avullit gjethe–ajër zvogëlohet → transpirimi bie. Lagështi e lartë = humbje e vogël uji."
+  },
+  {
+    "id": "bio-sistemet-026",
+    "question": "Kur gypat me shoshë priten, rrjedha lëviz:",
+    "answers": [
+      "në të njëjtin drejtim",
+      "në drejtim të kundërt",
+      "në qelizat e ksilemës",
+      "në qelizat e mezofilit"
+    ],
+    "correct": 1,
+    "explanation": "Floema rrjedh nën trysni; kur pritet, lëngu del nga të dyja skajet, pra në drejtime të kundërta nga vendi i prerjes. Kjo provon rrjedhjen nën trysni (hipoteza e rrjedhjes së masës)."
+  },
+  {
+    "id": "bio-sistemet-027",
+    "question": "Shumica e produkteve që prodhohen me anë të fotosintezës në gjethe, transportohen në formën e:",
+    "answers": [
+      "aminoacideve",
+      "proteinave",
+      "sakarozës",
+      "lipideve"
+    ],
+    "correct": 2,
+    "explanation": "Glukoza shndërrohet në SAKAROZË, e cila është e tretshme dhe jo reaktive, prandaj transportohet nëpër floemë. Kujto: 'floema transporton sakarozë'."
+  },
+  {
+    "id": "bio-sistemet-028",
+    "question": "Në cilat nga kushtet e mëposhtme të motit transpirimi do të jetë më i shpejtë:",
+    "answers": [
+      "nxehtësi, thatësirë dhe erë",
+      "nxehtësi, thatësirë dhe mot pa erë",
+      "freski, thatësirë dhe erë",
+      "freski, lagështi dhe mot pa erë"
+    ],
+    "correct": 0,
+    "explanation": "Transpirimi rritet nga: temperaturë e lartë (avullim më i shpejtë), lagështi e ulët (gradient i madh) dhe erë (largon avujt nga gojëzat). Të tri faktorët bashkë = alternativa A."
+  },
+  {
+    "id": "bio-sistemet-029",
+    "question": "Tek bima, hormonet bimorë rregullojnë shumë procese fiziologjike. Njëri nga emrat më poshtë përfaqëson një hormon bimor:",
+    "answers": [
+      "giberelinë",
+      "glicinë",
+      "glikogjen",
+      "globinë"
+    ],
+    "correct": 0,
+    "explanation": "Giberelina është hormon bimor. Glicina = aminoacid, glikogjeni = polisakarid rezervë te kafshët, globina = pjesa proteinike e hemoglobinës."
+  },
+  {
+    "id": "bio-sistemet-030",
+    "question": "Njëri nga emrat më poshtë NUK i përket një hormoni bimor:",
+    "answers": [
+      "ABA – acidi abshisik",
+      "giberelinë",
+      "globinë",
+      "auksinë"
+    ],
+    "correct": 2,
+    "explanation": "Hormonet bimore kryesore: auksinë, giberelinë, citokininë, ABA, etilen. Globina është proteinë e gjakut te kafshët, jo hormon bimor."
+  },
+  {
+    "id": "bio-sistemet-031",
+    "question": "Hormonet bimorë prodhohen:",
+    "answers": [
+      "në inde bimorë",
+      "në organe bimorë",
+      "në gjëndra të specializuara",
+      "në qeliza të specializuara si tek kafshët"
+    ],
+    "correct": 0,
+    "explanation": "Bimët NUK kanë gjëndra endokrine; hormonet prodhohen nga inde të zakonshme (sidomos meristemat). Ky është dallimi kryesor bimë–kafshë."
+  },
+  {
+    "id": "bio-sistemet-032",
+    "question": "Hormonet bimorë transportohen në bimë nëpërmjet:",
+    "answers": [
+      "transportit aktiv dhe shpërhapjes",
+      "vetëm përmes transportit aktiv",
+      "murit prej celuloze",
+      "indit mbulues"
+    ],
+    "correct": 0,
+    "explanation": "Hormonet bimore lëvizin qelizë më qelizë me difuzion dhe me transport aktiv (p.sh. auksina me transport polar), si dhe nëpër ksilemë e floemë."
+  },
+  {
+    "id": "bio-sistemet-033",
+    "question": "Shkëmbimi i gazeve te gjitarët ndodh në:",
+    "answers": [
+      "trake",
+      "bronke",
+      "alveola",
+      "bronkiola"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm alveolat kanë mur një-qelizor dhe rrjet kapilarësh → aty ndodh difuzioni i O₂ dhe CO₂. Trakea, bronket e bronkiolat janë vetëm rrugë ajri."
+  },
+  {
+    "id": "bio-sistemet-034",
+    "question": "Është pjesë vetëm e aparatit të frymëshkëmbimit:",
+    "answers": [
+      "goja",
+      "trakea",
+      "faringu",
+      "ezofagu"
+    ],
+    "correct": 1,
+    "explanation": "Trakea i shërben vetëm ajrit. Goja dhe faringu janë të përbashkët për ajrin e ushqimin, ndërsa ezofagu është vetëm i aparatit tretës."
+  },
+  {
+    "id": "bio-sistemet-035",
+    "question": "Cili prej termave përdoret për të përshkruar lëvizjen e gazeve nga një mjedis me përqendrim më të lartë drejt një mjedisi me përqendrim më të ulët?",
+    "answers": [
+      "Tkurrje",
+      "Avullim",
+      "Difuzion",
+      "Transport aktiv"
+    ],
+    "correct": 2,
+    "explanation": "Lëvizje sipas gradientit, pa energji = difuzion. Transporti aktiv do të ishte e kundërta e gradientit."
+  },
+  {
+    "id": "bio-sistemet-036",
+    "question": "Cila nga strukturat e mëposhtme ndahet në dy bronke?",
+    "answers": [
+      "Trakea",
+      "Faringu",
+      "Laringu",
+      "Ezofagu"
+    ],
+    "correct": 0,
+    "explanation": "Trakea degëzohet në dy bronke kryesore, një për çdo mushkëri. Laringu qëndron sipër trakesë, faringu e ezofagu janë të rrugës së ushqimit."
+  },
+  {
+    "id": "bio-sistemet-037",
+    "question": "Pjesa e përbashkët që i përket edhe aparatit tretës edhe aparatit të frymëkëmbimit është:",
+    "answers": [
+      "trakea",
+      "faringu",
+      "laringu",
+      "ezofagu"
+    ],
+    "correct": 1,
+    "explanation": "Faringu (fyti) është kryqëzimi ku kalon si ajri ashtu edhe ushqimi. Epiglota vendos se ku shkon secili."
+  },
+  {
+    "id": "bio-sistemet-038",
+    "question": "Gjatë frymëthithjes (inspirimit) vëllimi i mushkërive:",
+    "answers": [
+      "zvogëlohet dhe dioksidi i karbonit del jashtë",
+      "zmadhohet dhe diafragma ulet poshtë",
+      "zvogëlohet dhe oksigjeni hyn brenda",
+      "zmadhohet dhe diafragma ngrihet"
+    ],
+    "correct": 1,
+    "explanation": "Frymëthithje: diafragma TKURRET dhe ULET, brinjët ngrihen → vëllimi rritet, trysnia bie, ajri hyn. Kujto: 'poshtë diafragma = brenda ajri'."
+  },
+  {
+    "id": "bio-sistemet-039",
+    "question": "Gjatë frymënxjerrjes (ekspirimit) vëllimi i mushkërive:",
+    "answers": [
+      "zvogëlohet dhe diafragma ngrihet",
+      "zmadhohet dhe diafragma ngrihet",
+      "zmadhohet dhe oksigjeni hyn brenda",
+      "zvogëlohet dhe diafragma ulet poshtë"
+    ],
+    "correct": 0,
+    "explanation": "Frymënxjerrje = e kundërta: diafragma lëshohet e ngrihet në formë kupole, vëllimi bie, trysnia rritet, ajri del."
+  },
+  {
+    "id": "bio-sistemet-040",
+    "question": "Trakea, gypi i kalimit të ajrit është i pajisur me qeliza që prodhojnë:",
+    "answers": [
+      "mukus",
+      "amilazë",
+      "acid karbonik",
+      "acid klorhidrik"
+    ],
+    "correct": 0,
+    "explanation": "Qelizat kupë prodhojnë MUKUS, i cili kap pluhurin e mikrobet; qerpikët e shtyjnë atë lart drejt fytit. Amilaza e HCl janë të aparatit tretës."
+  },
+  {
+    "id": "bio-sistemet-041",
+    "question": "Shigjeta me numrin 2 në figurën e mëposhtme tregon:",
+    "image": "/question-images/biologji/sistemet/sistemet-041.png",
+    "imageAlt": "Figurë e mushkërive me pesë shigjeta të numërtuara që tregojnë strukturat e aparatit të frymëmarrjes",
+    "answers": [
+      "Bronket",
+      "Trakenë",
+      "Hojëzat",
+      "Pleurën"
+    ],
+    "correct": 0,
+    "explanation": "Pas trakesë (nr. 1) vjen degëzimi i parë — bronket kryesore. Rendi nga lart poshtë: trake → bronke → bronkiola → hojëza."
+  },
+  {
+    "id": "bio-sistemet-042",
+    "question": "Membrana e dyfishtë që vesh mushkëritë quhet?",
+    "answers": [
+      "Septum",
+      "Diafragma",
+      "Pleura",
+      "Peritoneum"
+    ],
+    "correct": 2,
+    "explanation": "Pleura ka dy fletë me lëng midis tyre, që pakëson fërkimin me kafazin e kraharorit. Peritoneumi vesh organet e barkut, diafragma është muskul."
+  },
+  {
+    "id": "bio-sistemet-043",
+    "question": "Pjesa kërcore që mbyll trakenë dhe pengon ushqimin të kalojë në të gjatë gëlltitjes quhet?",
+    "answers": [
+      "Epiglotë",
+      "Kutia e zërit",
+      "Kordat e zërit",
+      "Qelizat kupë"
+    ],
+    "correct": 0,
+    "explanation": "Epiglota vepron si kapak: gjatë gëlltitjes ulet dhe mbyll hyrjen e trakesë, duke e drejtuar ushqimin në ezofag."
+  },
+  {
+    "id": "bio-sistemet-044",
+    "question": "Degëzime e holla që përfundojnë në hojëza (alveola) quhen?",
+    "answers": [
+      "Bronkiola",
+      "Bronke",
+      "Trake",
+      "Cilie"
+    ],
+    "correct": 0,
+    "explanation": "Bronket degëzohen në bronkiola gjithnjë e më të holla, që mbarojnë me tufa hojëzash. Ciliet janë qerpikë, jo degëzime."
+  },
+  {
+    "id": "bio-sistemet-045",
+    "question": "Mukusi prodhohet nga qelizat:",
+    "answers": [
+      "kupë",
+      "ciliare",
+      "qerpikore",
+      "epiteliale"
+    ],
+    "correct": 0,
+    "explanation": "Qelizat kupë (goblet) sekretojnë mukus; qelizat qerpikore/ciliare vetëm e lëvizin atë. Dy role të ndryshme në të njëjtin epitel."
+  },
+  {
+    "id": "bio-sistemet-046",
+    "question": "Në cilën pjesë të gypit tretës sekretohet lëngu pankreatik?",
+    "answers": [
+      "Ezofagu",
+      "Stomaku",
+      "Ileumi",
+      "Duodeni"
+    ],
+    "correct": 3,
+    "explanation": "Pankreasi e derdh lëngun e tij (me tripsinë, lipazë, amilazë dhe bikarbonate) në duoden — pjesa e parë e zorrës së hollë."
+  },
+  {
+    "id": "bio-sistemet-047",
+    "question": "Sasia e lartë e yndyrnave të ngopura në dietën ushqimore rrit përqendrimin e:",
+    "answers": [
+      "kolesterolit në gjak",
+      "fosfolipideve në gjak",
+      "aminoacideve në gjak",
+      "karbohidrateve në gjak"
+    ],
+    "correct": 0,
+    "explanation": "Yndyrnat e ngopura rrisin kolesterolin LDL në gjak, duke shtuar rrezikun e aterosklerozës dhe sëmundjeve koronare."
+  },
+  {
+    "id": "bio-sistemet-048",
+    "question": "Zbërthimi i molekulave ushqimore të mëdha të patretshme në molekula të vogla të tretshme quhet?",
+    "answers": [
+      "Përthithje",
+      "Tretje",
+      "Ekskretim",
+      "Gëlltitje"
+    ],
+    "correct": 1,
+    "explanation": "Tretja = zbërthim. Përthithja vjen PAS tretjes (kalimi në gjak), ndërsa ekskretimi është largimi i mbetjeve metabolike."
+  },
+  {
+    "id": "bio-sistemet-049",
+    "question": "Cili është përshkrimi i saktë i veprimit të një proteaze. Ajo shpërbën:",
+    "answers": [
+      "glikogjenin në glukozë",
+      "yndyrnat në acide yndyrore",
+      "proteinat në aminoacide",
+      "aminoacidet në proteina"
+    ],
+    "correct": 2,
+    "explanation": "Emri e tregon: prote-azë = enzimë që zbërthen PROTEINAT në aminoacide. Enzimat zbërthejnë (nuk sintetizojnë), prandaj D është e gabuar."
+  },
+  {
+    "id": "bio-sistemet-050",
+    "question": "Sasia më e madhe e energjisë ushqimore ndodhet tek:",
+    "answers": [
+      "sheqernat",
+      "proteinat",
+      "vitaminat",
+      "yndyrnat"
+    ],
+    "correct": 3,
+    "explanation": "Yndyrnat japin rreth 38 kJ/g, dyfishin e sheqernave dhe proteinave (~17 kJ/g). Vitaminat nuk japin energji fare."
+  },
+  {
+    "id": "bio-sistemet-051",
+    "question": "Procesi i shndërrimit të glukozës në glikogjen ndodh në:",
+    "answers": [
+      "pankreas",
+      "zorrë",
+      "stomak",
+      "mëlçi"
+    ],
+    "correct": 3,
+    "explanation": "Mëlçia (dhe muskujt) e depoziton glukozën e tepërt si glikogjen, nën veprimin e insulinës. Pankreasi vetëm prodhon hormonin, nuk depoziton."
+  },
+  {
+    "id": "bio-sistemet-052",
+    "question": "Organi ku realizohet tretja e plotë kimike është:",
+    "answers": [
+      "stomaku",
+      "ezofagu",
+      "zorra e hollë",
+      "zorra e trashë"
+    ],
+    "correct": 2,
+    "explanation": "Në zorrën e hollë veprojnë enzimat pankreatike dhe ato zorrore që e përfundojnë tretjen e të tria grupeve ushqimore. Stomaku bën vetëm tretje të pjesshme."
+  },
+  {
+    "id": "bio-sistemet-053",
+    "question": "Radha e vendosjes së organeve në aparatin tretës të njeriut është:",
+    "answers": [
+      "goja-ezofagu-stomaku-zorra e trashë-zorra e hollë",
+      "goja-stomaku-ezofagu-zorra e trashë-zorra e hollë",
+      "goja-stomaku-ezofagu-zorra e hollë-zorra e trashë",
+      "goja-ezofagu-stomaku-zorra e hollë-zorra e trashë"
+    ],
+    "correct": 3,
+    "explanation": "Rruga e ushqimit: gojë → ezofag → stomak → zorrë e hollë → zorrë e trashë. Ezofagu vjen gjithmonë para stomakut dhe zorra e hollë para asaj të trashë."
+  },
+  {
+    "id": "bio-sistemet-054",
+    "question": "Në figurën e mëposhtme identifiko strukturën me numrin 3:",
+    "image": "/question-images/biologji/sistemet/sistemet-054.png",
+    "imageAlt": "Figurë e aparatit tretës të njeriut me katër shigjeta të numërtuara",
+    "answers": [
+      "ezofagu",
+      "stomaku",
+      "mëlçia",
+      "pankreasi"
+    ],
+    "correct": 1,
+    "explanation": "Nr. 3 tregon organin e madh në formë qeseje në anën e majtë sipër — stomakun; nr. 2 është mëlçia, organi i madh kafe në të djathtë."
+  },
+  {
+    "id": "bio-sistemet-055",
+    "question": "Cila nga substancat e mëposhtme bën pjesë te kemiotrofët:",
+    "answers": [
+      "aminoacidet",
+      "glukoza",
+      "sakaroza",
+      "hekuri"
+    ],
+    "correct": 3,
+    "explanation": "Kemiotrofët (kemolitotrofët) marrin energji duke oksiduar lëndë INORGANIKE si hekuri, squfuri, amoniaku. Të tri të tjerat janë lëndë organike."
+  },
+  {
+    "id": "bio-sistemet-056",
+    "question": "Ezofagu është rruga e kalimit të:",
+    "answers": [
+      "ajrit",
+      "gjakut",
+      "ushqimit",
+      "limfës"
+    ],
+    "correct": 2,
+    "explanation": "Ezofagu e shtyn ushqimin nga faringu në stomak me lëvizje peristaltike. Ajri kalon në trake, jo në ezofag."
+  },
+  {
+    "id": "bio-sistemet-057",
+    "question": "Në figurën e mëposhtme struktura me numrin 2 tregon:",
+    "image": "/question-images/biologji/sistemet/sistemet-057.png",
+    "imageAlt": "Figurë skematike e aparatit tretës me katër struktura të numërtuara",
+    "answers": [
+      "pankreasi",
+      "stomaku",
+      "ezofagu",
+      "mëlçia"
+    ],
+    "correct": 0,
+    "explanation": "Nr. 2 tregon gjëndrën e zgjatur poshtë stomakut, që derdhet në duoden — pankreasin. Nr. 1 është mëlçia dhe nr. 3 stomaku."
+  },
+  {
+    "id": "bio-sistemet-058",
+    "question": "Gypi tretës në pjesën e brendshme vishet nga shtresa të indit:",
+    "answers": [
+      "muskulor",
+      "epitelial",
+      "lidhor",
+      "nervor"
+    ],
+    "correct": 1,
+    "explanation": "Shtresa e brendshme (mukoza) është ind EPITELIAL, që sekreton dhe përthith. Indi muskulor ndodhet më jashtë dhe bën peristaltikën."
+  },
+  {
+    "id": "bio-sistemet-059",
+    "question": "Limfocitet B maturohen në:",
+    "answers": [
+      "timus",
+      "bajame",
+      "shpretkë",
+      "palcën e kuqe kockore"
+    ],
+    "correct": 3,
+    "explanation": "B nga 'Bone marrow' (palca kockore) — aty edhe formohen edhe maturohen. Kujto çiftin: B = palcë, T = timus."
+  },
+  {
+    "id": "bio-sistemet-060",
+    "question": "Limfocitet T maturohen në:",
+    "answers": [
+      "timus",
+      "bajame",
+      "shpretkë",
+      "palcën e kuqe kockore"
+    ],
+    "correct": 0,
+    "explanation": "T nga 'Timus'. Formohen në palcë, por udhëtojnë e maturohen në timus. Kujto çiftin: T = timus."
+  },
+  {
+    "id": "bio-sistemet-061",
+    "question": "Lizozima gjendet tek:",
+    "answers": [
+      "lotët",
+      "dylli i veshit",
+      "lëngu gastrik",
+      "lëngu pankreatik"
+    ],
+    "correct": 0,
+    "explanation": "Lizozima është enzimë antibakteriale që shpërbën murin e baktereve; gjendet në lot, pështymë dhe mukus — mbrojtje e lindur jospecifike."
+  },
+  {
+    "id": "bio-sistemet-062",
+    "question": "Cila nga këto sëmundje është infektive?",
+    "answers": [
+      "Gripi",
+      "Talasemia",
+      "Hipertensioni",
+      "Diabeti melitus"
+    ],
+    "correct": 0,
+    "explanation": "Infektive = e shkaktuar nga një patogjen dhe e transmetueshme. Gripi vjen nga virusi; talasemia është gjenetike, dy të tjerat janë kronike jo-ngjitëse."
+  },
+  {
+    "id": "bio-sistemet-063",
+    "question": "Cila nga këto lloje rruazash gjaku ka aftësi të kryejë fagocitozë?",
+    "answers": [
+      "Eritrocite",
+      "Limfocitet B",
+      "Limfocitet T",
+      "Leukocitet"
+    ],
+    "correct": 3,
+    "explanation": "Fagocitozën e kryejnë leukocitet (neutrofilet dhe monocitet/makrofagët). Limfocitet nuk fagocitojnë — ato prodhojnë antitrupa ose sulmojnë qeliza të infektuara."
+  },
+  {
+    "id": "bio-sistemet-064",
+    "question": "Cilën nga këto funksione kryejnë Leukocitet?",
+    "answers": [
+      "Prodhojnë hemoglobinën",
+      "Transportojnë oksigjenin",
+      "Transportojnë glukozën",
+      "Mbrojtjen ndaj infeksioneve"
+    ],
+    "correct": 3,
+    "explanation": "Leukocitet = rruaza të bardha = mbrojtje. Transporti i O₂ është punë e eritrociteve, ndërsa glukozën e transporton plazma."
+  },
+  {
+    "id": "bio-sistemet-065",
+    "question": "Limfocitet ndahen në:",
+    "answers": [
+      "limfocite A dhe B",
+      "limfocite A dhe C",
+      "limfocite B dhe C",
+      "limfocite B dhe T"
+    ],
+    "correct": 3,
+    "explanation": "Ekzistojnë vetëm dy tipa: B (imunitet humoral, antitrupa) dhe T (imunitet qelizor). Nuk ka limfocite A apo C."
+  },
+  {
+    "id": "bio-sistemet-066",
+    "question": "Antitrupat pasi prodhohen:",
+    "answers": [
+      "dalin jashtë me djersën",
+      "dalin jashtë me feçet",
+      "qarkullojnë në gjak",
+      "ruhen në palcën e kockave"
+    ],
+    "correct": 2,
+    "explanation": "Antitrupat janë proteina të tretshme (imunoglobulina) që çlirohen në gjak e limfë për të gjetur antigjenin kudo në trup."
+  },
+  {
+    "id": "bio-sistemet-067",
+    "question": "Antitrupat janë proteina të përbëra nga:",
+    "answers": [
+      "një zinxhir i rëndë dhe dy zinxhirë të lehtë",
+      "dy zinxhirë të rënda dhe dy zinxhirë të lehtë",
+      "dy zinxhirë të rëndë dhe një zinxhir i lehtë",
+      "tre zinxhirë të rëndë dhe një zinxhir i lehtë"
+    ],
+    "correct": 1,
+    "explanation": "Struktura në formë Y: 2 zinxhirë të rëndë + 2 të lehtë, të lidhur me ura disulfide. Prandaj antitrupi ka 2 vende lidhjeje me antigjenin."
+  },
+  {
+    "id": "bio-sistemet-068",
+    "question": "Vaksinimi shkakton:",
+    "answers": [
+      "imunitet aktiv artificial",
+      "imunitet pasiv artificial",
+      "imunitet aktiv natyral",
+      "imunitet pasiv natyral"
+    ],
+    "correct": 0,
+    "explanation": "AKTIV sepse trupi prodhon vetë antitrupat, ARTIFICIAL sepse antigjeni futet me vaksinë. Pasiv artificial = injektim antitrupash të gatshëm (serum)."
+  },
+  {
+    "id": "bio-sistemet-069",
+    "question": "Procesi me anë të cilit rruazat e bardha të gjakut gëlltisin bakteret quhet?",
+    "answers": [
+      "Ekzocitozë",
+      "Fagocitozë",
+      "Leukocitozë",
+      "Pinocitozë"
+    ],
+    "correct": 1,
+    "explanation": "Fago- = të hash grimca të ngurta si bakteret. Pinocitoza merr lëngje, ekzocitoza nxjerr jashtë, leukocitoza është thjesht rritje e numrit të leukociteve."
+  },
+  {
+    "id": "bio-sistemet-070",
+    "question": "Fibrinogjeni kthehet në fibrinë dhe realizon koagulimin e gjakut. Fibrinogjeni është:",
+    "answers": [
+      "lëndë hormonale",
+      "lëndë sheqerore",
+      "lëndë proteinike",
+      "lëndë yndyrore"
+    ],
+    "correct": 2,
+    "explanation": "Fibrinogjeni është proteinë plazmatike e prodhuar nga mëlçia; trombina e kthen në fibrinë, e cila formon rrjetën e mpiksjes."
+  },
+  {
+    "id": "bio-sistemet-071",
+    "question": "Cili prej hormoneve do të sekretohet kur rritet sasia e sheqerit në gjak?",
+    "answers": [
+      "Insulina",
+      "Glukagoni",
+      "Kortizoli",
+      "Tiroksina"
+    ],
+    "correct": 0,
+    "explanation": "Sheqer i lartë → insulinë (e ul gliceminë). Glukagoni bën të kundërtën, sekretohet kur sheqeri është i ulët. Kujto: 'IN-sulina fut glukozën BRENDA'."
+  },
+  {
+    "id": "bio-sistemet-072",
+    "question": "Cila nga strukturat përgjigjet për sekretimin e hormonit kundër urinimit?",
+    "answers": [
+      "Adenohipofiza",
+      "Gjëndra mbiveshkore",
+      "Neurohipofiza",
+      "Tërmishëza"
+    ],
+    "correct": 2,
+    "explanation": "ADH-ja prodhohet në hipotalamus, por SEKRETOHET (çlirohet në gjak) nga neurohipofiza. Pyetja kërkon vendin e sekretimit."
+  },
+  {
+    "id": "bio-sistemet-073",
+    "question": "Hipotalamusi NUK kontrollon sekretimin e hormoneve:",
+    "answers": [
+      "FSH dhe LH",
+      "të pankreasit",
+      "të rritjes (GH)",
+      "ACTH"
+    ],
+    "correct": 1,
+    "explanation": "Pankreasi rregullohet direkt nga niveli i glukozës në gjak, jo nga hipotalamusi. FSH, LH, GH e ACTH kontrollohen nëpërmjet hipofizës."
+  },
+  {
+    "id": "bio-sistemet-074",
+    "question": "Cili nga parametrat e mëposhtëm NUK është parametër homeostatik?",
+    "answers": [
+      "Pesha trupore",
+      "pH i gjakut",
+      "Sasia e ujit",
+      "Përqendrimi i Ca2+"
+    ],
+    "correct": 0,
+    "explanation": "Homeostaza ruan përbërjen e mjedisit të brendshëm (pH, ujë, jone, temperaturë, glicemi). Pesha ndryshon me dietë e moshë dhe nuk mbahet konstante."
+  },
+  {
+    "id": "bio-sistemet-075",
+    "question": "Rregullimi i temperaturës së trupit kontrollohet nga:",
+    "answers": [
+      "hipotalamusi",
+      "truri i madh",
+      "truri i vogël",
+      "hipofiza"
+    ],
+    "correct": 0,
+    "explanation": "Hipotalamusi është 'termostati' i trupit. Truri i vogël koordinon lëvizjet, hipofiza sekreton hormone sipas urdhrave të hipotalamusit."
+  },
+  {
+    "id": "bio-sistemet-076",
+    "question": "Ndjesia e etjes kontrollohet nga:",
+    "answers": [
+      "hipotalamusi",
+      "truri i madh",
+      "truri i vogël",
+      "hipofiza"
+    ],
+    "correct": 0,
+    "explanation": "Në hipotalamus ndodhen qendrat e etjes, urisë dhe temperaturës — ai është qendra kryesore homeostatike e trupit."
+  },
+  {
+    "id": "bio-sistemet-077",
+    "question": "Hormoni folikulo-stimulues (FSH) dhe hormoni luteinizues (LH) që rregullojnë prodhimin e hormoneve seksuale mashkullore dhe femërore prodhohen nga:",
+    "answers": [
+      "pankreasi",
+      "hipotalamusi",
+      "neurohipofiza",
+      "adenohipofiza"
+    ],
+    "correct": 3,
+    "explanation": "FSH dhe LH janë gonadotropina të adenohipofizës (lobi i përparmë). Neurohipofiza çliron vetëm ADH dhe oksitocinë."
+  },
+  {
+    "id": "bio-sistemet-078",
+    "question": "Hormoni i cili ndikon në procesin e rritjes dhe në metabolizëm prodhohet nga:",
+    "answers": [
+      "tiroidja",
+      "pankreasi",
+      "hipotalamusi",
+      "adenohipofiza"
+    ],
+    "correct": 3,
+    "explanation": "Hormoni i rritjes (GH) prodhohet nga adenohipofiza dhe nxit rritjen e kockave e muskujve si dhe metabolizmin."
+  },
+  {
+    "id": "bio-sistemet-079",
+    "question": "Nëse niveli i sheqerit në gjak është i ulët, qelizat e pankreasit do të:",
+    "answers": [
+      "sekretojnë sasi më të madhe insuline",
+      "sekretojnë sasi më të vogël glukagoni",
+      "sekretojnë sasi më të madhe glukagoni",
+      "ndërpresin sekretimin e hormoneve"
+    ],
+    "correct": 2,
+    "explanation": "Sheqer i ulët → qelizat α çlirojnë GLUKAGON, i cili e kthen glikogjenin e mëlçisë në glukozë. Insulina do të e ulte edhe më shumë sheqerin."
+  },
+  {
+    "id": "bio-sistemet-080",
+    "question": "Ruajtja e qëndrueshmërisë së mjedisit të brendshëm të organizmit quhet?",
+    "answers": [
+      "Homeoplazi",
+      "Homeostazë",
+      "Homeopati",
+      "Homozigotë"
+    ],
+    "correct": 1,
+    "explanation": "Homeo- = i njëjtë, stazë = qëndrim. Homeopatia është metodë alternative mjekimi, homozigot është term gjenetik."
+  },
+  {
+    "id": "bio-sistemet-081",
+    "question": "Homeostaza është tërësia e mekanizmave që rikthejnë parametrat e ndryshuar të lëngut indor në:",
+    "answers": [
+      "vlerën maksimale",
+      "vlerën minimale",
+      "vlerën optimale",
+      "vlerën mesatare"
+    ],
+    "correct": 2,
+    "explanation": "Trupi synon vlerën OPTIMALE (pikën e caktuar, p.sh. 37 °C, pH 7.4) — atë ku enzimat punojnë më mirë, jo maksimumin apo minimumin."
+  },
+  {
+    "id": "bio-sistemet-082",
+    "question": "Nëse pH dhe temperatura nuk kthehen në vlerën optimale, do të dëmtohej struktura e:",
+    "answers": [
+      "acideve nukleike",
+      "enzimave",
+      "glukozës",
+      "lipideve"
+    ],
+    "correct": 1,
+    "explanation": "Enzimat janë proteina: pH-ja dhe temperatura jashtë kufijve e denatyrojnë vendin aktiv dhe reaksionet ndalen. Glukoza dhe lipidet nuk denatyrohen."
+  },
+  {
+    "id": "bio-sistemet-083",
+    "question": "Funksioni i enzimave është:",
+    "answers": [
+      "të ulin energjinë e aktivizimit",
+      "të rritin energjinë e aktivizimit",
+      "të zvogëlojnë shpejtësinë e reaksionit",
+      "të realizojnë edhe reaksionet e pamundura"
+    ],
+    "correct": 0,
+    "explanation": "Enzima = katalizator biologjik: ul energjinë e aktivizimit dhe përshpejton reaksionin. Ajo nuk mund të bëjë të mundur një reaksion termodinamikisht të pamundur."
+  },
+  {
+    "id": "bio-sistemet-084",
+    "question": "Rregullimi i temperaturës së trupit realizohet përmes:",
+    "answers": [
+      "feedback-ut negativ",
+      "feedback-ut pozitiv",
+      "të dy llojeve të feedback-ëve",
+      "përmes një mekanizmi hormonal"
+    ],
+    "correct": 0,
+    "explanation": "Feedback negativ = ndryshimi zhduket, vlera kthehet në normë. Të gjithë mekanizmat homeostatikë janë negativë; ai pozitiv (p.sh. lindja) e forcon ndryshimin."
+  },
+  {
+    "id": "bio-sistemet-085",
+    "question": "Sistemi nervor qendror përbëhet nga:",
+    "answers": [
+      "fijet nervore dhe ganglionet",
+      "truri dhe palca kurrizore",
+      "truri i madh dhe i vogël",
+      "ura dhe palca e zgjatur"
+    ],
+    "correct": 1,
+    "explanation": "SNQ = tru + palcë kurrizore. Nervat dhe ganglionet formojnë sistemin nervor periferik. Alternativat C e D janë vetëm pjesë të trurit."
+  },
+  {
+    "id": "bio-sistemet-086",
+    "question": "Funksioni i një neuroni është:",
+    "answers": [
+      "ushqyes",
+      "termorregullues",
+      "mbrojtës dhe lëvizor",
+      "të kapë dhe tejçojë ngacmimet"
+    ],
+    "correct": 3,
+    "explanation": "Neuroni merr ngacmimin, e kthen në impuls elektrik dhe e përcjell më tej. Ushqimin dhe mbrojtjen e neuronit i kryejnë qelizat gliale."
+  },
+  {
+    "id": "bio-sistemet-087",
+    "question": "Mielina prodhohet nga:",
+    "answers": [
+      "qelizat gliale",
+      "qelizat nervore",
+      "qelizat e Ranvie",
+      "qelizat e Shvanit"
+    ],
+    "correct": 3,
+    "explanation": "Në sistemin periferik mielinën e prodhojnë qelizat e Shvanit, që mbështillen rreth aksonit. 'Ranvje' janë nyjet midis tyre, jo qeliza."
+  },
+  {
+    "id": "bio-sistemet-088",
+    "question": "Një sinaps kimik është:",
+    "answers": [
+      "lidhja midis qelizave të një indi",
+      "zona ku kalojnë neurotransmetuesit",
+      "një vazhdimësi anatomike e dy neuroneve",
+      "pika e takimit të enëve të gjakut me qelizat"
+    ],
+    "correct": 1,
+    "explanation": "Sinapsi është hapësirë e vogël (çarje sinaptike) ku sinjali kalon me neurotransmetues. Pikërisht sepse ka hapësirë, nuk ka vazhdimësi anatomike (C e gabuar)."
+  },
+  {
+    "id": "bio-sistemet-089",
+    "question": "Bërthama dhe organelat qelizore të një neuroni ndodhen në:",
+    "answers": [
+      "akson",
+      "sinaps",
+      "dentrite",
+      "trup (soma)"
+    ],
+    "correct": 3,
+    "explanation": "Trupi qelizor (soma) është 'qendra' me bërthamë, mitokondri e ribozome. Aksoni dhe dendritet janë vetëm vazhdime citoplazmike."
+  },
+  {
+    "id": "bio-sistemet-090",
+    "question": "Mbështjellja që prodhohet nga qelizat e Shvanit dhe që shërben për të izoluar aksonet quhet?",
+    "answers": [
+      "Aktinë",
+      "Mielinë",
+      "Miozinë",
+      "Tripsinë"
+    ],
+    "correct": 1,
+    "explanation": "Mielina është shtresë yndyrore izoluese që përshpejton përcjelljen. Aktina dhe miozina janë proteina muskulore, tripsina enzimë tretëse."
+  },
+  {
+    "id": "bio-sistemet-091",
+    "question": "Lënda kimike që ndërmjetëson kalimin e nxitjes nervore nga neuroni parasinaptik në atë passinaptik quhet?",
+    "answers": [
+      "Interferon",
+      "Hormon",
+      "Neurohormon",
+      "Neurotransmetues"
+    ],
+    "correct": 3,
+    "explanation": "Neurotransmetuesi (p.sh. acetilkolina) çlirohet në çarjen sinaptike. Hormoni udhëton me gjak dhe vepron larg, jo në sinaps."
+  },
+  {
+    "id": "bio-sistemet-092",
+    "question": "Neurotransmetuesit çlirohen nga:",
+    "answers": [
+      "aksoni i neuronit passinaptik",
+      "butoni i neuronit parasinaptik",
+      "dentritet e neuronit passinaptik",
+      "trupi i neuronit passinaptik"
+    ],
+    "correct": 1,
+    "explanation": "Fshikëzat me neurotransmetues ndodhen në butonin sinaptik të neuronit PARAsinaptik (ai që dërgon). Neuroni passinaptik vetëm i pret me receptorë."
+  },
+  {
+    "id": "bio-sistemet-093",
+    "question": "Neuroni është:",
+    "answers": [
+      "qelizë pa bërthamë",
+      "qelizë që nuk riprodhohet",
+      "qelizë që riprodhohet",
+      "qelizë shumëbërthamore"
+    ],
+    "correct": 1,
+    "explanation": "Neuronet e diferencuara e humbin aftësinë për t'u ndarë me mitozë — prandaj dëmtimet nervore janë të vështira për t'u riparuar."
+  },
+  {
+    "id": "bio-sistemet-094",
+    "question": "Aksoni është pjesë e:",
+    "answers": [
+      "nefronit",
+      "neuronit",
+      "embrionit",
+      "kromozomit"
+    ],
+    "correct": 1,
+    "explanation": "Aksoni është vazhdimi i gjatë i neuronit që përcjell impulsin larg trupit qelizor. Nefroni është njësia e veshkës — mos i ngatërro."
+  },
+  {
+    "id": "bio-sistemet-095",
+    "question": "Drejtimi i përhapjes së nxitjes nervore është:",
+    "answers": [
+      "nga trupi (soma), përmes aksonit, tek butoni",
+      "nga aksoni, tek trupi, tek dentritet e një neuroni",
+      "nga dentritet, tek aksoni, tek trupi i një neuroni",
+      "nga trupi, tek dentritet, tek aksoni i një neuroni"
+    ],
+    "correct": 0,
+    "explanation": "Rruga gjithmonë: dendrite → trup → akson → buton sinaptik. Impulsi lëviz vetëm në një drejtim, drejt sinapsit."
+  },
+  {
+    "id": "bio-sistemet-096",
+    "question": "Dentritet e një neuroni dallohen nga aksoni sepse:",
+    "answers": [
+      "dalin nga aksonet",
+      "dërgojnë nxitjen në akson",
+      "janë më të gjata se aksoni",
+      "janë më të shkurtra se aksoni"
+    ],
+    "correct": 1,
+    "explanation": "Dallimi thelbësor është FUNKSIONI: dendritet e sjellin ngacmimin drejt trupit e pastaj në akson. Gjatësia është dallim dytësor dhe jo gjithmonë e vlefshme."
+  },
+  {
+    "id": "bio-sistemet-097",
+    "question": "Nervi është një tufë:",
+    "answers": [
+      "aksonesh të neuroneve",
+      "dentritesh të neuroneve",
+      "fijesh muskulore",
+      "fijesh proteinike"
+    ],
+    "correct": 0,
+    "explanation": "Nervi = shumë aksone të mbështjella së bashku me ind lidhor. Dendritet mbeten pranë trupit qelizor dhe nuk formojnë nerva."
+  },
+  {
+    "id": "bio-sistemet-098",
+    "question": "Njësia ndërtimore dhe funksionale e sistemit nervor është?",
+    "answers": [
+      "Nefroni",
+      "Neuroni",
+      "Palca kurrizore",
+      "Truri"
+    ],
+    "correct": 1,
+    "explanation": "Neuroni është qeliza bazë e sistemit nervor. Truri dhe palca janë organe të ndërtuara prej neuronesh; nefroni i takon veshkës."
+  },
+  {
+    "id": "bio-sistemet-099",
+    "question": "Procesi i largimit të produkteve të metabolizmit qelizor nga trupi ynë njihet si:",
+    "answers": [
+      "ekskretim",
+      "riprodhim",
+      "lëvizje",
+      "tretje"
+    ],
+    "correct": 0,
+    "explanation": "Ekskretim = largim i MBETJEVE METABOLIKE (ure, CO₂, kripëra). Mos e ngatërro me defekimin, që largon mbetje të patretura, jo produkte metabolizmi."
+  },
+  {
+    "id": "bio-sistemet-100",
+    "question": "Funksioni i veshkave monitorohet dhe rregullohet nga:",
+    "answers": [
+      "mekanizmat i feedback-ut",
+      "mekanizmat e kontraktimeve",
+      "veprimet reflektore",
+      "asnjë nga këto"
+    ],
+    "correct": 0,
+    "explanation": "Osmoreceptorët e hipotalamusit ndjekin potencialin ujor dhe rregullojnë ADH-në me feedback negativ — pra veshka kontrollohet me feedback."
+  },
+  {
+    "id": "bio-sistemet-101",
+    "question": "Funksioni i tubulës së nefronit është të:",
+    "answers": [
+      "realizojë reabsorbimin e lëndëve të ndryshme",
+      "lidh veshkën me fshikëzën e urinës",
+      "shërbejnë si depozitë për urinën",
+      "eliminojë urinën"
+    ],
+    "correct": 0,
+    "explanation": "Tubula është vendi ku lëndët e nevojshme (glukozë, aminoacide, ujë, jone) kthehen në gjak. Lidhjen me fshikëzën e bën ureteri, depozitimin fshikëza."
+  },
+  {
+    "id": "bio-sistemet-102",
+    "question": "Shumica e substancave të panevojshme, të pranishme në urinë rrjedhin nga metabolizmi i:",
+    "answers": [
+      "lipideve",
+      "proteinave",
+      "sheqernave",
+      "kripërave minerale"
+    ],
+    "correct": 1,
+    "explanation": "Aminoacidet e tepërta deaminohen në mëlçi → amoniak → ure. Prandaj mbetja kryesore e urinës vjen nga PROTEINAT; sheqernat e lipidet japin CO₂ dhe ujë."
+  },
+  {
+    "id": "bio-sistemet-103",
+    "question": "Në rast dehidratimi ndodh:",
+    "answers": [
+      "rritja e vëllimit të gjakut",
+      "prodhimi i urinës shumë të holluar",
+      "ulja e përqendrimit të lëndës së tretur",
+      "prodhimi i urinës shumë të koncentruar"
+    ],
+    "correct": 3,
+    "explanation": "Kur mungon uji, ADH-ja rritet, veshka riabsorbon më shumë ujë → urinë e paktë dhe e koncentruar. Të gjitha të tjerat përshkruajnë gjendjen e tepricës së ujit."
+  },
+  {
+    "id": "bio-sistemet-104",
+    "question": "Tek njerëzit, ultrafiltrati i marrë në kapsulën e Bauman-it, në kushte normale është i përbërë nga:",
+    "answers": [
+      "ujë, ure, urinë",
+      "acidi urik dhe ujë",
+      "ujë, glukozë, ure dhe kripëra",
+      "proteina, qelizat e kuqe të gjakut, ujë"
+    ],
+    "correct": 2,
+    "explanation": "Filtrati përmban molekula të VOGLA: ujë, glukozë, aminoacide, ure, kripëra. Proteinat dhe qelizat e gjakut janë shumë të mëdha; 'urina' formohet vetëm më vonë."
+  },
+  {
+    "id": "bio-sistemet-105",
+    "question": "Në veshka, riabsorbimi selektiv i glukozës ndodh në nivelin e:",
+    "answers": [
+      "gypave të përdredhur proksimal",
+      "kapsulës Bauman",
+      "lakut Henle",
+      "glomerulës"
+    ],
+    "correct": 0,
+    "explanation": "Gypi proksimal ka mikrovile dhe shumë mitokondri për kotransportin Na⁺/glukozë — aty glukoza riabsorbohet 100%. Në glomerulë e kapsulë ndodh vetëm filtrimi."
+  },
+  {
+    "id": "bio-sistemet-106",
+    "question": "Në rastin kur sasia e marrjes së lëngjeve është e ulët:",
+    "answers": [
+      "rritet prodhimi i urinës",
+      "veshka kthen më pak ujë në gjak",
+      "urina është më pak e përqendruar",
+      "hipotalamusi prodhon më shumë ADH"
+    ],
+    "correct": 3,
+    "explanation": "Pak lëngje → potenciali ujor bie → osmoreceptorët e hipotalamusit nxitin më shumë ADH → ruhet uji. Tri alternativat e tjera janë e kundërta e kursimit të ujit."
+  },
+  {
+    "id": "bio-sistemet-107",
+    "question": "Cila nga substancat NUK mund të kalojë përmes endotelit të kapilarëve të glomerulës?",
+    "answers": [
+      "Globina",
+      "Glukozë",
+      "Qelizat e gjakut",
+      "Qelizat gjakut dhe proteinat"
+    ],
+    "correct": 2,
+    "explanation": "Endoteli i glomerulës ka pore (fenestra) që lejojnë edhe proteinat e vogla, por jo QELIZAT. Proteinat ndalen më tej, nga membrana bazale — prandaj D nuk i përgjigjet saktë 'endotelit'."
+  },
+  {
+    "id": "bio-sistemet-108",
+    "question": "Arsyeja pse veshka e djathtë është pak më e ulët se e majta ka të bëjë me:",
+    "answers": [
+      "veshka e majtë është më e madhe se e djathta",
+      "hapësirën e konsiderueshme të zënë nga zemra",
+      "veshka e djathtë është më e madhe se e majta",
+      "hapësirën e konsiderueshme të zënë nga mëlçia, në anën e djathtë"
+    ],
+    "correct": 3,
+    "explanation": "Mëlçia është organi më i madh i brendshëm dhe zë anën e djathtë sipër, duke e shtyrë veshkën e djathtë pak më poshtë. Zemra është shumë lart për të ndikuar."
+  },
+  {
+    "id": "bio-sistemet-109",
+    "question": "Veshkat në trupin e njeriut shtrihen në nivelin e:",
+    "answers": [
+      "vertebrës së 5-të, të kraharorit, deri tek vertebra e 3-të, e mesit",
+      "vertebrës së 8-të, të kraharorit, deri tek vertebra e 12-të, e mesit",
+      "vertebrës së 10-të, të kraharorit, deri tek vertebra e 5-të, e mesit",
+      "vertebrës së 12-të, të kraharorit, deri tek vertebra e 3-të, e mesit"
+    ],
+    "correct": 3,
+    "explanation": "Veshkat shtrihen nga vertebra e 12-të e kraharorit (T12) deri te e 3-ta e mesit (L3) — pra në pjesën e poshtme të shpinës, jo lart pranë mushkërive."
+  },
+  {
+    "id": "bio-sistemet-110",
+    "question": "Rritja e përshkueshmërisë së qelizave të Lakut të Henlit, ndaj ujit është për shkak të:",
+    "answers": [
+      "uljes së prodhimit të ADH-së",
+      "rritjes së prodhimit të ADH-së",
+      "rritjes së prodhimit të aldosteronit",
+      "uljes së përqendrimit të plazmës së gjakut"
+    ],
+    "correct": 1,
+    "explanation": "ADH-ja fut akuaporina (kanale uji) në membranë → përshkueshmëria ndaj ujit rritet. Aldosteroni vepron mbi natriumin, jo direkt mbi ujin."
+  },
+  {
+    "id": "bio-sistemet-111",
+    "question": "Te kafshët e shkretëtirës dominojnë nefronet që kanë Lakun e Henlit:",
+    "answers": [
+      "me gjatësi të njëjtë si te njeriu",
+      "më të shkurtër se te njeriu",
+      "më të gjatë se te njeriu",
+      "në mungesë"
+    ],
+    "correct": 2,
+    "explanation": "Sa më i gjatë laku, aq më i madh gradienti i kripës në medulë dhe aq më e koncentruar urina — përshtatje për të kursyer ujë në shkretëtirë."
+  },
+  {
+    "id": "bio-sistemet-112",
+    "question": "Hormoni kundër-urinimit (ADH) prodhohet nga:",
+    "answers": [
+      "folikulat",
+      "hipotalamusi",
+      "trupi i verdhë",
+      "neurohipofiza"
+    ],
+    "correct": 1,
+    "explanation": "PRODHOHET në neuronet e hipotalamusit, ndërsa RUHET e çlirohet nga neurohipofiza. Kujdes fjalës kyçe: këtu pyetet për prodhimin."
+  },
+  {
+    "id": "bio-sistemet-113",
+    "question": "ADH-ja përfaqëson hormonin që:",
+    "answers": [
+      "ul reabsorbimin fosfatit.",
+      "rrit riabsorbimin e H2O-së.",
+      "ul riabsorbimin e natriumit.",
+      "rrit riabsorbimin e natriumit."
+    ],
+    "correct": 1,
+    "explanation": "Anti-diuretik = kundër urinimit → mban ujin duke rritur riabsorbimin e tij në gypin distal e mbledhës. Natriumin e rregullon aldosteroni."
+  },
+  {
+    "id": "bio-sistemet-114",
+    "question": "Ka përqëndrim të ulët të uresë:",
+    "answers": [
+      "arteriola aferente",
+      "kapsula Baumanit",
+      "fshikëza e urinës",
+      "arteriola eferente"
+    ],
+    "correct": 3,
+    "explanation": "Në glomerulë një pjesë e mirë e uresë kalon në filtrat, prandaj gjaku që largohet nga arteriola eferente ka ngarkesë më të vogël ureje. Fshikëza ka përqendrimin më të lartë."
+  },
+  {
+    "id": "bio-sistemet-115",
+    "question": "Cila nga llojet e mbetjeve të azotuara NUK ekskretohet nga organizmat e gjallë?",
+    "answers": [
+      "Ure",
+      "Amoniaku",
+      "Acidi urik",
+      "Acidi nitrik"
+    ],
+    "correct": 3,
+    "explanation": "Tri mbetjet azotike biologjike janë: amoniak (peshqit), ure (gjitarët), acid urik (zogjtë, insektet). Acidi nitrik është përbërje kimike inorganike, jo produkt metabolik."
+  },
+  {
+    "id": "bio-sistemet-116",
+    "question": "Cili nga proceset e mëposhtme nuk ndodh gjatë formimit të urinës?",
+    "answers": [
+      "Filtrimi glomerular",
+      "Riabsorbimi",
+      "Asimilimi",
+      "Sekretimi"
+    ],
+    "correct": 2,
+    "explanation": "Urina formohet me tre hapa: filtrim → riabsorbim → sekretim. Asimilimi është përvetësim lëndësh nga qelizat, proces i të ushqyerit, jo i veshkës."
+  },
+  {
+    "id": "bio-sistemet-117",
+    "question": "Bimët e reja rriten në sajë të ndarjes së qelizave me:",
+    "answers": [
+      "mitozë",
+      "mejozë",
+      "sythëzim",
+      "shumim vegjetativ"
+    ],
+    "correct": 0,
+    "explanation": "Rritja = shtim numri qelizash identike → mitozë (në meristema). Mejoza shërben vetëm për formimin e gametëve/sporeve."
+  },
+  {
+    "id": "bio-sistemet-118",
+    "question": "Cilat nga strukturat e mëposhtme përfaqësojnë kërcejtë nëntokësorë të shndërruar te bimët?",
+    "answers": [
+      "Kladodet",
+      "Stolonet",
+      "Tuberet",
+      "Sythat"
+    ],
+    "correct": 2,
+    "explanation": "Tuberi (p.sh. patatja) është kërcell nëntokësor i trashur me lëndë rezervë — e provon prania e 'syve' (sytha). Stolonet janë kërcej mbitokësorë zvarritës."
+  },
+  {
+    "id": "bio-sistemet-119",
+    "question": "Cila nga strukturat e mëposhtme përfaqëson një kërcell të shkurtër nëntokësor që rrethohet nga shtresa gjethesh, të pasura me lëndë rezervë?",
+    "answers": [
+      "Bulbi",
+      "Tuberet",
+      "Rizoma",
+      "Kladodet"
+    ],
+    "correct": 0,
+    "explanation": "Bulbi (qepa) = disk kërcelli i shkurtër + shtresa gjethesh mishtore. Tuberi nuk ka gjethe, rizoma është kërcell horizontal i zgjatur."
+  },
+  {
+    "id": "bio-sistemet-120",
+    "question": "Bimët e patates riprodhohen me lule dhe me tuberë. Cila nga këto dy mënyra siguron më pak larmi gjenetike te pasardhësit?",
+    "answers": [
+      "Kryqëzimi i bimëve të varieteteve të ndryshme.",
+      "Kryqëzimi i bimëve të të njëjtit varietet.",
+      "Prodhimi i tubereve",
+      "Vetëpjalmimi."
+    ],
+    "correct": 2,
+    "explanation": "Tuberi është riprodhim ASEKSUAL me mitozë → pasardhës klone, larmi zero. Edhe vetëpjalmimi jep pak larmi, por prapë ka mejozë dhe rikombinim."
+  },
+  {
+    "id": "bio-sistemet-121",
+    "question": "Pllenimi i vezës ndodh në:",
+    "answers": [
+      "tubat e Fallopit",
+      "gypin deferent",
+      "uterus (mitër)",
+      "uretër"
+    ],
+    "correct": 0,
+    "explanation": "Spermatozoidi e takon vezën në pjesën e sipërme të gypit të Fallopit; zigota pastaj udhëton drejt mitrës ku ngulitet. Mitra = vend ngulitjeje, jo pllenimi."
+  },
+  {
+    "id": "bio-sistemet-122",
+    "question": "Disa orë para ovulimit, përqendrimi i:",
+    "answers": [
+      "FSH dhe LH ulet shumë",
+      "FSH dhe LH rritet shumë",
+      "progesteronit rritet shumë",
+      "FSH dhe LH nuk ndryshon"
+    ],
+    "correct": 1,
+    "explanation": "Estrogjeni i lartë shkakton 'pikun' e LH (dhe FSH) që shkakton çarjen e folikulës. Progesteroni rritet PAS ovulimit, nga trupi i verdhë."
+  },
+  {
+    "id": "bio-sistemet-123",
+    "question": "Procesi i formimit të plotë të gametëve mashkullorë ndodh në:",
+    "answers": [
+      "gypëzat seminiferë",
+      "kanali ejakulator",
+      "kanali deferent",
+      "epididimë"
+    ],
+    "correct": 0,
+    "explanation": "Spermatogjeneza zhvillohet në gypëzat seminiferë të testikujve. Epididima shërben vetëm për maturim përfundimtar e depozitim, kanalet vetëm për transport."
+  },
+  {
+    "id": "bio-sistemet-124",
+    "question": "Roli i qelizave intersticiale është të prodhojë:",
+    "answers": [
+      "gonadotropinat hipofizare",
+      "hormonin progesteron",
+      "hormonin testosteron",
+      "hormonin estrogjen"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat intersticiale (të Leydigut), midis gypëzave seminiferë, prodhojnë testosteron nën nxitjen e LH-së."
+  },
+  {
+    "id": "bio-sistemet-125",
+    "question": "Pjesa e mesme, “trupi” i spermatozoidit siguron:",
+    "answers": [
+      "gjene",
+      "energji",
+      "ushqim",
+      "kromozome"
+    ],
+    "correct": 1,
+    "explanation": "Në pjesën e mesme grumbullohen mitokondritë që japin ATP për rrahjen e bishtit. Gjenet e kromozomet ndodhen në kokë."
+  },
+  {
+    "id": "bio-sistemet-126",
+    "question": "Hormoni FSH stimulon zhvillimin e folikulës tek njeriu. Ndërsa folikula zhvillohet, qelizat folikulare sekretojnë estrogjen. Një nivel i lartë i estrogjenit, ul sekretimin e FSH. Ky mekanizëm është shembull i:",
+    "answers": [
+      "diferencimit qelizor",
+      "feedback-ut negativ",
+      "feedback-ut pozitiv",
+      "tropizmit pozitiv"
+    ],
+    "correct": 1,
+    "explanation": "Produkti (estrogjeni) frenon stimulin që e prodhoi (FSH) → feedback NEGATIV. Nëse do ta rriste FSH-në, do të ishte pozitiv."
+  },
+  {
+    "id": "bio-sistemet-127",
+    "question": "Estrogjeni ka një efekt të drejtpërdrejtë në:",
+    "answers": [
+      "formimin e një zigote",
+      "ndryshimet brenda uterusit (mitrës)",
+      "lëvizjen e vezës drejt spermatozoidit",
+      "zhvillimin e placentës brënda vezores"
+    ],
+    "correct": 1,
+    "explanation": "Estrogjeni e trash dhe e rigjeneron endometrin gjatë fazës folikulare. Zigota formohet nga pllenimi, jo nga hormoni; placenta zhvillohet në mitër, jo në vezore."
+  },
+  {
+    "id": "bio-sistemet-128",
+    "question": "Lëngu amniotik ka disa funksione, PËRVEÇ:",
+    "answers": [
+      "lejimit të lëvizjes së kufizuar të fetusit",
+      "mbrojtjes së embrionit nga goditjet mekanike",
+      "mbajtjes së një presion të barabartë rreth embrionit",
+      "nxjerrjes jashtë të mbetjeve të azotuara dhe CO2"
+    ],
+    "correct": 3,
+    "explanation": "Mbetjet azotike dhe CO₂ largohen përmes PLACENTËS në gjakun e nënës, jo nga lëngu amniotik. Ky i fundit ka rol mbrojtës, mbështetës dhe amortizues."
+  },
+  {
+    "id": "bio-sistemet-129",
+    "question": "Cila nga gjëndrat nuk prodhon hormone?",
+    "answers": [
+      "Pankreasi",
+      "Hipofiza",
+      "Vezorja",
+      "Të pështymës"
+    ],
+    "correct": 3,
+    "explanation": "Gjëndrat e pështymës janë EKZOKRINE: sekretojnë me kanal jashtë (pështymë me amilazë). Tri të tjerat janë endokrine ose të përziera."
+  },
+  {
+    "id": "bio-sistemet-130",
+    "question": "Hormonet që përfshihen në grupin e derivateve të aminoacideve janë:",
+    "answers": [
+      "insulina",
+      "hormonet seksuale",
+      "hormonet e tiroides",
+      "hormonet e hipofizës"
+    ],
+    "correct": 2,
+    "explanation": "Tiroksina rrjedh nga aminoacidi tirozinë (si edhe adrenalina). Insulina e hormonet hipofizare janë peptide/proteina, hormonet seksuale janë steroide."
+  },
+  {
+    "id": "bio-sistemet-131",
+    "question": "Ndikojnë në zhvillimin fizik dhe seksual të organizmit, hormonet:",
+    "answers": [
+      "e hipofizës",
+      "e pankreasit",
+      "e gjëndrës mbiveshkore",
+      "e gjëndrave seksuale (gonadeve)"
+    ],
+    "correct": 3,
+    "explanation": "Testosteroni dhe estrogjeni nga gonadet formojnë tiparet dytësore seksuale dhe zhvillimin trupor në pubertet."
+  },
+  {
+    "id": "bio-sistemet-132",
+    "question": "Hormone me veti homeostatike janë ato të gjëndrave:",
+    "answers": [
+      "tiroide",
+      "seksuale",
+      "para tiroide",
+      "mbi veshkore"
+    ],
+    "correct": 3,
+    "explanation": "Gjëndrat mbiveshkore prodhojnë adrenalinë, noradrenalinë dhe kortizol, që rregullojnë gliceminë, presionin dhe ujin e kripërat — pra ruajnë ekuilibrin e brendshëm."
+  },
+  {
+    "id": "bio-sistemet-133",
+    "question": "Hipofiza është quajtur gjëndër drejtuese sepse:",
+    "answers": [
+      "është pjesë e SNQ",
+      "është gjëndër egzokrine",
+      "prodhon hormone nxitëse dhe frenuese",
+      "hormonet e prodhuara prej saj nxisin gjëndra të tjera endokrine"
+    ],
+    "correct": 3,
+    "explanation": "Hipofiza komandon tiroiden (TSH), mbiveshkoret (ACTH) dhe gonadet (FSH, LH). Hormonet nxitëse/frenuese i prodhon hipotalamusi, jo hipofiza."
+  },
+  {
+    "id": "bio-sistemet-134",
+    "question": "Qeliza shenjë dhe hormoni e njohin njëri tjetrin nga:",
+    "answers": [
+      "përbërja strukturore",
+      "poret e qelizës shenjë",
+      "aftësia e qelizës shenjë",
+      "receptorët e qelizës shenjë"
+    ],
+    "correct": 3,
+    "explanation": "Hormoni qarkullon kudo, por vepron vetëm aty ku gjen RECEPTOR specifik — si çelësi me bravën. Kjo shpjegon pse një hormon prek vetëm disa organe."
+  },
+  {
+    "id": "bio-sistemet-135",
+    "question": "Hipotalamusi prodhon:",
+    "answers": [
+      "prolaktinë",
+      "oksitocinë",
+      "FSH",
+      "TSH"
+    ],
+    "correct": 1,
+    "explanation": "Oksitocina dhe ADH prodhohen në hipotalamus e çlirohen nga neurohipofiza. Prolaktina, FSH e TSH janë hormone të adenohipofizës."
+  },
+  {
+    "id": "bio-sistemet-136",
+    "question": "Cili nga hormonet ka përbërje proteinike?",
+    "answers": [
+      "Insulina",
+      "Adrenalina",
+      "Hormonet e tiroides",
+      "Hormonet seksuale"
+    ],
+    "correct": 0,
+    "explanation": "Insulina është polipeptid me dy zinxhirë. Adrenalina e tiroksina rrjedhin nga aminoacide, hormonet seksuale janë steroide (nga kolesteroli)."
+  },
+  {
+    "id": "bio-sistemet-137",
+    "question": "Përfshihet në grupin e hormoneve steroidë:",
+    "answers": [
+      "glukagoni",
+      "adrenalina",
+      "hormonet seksuale",
+      "hormonet e hipofizës"
+    ],
+    "correct": 2,
+    "explanation": "Testosteroni, estrogjeni dhe progesteroni sintetizohen nga kolesteroli → steroide. Glukagoni e hormonet hipofizare janë peptide."
+  },
+  {
+    "id": "bio-sistemet-138",
+    "question": "Hormonet steroidë veprojnë me:",
+    "answers": [
+      "receptorët brenda qelizorë",
+      "receptorët transmembranorë",
+      "anën e aktivizimit të AMP-ciklike",
+      "anën e ndryshimit të rrjedhës së reaksioneve"
+    ],
+    "correct": 0,
+    "explanation": "Steroidet janë lipofile → kalojnë lehtë membranën dhe lidhen me receptorë në citoplazmë/bërthamë, duke ndikuar direkt te gjenet. AMP-ciklike përdorin hormonet peptidike."
+  },
+  {
+    "id": "bio-sistemet-139",
+    "question": "Për të ndodhur ovulacioni duhet të ndodhë shtimi i:",
+    "answers": [
+      "progesteronit",
+      "hormonit LH",
+      "testosteronit",
+      "estradiolit"
+    ],
+    "correct": 1,
+    "explanation": "'Piku i LH' rreth ditës së 14-të është shkaku i drejtpërdrejtë i çarjes së folikulës. Estradioli e nxit pikun, por vetë ovulimin e shkakton LH."
+  },
+  {
+    "id": "bio-sistemet-140",
+    "question": "Cili është hormoni që prodhohet nga vezorja?",
+    "answers": [
+      "Testosteron",
+      "Estradiol",
+      "ACTH",
+      "TSH"
+    ],
+    "correct": 1,
+    "explanation": "Estradioli (estrogjen) prodhohet nga qelizat folikulare të vezores. ACTH dhe TSH janë hormone të hipofizës, testosteroni i testikujve."
+  },
+  {
+    "id": "bio-sistemet-141",
+    "question": "Cila nga hormonet e prodhuara nga adenohipofiza veprojnë në gonadet seksuale?",
+    "answers": [
+      "FSH dhe LH",
+      "TSH dhe GH",
+      "ACTH dhe GH",
+      "Prolaktinë dhe LH"
+    ],
+    "correct": 0,
+    "explanation": "FSH dhe LH quhen GONADOtropina — vetëm ato veprojnë mbi vezoret e testikujt. TSH shkon te tiroidja, ACTH te mbiveshkoret, GH te indet e rritjes."
+  },
+  {
+    "id": "bio-sistemet-142",
+    "question": "Cili nga hormone frenon prodhimin e FSH dhe LH?",
+    "answers": [
+      "Estradiol",
+      "Oksitocinë",
+      "Testosteron",
+      "Progesteron"
+    ],
+    "correct": 2,
+    "explanation": "Testosteroni frenon me feedback negativ çlirimin e FSH dhe LH nga adenohipofiza, duke mbajtur nivelin e tij konstant."
+  },
+  {
+    "id": "bio-sistemet-143",
+    "question": "Hormoni që stimulon prodhimin e spermatozoideve është:",
+    "answers": [
+      "progesteroni",
+      "testosteroni",
+      "FSH",
+      "LH"
+    ],
+    "correct": 2,
+    "explanation": "FSH vepron mbi gypëzat seminiferë dhe nxit SPERMATOGJENEZËN; LH nxit prodhimin e testosteronit. Kujto: FSH = fabrika e qelizave."
+  },
+  {
+    "id": "bio-sistemet-144",
+    "question": "Gjëndrat endokrine:",
+    "answers": [
+      "prodhojnë enzima",
+      "janë gjëndra pa kanal",
+      "janë gjëndra me kanal",
+      "i derdhin produktet jashtë trupit"
+    ],
+    "correct": 1,
+    "explanation": "Endo- = brenda: hormonet derdhen drejtpërdrejt në gjak, pa kanal nxjerrës. Gjëndrat me kanal (pështymë, djersë) janë ekzokrine."
+  },
+  {
+    "id": "bio-sistemet-145",
+    "question": "Cila pjesë e zemrës e merr gjakun nga mushkëritë?",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 0,
+    "explanation": "Venat mushkërore sjellin gjak të pasur me O₂ në atriumin e MAJTË. Rregull: veshoret MARRIN, barkushet POMPOJNË; e majta punon me mushkëritë e gjakun e pastër."
+  },
+  {
+    "id": "bio-sistemet-146",
+    "question": "Cila pjesë e zemrës e merr gjakun nga trupi?",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 1,
+    "explanation": "Venat zgavrore e sjellin gjakun e varfëruar nga trupi në atriumin e DJATHTË. Ana e djathtë merret me gjakun venoz."
+  },
+  {
+    "id": "bio-sistemet-147",
+    "question": "Tregoni cila pjesë e zemrës pompon gjak në arterien mushkërore:",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 2,
+    "explanation": "Ventrikula e djathtë e dërgon gjakun në mushkëri (qarkullimi i vogël). Pompimi bëhet gjithmonë nga barkushet, kurrë nga veshoret."
+  },
+  {
+    "id": "bio-sistemet-148",
+    "question": "Tregoni cila pjesë e zemrës pompon gjak në aortë:",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 3,
+    "explanation": "Ventrikula e majtë e shtyn gjakun në aortë drejt gjithë trupit — prandaj ka murin muskulor më të trashë të zemrës."
+  },
+  {
+    "id": "bio-sistemet-149",
+    "question": "Enët e gjakut, të cilat nxjerrin gjakun nga zemra janë:",
+    "answers": [
+      "venat",
+      "arteriet",
+      "venulat",
+      "kapilarët"
+    ],
+    "correct": 1,
+    "explanation": "Arteriet e largojnë gjakun NGA zemra (arterie = 'ANI: Arteriet Nga zemra Ikin'); venat e sjellin drejt saj."
+  },
+  {
+    "id": "bio-sistemet-150",
+    "question": "Enët e gjakut, të cilat sjellin gjakun nga zemra janë:",
+    "answers": [
+      "venat",
+      "venulat",
+      "kapilarët",
+      "arteriolat"
+    ],
+    "correct": 3,
+    "explanation": "'Nga zemra' → familja arteriale. Meqë arteriet nuk janë në alternativa, përgjigjja janë arteriolat, degëzimet e vogla të tyre drejt indeve."
+  },
+  {
+    "id": "bio-sistemet-151",
+    "question": "Skorbuti shkaktohet nga mungesa e:",
+    "answers": [
+      "vitaminës A",
+      "vitaminë B",
+      "vitaminë C",
+      "vitaminë D"
+    ],
+    "correct": 2,
+    "explanation": "Vitamina C nevojitet për sintezën e kolagjenit; mungesa jep gjakderdhje mishrash e plagë që s'shërohen (skorbut). Mungesa e D jep rakit, e A verbëri nate."
+  },
+  {
+    "id": "bio-sistemet-152",
+    "question": "Cili nga pohimet e mëposhtme është më i plotë lidhur me përbërjen e gjakut?",
+    "answers": [
+      "Përmban vetëm plazmën e gjakut",
+      "Përmban plazmën dhe qelizat e bardha",
+      "Përmban qelizat e bardha dhe qelizat e kuqe",
+      "Përmban plazmën, qelizat e kuqe dhe qelizat e bardha"
+    ],
+    "correct": 3,
+    "explanation": "Gjaku = plazmë + elemente të formuara (eritrocite, leukocite, trombocite). Alternativa D është e vetmja që përfshin të tria komponentët kryesorë."
+  },
+  {
+    "id": "bio-sistemet-153",
+    "question": "Qarkullimi i vogël i gjakut, te gjitarët, e merr fillimin nga:",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 2,
+    "explanation": "Qarkullimi i vogël (zemër–mushkëri–zemër) niset nga ventrikula e djathtë përmes arteries mushkërore dhe mbaron në atriumin e majtë."
+  },
+  {
+    "id": "bio-sistemet-154",
+    "question": "Qarkullimi i madh i gjakut, te gjitarët, e merr fillimin nga:",
+    "answers": [
+      "Veshorja (atriumi) e majtë",
+      "Veshorja (atriumi) e djathtë",
+      "Barkushja (ventrikula) e djathtë",
+      "Barkushja (ventrikula) e majtë"
+    ],
+    "correct": 3,
+    "explanation": "Qarkullimi i madh (zemër–trup–zemër) niset nga ventrikula e majtë me aortën dhe përfundon në atriumin e djathtë me venat zgavrore."
+  },
+  {
+    "id": "bio-sistemet-155",
+    "question": "Trombocitet kanë funksion:",
+    "answers": [
+      "koagulues",
+      "homeostatik",
+      "transportojnë gaze",
+      "prodhojnë antitrupa"
+    ],
+    "correct": 0,
+    "explanation": "Trombocitet (pllakëzat) nisin zinxhirin e mpiksjes së gjakut. Gazet i transportojnë eritrocitet, antitrupat i prodhojnë limfocitet B."
+  },
+  {
+    "id": "bio-sistemet-156",
+    "question": "Në sistemin e dyfishtë të qarkullimit të gjakut, shkëmbimi i lëndëve ushqimore ndodh në nivelin e:",
+    "answers": [
+      "arteriolave",
+      "kapilarëve",
+      "arterieve",
+      "venave"
+    ],
+    "correct": 1,
+    "explanation": "Vetëm kapilarët kanë mur një-qelizor dhe sipërfaqe të madhe → aty ndodh shkëmbimi me lëngun indor. Enët e tjera vetëm transportojnë."
+  },
+  {
+    "id": "bio-sistemet-157",
+    "question": "Cila nga enët e mëposhtme të gjakut ka diametër maksimal?",
+    "answers": [
+      "Vena",
+      "Arteria",
+      "Kapilari",
+      "Arteriola"
+    ],
+    "correct": 0,
+    "explanation": "Venat kanë lumen (zgavër) më të gjerë se arteriet, sepse gjaku aty lëviz me trysni të ulët dhe muri është më i hollë. Kapilari është më i ngushti."
+  },
+  {
+    "id": "bio-sistemet-158",
+    "question": "Molekula e hemoglobinës lidhet me O2 në:",
+    "answers": [
+      "mëlçi",
+      "zemër",
+      "veshka",
+      "mushkëri"
+    ],
+    "correct": 3,
+    "explanation": "Në kapilarët e alveolave presioni i O₂ është i lartë → hemoglobina ngopet me oksigjen. Në inde ndodh e kundërta: e liron atë."
+  },
+  {
+    "id": "bio-sistemet-159",
+    "question": "Vendi ku lokalizohet nyja sinoatriale është:",
+    "answers": [
+      "veshorja (atriumi) e majtë",
+      "veshorja (atriumi) e djathtë",
+      "barkushja (ventrikula) e djathtë",
+      "barkushja (ventrikula) e majtë"
+    ],
+    "correct": 1,
+    "explanation": "Nyja sinoatriale, 'pacemakeri' natyror, ndodhet në murin e atriumit të djathtë dhe nis çdo rrahje. Nyja atrioventrikulare vjen pas saj."
+  },
+  {
+    "id": "bio-sistemet-160",
+    "question": "Shpërhapja (Difuzioni) nëpërmjet membranës plazmatike kryhet:",
+    "answers": [
+      "kundër gradientit të përqendrimit",
+      "sipas gradientit të përqendrimit",
+      "me proteina transportuese",
+      "me anën e receptorëve"
+    ],
+    "correct": 1,
+    "explanation": "Difuzioni i thjeshtë shkon gjithmonë SIPAS gradientit, pa energji e pa proteina. Me proteina transportuese do të ishte difuzion i lehtësuar."
+  },
+  {
+    "id": "bio-sistemet-161",
+    "question": "Shpërhapja e joneve kundër gradientit të përqendrimit kryhet me ndihmën e:",
+    "answers": [
+      "poreve qelizore të hapura",
+      "poreve qelizore të mbushura me kolesterol",
+      "proteinave specifike për një jon të caktuar",
+      "proteinave të njëjta por që ndryshojnë formën"
+    ],
+    "correct": 2,
+    "explanation": "Kundër gradientit punojnë pompat — proteina SPECIFIKE për një jon të caktuar, që përdorin ATP. Poret e hapura lejojnë vetëm lëvizje pasive."
+  },
+  {
+    "id": "bio-sistemet-162",
+    "question": "Antigjenet e sistemit A, B, O të grupit të gjakut janë:",
+    "answers": [
+      "proteinat dhe lipidet",
+      "enzimat e glikoproteinat",
+      "proteinat dhe glikolipidet",
+      "glikoproteinat dhe glikolipidet"
+    ],
+    "correct": 3,
+    "explanation": "Antigjenet e grupeve të gjakut janë zinxhirë sheqernash të lidhur me proteina ose lipide të membranës së eritrociteve → glikoproteina dhe glikolipide."
+  },
+  {
+    "id": "bio-sistemet-163",
+    "question": "Shpërhapja e lehtësuar ndihmohet nga proteinat bartëse. Ato gjatë punës ndryshojnë:",
+    "answers": [
+      "formën",
+      "masën",
+      "sipërfaqen",
+      "vëllimin"
+    ],
+    "correct": 0,
+    "explanation": "Proteina bartëse lidh molekulën, ndryshon FORMËN (konformacionin) dhe e lëshon në anën tjetër. Masa dhe vëllimi i saj mbeten të njëjta."
+  },
+  {
+    "id": "bio-sistemet-164",
+    "question": "Osmoza është lëvizja e molekulave të ujit nëpërmjet membranave qelizore gjysmë të përshkueshme. Mund të themi se uji lëviz nga:",
+    "answers": [
+      "tretësira e përqendruar drejtë tretësirës më të holluar",
+      "tretësira më e holluar drejtë asaj më të përqendruar",
+      "jashtë qelizës brenda saj",
+      "brenda jashtë qelizës"
+    ],
+    "correct": 1,
+    "explanation": "Uji shkon nga aty ku ka SHUMË ujë (tretësirë e holluar, potencial i lartë) tek aty ku ka pak (tretësirë e përqendruar). Alternativat C e D varen nga rasti, nuk janë rregull."
+  },
+  {
+    "id": "bio-sistemet-165",
+    "question": "Një eritrocit kur vendoset në një tretësirë hipotonike:",
+    "answers": [
+      "fryhet dhe nuk plas",
+      "ndodh hemoliza",
+      "ruan formën e tij",
+      "fryhet dhe plas"
+    ],
+    "correct": 3,
+    "explanation": "Qeliza shtazore nuk ka mur qelizor → uji hyn, ajo fryhet dhe çahet. Ky çarje quhet hemolizë, prandaj D e përshkruan më plotë procesin."
+  },
+  {
+    "id": "bio-sistemet-166",
+    "question": "Kur bimës i hedhin kripë në tokë, qelizat e saj:",
+    "answers": [
+      "ndodh plasmoliza",
+      "nuk ndryshon",
+      "çahet avola",
+      "turgohen"
+    ],
+    "correct": 0,
+    "explanation": "Kripa e bën tokën hipertonike → uji del nga qelizat → citoplazma shkëputet nga muri = plazmolizë, dhe bima vyshket."
+  },
+  {
+    "id": "bio-sistemet-167",
+    "question": "Transporti aktiv është lëvizja e molekulave ose joneve:",
+    "answers": [
+      "në drejtim të kundërt me gradientin e përqendrimit",
+      "nëpërmjet membranave gjysmë të përshkueshme",
+      "në përputhje me gradientin e përqendrimit",
+      "që kërkon dhe ADP"
+    ],
+    "correct": 0,
+    "explanation": "Përkufizimi i transportit aktiv është pikërisht lëvizja KUNDËR gradientit, me shpenzim ATP-je (jo ADP, e cila është produkt, jo burim energjie)."
+  },
+  {
+    "id": "bio-sistemet-168",
+    "question": "Në një tretësirë të holluar qeliza bimore:",
+    "answers": [
+      "çahet",
+      "turgohet",
+      "deformohet",
+      "humbet në masë"
+    ],
+    "correct": 1,
+    "explanation": "Uji hyn me osmozë, vakuola fryhet dhe shtyp murin → turgor. Muri i fortë celulozik e pengon çarjen, ndryshe nga qeliza shtazore."
+  },
+  {
+    "id": "bio-sistemet-169",
+    "question": "Në një tretësirë hipertonike qeliza shtazore:",
+    "answers": [
+      "çahet",
+      "tendoset",
+      "rrudhoset",
+      "nuk ndryshon formë"
+    ],
+    "correct": 2,
+    "explanation": "Hipertonike = jashtë ka më shumë lëndë të tretur → uji del → qeliza rrudhoset (krenacion). Çarja ndodh vetëm në tretësirë hipotonike."
+  },
+  {
+    "id": "bio-sistemet-170",
+    "question": "Në një qelizë të vendosur në tretësirë të holluar, uji futet brenda saj si rezultat i osmozës. Shtypja që krijohet quhet:",
+    "answers": [
+      "potencial i ujit",
+      "potencial qetësie",
+      "potencial veprimi",
+      "shtypje osmotike"
+    ],
+    "correct": 3,
+    "explanation": "Shtypja osmotike (te bimët: turgori) është trysnia që ushtron uji i hyrë mbi membranë/mur. Potenciali i qetësisë e i veprimit janë terma të neuronit."
+  },
+  {
+    "id": "bio-sistemet-171",
+    "question": "Në një tretësirë potenciali i ujit rritet si rezultat i rritjes së potencialit të:",
+    "answers": [
+      "tretësirës",
+      "veprimit",
+      "shtypjes",
+      "qetësisë"
+    ],
+    "correct": 2,
+    "explanation": "Formula: Ψ = Ψs + Ψp. Potenciali i tretësirës (Ψs) është gjithmonë negativ, prandaj rritja e potencialit të SHTYPJES (Ψp) e ngre potencialin total të ujit."
+  },
+  {
+    "id": "bio-sistemet-172",
+    "question": "Në një tretësirë të holluar vendosim një copë patateje. Në këtë rast vrojtohet fenomi i:",
+    "answers": [
+      "çarjes",
+      "turgorit",
+      "plazmolizës",
+      "ruajtjes së formës"
+    ],
+    "correct": 1,
+    "explanation": "Tretësira e holluar është hipotonike → uji hyn në qelizat e patates → ato turgohen dhe copa bëhet e fortë e më e rëndë."
+  },
+  {
+    "id": "bio-sistemet-173",
+    "question": "Parameci është një organizëm njëqelizor heterotrof që jeton në ujërat e ëmbla. E vendosim paramecin në tretësirë hipotonike. Çfarë do të ndodhë me atë?",
+    "answers": [
+      "Prania e murit qelizor nuk lejon të çahet",
+      "Ruan formën që kishte më parë",
+      "Fryhet e çahet",
+      "Rrudhoset"
+    ],
+    "correct": 1,
+    "explanation": "Uji i ëmbël ËSHTË mjedisi i tij natyral hipotonik: parameci e nxjerr ujin e tepërt me vakuolën pulsuese, prandaj ruan formën. Ai nuk ka mur qelizor, kështu që A bie poshtë."
+  },
+  {
+    "id": "bio-sistemet-174",
+    "question": "Cilat nga qelizat e më poshtme kanë aftësinë të fagocitojnë?",
+    "answers": [
+      "Qelizat e pankreasit",
+      "Rruazat e kuqe",
+      "Trombocitet",
+      "Makrofagët"
+    ],
+    "correct": 3,
+    "explanation": "Makrofagët janë monocite të maturuara në inde, 'gëlltitësit' kryesorë të patogjenëve. Eritrocitet e trombocitet nuk kanë as bërthamë funksionale për këtë."
+  },
+  {
+    "id": "bio-sistemet-175",
+    "question": "Transporti me ndërmjetësinë e receptorëve ndodh si më poshtë:",
+    "answers": [
+      "molekulat lidhen me pompa",
+      "molekulat kalojnë përmes poreve qelizore",
+      "molekulat përfshihen nga receptorët brenda qelizor",
+      "molekulat përfshihen nga receptorët transmembranorë"
+    ],
+    "correct": 3,
+    "explanation": "Molekula lidhet me receptorë në sipërfaqe (transmembranorë), membrana gropëzohet dhe formon fshikëz. Receptorët brendaqelizorë përdoren nga hormonet steroide, jo për endocitozë."
+  },
+  {
+    "id": "bio-sistemet-176",
+    "question": "Kariesi dentar mund të parandalohet:",
+    "answers": [
+      "duke ngrënë ushqime me bazë yndyrore",
+      "duke marrë më shumë fruta në dietë ushqimore",
+      "duke patur një dietë ushqimore të pasur me perime",
+      "duke patur një dietë ushqimore të varfër me sheqerna"
+    ],
+    "correct": 3,
+    "explanation": "Bakteret e pllakës i kthejnë sheqernat në acide që shkrijnë smaltin. Pra shkaku është sheqeri — ulja e tij është parandalimi i drejtpërdrejtë."
+  },
+  {
+    "id": "bio-sistemet-177",
+    "question": "Në saj të veprimit të tëmthit:",
+    "answers": [
+      "treten yndyrnat",
+      "treten proteinat",
+      "pikat e vogla të yndyrës bashkohen në pika të mëdha",
+      "pika e mëdha të yndyrës copëtohen në pjesë të vogla"
+    ],
+    "correct": 3,
+    "explanation": "Tëmthi EMULGON: i copëton pikat e mëdha në shumë të vogla, duke rritur sipërfaqen për lipazën. Ai nuk përmban enzima, pra nuk 'tret' vetë."
+  },
+  {
+    "id": "bio-sistemet-178",
+    "question": "Elementet gypëzorë të floemës quhen gypëza me fund:",
+    "answers": [
+      "të hapur",
+      "të mbyllur",
+      "shoshë",
+      "membranor"
+    ],
+    "correct": 2,
+    "explanation": "Muret tërthore midis qelizave kanë vrima si shoshë (pllaka shoshë), që lejojnë kalimin e lëngut me sakarozë nga një qelizë në tjetrën."
+  },
+  {
+    "id": "bio-sistemet-179",
+    "question": "Qelizat shoshe dallojnë nga qelizat shoqëruese sepse:",
+    "answers": [
+      "nuk kanë citoplazmë",
+      "nuk kanë rrjet endoplazmatik",
+      "nuk kanë mur qelizor",
+      "nuk kanë bërthamë aktive"
+    ],
+    "correct": 3,
+    "explanation": "Qelizat shoshe e humbin bërthamën dhe shumicën e organeleve për të lënë vend rrjedhjes; prandaj varen nga qelizat shoqëruese, që kanë bërthamë aktive."
+  },
+  {
+    "id": "bio-sistemet-180",
+    "question": "Qelizat shoshe dallojnë nga qelizat e ksilemës sepse:",
+    "answers": [
+      "janë qeliza të vdekura",
+      "janë qeliza të gjalla",
+      "nuk kanë mur qelizor",
+      "kanë mur qelizor"
+    ],
+    "correct": 1,
+    "explanation": "Dallimi kryesor: floema = qeliza të GJALLA, ksilema = qeliza të vdekura e të lignifikuara. Mur qelizor kanë të dyja."
+  },
+  {
+    "id": "bio-sistemet-181",
+    "question": "Qelizat shoshe lidhen me qelizat shoqëruese përmes:",
+    "answers": [
+      "plazmodezmave",
+      "brezit të Kasparit",
+      "fibrave",
+      "sklerideve"
+    ],
+    "correct": 0,
+    "explanation": "Plazmodezmat janë kanale citoplazmike nëpër murin qelizor që lidhin dy qelizat. Brezi i Kasparit është pengesë jo-përshkueshme në endodermën e rrënjës."
+  },
+  {
+    "id": "bio-sistemet-182",
+    "question": "Te bimët jonet kalojnë nga toka tek rrënjët me anë të:",
+    "answers": [
+      "osmozë",
+      "kotransport",
+      "transportit aktiv",
+      "difuzion i lehtësuar"
+    ],
+    "correct": 2,
+    "explanation": "Në tokë jonet janë më të holluara se në rrënjë, pra hyrja bëhet KUNDËR gradientit → transport aktiv me ATP. Uji hyn me osmozë."
+  },
+  {
+    "id": "bio-sistemet-183",
+    "question": "Transporti i molekulave të sakarozës, për në qelizat shoqëruese është një shembull i:",
+    "answers": [
+      "transportit të lehtësuar",
+      "transportit aktiv",
+      "kotransportit",
+      "difuzionit"
+    ],
+    "correct": 2,
+    "explanation": "Fillimisht pompohen jonet H⁺ jashtë; kthimi i tyre brenda tërheq sakarozën bashkë me vete → kotransport (transport aktiv i tërthortë)."
+  },
+  {
+    "id": "bio-sistemet-184",
+    "question": "Humbja e ujit nga gjethja në mjedis bëhet përmes:",
+    "answers": [
+      "kutikulës",
+      "gojëzave",
+      "epidermës së sipërme",
+      "parenkimës gardhore"
+    ],
+    "correct": 1,
+    "explanation": "Rreth 90% e transpirimit ndodh nga gojëzat, që hapen për shkëmbimin e gazeve. Kutikula dyllore është pikërisht ajo që E PENGON humbjen e ujit."
+  },
+  {
+    "id": "bio-sistemet-185",
+    "question": "Forca përgjegjëse për ngjitjen e ujit në gypat e ksilemës është:",
+    "answers": [
+      "forca e kohezion-tensionit",
+      "forca thithëse që ushtrojnë gjethet",
+      "forca shtytëse që ushtrojnë rrënjët",
+      "forca shtytëse e gypave të ksilemës"
+    ],
+    "correct": 0,
+    "explanation": "Transpirimi krijon tension në gjethe, dhe kohezioni ujë–ujë e tërheq gjithë kolonën lart si një fill — teoria kohezion-tension. Shtypja e rrënjës është ndihmëse dhe e dobët."
+  },
+  {
+    "id": "bio-sistemet-186",
+    "question": "Lënda organike në floemë rrjedh:",
+    "answers": [
+      "ditën edhe natën",
+      "vetëm gjatë ditës",
+      "vetëm gjatë natës",
+      "vetëm në prani të dritës"
+    ],
+    "correct": 0,
+    "explanation": "Translokimi është proces aktiv që varet nga ATP, jo nga drita: bima i shpërndan rezervat 24 orë, edhe kur fotosinteza ka ndaluar."
+  },
+  {
+    "id": "bio-sistemet-187",
+    "question": "Nëse në një gyp ksileme do të fusim ajër, atëherë kolona e ujit në ksilemë:",
+    "answers": [
+      "ndërpritet",
+      "ndërpritet pjesërisht",
+      "vazhdon të ngjitet lart",
+      "vazhdon të lëvizë vetëm poshtë"
+    ],
+    "correct": 0,
+    "explanation": "Ngjitja varet nga vazhdimësia e kolonës; flluska e ajrit (embolizëm) e këput kohezionin dhe rrjedha ndalon në atë gyp."
+  },
+  {
+    "id": "bio-sistemet-188",
+    "question": "Njëri nga hormonet më poshtë ndikon në shumë aspekte të rritjes bimore. Ky hormon është:",
+    "answers": [
+      "acetamina",
+      "anilina",
+      "auksina",
+      "atropina"
+    ],
+    "correct": 2,
+    "explanation": "Auksina nxit zgjatjen e qelizave, fototropizmin dhe gravitropizmin. Të tri emrat e tjerë janë përbërje kimike jo-hormonale."
+  },
+  {
+    "id": "bio-sistemet-189",
+    "question": "Njëri nga hormonet më poshtë përfshihet më shumë në mbirjen e farës dhe kontrollon zgjatjen e kërcellit. Ky hormon është:",
+    "answers": [
+      "acidi abshisik (ABA)",
+      "citokinina",
+      "giberelina",
+      "auksina"
+    ],
+    "correct": 2,
+    "explanation": "Giberelina e thyen qetësinë e farës dhe zgjat internodet. ABA bën të kundërtën — e mban farën në qetësi."
+  },
+  {
+    "id": "bio-sistemet-190",
+    "question": "Njëri nga hormonet më poshtë kontrollon ndarjen qelizore. Ky hormon është:",
+    "answers": [
+      "acidi abshisik (ABA)",
+      "citokinina",
+      "giberelina",
+      "auksina"
+    ],
+    "correct": 1,
+    "explanation": "Emri e tregon: citokininë ← citokinezë (ndarja e citoplazmës). Ajo nxit mitozën dhe vonon plakjen e gjetheve."
+  },
+  {
+    "id": "bio-sistemet-191",
+    "question": "Njëri nga hormonet më poshtë kontrollon përgjigjen e bimës ndaj kushteve ekstreme si mungesa e ujit. Ky hormon është:",
+    "answers": [
+      "acidi abshisik (ABA)",
+      "citokinina",
+      "giberelina",
+      "auksina"
+    ],
+    "correct": 0,
+    "explanation": "ABA është 'hormoni i stresit': mbyll gojëzat në thatësirë dhe ruan ujin. Tri të tjerët nxitin rritjen, jo mbrojtjen."
+  },
+  {
+    "id": "bio-sistemet-192",
+    "question": "Gjatë një stërvitje intensive, në muskuj prodhohet një përbërje që ndryshon vlerën e pH-it, të gjakut. Cila është kjo përbërje?",
+    "answers": [
+      "Azoti",
+      "Oksigjeni",
+      "Acid laktik",
+      "Alkooli etilik"
+    ],
+    "correct": 2,
+    "explanation": "Kur O₂ nuk mjafton, muskujt kalojnë në frymëmarrje anaerobe → acid laktik → pH bie. Alkooli etilik prodhohet nga majaja dhe bimët, jo nga muskujt."
+  },
+  {
+    "id": "bio-sistemet-193",
+    "question": "Cila është rruga e saktë e kalimit të ajrit për në mushkëri?",
+    "answers": [
+      "Zgavra e hundës – Laringu – Trakea – Bronket – Bronkiola – Alveola",
+      "Zgavra e hundës – Laringu – Faringu – Bronket – Bronkiola – Alveola",
+      "Zgavra e hundës – Laringu – Ezofagu – Trakea – Bronket – Bronkiola – Alveola",
+      "Zgavra e hundës – Faringu – Laringu – Trakea – Bronket – Bronkiola – Alveola"
+    ],
+    "correct": 3,
+    "explanation": "Rendi i saktë: hundë → faring → laring → trake → bronke → bronkiola → alveola. A harron faringun, B harron traken, C fut ezofagun që i takon ushqimit."
+  },
+  {
+    "id": "bio-sistemet-194",
+    "question": "Çfarë ndodh me frymëmarrjen te njerëzit gjatë sforcimit fizik?",
+    "answers": [
+      "Thellësia e frymëmarrjes rritet dhe ritmi i frymëmarrjes përshpejtohet",
+      "Shpejtësia e frymëmarrjes rritet, por jo thellësia e frymëmarrjes",
+      "Thellësia e frymëmarrjes ulet dhe ritmi i frymëmarrjes ulet",
+      "Thellësia e frymëmarrjes rritet, por jo ritmi i frymëmarrjes"
+    ],
+    "correct": 0,
+    "explanation": "Nevoja për O₂ dhe largimi i CO₂ rriten, prandaj ndryshojnë TË DYJA: edhe frekuenca edhe thellësia. Ndryshimi i vetëm njërës nuk do të mjaftonte."
+  },
+  {
+    "id": "bio-sistemet-195",
+    "question": "Shkëmbimi i gazeve në nivelin mushkëror realizohet nëpërmjet:",
+    "answers": [
+      "bronkeve dhe gjakut",
+      "bronkiolave dhe gjakut",
+      "indit mushkëror dhe gjakut",
+      "alveolave dhe kapilarëve mushkëror"
+    ],
+    "correct": 3,
+    "explanation": "Sipërfaqja e shkëmbimit është kontakti alveolë–kapilar: dy shtresa qelizash të holla, distancë minimale për difuzionin."
+  },
+  {
+    "id": "bio-sistemet-196",
+    "question": "Mushkëritë nuk fërkohen me kafazin e kraharorit sepse:",
+    "answers": [
+      "mbrohen nga kafazi i kraharorit",
+      "mbështillen nga diafragma",
+      "mbështillen nga pleura",
+      "mbrohen nga brinjët"
+    ],
+    "correct": 2,
+    "explanation": "Lëngu pleural midis dy fletëve të pleurës vepron si lubrifikant gjatë çdo frymëmarrjeje. Diafragma është muskul poshtë mushkërive, jo mbështjellje."
+  },
+  {
+    "id": "bio-sistemet-197",
+    "question": "Fibrat elastike të cilat mblidhen gjatë procesit të frymënxjerrjes dhe tendosen gjatë procesit të frymëthithjes ndodhen në muret e:",
+    "answers": [
+      "trakesë",
+      "bronkeve",
+      "laringut",
+      "alveolave"
+    ],
+    "correct": 3,
+    "explanation": "Alveolat kanë fibra elastike që i lejojnë të fryhen dhe pastaj të tërhiqen vetvetiu — prandaj frymënxjerrja e qetë është pasive."
+  },
+  {
+    "id": "bio-sistemet-198",
+    "question": "Rrugët e ajrit tek gjitarët qëndrojnë vazhdimisht të hapura për shkak të:",
+    "answers": [
+      "indit lidhor",
+      "indi tepitelial",
+      "unazave kërcore",
+      "unazave kockore"
+    ],
+    "correct": 2,
+    "explanation": "Unazat kërcore në formë C-je e mbajnë traken të hapur, por i lënë vend ezofagut të zgjerohet nga pas. Kocka do ta bënte të ngurtë e të pamundur gëlltitjen."
+  },
+  {
+    "id": "bio-sistemet-199",
+    "question": "Mushkëritë janë organe çifte, në brendësi të tyre ndodhen:",
+    "answers": [
+      "alveolave dhe bronket",
+      "alveolave dhe bronkiolat",
+      "bronket dhe bronkiolat",
+      "trakea dhe bronket"
+    ],
+    "correct": 1,
+    "explanation": "Brenda indit mushkëror shtrihen bronkiolat që mbarojnë me alveola. Trakea dhe bronket kryesore ndodhen jashtë/në hyrje të mushkërive."
+  },
+  {
+    "id": "bio-sistemet-200",
+    "question": "Gjatë frymëthithjes:",
+    "answers": [
+      "muskujt ndërbrinjor të jashtëm tkurren",
+      "muskujt ndërbrinjorë të jashtëm lëshohen",
+      "diafragma ngrihet lart",
+      "brinjët ulen poshtë"
+    ],
+    "correct": 0,
+    "explanation": "Frymëthithje = punë aktive: ndërbrinjorët e jashtëm TKURREN, brinjët ngrihen, diafragma ulet → vëllimi rritet. Tri të tjerat përshkruajnë frymënxjerrjen."
+  },
+  {
+    "id": "bio-sistemet-201",
+    "question": "Gjatë frymënxjerrjes:",
+    "answers": [
+      "brinjët ngrihen lart",
+      "diafragma ulet poshtë",
+      "muskujt ndërbrinjorë të jashtëm tkurren",
+      "muskujt ndërbrinjorë të jashtëm lëshohen"
+    ],
+    "correct": 3,
+    "explanation": "Frymënxjerrja e qetë është PASIVE: ndërbrinjorët lëshohen, brinjët ulen, diafragma ngrihet → vëllimi bie dhe ajri del. Tri të tjerat përshkruajnë frymëthithjen."
+  },
+  {
+    "id": "bio-sistemet-202",
+    "question": "Në sistemin e ajrosjes (ventilimit) tek gjitarët përfshihen:",
+    "answers": [
+      "diafragma dhe alveola",
+      "bronkiolat dhe alveolat",
+      "muskujt ndërbrinjorë dhe diafragma",
+      "muskujt ndërbrinjorë dhe alveola"
+    ],
+    "correct": 2,
+    "explanation": "Ventilimi = lëvizja e ajrit, e cila kërkon MUSKUJ: ndërbrinjorët dhe diafragmën. Alveolat e bronkiolat marrin pjesë në shkëmbimin e gazeve, jo në pompimin e ajrit."
+  },
+  {
+    "id": "bio-sistemet-203",
+    "question": "Ajri që thithim përmban:",
+    "answers": [
+      "78% oksigjen, 21% azot, 1% gaze të tjera",
+      "78% azot, 21% oksigjen, 1% gaze të tjera",
+      "78% oksigjen, 21% azot, 1% dioksid karboni",
+      "78% azot, 21% oksigjen, 1% monoksid karboni"
+    ],
+    "correct": 1,
+    "explanation": "Gazi më i bollshëm në atmosferë është AZOTI (78%), pastaj oksigjeni (21%). CO₂ është vetëm ~0.04%, kurse monoksidi i karbonit s'është përbërës normal i ajrit."
+  },
+  {
+    "id": "bio-sistemet-204",
+    "question": "Funksioni kryesor i tëmthit është:",
+    "answers": [
+      "emulgimi i lipideve",
+      "të derdhë lëngun e tëmlit në stomak",
+      "krijon kushte për veprimin e amilazës",
+      "krijimi i kushteve për veprimin e insulinës"
+    ],
+    "correct": 0,
+    "explanation": "Tëmthi copëton pikat e mëdha të yndyrës në shumë pika të vogla → rrit sipërfaqen për lipazën. Ai derdhet në DUODEN, jo në stomak."
+  },
+  {
+    "id": "bio-sistemet-205",
+    "question": "Cili prej grupeve ushqimore të mëposhtme nxit lëvizjen peristaltike të zorrës?",
+    "answers": [
+      "Karbohidratet",
+      "Vitaminat",
+      "Proteinat",
+      "Fibrat"
+    ],
+    "correct": 3,
+    "explanation": "Fibrat (celuloza) nuk treten, por i japin vëllim masës ushqimore dhe ngacmojnë muskujt e zorrës → peristaltikë më e mirë dhe parandalim kapsllëku."
+  },
+  {
+    "id": "bio-sistemet-206",
+    "question": "Tripsina është enzimë e cila zbërthen në duoden:",
+    "answers": [
+      "proteinat",
+      "yndyrnat",
+      "laktozën",
+      "amidonin"
+    ],
+    "correct": 0,
+    "explanation": "Tripsina është proteazë pankreatike që vazhdon punën e pepsinës, duke i zbërthyer polipeptidet. Yndyrnat i zbërthen lipaza, amidonin amilaza."
+  },
+  {
+    "id": "bio-sistemet-207",
+    "question": "Në cilën pjesë të gypit tretës e kryen veprimin lipaza?",
+    "answers": [
+      "Gojë",
+      "Ezofag",
+      "Stomak",
+      "Duoden"
+    ],
+    "correct": 3,
+    "explanation": "Lipaza pankreatike vepron në duoden, ku tëmthi ka emulguar më parë yndyrnat. Në stomak pH-ja shumë acide nuk i përshtatet asaj."
+  },
+  {
+    "id": "bio-sistemet-208",
+    "question": "Sindroma e kequshqyerjes që shkaktohet nga mungesa e aminoacideve esencialë në dietë quhet:",
+    "answers": [
+      "Sindroma Kwashiorker",
+      "Sindroma Marasman",
+      "Sindroma Edwards",
+      "Sindroma Patau"
+    ],
+    "correct": 0,
+    "explanation": "Kwashiorkor = mungesë PROTEINASH (bark i fryrë nga edema). Marazmi është mungesë e përgjithshme kalorish; Edwards e Patau janë sindroma kromozomike."
+  },
+  {
+    "id": "bio-sistemet-209",
+    "question": "Lëngu i cili prodhohet nga muret e stomakut quhet:",
+    "answers": [
+      "lëngu pankreatik",
+      "lëngu gastrik",
+      "lëngu biliar",
+      "lëngu sinovial"
+    ],
+    "correct": 1,
+    "explanation": "Gastër = stomak → lëng gastrik (HCl + pepsinogjen + mukus). Biliar = tëmth, sinovial = lëng i kyçeve."
+  },
+  {
+    "id": "bio-sistemet-210",
+    "question": "Enzima, e cila zbërthen proteinat në zinxhirë më të shkurtër polipeptidikë është:",
+    "answers": [
+      "lipaza",
+      "amilaza",
+      "maltaza",
+      "pepsina"
+    ],
+    "correct": 3,
+    "explanation": "Pepsina vepron në stomak në pH shumë acid dhe i pret proteinat në polipeptide (jo deri në aminoacide). Tri të tjerat nuk prekin proteinat."
+  },
+  {
+    "id": "bio-sistemet-211",
+    "question": "Unaza muskulore, e cila lejon kalimin e ushqimit nga stomaku në duoden quhet:",
+    "answers": [
+      "sfinkteri kardiak",
+      "sfinkteri ileocekal",
+      "sfinkteri pilorik",
+      "sfinkteri parakapilar"
+    ],
+    "correct": 2,
+    "explanation": "Pilori është dalja e stomakut → sfinkteri pilorik. Kardiaku është hyrja (ezofag–stomak), ileocekali kalimi zorrë e hollë–zorrë e trashë."
+  },
+  {
+    "id": "bio-sistemet-212",
+    "question": "Stomaku është një organ i rëndësishëm jetësor i cili shërben për:",
+    "answers": [
+      "ruajtjen e ushqimit dhe tretjen e lipideve",
+      "ruajtjen e ushqimit dhe tretjen e yndyrnave",
+      "ruajtjen e ushqimit dhe tretjen e karbohidrateve",
+      "denatyrimin dhe tretjen e pjesshme të proteinave"
+    ],
+    "correct": 3,
+    "explanation": "HCl-ja i denatyron proteinat dhe aktivizon pepsinën → tretje e pjesshme proteinash. Yndyrnat e karbohidratet nuk treten në stomak."
+  },
+  {
+    "id": "bio-sistemet-213",
+    "question": "Përpunimi mekanik i ushqimeve realizohet në:",
+    "answers": [
+      "gojë dhe ezofag",
+      "gojë dhe stomak",
+      "stomak dhe zorrën e trashë",
+      "stomak dhe zorrën e hollë"
+    ],
+    "correct": 1,
+    "explanation": "Në gojë dhëmbët e copëtojnë ushqimin, në stomak muret muskulore e përzien dhe e bluajnë. Ezofagu vetëm e transporton."
+  },
+  {
+    "id": "bio-sistemet-214",
+    "question": "Zbërthimi i plotë i proteinave bëhet në:",
+    "answers": [
+      "zorrën e trashë",
+      "zorrën e hollë",
+      "stomak",
+      "ezofag"
+    ],
+    "correct": 1,
+    "explanation": "Vetëm në zorrën e hollë peptidazat i çojnë polipeptidet deri në AMINOACIDE. Stomaku bën vetëm hapin e parë me pepsinën."
+  },
+  {
+    "id": "bio-sistemet-215",
+    "question": "Proteina kryesore e pështymës është:",
+    "answers": [
+      "mukusi",
+      "mucina",
+      "pepsina",
+      "proteaza"
+    ],
+    "correct": 1,
+    "explanation": "Mucina është glikoproteina që e bën pështymën të rrëshqitshme dhe lehtëson gëlltitjen. 'Mukus' është vetë sekreti, jo proteina; pepsina është e stomakut."
+  },
+  {
+    "id": "bio-sistemet-216",
+    "question": "Pankreasi është gjëndër me sekrecion të dyfishtë. Si gjëndër ekzokrine pankreasi prodhon:",
+    "answers": [
+      "hormonet insulinë dhe glukagon",
+      "enzima dhe acid klorhidrik",
+      "enzima dhe bikarbonate",
+      "hormone dhe enzima"
+    ],
+    "correct": 2,
+    "explanation": "Pjesa ekzokrine derdh në duoden enzima (tripsinë, lipazë, amilazë) + bikarbonate që neutralizojnë aciditetin e ardhur nga stomaku. Insulina/glukagoni janë pjesa endokrine."
+  },
+  {
+    "id": "bio-sistemet-217",
+    "question": "Gjatë gëlltitjes së ushqimeve frymëmarrja ndërpritet sepse masa ushqimore:",
+    "answers": [
+      "hap trakenë",
+      "ul epiglotën",
+      "ngre epiglotën",
+      "mbyll ezofagun"
+    ],
+    "correct": 1,
+    "explanation": "Epiglota ULET si kapak mbi hyrjen e trakesë, që ushqimi të kalojë vetëm në ezofag. Prandaj për një çast ajri nuk kalon."
+  },
+  {
+    "id": "bio-sistemet-218",
+    "question": "Palca e kuqe kockore është vendi ku:",
+    "answers": [
+      "eliminohen agjentët patogjenë",
+      "prodhohen qelizat e gjakut",
+      "prodhohet histamina",
+      "prodhohet albumina"
+    ],
+    "correct": 1,
+    "explanation": "Palca e kuqe është organi hematopoietik: aty formohen eritrocitet, leukocitet dhe trombocitet. Albuminën e prodhon mëlçia."
+  },
+  {
+    "id": "bio-sistemet-219",
+    "question": "Antitrupat që qarkullojnë në gjak quhen:",
+    "answers": [
+      "limfocite",
+      "eozinofile",
+      "glikoproteina",
+      "imunoglobulina"
+    ],
+    "correct": 3,
+    "explanation": "Imunoglobulinë (Ig) është emri i saktë i antitrupit. Limfocitet dhe eozinofilet janë qeliza, jo molekula antitrupash."
+  },
+  {
+    "id": "bio-sistemet-220",
+    "question": "Imuniteti qelizor i detyrohet:",
+    "answers": [
+      "imunoglobulinave",
+      "limfociteve B",
+      "limfocitetve T",
+      "makrofagëve"
+    ],
+    "correct": 2,
+    "explanation": "Qelizor = limfocitet T, që sulmojnë drejtpërdrejt qelizat e infektuara. Humoral = limfocitet B me antitrupa. Kujto: T → qelizor, B → humoral."
+  },
+  {
+    "id": "bio-sistemet-221",
+    "question": "Sëmundjet infektive shkaktohen nga:",
+    "answers": [
+      "kequshqyerja",
+      "mutacionet e gjeneve",
+      "çrregullimet hormonale",
+      "viruset dhe bakteret patogjenë"
+    ],
+    "correct": 3,
+    "explanation": "Infektive do të thotë të shkaktuara nga PATOGJENË (virus, bakter, kërpudhë, protozoar) dhe të transmetueshme. Tri të tjerat japin sëmundje jo-ngjitëse."
+  },
+  {
+    "id": "bio-sistemet-222",
+    "question": "Përgjigja imunitare specifike sigurohet nga:",
+    "answers": [
+      "limfocitet B dhe T",
+      "makrofagët",
+      "neutrofilet",
+      "fagocitet"
+    ],
+    "correct": 0,
+    "explanation": "Specifike = e drejtuar ndaj një antigjeni të caktuar dhe me kujtesë → limfocitet B dhe T. Fagocitet japin mbrojtje të përgjithshme, jospecifike."
+  },
+  {
+    "id": "bio-sistemet-223",
+    "question": "Fagocitet sigurojnë mbrojtje:",
+    "answers": [
+      "jospecifike dhe specifike",
+      "nuk kanë rol mbrojtës",
+      "jospecifike",
+      "specifike"
+    ],
+    "correct": 2,
+    "explanation": "Fagocitet sulmojnë çdo grimcë të huaj njësoj, pa dalluar llojin dhe pa krijuar kujtesë → mbrojtje jospecifike (e lindur)."
+  },
+  {
+    "id": "bio-sistemet-224",
+    "question": "Fagocitet i njohin lëndë e prodhuara nga patogjenët përmes receptorëve:",
+    "answers": [
+      "bërthamorë",
+      "citoplazmikë",
+      "membranorë",
+      "jashtëqelizorë"
+    ],
+    "correct": 2,
+    "explanation": "Njohja ndodh në sipërfaqe, prandaj receptorët duhet të jenë në MEMBRANË. Vetëm pas lidhjes membrana gropëzohet dhe fillon fagocitoza."
+  },
+  {
+    "id": "bio-sistemet-225",
+    "question": "Përgjigja imunitare jospecifike drejtohet:",
+    "answers": [
+      "vetëm ndaj infeksioneve kërpudhore",
+      "ndaj të gjithë llojeve të infeksioneve",
+      "vetëm ndaj infeksioneve bakteriale",
+      "vetëm ndaj infeksioneve virale"
+    ],
+    "correct": 1,
+    "explanation": "Pikërisht fjala 'jospecifike' do të thotë që nuk zgjedh: vepron njësoj ndaj çdo patogjeni. Kufizimi te një lloj i vetëm do ta bënte specifike."
+  },
+  {
+    "id": "bio-sistemet-226",
+    "question": "Imuniteti humoral është i lidhur vetëm me:",
+    "answers": [
+      "limfocitet B",
+      "limfocitet T",
+      "makrofagët",
+      "neutrofilet"
+    ],
+    "correct": 0,
+    "explanation": "Humor = lëng: antitrupat qarkullojnë në gjak e limfë dhe prodhohen nga limfocitet B (qelizat plazmatike). Kujto çiftin: B → humoral."
+  },
+  {
+    "id": "bio-sistemet-227",
+    "question": "Veprimi i qelizave T është më efektiv kundër:",
+    "answers": [
+      "viruseve",
+      "baktereve",
+      "kërpudhave",
+      "protozoarëve"
+    ],
+    "correct": 0,
+    "explanation": "Viruset fshihen brenda qelizave, ku antitrupat nuk shkojnë dot; qelizat T citotoksike i njohin dhe i shkatërrojnë qelizat e infektuara."
+  },
+  {
+    "id": "bio-sistemet-228",
+    "question": "Përgjigja e parë imunitare sigurohet nga antitrupat e prodhuar nga:",
+    "answers": [
+      "qelizat e kujtesës",
+      "qelizat plazmatike",
+      "qelizat makrofage",
+      "qelizat monocite"
+    ],
+    "correct": 1,
+    "explanation": "Limfocitet B aktivizohen dhe kthehen në qeliza PLAZMATIKE, prodhueset e antitrupave. Qelizat e kujtesës veprojnë vetëm në takimin e DYTË me antigjenin."
+  },
+  {
+    "id": "bio-sistemet-229",
+    "question": "Një nga këto përbërës testohet në gjak për të përcaktuar nëse një person është i infektuar nga një virus në të kaluarën:",
+    "answers": [
+      "Antigjenet",
+      "Antitrupat",
+      "Makrofagët",
+      "Patogjenët"
+    ],
+    "correct": 1,
+    "explanation": "Antitrupat mbeten në gjak edhe pas shërimit, prandaj janë 'gjurma' e infeksionit të kaluar. Antigjenet e patogjenët tregojnë infeksion aktiv."
+  },
+  {
+    "id": "bio-sistemet-230",
+    "question": "Nëse në gjakun e një kavje injektojmë glukozë, atëherë sasia e glukagonit:",
+    "answers": [
+      "rritet",
+      "pakësohet",
+      "nuk ndryshon",
+      "herë ulet e herë ngrihet"
+    ],
+    "correct": 1,
+    "explanation": "Glukagoni çlirohet vetëm kur sheqeri është i ULËT. Duke injektuar glukozë, glicemia rritet → glukagoni bie dhe insulina rritet."
+  },
+  {
+    "id": "bio-sistemet-231",
+    "question": "Reagimi i sistemit nervor ndaj ndryshimit të parametrave homeostatikë është:",
+    "answers": [
+      "i njëjtë me atë të sistemit hormonal",
+      "më i shpejtë se ai i sistemit hormonal",
+      "më i ngadaltë se ai i sistemit hormonal",
+      "më i shpejtë se ai i sistemit tretës"
+    ],
+    "correct": 1,
+    "explanation": "Impulsi nervor udhëton në milisekonda, ndërsa hormoni duhet të prodhohet e të qarkullojë me gjak. Nervor = i shpejtë e afatshkurtër; hormonal = i ngadaltë e afatgjatë."
+  },
+  {
+    "id": "bio-sistemet-232",
+    "question": "Pankreasit është gjëndër:",
+    "answers": [
+      "vetëm ekzokrine",
+      "vetëm endokrine",
+      "neuroekzokrine",
+      "ekzokrine dhe endokrine"
+    ],
+    "correct": 3,
+    "explanation": "Pankreasi ka sekrecion të dyfishtë: ekzokrin (enzima në duoden me kanal) dhe endokrin (insulinë e glukagon në gjak nga ishujt e Langerhansit)."
+  },
+  {
+    "id": "bio-sistemet-233",
+    "question": "Qelizat α të pankreasit prodhojnë:",
+    "answers": [
+      "insulinë",
+      "glukagon",
+      "adrenalinë",
+      "noradrenalinë"
+    ],
+    "correct": 1,
+    "explanation": "Alfa → glukAgon (të dyja me 'a'). Beta → insulinë. Adrenalina e noradrenalina prodhohen nga gjëndrat mbiveshkore."
+  },
+  {
+    "id": "bio-sistemet-234",
+    "question": "Qelizat β të pankreasit prodhojnë:",
+    "answers": [
+      "insulinë",
+      "glukagon",
+      "adrenalinë",
+      "noradrenalinë"
+    ],
+    "correct": 0,
+    "explanation": "Qelizat beta prodhojnë insulinë, e cila e ul gliceminë. Dëmtimi i tyre shkakton diabetin e tipit 1."
+  },
+  {
+    "id": "bio-sistemet-235",
+    "question": "Kontrolli i potencialit ujor në mjedisin e brendshëm të organizmit quhet:",
+    "answers": [
+      "ekzorregullim",
+      "osmorregullim",
+      "termorregullim",
+      "vetërregullim"
+    ],
+    "correct": 1,
+    "explanation": "Osmo- lidhet me ujin dhe përqendrimin e tretësirave → osmorregullim. Termorregullim është kontrolli i temperaturës."
+  },
+  {
+    "id": "bio-sistemet-236",
+    "question": "Qelizat shenjë për hormonin ADH ndodhen në:",
+    "answers": [
+      "glomerulë",
+      "gypin mbledhës",
+      "gypin proksimal",
+      "kupën e Baumanit"
+    ],
+    "correct": 1,
+    "explanation": "ADH-ja vepron te gypi distal dhe sidomos te gypi MBLEDHËS, ku fut akuaporinat për riabsorbimin e ujit. Në glomerulë ndodh vetëm filtrimi."
+  },
+  {
+    "id": "bio-sistemet-237",
+    "question": "Rënia e potencialit të ujit në gjak “perceptohet” nga:",
+    "answers": [
+      "baroreceptorët",
+      "kimioreceptorët",
+      "mekanoreceptorët",
+      "osmoreceptorët"
+    ],
+    "correct": 3,
+    "explanation": "Osmoreceptorët e hipotalamusit ndjejnë përqendrimin e gjakut. Baroreceptorët ndjejnë presionin, mekanoreceptorët shtypjen/prekjen."
+  },
+  {
+    "id": "bio-sistemet-238",
+    "question": "Nisur nga sinjalet e osmoreceptorëve, hipotalamusi prodhon hormonin:",
+    "answers": [
+      "antidiuretik",
+      "kortizolin",
+      "oksitocinën",
+      "prolaktinën"
+    ],
+    "correct": 0,
+    "explanation": "Zinxhiri homeostatik: potencial ujor i ulët → osmoreceptorë → ADH (antidiuretik) → riabsorbim uji në veshkë. Kortizoli prodhohet nga mbiveshkoret."
+  },
+  {
+    "id": "bio-sistemet-239",
+    "question": "Hormoni antidiuretik që vepron në qelizat e gypit të nefronit nxit ripërthithjen:",
+    "answers": [
+      "e natriumit",
+      "e kaliumit",
+      "e glukozës",
+      "e ujit"
+    ],
+    "correct": 3,
+    "explanation": "Anti-diuretik = kundër urinimit → mban UJIN. Natriumin e rregullon aldosteroni, glukoza riabsorbohet e plotë pavarësisht hormoneve."
+  },
+  {
+    "id": "bio-sistemet-240",
+    "question": "Nëse një individ ka pirë shumë ujë, atëherë sasia e hormonit antidiuretik që çlirohet në gjak:",
+    "answers": [
+      "rritet",
+      "zvogëlohet",
+      "dyfishohet",
+      "nuk ndryshon"
+    ],
+    "correct": 1,
+    "explanation": "Shumë ujë → potenciali ujor i gjakut rritet → ADH-ja bie → veshka nxjerr urinë të bollshme e të holluar. Feedback negativ klasik."
+  },
+  {
+    "id": "bio-sistemet-241",
+    "question": "Nëse temperatura trupore te njeriu ulet nën 36°C, atëherë:",
+    "answers": [
+      "muskujt skeletor do të tkurren",
+      "muskujt skeletor do të lëshohen",
+      "gjëndrat e djersës do të aktivizohen",
+      "gjëndrat e pështymës do të inaktivizohen"
+    ],
+    "correct": 0,
+    "explanation": "Në të ftohtë trupi dridhet: tkurrje të shpejta e të pavullnetshme të muskujve skeletorë që prodhojnë nxehtësi. Djersitja do ta ftohte edhe më shumë."
+  },
+  {
+    "id": "bio-sistemet-242",
+    "question": "Kur temperatura trupore te njeriu rritet mbi 37°C, atëherë:",
+    "answers": [
+      "muskujt e lëmuar do të tkurren",
+      "muskujt e lëmuar do të lëshohen",
+      "gjëndrat e djersës do të aktivizohen",
+      "gjëndrat e pështymës do të inaktivizohen"
+    ],
+    "correct": 2,
+    "explanation": "Djersa avullon nga lëkura dhe merr nxehtësi nga trupi → ftohje. Bashkë me të ndodh edhe zgjerimi i enëve sipërfaqësore."
+  },
+  {
+    "id": "bio-sistemet-243",
+    "question": "Nëse bën nxehtë, trupi e rregullon temperaturën përmes parimit feedback negativ duke:",
+    "answers": [
+      "zgjeruar enët e gjakut",
+      "ngushtuar enët e gjakut",
+      "mos ndryshuar diametri i enëve të gjakut",
+      "ndryshuar diametri i enëve limfatike"
+    ],
+    "correct": 0,
+    "explanation": "Vazodilatim: enët e lëkurës zgjerohen, vjen më shumë gjak në sipërfaqe dhe humbet nxehtësia. Në të ftohtë ndodh e kundërta (vazokonstriksion)."
+  },
+  {
+    "id": "bio-sistemet-244",
+    "question": "Në bashkërendimin e punës së organeve të ndryshëm, marrin pjesë:",
+    "answers": [
+      "sistemi endokrin dhe muskulor",
+      "sistemi muskulor dhe skeletor",
+      "sistemi nervor dhe endokrin",
+      "sistemi nervor dhe muskulor"
+    ],
+    "correct": 2,
+    "explanation": "Koordinimin e kryejnë sistemi nervor (i shpejtë, me impulse) dhe ai endokrin (i ngadaltë, me hormone). Muskujt e skeleti janë ekzekutues, jo koordinues."
+  },
+  {
+    "id": "bio-sistemet-245",
+    "question": "Në kushte qetësie përqendrimi i joneve Na+ tek neuroni është:",
+    "answers": [
+      "më i madh jashtë qelizës",
+      "më i vogël jashtë qelizës",
+      "më i madh brenda qelizës",
+      "i njëjtë në të dyja anët e membranës"
+    ],
+    "correct": 0,
+    "explanation": "Pompa Na⁺–K⁺ nxjerr 3Na⁺ jashtë → natriumi grumbullohet JASHTË. Kujto: 'Na jashtë, K brenda'."
+  },
+  {
+    "id": "bio-sistemet-246",
+    "question": "Në kushte qetësie përqendrimi i joneve K+ tek neuroni është:",
+    "answers": [
+      "i njëjtë në të dyja anët e membranës",
+      "më i madh brenda qelizës",
+      "më i vogël brenda qelizës",
+      "më i madh jashtë qelizës"
+    ],
+    "correct": 1,
+    "explanation": "Pompa fut 2K⁺ brenda për çdo 3Na⁺ që nxjerr → kaliumi është më i përqendruar BRENDA neuronit."
+  },
+  {
+    "id": "bio-sistemet-247",
+    "question": "Lënda gri përbëhet nga:",
+    "answers": [
+      "aksonet e neuroneve",
+      "dentritet e neuroneve",
+      "butonet e neuroneve",
+      "trupat e neuroneve"
+    ],
+    "correct": 3,
+    "explanation": "Lënda gri = trupa qelizorë (dhe dendrite) pa mielinë. Lënda e bardhë = aksone të mielinizuara, dhe mielina yndyrore i jep ngjyrën e bardhë."
+  },
+  {
+    "id": "bio-sistemet-248",
+    "question": "Në palcën kurrizore lënda gri:",
+    "answers": [
+      "ndodhet në periferi me formën e shkronjës H",
+      "ndodhet në qendër, në formën e shkronjës H",
+      "është e përzierë me lëndën e bardhë",
+      "përbëhet nga aksonet e neuroneve"
+    ],
+    "correct": 1,
+    "explanation": "Në palcë lënda gri është brenda (formë H ose fluture) dhe e bardha jashtë — e kundërta e trurit, ku grija është në sipërfaqe (korteksi)."
+  },
+  {
+    "id": "bio-sistemet-249",
+    "question": "Neuronet e ndërmjetme transmetojnë impulse nga:",
+    "answers": [
+      "receptori në neuronet ndijore",
+      "neuroni ndijor në neuronin lëvizor",
+      "neuroni lëvizor drejt organit efektor",
+      "një neuron lëvizor në një neuron të ndërmjetëm"
+    ],
+    "correct": 1,
+    "explanation": "Harku reflektor: receptor → neuron ndijor → neuron i ndërmjetëm → neuron lëvizor → efektor. Ndërmjetësi qëndron pikërisht midis ndijorit dhe lëvizorit."
+  },
+  {
+    "id": "bio-sistemet-250",
+    "question": "Neuroni ndijor e transmeton sinjalin nervor nga:",
+    "answers": [
+      "receptori në SNQ",
+      "SNQ te receptori",
+      "SNQ te organi efektor",
+      "organi efektor te SNQ"
+    ],
+    "correct": 0,
+    "explanation": "Ndijor (sensor) = sjell informacionin nga receptori DREJT qendrës. Drejtimi i kundërt (SNQ → efektor) i takon neuronit lëvizor."
+  },
+  {
+    "id": "bio-sistemet-251",
+    "question": "Gjatë potencialit të membranës në qetësi, membrana e neuronit është e ngarkuar:",
+    "answers": [
+      "pozitivisht në të dyja anët e membranës",
+      "negativisht në të dyja anët e membranës",
+      "pozitivisht nga brenda në raport me jashtë",
+      "negativisht nga brenda në raport me jashtë"
+    ],
+    "correct": 3,
+    "explanation": "Potenciali i qetësisë është rreth −70 mV: brenda NEGATIV në raport me jashtë. Shenja minus e tregon pikërisht këtë polaritet."
+  },
+  {
+    "id": "bio-sistemet-252",
+    "question": "Ripolarizimi i membranës së neuronit pas veprimit të një ngacmuesi bëhet pasi vala depolarizuese ka mbërritur:",
+    "answers": [
+      "në fund të aksonit të neuronit",
+      "në mes të aksonit të neuronit",
+      "nga zona e ngacmuar në zonën fqinje",
+      "në treçerekun e gjatësisë së aksonit"
+    ],
+    "correct": 2,
+    "explanation": "Sapo depolarizimi kalon te zona fqinje, zona e mëparshme e rikthen menjëherë polaritetin. Prandaj impulsi udhëton si valë, pa pritur fundin e aksonit."
+  },
+  {
+    "id": "bio-sistemet-253",
+    "question": "Shpejtësia e transmetimit të valës depolarizuese është:",
+    "answers": [
+      "më e vogël në aksonet me mielinë",
+      "më e madhe në aksonet pa mielinë",
+      "më e madhe në aksonet me mielinë",
+      "e barabartë në të dyja llojet e aksoneve"
+    ],
+    "correct": 2,
+    "explanation": "Mielina izolon dhe impulsi 'kërcen' nga një nyje e Ranvjesë te tjetra (përcjellje saltatore) → shumë më e shpejtë se te aksonet pa mielinë."
+  },
+  {
+    "id": "bio-sistemet-254",
+    "question": "Cila prej alternativave përgjigjet për përcjelljen me kërcim të neuroneve me mielinë:",
+    "answers": [
+      "forma e trupit qelizor",
+      "gjatësia e aksonit",
+      "forma e dentriteve",
+      "nyjet e Ranvje"
+    ],
+    "correct": 3,
+    "explanation": "Depolarizimi ndodh vetëm te nyjet e Ranvjesë — pikat pa mielinë midis qelizave të Shvanit — prandaj impulsi kërcen nga njëra te tjetra."
+  },
+  {
+    "id": "bio-sistemet-255",
+    "question": "Është strukturë neurohormonale:",
+    "answers": [
+      "hemisfera e majtë e trurit",
+      "hemisfera e djathtë e trurit",
+      "hipotalamusi",
+      "truri i vogël"
+    ],
+    "correct": 2,
+    "explanation": "Hipotalamusi është njëkohësisht ind nervor DHE prodhues hormonesh (ADH, oksitocinë, faktorë çlirues) — pra ura midis sistemit nervor dhe atij endokrin."
+  },
+  {
+    "id": "bio-sistemet-256",
+    "question": "Qendrat e etjes dhe të urisë gjendet në:",
+    "answers": [
+      "hipofizë",
+      "hipotalamus",
+      "trurin e vogël",
+      "trurin e madh"
+    ],
+    "correct": 1,
+    "explanation": "Hipotalamusi mban qendrat e etjes, urisë, temperaturës dhe gjumit — qendra kryesore e homeostazës."
+  },
+  {
+    "id": "bio-sistemet-257",
+    "question": "Trupat e neuroneve formojnë në palcën kurrizore:",
+    "answers": [
+      "lëndën e bardhë",
+      "lëndën gri",
+      "lëndën e kuqe",
+      "lëndën e verdhë"
+    ],
+    "correct": 1,
+    "explanation": "Trupa qelizorë pa mielinë = lëndë gri. Lënda e bardhë përbëhet nga aksone të mielinizuara; 'e kuqe' dhe 'e verdhë' nuk ekzistojnë si terma."
+  },
+  {
+    "id": "bio-sistemet-258",
+    "question": "Cila nga sa vijon është sekuenca e saktë në të cilën urina rrjedh nëpër veshka drejt fshikëzës urinare?",
+    "answers": [
+      "Legeni renal, Kaliksi i madh, Kaliksi minor, Duktusi papilar, Ureteri",
+      "Dukt papilar, Kaliksi minor, Kaliksi i madh, Legen renal, Ureteri",
+      "Kaliksi minor, Kaliksi madh, Duktusi papilar, Legeni renale, Ureteri",
+      "Dukt papilar, Kaliks madhor, Kalik minor, ureter, Legen renale"
+    ],
+    "correct": 1,
+    "explanation": "Rrjedha shkon nga i vogli te i madhi: dukt papilar → kaliks minor → kaliks major → legen renal → ureter → fshikëz. Ureteri është gjithmonë i fundit para fshikëzës."
+  },
+  {
+    "id": "bio-sistemet-259",
+    "question": "Cili nga pohimet e mëposhtme në lidhje me ureterët është i rremë?",
+    "answers": [
+      "Mukoza e çdo ureteri është e përbërë nga epitel kalimtar",
+      "Ato përbëhen nga tre tunika",
+      "Valët peristaltike muskulare lëvizin urinën nëpër uretere",
+      "Janë të vendosura brenda kavitetit peritoneal"
+    ],
+    "correct": 3,
+    "explanation": "Ureterët (si edhe veshkat) janë RETROperitonealë — pas peritoneumit, jo brenda kavitetit. Tri pohimet e tjera janë të sakta."
+  },
+  {
+    "id": "bio-sistemet-260",
+    "question": "Të gjitha pohimet e mëposhtme janë të vërteta në lidhje me uretrën e 1 mashkulli, PËRVEÇ:",
+    "answers": [
+      "përmban një sfinkter të vetëm uretral pranë qafës së fshikëzës urinare",
+      "i shërben si sistemit urinar ashtu edhe atij riprodhues",
+      "merr sekrecione nga gjëndrat bulburetrale",
+      "përbëhet nga tre rajone të dallueshme"
+    ],
+    "correct": 0,
+    "explanation": "Uretra mashkullore ka DY sfinktere: atë të brendshëm (i pavullnetshëm) dhe të jashtmin (i vullnetshëm). Të tri pohimet e tjera janë të vërteta."
+  },
+  {
+    "id": "bio-sistemet-261",
+    "question": "Presioni hidrostatik kapilar gjatë filtrimit në glomerulë i detyrohet:",
+    "answers": [
+      "madhësisë te kapsulës së Bauman-it",
+      "formës si kupë të kapsulës Bauman-it",
+      "një arteriol aferent është i ngushtë në krahasim me eferentin",
+      "një arteriol eferent që është i ngushtë në krahasim me aferentin"
+    ],
+    "correct": 3,
+    "explanation": "Gjaku hyn nga një enë e GJERË (aferente) dhe del nga një e NGUSHTË (eferente) → presioni brenda glomerulës rritet dhe shtyn filtratin jashtë."
+  },
+  {
+    "id": "bio-sistemet-262",
+    "question": "NUK është pjesë e një piramide renale:",
+    "answers": [
+      "laku Henle",
+      "gypi i përdredhur",
+      "dukti përmbledhës",
+      "kapilarët peritubularë"
+    ],
+    "correct": 1,
+    "explanation": "Gypat e përdredhur (proksimal e distal) ndodhen në KORTEKS, jo në piramidat e medulës. Në medulë shtrihen laqet e Henlit dhe duktet mbledhëse."
+  },
+  {
+    "id": "bio-sistemet-263",
+    "question": "Riabsorbimi maksimal i joneve Na+ dhe K+ ndodh në:",
+    "answers": [
+      "në lakun e Henlit",
+      "në kapsulën e Baumanit",
+      "në tubin e përdredhur distal",
+      "në tubin e përdredhur proksimal"
+    ],
+    "correct": 3,
+    "explanation": "Rreth 65–70% e joneve dhe e ujit riabsorbohen që në gypin PROKSIMAL, i pajisur me mikrovile e mitokondri. Gypi distal bën vetëm rregullim të imët."
+  },
+  {
+    "id": "bio-sistemet-264",
+    "question": "Në rast të marrjes të një sasisë të vogël të lëngjeve:",
+    "answers": [
+      "hipotalamusi prodhon më shumë hormon ADH",
+      "urina është më pak e përqendruar",
+      "veshka kthen më pak ujë në gjak",
+      "rritet prodhimi i urinës"
+    ],
+    "correct": 0,
+    "explanation": "Pak lëngje → ADH e lartë → riabsorbim i shtuar uji → urinë e pakët e e koncentruar. Tri të tjerat do të çonin në humbje uji, pikërisht e kundërta e nevojës."
+  },
+  {
+    "id": "bio-sistemet-265",
+    "question": "Cili nga pohimet shpjegon SAKTE funksionin e një pjese specifike të nefronit:",
+    "answers": [
+      "arteriol aferent-largon gjakun nga glomerula drejt venës renale",
+      "tubula e përdredhur distale-riabsorbimi i joneve K+ në kapilarët e gjakut përreth",
+      "laku Henle-shumica e riabsorbimit të substancave kryesore nga filtrati glomerular",
+      "podocitet-krijojnë hapësira të vogla për filtrimin e gjakut në kapsulën Bauman"
+    ],
+    "correct": 3,
+    "explanation": "Podocitet lënë çarje filtruese midis 'këmbëzave' të tyre. A e ngatërron aferenten me eferenten, B ka drejtim të gabuar (K⁺ sekretohet), C i takon gypit proksimal."
+  },
+  {
+    "id": "bio-sistemet-266",
+    "question": "Riorganizoni pjesët e mëposhtme të një nefroni bazuar në rrjedhën e lëngut brenda tyre. 1.Tubi i përdredhur distal 2.Kapsula e Baumanit 3.Laku i Henlit 4.Tubi mbledhës 5.Tubi i përdredhur proksimal",
+    "answers": [
+      "5, 3, 1, 2, 4",
+      "3, 5, 1, 2, 4",
+      "2, 1, 5, 3, 4",
+      "2, 5, 3, 1, 4"
+    ],
+    "correct": 3,
+    "explanation": "Rruga e filtratit: kapsula e Baumanit → gyp proksimal → laku i Henlit → gyp distal → gyp mbledhës. Filtrimi fillon gjithmonë te kapsula dhe mbaron te gypi mbledhës."
+  },
+  {
+    "id": "bio-sistemet-267",
+    "question": "Cila pjesë e nefronit ndihmon në ruajtjen e pH-it të lëngjeve të trupit duke thithur HCO3- nga filtrati?",
+    "answers": [
+      "tubi i përdredhur proksimal",
+      "tubi distal i perdredhur",
+      "kanali grumbullues",
+      "laku i Henlit"
+    ],
+    "correct": 0,
+    "explanation": "Pothuajse i gjithë bikarbonati riabsorbohet në gypin proksimal, që është vendi kryesor i riabsorbimit masiv dhe i ruajtjes së ekuilibrit acido-bazik."
+  },
+  {
+    "id": "bio-sistemet-268",
+    "question": "Sasia maksimale e ujit nga filtrati glomerular riabsorbohet nga:",
+    "answers": [
+      "tubi i përdredhur proksimal",
+      "pjesa zbritëse e lakut Henle",
+      "pjesa ngjitëse e lakut Henle",
+      "tubi distal i përdredhur"
+    ],
+    "correct": 0,
+    "explanation": "Rreth 65% e ujit kthehet në gjak në gypin proksimal, pasivisht pas riabsorbimit të joneve. Pjesa ngjitëse e lakut nuk e lejon fare ujin të kalojë."
+  },
+  {
+    "id": "bio-sistemet-269",
+    "question": "Cilat janë funksionet e veshkës?",
+    "answers": [
+      "Ekskretimi i ures dhe ruajtja e balancës së ujit",
+      "Ripërthithja dhe filtrimi",
+      "Sekretimi dhe ripërthithja",
+      "Ripërthithje, Sekretim, Filtrim"
+    ],
+    "correct": 3,
+    "explanation": "Kërkohet përgjigja më e plotë: veshka punon me TRE procese — filtrim, riabsorbim dhe sekretim. Alternativat e tjera janë të pjesshme."
+  },
+  {
+    "id": "bio-sistemet-270",
+    "question": "Ureja:",
+    "answers": [
+      "prodhohet në veshkë dhe eliminohet po nga veshka",
+      "prodhohet në veshkë dhe eliminohet nga mëlçia",
+      "prodhohet në mëlçi dhe eliminohet nga veshka",
+      "prodhohet në mëlçi dhe rezervohet në organizëm"
+    ],
+    "correct": 2,
+    "explanation": "Mëlçia bën deaminimin dhe e kthen amoniakun toksik në ure; veshka e filtron dhe e nxjerr me urinë. Kujto: 'mëlçia prodhon, veshka eliminon'."
+  },
+  {
+    "id": "bio-sistemet-271",
+    "question": "Në gjatësinë e lakut të Henlit:",
+    "answers": [
+      "ripërthithen nga tubi në gjak NaCl dhe uji",
+      "sekretohen në tub substanca helmuese",
+      "dalin jashtë nga tubi molekulat e ujit me transport aktiv",
+      "kalimi i ujit jashtë tubit rregullohet me rruge hormonale"
+    ],
+    "correct": 0,
+    "explanation": "Pjesa zbritëse lëshon ujë (osmozë), ajo ngjitëse nxjerr NaCl — të dyja kthehen në gjak. Uji nuk lëviz kurrë me transport aktiv, dhe ADH-ja vepron te gypi mbledhës."
+  },
+  {
+    "id": "bio-sistemet-272",
+    "question": "Urina formohet si pasojë e:",
+    "answers": [
+      "filtrimit glomerular",
+      "vetëm riabsorbimit tubular",
+      "vetëm sekretimit tubular",
+      "filtrim glomerular, riabsorbimit dhe sekretimit tubular"
+    ],
+    "correct": 3,
+    "explanation": "Asnjë proces i vetëm nuk mjafton: filtrimi krijon filtratin, riabsorbimi kthen të dobishmet, sekretimi shton mbetjet e mbetura. Fjala 'vetëm' i bën B e C të gabuara."
+  },
+  {
+    "id": "bio-sistemet-273",
+    "question": "Filtrati i mbetur pas riabsorbimit tubular dhe sekretimit quhet:",
+    "answers": [
+      "kreatinin",
+      "acid urik",
+      "urinë",
+      "ure"
+    ],
+    "correct": 2,
+    "explanation": "Produkti përfundimtar i tri proceseve është URINA. Ureja, acidi urik dhe kreatinina janë vetëm përbërës të saj."
+  },
+  {
+    "id": "bio-sistemet-274",
+    "question": "Amoniaku është një përbërje toksike dhe shumë e tretshme. Ai:",
+    "answers": [
+      "kalon duke u shndërruar menjëherë në gjak",
+      "kalon pa u shndërruar menjëherë në gjak",
+      "bashkohet me CO2 për të formuar uren",
+      "formon uren"
+    ],
+    "correct": 2,
+    "explanation": "Në ciklin e uresë amoniaku kombinohet me CO₂ në mëlçi → ure, shumë më pak toksike. Alternativa C e shpjegon mekanizmin, ndërsa D vetëm e përsërit rezultatin."
+  },
+  {
+    "id": "bio-sistemet-275",
+    "question": "Ngjyra e verdhë e urinës i detyrohet pranisë së:",
+    "answers": [
+      "uresë",
+      "acidit urik",
+      "urokromit",
+      "melaninës"
+    ],
+    "correct": 2,
+    "explanation": "Urokromi rrjedh nga zbërthimi i hemoglobinës dhe i jep urinës ngjyrën e verdhë. Melanina është pigmenti i lëkurës, ureja është e pangjyrë."
+  },
+  {
+    "id": "bio-sistemet-276",
+    "question": "Akuaporinat (kanalet e ujit) janë përgjegjëse për ndryshimin e përshkueshmërisë së tij. Ato gjenden në:",
+    "answers": [
+      "korteks",
+      "glomerul",
+      "kapsulën e Bauman-it",
+      "membranën plazmatike të gypave mbledhës"
+    ],
+    "correct": 3,
+    "explanation": "ADH-ja i fut akuaporinat pikërisht në membranën e qelizave të gypit mbledhës, duke rregulluar sa ujë kthehet në gjak."
+  },
+  {
+    "id": "bio-sistemet-277",
+    "question": "Zona mediale konkave e veshkës njihet si:",
+    "answers": [
+      "piramida",
+      "ureteri",
+      "legen",
+      "hilus"
+    ],
+    "correct": 3,
+    "explanation": "Hilusi është 'porta' e veshkës: aty hyjnë arteria renale dhe dalin vena renale e ureteri. Legeni renal ndodhet brenda, pas hilusit."
+  },
+  {
+    "id": "bio-sistemet-278",
+    "question": "Cili nga funksionet/strukturat e mëposhtme NUK është i lidhur me nefronin?",
+    "answers": [
+      "Prodhimi i uresë",
+      "Riabsorbimi selektiv",
+      "Laku i Henlit",
+      "Ultrafiltrim"
+    ],
+    "correct": 0,
+    "explanation": "Ureja PRODHOHET në mëlçi; nefroni vetëm e filtron dhe e eliminon. Tri të tjerat janë pjesë ose funksione të mirëfillta të nefronit."
+  },
+  {
+    "id": "bio-sistemet-279",
+    "question": "Katër veprimet e mëposhtme ndodhin gjatë procesit të riprodhimit seksual te bimët me lule. Bëni radhitjen e saktë të këtyre veprimeve: 1 Kokrrat e pjalmit bien mbi krezën e pistilit. 2 Gameti mashkullor bashkohet me gametin femëror. 3 Gameti mashkullor udhëton përgjatë gypit pjalmik. 4 Gypi pjalmik fillon të rritet. Në çfarë rendi ndodhin këto procese?",
+    "answers": [
+      "3, 4, 1, 2",
+      "4, 3, 2, 1",
+      "1, 4, 3, 2",
+      "1, 2, 4, 3"
+    ],
+    "correct": 2,
+    "explanation": "Rendi logjik: pjalmim (1) → mbin gypi pjalmik (4) → gameti udhëton (3) → pllenim (2). Gypi nuk mund të rritet para se pjalmi të bjerë, dhe pllenimi është gjithmonë i fundit."
+  },
+  {
+    "id": "bio-sistemet-280",
+    "question": "Lulet e gramit janë me petale ngjyrë të gjelbër. Ajo është bimë që pjalmohet me anë të erës. Cili rresht i tabelës tregon një dallim të saktë ndërmjet luleve që pjalmohen me anë të erës dhe luleve që pjalmohen me anë të insekteve? (Lule me insekte / Lule me erë)",
+    "image": "/question-images/biologji/sistemet/sistemet-280.png",
+    "imageAlt": "Tabelë me katër rreshta që krahason lulet e pjalmuara nga insektet me ato të pjalmuara nga era",
+    "answers": [
+      "Pistil me shtyllëz të shkurtër / Pistil me shtyllëz të gjatë",
+      "Prania e thekëve dhe pistilit në të njëjtën lule / Lulet kanë vetëm thekë ose vetëm pistil",
+      "Mungojnë qelizat që prodhojnë nektar / Të pranishme qeliza që prodhojnë nektar",
+      "Prodhojnë sasi të madhe kokrrizash pjalmi të lehta dhe të lëmuara / Prodhojnë sasi të vogël kokrrizash pjalmi ngjitëse"
+    ],
+    "correct": 0,
+    "explanation": "Lulet e erës kanë shtyllëz të gjatë me krezë të degëzuar që 'kap' pjalmin nga ajri. C dhe D janë të përmbysura: nektarin e kanë lulet e insekteve, kurse pjalmin e lehtë e të shumtë e kanë lulet e erës."
+  },
+  {
+    "id": "bio-sistemet-281",
+    "question": "Cili rresht në tabelë tregon funksionet e duhura të luleve që pjalmohen prej insekteve?",
+    "image": "/question-images/biologji/sistemet/sistemet-281.png",
+    "imageAlt": "Tabelë me katër rreshta që përshkruajnë funksionet e pjesëve të lules",
+    "answers": [
+      "Anterat prodhojnë kokrrat e pjalmit / Pistila përmban ovulat / Insektet ulen te kurora",
+      "Nënpetlat tërheqin insektet / Ovulat prodhohen në anterë / Ovulat ndodhen në muret e shtratit të lules",
+      "Mbi krezë bien kokrrat e pjalimit / Vezoret përmbajnë vezët / Thekët prodhojnë kokrrat e pjalmit",
+      "Petalet kanë rol mbrojtës për lulen / Pistili është vendi ku ndodh pjalmimi / Antera prodhon vezët"
+    ],
+    "correct": 0,
+    "explanation": "Vetëm rreshti A ka të tria pohimet e sakta. Gabimet: ovulat nuk prodhohen kurrë në anterë (B), dhe antera prodhon pjalm e jo vezë (D)."
+  },
+  {
+    "id": "bio-sistemet-282",
+    "question": "Cila nga mënyrat e mëposhtme konsiderohet si formë natyrore e klonimit?",
+    "answers": [
+      "Kryqëzimi i bimëve të varieteteve të ndryshme",
+      "Kryqëzimi i bimëve të të njëjtit varietet",
+      "Riprodhimi me tubere",
+      "Vetëpjalmimi"
+    ],
+    "correct": 2,
+    "explanation": "Klon = pasardhës gjenetikisht identikë, të prodhuar me MITOZË. Tuberi është riprodhim aseksual; të tri të tjerat përfshijnë gamete dhe mejozë."
+  },
+  {
+    "id": "bio-sistemet-283",
+    "question": "Figura e mëposhtme tregon fazat e riprodhimit te njeriu. Rezultati i fekondimit është paraqitur në strukturën:",
+    "image": "/question-images/biologji/sistemet/sistemet-283.png",
+    "imageAlt": "Skemë e riprodhimit të njeriut: prindërit (A), spermatozoidi dhe veza (B), qeliza e bashkuar (C) dhe embrioni (D)",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "Fekondimi = bashkim i gametëve → ZIGOTA, pra qeliza e vetme (C). D është embrioni, që vjen më pas nga ndarjet mitotike të zigotës."
+  },
+  {
+    "id": "bio-sistemet-284",
+    "question": "Binjakët e një veze formohen nga bashkimi i një veze me sa spermatozoide?",
+    "answers": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 3,
+    "explanation": "Binjakët identikë vijnë nga NJË vezë e pllenuar nga NJË spermatozoid; zigota pastaj ndahet në dy embrione. Prandaj ata kanë gjenotip identik."
+  },
+  {
+    "id": "bio-sistemet-285",
+    "question": "Cila lëndë kalon zakonisht në sasi më të madhe nëpërmjet placentës nga gjaku i fetusit në gjakun e nënës?",
+    "answers": [
+      "Aminoacidet",
+      "Dioksid karboni",
+      "Glukozë",
+      "Oksigjen"
+    ],
+    "correct": 1,
+    "explanation": "Kujdes drejtimit: NGA fetusi TE nëna kalojnë mbetjet — CO₂ dhe ureja. Oksigjeni, glukoza e aminoacidet lëvizin në drejtimin e kundërt."
+  },
+  {
+    "id": "bio-sistemet-286",
+    "question": "Procesi i ndarjes mejotike të qelizave fillon brenda strukturës:",
+    "image": "/question-images/biologji/sistemet/sistemet-286.png",
+    "imageAlt": "Figurë e aparatit riprodhues femëror me pesë struktura të numërtuara",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Mejoza te femra fillon në VEZORE (nr. 2), ku formohen ovocitet. Nr. 1 është gypi i Fallopit, ku ndodh pllenimi, jo mejoza."
+  },
+  {
+    "id": "bio-sistemet-287",
+    "question": "Pas pllenimit në vezë ndodhin tre ndryshime, PËRVEÇ:",
+    "answers": [
+      "vezikulat kortikale derdhin përmbajtjen në zonën pellucide të vezës, e cila mbyllet hermetikisht",
+      "ovociti sekondar i nënshtrohet ndarjes së dytë mejotike dhe jep vezën dhe trupin tjetër polar",
+      "ovociti primar i nënshtrohet ndarjes së parë mejotike dhe jep ovocitin sekondar dhe trupin polar",
+      "ndodh shkrirja e bërthamës së vezës me bërthamën e spermatozoidit (kariogamia)"
+    ],
+    "correct": 2,
+    "explanation": "Ndarja e PARË mejotike përfundon PARA pllenimit (para ovulimit). Pas hyrjes së spermatozoidit ndodhin vetëm: bllokimi kortikal, mejoza II dhe kariogamia."
+  },
+  {
+    "id": "bio-sistemet-288",
+    "question": "Në qoftë se cikli është konkretizuar me fekondim, trupi i verdhë:",
+    "answers": [
+      "ngelet funksional gjatë gjithë kohës së shtatzënisë",
+      "ngelet funksional deri në tremestrin e dytë",
+      "ngelet funksional deri në tremestrin e parë",
+      "shkatërrohet pas fekondimit"
+    ],
+    "correct": 2,
+    "explanation": "Trupi i verdhë mban progesteronin gjatë tremujorit të parë; më pas placenta e merr këtë rol dhe ai degjeneron."
+  },
+  {
+    "id": "bio-sistemet-289",
+    "question": "Figura e mëposhtme tregon aparatin riprodhues femëror te njeriu. Cila prej strukturave të mëposhtme çliron estrogjenin në sistemin e qarkullimit të gjakut?",
+    "image": "/question-images/biologji/sistemet/sistemet-289.png",
+    "imageAlt": "Figurë e aparatit riprodhues femëror me katër struktura të numërtuara",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Estrogjenin e prodhojnë qelizat folikulare të VEZORES — struktura ovale anash mitrës (nr. 3). Mitra dhe gypi i Fallopit nuk sekretojnë estrogjen."
+  },
+  {
+    "id": "bio-sistemet-290",
+    "question": "Cili nga çiftet e gametëve, kur bashkohen, çojnë në formimin e një zigote e cila do të zhvillohet në një embrion normal mashkullor?",
+    "image": "/question-images/biologji/sistemet/sistemet-290.png",
+    "imageAlt": "Katër çifte gametësh të shënuar I-IV me përbërjen kromozomike 22+X ose 22+Y",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "correct": 0,
+    "explanation": "Mashkull = XY, pra duhet spermatozoid 22+Y me vezë 22+X (çifti I). II jep YY (e pamundur), III dhe IV japin XX, pra femër."
+  },
+  {
+    "id": "bio-sistemet-291",
+    "question": "Estradioli është i domosdoshëm për:",
+    "answers": [
+      "formimin e gametëve femërore – diferencimin e rrugëve gjinore – rritjen e përmasave të gametit femëror",
+      "diferencimin e tipareve dytësore seksuale – diferencimin e rrugëve gjinore – rritjen e përmasave të gametit femëror",
+      "formimin e gametëve femërore – diferencimin e tipareve dytësore seksuale – diferencimin e rrugëve gjinore",
+      "formimin e gametëve femërore – diferencimin e tipareve dytësore seksuale – rritjen e përmasave të gametit femëror"
+    ],
+    "correct": 3,
+    "explanation": "Estradioli vepron pas pubertetit: nxit ovogjenezën, tiparet dytësore seksuale dhe rritjen e vezës. Diferencimi i rrugëve gjinore ndodh në jetën embrionale, pa estradiol."
+  },
+  {
+    "id": "bio-sistemet-292",
+    "question": "Cili nga kombinimet e mëposhtme është i saktë lidhur me prodhimin dhe sekretimin e hormoneve?",
+    "answers": [
+      "Pjesa ekzokrine e pankreasit – hipofizë",
+      "Gjëndrat tiroide – gjëndrat e pështymës",
+      "Hipofizë – gjëndrat e pështymës",
+      "Hipofizë – gjëndra tiroide"
+    ],
+    "correct": 3,
+    "explanation": "Vetëm D përmban dy gjëndra ENDOKRINE. Gjëndrat e pështymës dhe pjesa ekzokrine e pankreasit janë ekzokrine, pra nuk prodhojnë hormone."
+  },
+  {
+    "id": "bio-sistemet-293",
+    "question": "Cilat nga gjëndrat e mëposhtme prodhon hormone homeostatike?",
+    "answers": [
+      "Hipofizë",
+      "Gjëndra mbiveshkore",
+      "Pjesa ekzokrine e pankreasit",
+      "Gjëndrat paratiroide"
+    ],
+    "correct": 1,
+    "explanation": "Mbiveshkoret prodhojnë kortizol, adrenalinë e aldosteron, që rregullojnë gliceminë, presionin dhe ujin e kripërat — funksione tipike homeostatike."
+  },
+  {
+    "id": "bio-sistemet-294",
+    "question": "Kur receptorët e lëkurës ngacmohen nga rritja e temperaturës së mjedisit ndodh:",
+    "answers": [
+      "ngushtimi i enëve të gjakut të sipërfaqes",
+      "shtimi i sekretimit të adrenalinës",
+      "pakësimi i prodhimit të djersës",
+      "shtimi i prodhimit të djersës"
+    ],
+    "correct": 3,
+    "explanation": "Kur bën nxehtë trupi ftohet me djersitje dhe zgjerim (jo ngushtim) të enëve sipërfaqësore. Alternativat A e C janë reagime ndaj të ftohtit."
+  },
+  {
+    "id": "bio-sistemet-295",
+    "question": "Adenohipofiza NUK prodhon:",
+    "answers": [
+      "FSH",
+      "prolaktinë",
+      "ADH",
+      "LH"
+    ],
+    "correct": 2,
+    "explanation": "ADH-ja prodhohet në hipotalamus dhe çlirohet nga NEUROhipofiza. Adenohipofiza prodhon FSH, LH, TSH, ACTH, GH dhe prolaktinë."
+  },
+  {
+    "id": "bio-sistemet-296",
+    "question": "Cili nga kombiminet e mëposhtme është plotësisht i saktë lidhur me prodhimin e hormoneve?",
+    "answers": [
+      "Hipofiza, Vezoret, Neurohipofiza, Pankreasi dhe Gjëndrat e pështymës",
+      "Hipofiza, Tiroide, Vezore, Gjëndër pështyme, Gjëndrat e djersës",
+      "Hipofiza, Gjëndrat e qumështit, Tiroide, Vezore, Neurohipofiza",
+      "Vezore, Tiroide, hipofiza, Hipotalamus, Pankreas"
+    ],
+    "correct": 3,
+    "explanation": "Vetëm D përmban ekskluzivisht struktura që prodhojnë hormone. A, B dhe C përfshijnë gjëndra ekzokrine (pështymë, djersë, qumësht), të cilat nuk prodhojnë hormone."
+  },
+  {
+    "id": "bio-sistemet-297",
+    "question": "Kimioreceptorët në bulbet e shijes që gjenden në gjuhë nxiten nga:",
+    "answers": [
+      "Ca2+",
+      "Na+",
+      "K+",
+      "AMP ciklike"
+    ],
+    "correct": 1,
+    "explanation": "Jonet Na⁺ (kripa) hyjnë drejtpërdrejt në qelizat receptore dhe i depolarizojnë ato — mekanizmi më i thjeshtë i shijes. AMP-ciklike është mesazher i brendshëm, jo stimul."
+  },
+  {
+    "id": "bio-sistemet-298",
+    "question": "Hormonet me natyrë peptidike nuk mund të kalojnë membranën dyshtresore fosfolipidike. Cila nga hormonet e mëposhtme NUK bën pjesë në këtë grup?",
+    "answers": [
+      "Adrenalina",
+      "Glukagoni",
+      "ADH-ja",
+      "Estrogjeni"
+    ],
+    "correct": 3,
+    "explanation": "Estrogjeni është STEROID (lipofil) → kalon lirisht membranën dhe lidhet me receptorë brendaqelizorë. Tri të tjerët veprojnë nga jashtë, me receptorë membranorë."
+  },
+  {
+    "id": "bio-sistemet-299",
+    "question": "Cikli menstrual koordinohet nga:",
+    "answers": [
+      "sekretimi i hormonit progesteron",
+      "sekretimi i hormonit FSH",
+      "hormonet me natyrë glukoproteinike dhe nga vezoret",
+      "vetëm sekretimi i hormonit estrogjen"
+    ],
+    "correct": 2,
+    "explanation": "Cikli varet nga bashkëveprimi i gonadotropinave glukoproteinike (FSH, LH) me hormonet e vezores (estrogjen, progesteron). Asnjë hormon i vetëm nuk e drejton atë."
+  },
+  {
+    "id": "bio-sistemet-300",
+    "question": "Hormoni kundër urinimit (ADH) sekretohet nga ____ dhe vepron në ____. Cili çiftim është i saktë?",
+    "answers": [
+      "Hipotalamus – Aparat tretës",
+      "Mbiveshkore – Zorrë e trashë",
+      "Adenohpofizë – Zorrë e hollë",
+      "Neurohipofizë – Veshkë"
+    ],
+    "correct": 3,
+    "explanation": "ADH-ja çlirohet nga neurohipofiza dhe organi shenjë është VESHKA (gypi distal dhe mbledhës). Asnjë lidhje me aparatin tretës."
+  },
+  {
+    "id": "bio-sistemet-301",
+    "question": "Hormoni FSH dhe LH prodhohen nga ____ dhe veprojnë në ____:",
+    "answers": [
+      "hipotalamus – mitër",
+      "gjendër mbiveshkore – gyp fallopi",
+      "adenohipofizë – vezore",
+      "neurohipofizë – ovidukt"
+    ],
+    "correct": 2,
+    "explanation": "FSH dhe LH janë gonadotropina të adenohipofizës dhe organi i tyre shenjë janë GONADET (vezorja te femra, testikuli te mashkulli), jo mitra apo gypi i Fallopit."
+  },
+  {
+    "id": "bio-sistemet-302",
+    "question": "Hormoni GH prodhohet në ____ dhe vepron në ____:",
+    "answers": [
+      "hipotalamus – muskuj të lëmuar + skelet",
+      "tiroide – lëkurë + skelet",
+      "neurohipofizë – muskuj të lëmuar + muskuj të vijëzuar",
+      "adenohipofizë – muskuj e skeletit"
+    ],
+    "correct": 3,
+    "explanation": "Hormoni i rritjes prodhohet nga adenohipofiza dhe nxit rritjen e kockave dhe të muskujve skeletorë. Neurohipofiza çliron vetëm ADH dhe oksitocinë."
+  },
+  {
+    "id": "bio-sistemet-303",
+    "question": "Prolaktina është një hormon i rëndësishëm tek femra. Ai prodhohet nga ____ dhe ka rol në ____:",
+    "answers": [
+      "hipotalamus – dalje qumështi",
+      "adenohipofiza – prodhim qumështi + zhvillim gjiri",
+      "neurohipofiza – në zhvillim cikli",
+      "gjëndrat mbiveshkore – të gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Prolaktina (adenohipofizë) e PRODHON qumështin dhe zhvillon gjëndrat e qumështit. Nxjerrjen e qumështit e shkakton oksitocina — mos i ngatërro rolet."
+  },
+  {
+    "id": "bio-sistemet-304",
+    "question": "Estradioli është hormoni që prodhohet nga ____, të ____:",
+    "answers": [
+      "tiroide – trupi i verdhë",
+      "qelizat folikulare – vezores",
+      "hipotalamus – shtresa e brendshme",
+      "hipofizë – shtresa e kores"
+    ],
+    "correct": 1,
+    "explanation": "Estradioli sekretohet nga qelizat folikulare që rrethojnë ovocitin në vezore, nën nxitjen e FSH-së. Trupi i verdhë prodhon kryesisht progesteron."
+  },
+  {
+    "id": "bio-sistemet-305",
+    "question": "Gjëndrat mbiveshkore prodhojnë hormonet ____ që ndikojnë ____:",
+    "answers": [
+      "adrenalinë dhe prolaktinë – përqindje glicemie",
+      "adrenalinë, noradrenalinë dhe oksitocinë – të gjitha",
+      "adrenalinë, oksitocinë dhe kortizol – përthithje uji",
+      "adrenalinë, noradrenalinë, kortizol – gjendjen emocione dhe nivelin e sheqerit"
+    ],
+    "correct": 3,
+    "explanation": "Mbiveshkoret japin adrenalinë e noradrenalinë (medula) dhe kortizol (korteksi) → reagimi ndaj stresit dhe rritja e glicemisë. Prolaktina e oksitocina janë hipofizare."
+  },
+  {
+    "id": "bio-sistemet-306",
+    "question": "Testosteroni prodhohet nga testikuli i nxitur nga:",
+    "answers": [
+      "neurohipofiza",
+      "tiroidja",
+      "paratiroidja",
+      "adenohipofiza"
+    ],
+    "correct": 3,
+    "explanation": "LH-ja e adenohipofizës nxit qelizat e Leydigut të prodhojnë testosteron. Tiroidja e paratiroidja nuk kanë lidhje me gonadet."
+  },
+  {
+    "id": "bio-sistemet-307",
+    "question": "Gjatë tkurrjes së muskujve të këmbëve gjaku në vena ngjitet lart përmes:",
+    "answers": [
+      "nyjes sinoatriale",
+      "valvula bikuspide",
+      "valvula trikuspide",
+      "valvula në formë xhepi"
+    ],
+    "correct": 3,
+    "explanation": "Venat kanë valvula gjysmëhënore (në formë xhepi) që e pengojnë kthimin e gjakut poshtë; muskujt e këmbëve e shtypin venën dhe e shtyjnë gjakun lart. Bikuspidja e trikuspidja janë brenda zemrës."
+  },
+  {
+    "id": "bio-sistemet-308",
+    "question": "Në diagramën e mëposhtme valvula trikuspidale identifikohet me numrin:",
+    "image": "/question-images/biologji/sistemet/sistemet-308.png",
+    "imageAlt": "Prerje tërthore e zemrës me katër struktura të numërtuara",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "Valvula trikuspidale ndodhet midis veshores dhe barkushes së DJATHTË, që në figurë duket në anën e majtë të vizatimit (nr. 1). Bikuspidja do të ishte në anën e kundërt."
+  },
+  {
+    "id": "bio-sistemet-309",
+    "question": "Gjaku që kthehet nga qarkullimi i madh i gjakut është:",
+    "answers": [
+      "i pasur me dioksid karboni",
+      "i pasur me oksigjen",
+      "i varfër me dioksid karboni",
+      "i varfër me glukozë"
+    ],
+    "correct": 0,
+    "explanation": "Qarkullimi i madh kalon nëpër indet, të cilat marrin O₂ dhe lëshojnë CO₂. Prandaj gjaku që kthehet në atriumin e djathtë është venoz, i ngarkuar me CO₂."
+  },
+  {
+    "id": "bio-sistemet-310",
+    "question": "Gjaku që kthehet nga qarkullimi i vogël i gjakut është:",
+    "answers": [
+      "i pasur me dioksid karboni",
+      "i pasur me oksigjen",
+      "i varfër me oksigjen",
+      "i pasur me glukozë"
+    ],
+    "correct": 1,
+    "explanation": "Qarkullimi i vogël kalon nëpër mushkëri, ku gjaku merr O₂ dhe liron CO₂ → kthehet arterial në atriumin e majtë."
+  },
+  {
+    "id": "bio-sistemet-311",
+    "question": "Cila nga enët e gjakut karakterizohet nga elasticiteti i lartë në muret e saj?",
+    "answers": [
+      "Vena",
+      "Kapilar",
+      "Aorta",
+      "Venulat"
+    ],
+    "correct": 2,
+    "explanation": "Aorta pret gjithë trysninë e sistolës, prandaj ka shtresë të trashë fibrash elastike që zgjerohet e tkurret dhe e mban rrjedhën të vazhdueshme. Kapilari ka vetëm një shtresë qelizash."
+  },
+  {
+    "id": "bio-sistemet-312",
+    "question": "Membrana e hollë e cila përbëhet nga një ind lidhës, përmasat e të cilit i lejojnë zemrës të ndryshojë vëllimin e saj në fazat e ndryshme të ciklit kardiak quhet:",
+    "answers": [
+      "pleura",
+      "perikardi",
+      "miokardi",
+      "septum"
+    ],
+    "correct": 1,
+    "explanation": "Perikardi është qesja mbrojtëse rreth zemrës. Pleura vesh mushkëritë, miokardi është vetë muskuli i zemrës, septumi ndarja midis dy gjysmave."
+  },
+  {
+    "id": "bio-sistemet-313",
+    "question": "Gjatë systoles ventrikulare (barkusheve) gjaku ndjek rrugën:",
+    "answers": [
+      "barkushe – arterie",
+      "veshore – barkushe",
+      "barkushe – veshore",
+      "arterie – barkushe"
+    ],
+    "correct": 0,
+    "explanation": "Kur barkushet tkurren, valvulat atrioventrikulare mbyllen dhe ato gjysmëhënore hapen → gjaku shkon në aortë e në arterien mushkërore, kurrë prapa."
+  },
+  {
+    "id": "bio-sistemet-314",
+    "question": "Gjatë systoles atriale (veshoreve) gjaku ndjek rrugën:",
+    "answers": [
+      "barkushe – veshore",
+      "barkushe – arterie",
+      "veshore – barkushe",
+      "arterie – barkushe"
+    ],
+    "correct": 2,
+    "explanation": "Tkurrja e veshoreve e shtyn gjakun poshtë, në barkushe, përmes valvulave atrioventrikulare të hapura. Kjo është faza që përgatit sistolën ventrikulare."
+  },
+  {
+    "id": "bio-sistemet-315",
+    "question": "Një nga funksionet e mëposhtme NUK i përket gjakut:",
+    "answers": [
+      "transportues",
+      "homeostatik",
+      "mbrojtës",
+      "tretës"
+    ],
+    "correct": 3,
+    "explanation": "Gjaku transporton, mbron (leukocite, antitrupa) dhe ruan ekuilibrin (pH, temperaturë, ujë). Tretja kryhet nga enzimat e aparatit tretës, jo nga gjaku."
+  },
+  {
+    "id": "bio-sistemet-316",
+    "question": "Gjitarët kanë sistem të dyfishtë të qarkullimit të gjakut, ndërsa peshqit kanë system të njëfishtë. Sistemi i dyfishtë ka përparësi krahasuar me atë të njëfishtë sepse:",
+    "answers": [
+      "gjaku transportohet me trysni të ulët",
+      "gjaku transportohet me trysni të lartë",
+      "indet furnizohen me dioksid karboni",
+      "mushkëritë furnizohen me dioksid karboni"
+    ],
+    "correct": 1,
+    "explanation": "Gjaku ri-pompohet nga zemra pas mushkërive, prandaj arrin te indet me trysni e shpejtësi të lartë. Te peshqit trysnia bie shumë pas kalimit nëpër velëza."
+  },
+  {
+    "id": "bio-sistemet-317",
+    "question": "Tufa e Hisit e merr fillimin në:",
+    "answers": [
+      "veshore",
+      "barkushe",
+      "nyjen sinoatriale",
+      "nyjen atrioventrikulare"
+    ],
+    "correct": 3,
+    "explanation": "Rendi i përcjelljes: nyja sinoatriale → nyja atrioventrikulare → tufa e Hisit → fibrat e Purkinjes. Tufa e Hisit fillon pikërisht te nyja atrioventrikulare."
+  },
+  {
+    "id": "bio-sistemet-318",
+    "question": "Eritrocitet tek njeriu:",
+    "answers": [
+      "nuk kanë bërthamë",
+      "kryejnë fagocitozë",
+      "kanë formë të çrregullt",
+      "prodhojnë antitrupa"
+    ],
+    "correct": 0,
+    "explanation": "Eritrociti e humb bërthamën për të bërë vend hemoglobinës; forma e tij është disk bikonkav i rregullt. Fagocitozën dhe antitrupat i bëjnë leukocitet."
+  },
+  {
+    "id": "bio-sistemet-319",
+    "question": "Qelizat e bardha të gjakut (leukocitet):",
+    "answers": [
+      "përmbajnë hemoglobinë",
+      "transportojnë oksigjen",
+      "kanë formë disku",
+      "kanë bërthamë"
+    ],
+    "correct": 3,
+    "explanation": "Leukocitet janë qeliza të plota me bërthamë dhe formë të ndryshueshme (amebore). Hemoglobinën, transportin e O₂ dhe formën e diskut i ka eritrociti."
+  },
+  {
+    "id": "bio-sistemet-320",
+    "question": "Kur lëngu indor hyn në kapilarët limfatikë quhet limfë. Rrjedhja e limfës në enët limfatike mundësohet nga:",
+    "answers": [
+      "lëshimi i muskujve",
+      "tkurrja e muskujve",
+      "tkurrja e veshores (atriumit)",
+      "tkurrja e barkushes (ventrikulit)"
+    ],
+    "correct": 1,
+    "explanation": "Sistemi limfatik nuk ka pompë; limfa lëviz nga shtypja e muskujve skeletorë dhe valvulat që pengojnë kthimin prapa. Zemra nuk e pompon limfën."
+  },
+  {
+    "id": "bio-sistemet-321",
+    "question": "Kalimi i glukozës nga epiteli i zorrës së hollë, në gjak bëhet me:",
+    "answers": [
+      "pompa",
+      "kotransport",
+      "difuzion të thjeshtë",
+      "me difuzion të lehtësuar"
+    ],
+    "correct": 1,
+    "explanation": "Glukoza hyn në qelizat epiteliale bashkë me Na⁺ me kotransport; ky është hapi që e bën përthithjen të plotë edhe kur përqendrimi në zorrë është i ulët."
+  },
+  {
+    "id": "bio-sistemet-322",
+    "question": "Një pompë membranore është e përbërë nga:",
+    "answers": [
+      "disakaride",
+      "fosfolipide",
+      "kolesterol",
+      "proteina"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha pompat janë proteina integrale me vend lidhjeje për jonin dhe për ATP-në. Fosfolipidet e kolesteroli formojnë dyshtresën, jo transportuesit."
+  },
+  {
+    "id": "bio-sistemet-323",
+    "question": "Cila nga molekulat e mëposhtme kalon më lehtë përmes membranës?",
+    "answers": [
+      "Alkooli",
+      "Glukoproteina",
+      "Kolesteroli",
+      "Proteina"
+    ],
+    "correct": 0,
+    "explanation": "Alkooli është molekulë e vogël dhe pa ngarkesë → kalon lirshëm dyshtresën lipidike. Proteinat e glukoproteinat janë shumë të mëdha; kolesteroli qëndron brenda membranës si përbërës i saj."
+  },
+  {
+    "id": "bio-sistemet-324",
+    "question": "Termi kotransport përdoret për të përshkruar?",
+    "answers": [
+      "Kalimin e 2 lëndëve nëpërmjet 2 transportuesëve ku njëri e përfshin, tjetri e nxjerr jashtë",
+      "Transportuesi ka dy site, për të lidhur dhe transportuar 1 molekulë dhe 1 jon",
+      "Kalimin e 2 lëndëve nëpërmjet 2 transportuesëve të ndryshëm njëkohësisht",
+      "Procesi ku proteina krijon kanal për të kaluar 2 jone njëkohësisht"
+    ],
+    "correct": 1,
+    "explanation": "Ko- = bashkë: NJË transportues i vetëm me dy vende lidhjeje bart njëkohësisht një jon dhe një molekulë (p.sh. Na⁺ + glukozë). Dy transportues të veçantë nuk janë kotransport."
+  },
+  {
+    "id": "bio-sistemet-325",
+    "question": "Përthithja e glukozës nga lumeni i zorrës në epitel bëhet:",
+    "answers": [
+      "me anë të difuzionit të thjeshtë",
+      "me anë të difuzionit të lehtësuar",
+      "me anë të me endocitozë",
+      "me anë të kotransportit"
+    ],
+    "correct": 3,
+    "explanation": "Glukoza tërhiqet bashkë me Na⁺ nga i njëjti transportues (kotransport), gjë që lejon përthithje të plotë edhe kundër gradientit të vet."
+  },
+  {
+    "id": "bio-sistemet-326",
+    "question": "Uji lëviz nga ksilema në gypat me shoshë sepse:",
+    "answers": [
+      "potenciali i ujit në gypat me shoshë është i lartë",
+      "niveli i sakarozës në gypat me shoshë është i ulët",
+      "në ksilemë potenciali i ujit është i ulët",
+      "potenciali i ujit në gypat me shoshë është i ulët"
+    ],
+    "correct": 3,
+    "explanation": "Ngarkimi i sakarozës e ul potencialin ujor në gypat me shoshë → uji hyn nga ksilema me osmozë dhe krijon trysninë që nis rrjedhjen e floemës."
+  },
+  {
+    "id": "bio-sistemet-327",
+    "question": "Glikokaliksi është i ndërtuar:",
+    "answers": [
+      "nga zinxhirë karbohidratesh të glikolipideve dhe glikoproteinave",
+      "vetëm nga zinxhirët karbohidratesh në përbërje të glikoproteinave",
+      "vetëm nga zinxhirë karbohidratesh të glikolipideve",
+      "nga zinxhirë karbohidratesh të lirë"
+    ],
+    "correct": 0,
+    "explanation": "Glikokaliksi është 'veshja' e sheqernave në sipërfaqen e jashtme, e formuar nga karbohidratet e LIDHURA me lipide dhe me proteina. Zinxhirë të lirë nuk ka."
+  },
+  {
+    "id": "bio-sistemet-328",
+    "question": "Membrana bazale, e cila ndodhet midis endotelit dhe podociteve në Kapsulën e Bauman-it është e përbërë nga:",
+    "answers": [
+      "lipide dhe kolesterol",
+      "kolesterol dhe glikolipide",
+      "glikolipide dhe glikoproteina",
+      "kolagjen dhe glikoproteina"
+    ],
+    "correct": 3,
+    "explanation": "Membrana bazale është rrjetë kolagjeni me glikoproteina; pikërisht ajo është filtri që ndalon proteinat e mëdha të plazmës."
+  },
+  {
+    "id": "bio-sistemet-329",
+    "question": "Transporti i sakarozës nga burimi në vendin e depozitimit bëhet:",
+    "answers": [
+      "në sasi minimale",
+      "në sasi maksimale",
+      "në të gjitha format",
+      "në masë"
+    ],
+    "correct": 3,
+    "explanation": "Floema punon me 'rrjedhje në masë' (mass flow): i gjithë lëngu lëviz së bashku nën ndryshimin e trysnisë midis burimit dhe gropës."
+  },
+  {
+    "id": "bio-sistemet-330",
+    "question": "Kotransporti i sakarozës nga indi fotosintetik në gypat me shoshë realizohet nga lëvizja e njëkohshme e saj me jonet:",
+    "answers": [
+      "Ca2+",
+      "K+",
+      "H+",
+      "Na+"
+    ],
+    "correct": 2,
+    "explanation": "Te bimët pompohen jashtë protonet H⁺; kthimi i tyre brenda tërheq sakarozën. (Te kafshët roli i njëjtë i takon Na⁺-it — mos i ngatërro.)"
+  },
+  {
+    "id": "bio-sistemet-331",
+    "question": "Trysnia hidrostatike në trakeidet e ksilemës është:",
+    "answers": [
+      "pozitive sepse dendësia e lëngut është e madhe",
+      "pozitive sepse dendësia e lëngut është e vogël",
+      "negative sepse dendësia e lëngut është e madhe",
+      "negative sepse dendësia e lëngut është e vogël"
+    ],
+    "correct": 3,
+    "explanation": "Uji në ksilemë tërhiqet lart nga transpirimi, pra qëndron nën TENSION → trysni negative. Lëngu i ksilemës është shumë i holluar, pra me dendësi të vogël."
+  },
+  {
+    "id": "bio-sistemet-332",
+    "question": "Uji lëviz me osmozë nga ksilema në gypat shoshe sepse:",
+    "answers": [
+      "potenciali ujor në ksilemë është më i vogël, se në gypat shoshe",
+      "potenciali ujor në ksilemë është më i madh, se në gypat shoshe",
+      "potenciali ujor në ksilemë është i njëjtë, me atë të gypave shoshe",
+      "potenciali ujor në ksilemë është i pandryshueshëm"
+    ],
+    "correct": 1,
+    "explanation": "Uji shkon nga potenciali më i LARTË te më i ulëti. Ksilema ka lëng të holluar (potencial i lartë), floema lëng me sakarozë (potencial i ulët)."
+  },
+  {
+    "id": "bio-sistemet-333",
+    "question": "Iriqët shpesh ushqehen me lëvoren e pemëve të reja, kjo sjell në disa raste edhe tharjen e tyre sepse:",
+    "answers": [
+      "dëmtohen gypat e ksilemës",
+      "dëmtohen gypat e floemës",
+      "dëmtohen qelizat e epidermis së lëvores",
+      "dëmtohen qelizat e kutikulës"
+    ],
+    "correct": 1,
+    "explanation": "Floema ndodhet menjëherë nën lëvore; heqja e saj e ndërpret furnizimin e rrënjëve me sheqerna dhe bima ngordh. Ksilema është më thellë, në dru."
+  },
+  {
+    "id": "bio-sistemet-334",
+    "question": "Sipërfaqja e zorrës së hollë rritet nga struktura të quajtura:",
+    "answers": [
+      "mikrovile",
+      "cilie",
+      "flagjelë",
+      "vile"
+    ],
+    "correct": 3,
+    "explanation": "Vilet (thithkat) janë palosjet gishtore të mukozës që e shumëfishojnë sipërfaqen; mikrovilet janë zgjatimet edhe më të vogla mbi çdo qelizë të viles."
+  },
+  {
+    "id": "bio-sistemet-335",
+    "question": "Auksina kontrollon rritjen e qelizave bimore përmes zgjatjes së tyre. Ky hormon lidhet me receptorin membranor dhe përgjigjja është rritja e sasisë së:",
+    "answers": [
+      "ujit që vjen me anë të poreve qelizore si rezultat i uljes së pH",
+      "protoneve hidrogjen në mjedisin jashtë qelizor",
+      "joneve kalium në mjedisin jashtë qelizor",
+      "organeleve qelizore"
+    ],
+    "correct": 1,
+    "explanation": "Auksina aktivizon pompat H⁺ → protonet dalin jashtë → muri acidifikohet, zbutet dhe qeliza zgjatet ('rritja me acidifikim')."
+  },
+  {
+    "id": "bio-sistemet-336",
+    "question": "Acidi abshisik (ABA) është një hormon bimor që sintetizohet në çdo qelizë e cila ka kloroplaste dhe amiloplaste. Njëri nga proceset më poshtë NUK nxitet nga prania e tij:",
+    "answers": [
+      "nxitja e mbylljes së gojzave tek gjethja",
+      "reduktimi i shkallës së transpirimit tek bimët",
+      "rritja e sasisë së ujit që vjen me anë të poreve qelizore si rezultat i uljes së pH",
+      "ruajtja e ujit në brendësi të organeleve qelizore të bimës"
+    ],
+    "correct": 2,
+    "explanation": "Acidifikimi i murit dhe zgjatja e qelizës janë efekt i AUKSINËS, jo i ABA-së. ABA vepron gjithmonë në drejtim të kursimit të ujit."
+  },
+  {
+    "id": "bio-sistemet-337",
+    "question": "Ritmi me të cilin punojnë muskujt e frymëmarrjes dhe për rrjedhojë edhe ritmi i frymëkëmbimit kontrollohet nga:",
+    "answers": [
+      "truri",
+      "zemra",
+      "muskujt",
+      "mushkëritë"
+    ],
+    "correct": 0,
+    "explanation": "Qendra e frymëmarrjes ndodhet në palcën e zgjatur të trurit; ajo ndjek pH-në e gjakut dhe dërgon impulse te diafragma e muskujt ndërbrinjorë."
+  },
+  {
+    "id": "bio-sistemet-338",
+    "question": "Çlirimin e alveolave nga pluhurat dhe mbeturinat qelizore e bëjnë të mundur:",
+    "answers": [
+      "receptorët",
+      "ciliet dhe mukusi",
+      "qelizat epiteliale",
+      "qelizat fagocitare"
+    ],
+    "correct": 1,
+    "explanation": "Mukusi i kap grimcat dhe qerpikët (ciliet) e lëvizin atë lart drejt fytit — 'shkalla lëvizëse mukociliare'. Kjo është pastrimi mekanik i rrugëve të ajrit."
+  },
+  {
+    "id": "bio-sistemet-339",
+    "question": "Nëse në gjak ka shumë dioksid karboni apo acid laktik, kjo shkakton rënie të pH. Kur truri e ndien këtë, ai dërgon impulse nervore në:",
+    "answers": [
+      "diafragmë, alveola dhe bronke",
+      "diafragmë dhe muskujt ndërbrinjor",
+      "muskujt ndërbrinjorë dhe bronikola",
+      "alveolat, bronkiolat dhe trake"
+    ],
+    "correct": 1,
+    "explanation": "Efektorët e frymëmarrjes janë MUSKUJT: diafragma dhe ndërbrinjorët. Alveolat, bronket e bronkiolat nuk marrin urdhra për të lëvizur."
+  },
+  {
+    "id": "bio-sistemet-340",
+    "question": "Pas sforcimeve fizike, ritmi i frymëmarrjes vazhdon të jetë i lartë sepse:",
+    "answers": [
+      "pH është i lartë dhe truri dërgon sinjale në diafragmë dhe bronkiola",
+      "pH është i lartë dhe truri dërgon sinjale në bronke dhe muskuj ndërbrinjor",
+      "pH është i ulët dhe truri dërgon sinjale në diafragmë dhe muskuj ndërbrinjor",
+      "pH është i ulët dhe truri dërgon sinjale në diafragmë dhe bronkiola"
+    ],
+    "correct": 2,
+    "explanation": "Acidi laktik dhe CO₂ e ULIN pH-në; truri reagon duke nxitur muskujt e frymëmarrjes (diafragmë + ndërbrinjorë) derisa 'borxhi i oksigjenit' të shlyhet."
+  },
+  {
+    "id": "bio-sistemet-341",
+    "question": "Gjatë frymëthithjes ajri futet në mushkëri sepse:",
+    "answers": [
+      "trysnia e ajrit atmosferik është më e madhe se trysnia e ajrit në alveola",
+      "trysnia e ajrit në hojëza nuk ndryshon por rritet trysnia e ajrit atmosferik",
+      "trysnia e ajrit atmosferik është më e vogël se trysnia e ajrit në alveola",
+      "trysnia e ajrit atmosferik është e njëjtë me trysninë e ajrit në alveola"
+    ],
+    "correct": 0,
+    "explanation": "Zgjerimi i kraharorit e ul trysninë brenda alveolave nën atë atmosferike → ajri hyn vetvetiu nga trysnia e lartë te e ulëta."
+  },
+  {
+    "id": "bio-sistemet-342",
+    "question": "Alveolat kanë sipërfaqe shumë të madhe e cila ndikon në:",
+    "answers": [
+      "uljen e shpejtësisë të difuzionit",
+      "rritjen e shpejtësisë së difuzionit",
+      "uljen e shpejtësisë së transportit aktiv",
+      "rritjen e shpejtësisë së transportit aktiv"
+    ],
+    "correct": 1,
+    "explanation": "Sa më e madhe sipërfaqja, aq më i shpejtë difuzioni. Shkëmbimi i gazeve është gjithmonë pasiv (difuzion), kurrë transport aktiv."
+  },
+  {
+    "id": "bio-sistemet-343",
+    "question": "Cila nga lëndët e mëposhtme krijon mjedisin e përshtatshëm për shndërrimin e pepsinogjenit në pepsinë?",
+    "answers": [
+      "Acid karbonik",
+      "Acid urik",
+      "Acid klorhidrik",
+      "Acid nitrik"
+    ],
+    "correct": 2,
+    "explanation": "HCl-ja e stomakut e ul pH-në në ~2 dhe e aktivizon pepsinogjenin joaktiv në pepsinë. Tri acidet e tjera nuk sekretohen në stomak."
+  },
+  {
+    "id": "bio-sistemet-344",
+    "question": "Organet e aparatit tretës mbështillen nga një membrane që quhet?",
+    "answers": [
+      "Sfinkteri kardiak",
+      "Perikardi",
+      "Sfinkter",
+      "Peritoneum"
+    ],
+    "correct": 3,
+    "explanation": "Peritoneumi vesh zgavrën e barkut dhe organet e tretjes. Perikardi i takon zemrës, kurse sfinkterët janë unaza muskulore, jo membrana."
+  },
+  {
+    "id": "bio-sistemet-345",
+    "question": "Tretja e karbohidrateve fillon:",
+    "answers": [
+      "në gojë nga veprimi i amilazës së pështymës",
+      "në gojë nga veprimi i amilazës pankreatike",
+      "në duoden nga veprimi i amilazës së pështymës",
+      "në duoden nga veprimi i lipazës"
+    ],
+    "correct": 0,
+    "explanation": "Amilaza e pështymës e nis zbërthimin e amidonit që në gojë. Amilaza pankreatike vepron më vonë, në duoden — kujdes cilës amilazë i referohet alternativa."
+  },
+  {
+    "id": "bio-sistemet-346",
+    "question": "Kariesi dentar shkaktohet nga:",
+    "answers": [
+      "zbërthimi i lipideve tek dhëmbi në acide yndyrore",
+      "depozitimi i copave të ushqimit",
+      "depozitimi dhe shpërbërja e sheqernave në acide",
+      "depozitimi i kripërave të Ca"
+    ],
+    "correct": 2,
+    "explanation": "Bakteret e pllakës i fermentojnë sheqernat në acide, të cilat e shkrijnë smaltin. Vetëm mbetja e ushqimit pa sheqerna nuk mjafton për kariesin."
+  },
+  {
+    "id": "bio-sistemet-347",
+    "question": "Sfinkteri kardiak realizon komunikimin midis:",
+    "answers": [
+      "stomakut dhe duodenit",
+      "faringut dhe ezofagut",
+      "ezofagut dhe stomakut",
+      "zorrës së hollë dhe duodenit"
+    ],
+    "correct": 2,
+    "explanation": "Kardiaku është HYRJA e stomakut (nga ezofagu); dalja drejt duodenit është sfinkteri pilorik. Dobësimi i tij shkak refluksin."
+  },
+  {
+    "id": "bio-sistemet-348",
+    "question": "Pjesa më e madhe e lëndëve ushqimore përthithen në:",
+    "answers": [
+      "stomak",
+      "duoden",
+      "ezofag",
+      "ileum"
+    ],
+    "correct": 3,
+    "explanation": "Ileumi është pjesa më e gjatë e zorrës së hollë dhe e mbushur me vile e mikrovile → aty ndodh pjesa më e madhe e përthithjes. Në duoden mbizotëron tretja."
+  },
+  {
+    "id": "bio-sistemet-349",
+    "question": "Kolera është një sëmundje:",
+    "answers": [
+      "virale",
+      "gjenetike",
+      "bakteriale",
+      "e shkaktuar nga mjedisi"
+    ],
+    "correct": 2,
+    "explanation": "Shkaktari është bakteri Vibrio cholerae, që përhapet me ujë të ndotur dhe jep diarre të rëndë me dehidratim. Prandaj trajtohet me antibiotikë dhe rihidratim."
+  },
+  {
+    "id": "bio-sistemet-350",
+    "question": "Përcaktimi më i saktë për granulocitet është:",
+    "answers": [
+      "makrofagët",
+      "trombocitet",
+      "neutrofilet dhe bazofilet",
+      "neutrofile, euzinofile dhe bazofile"
+    ],
+    "correct": 3,
+    "explanation": "Granulocitet janë TRE lloje: neutrofile, eozinofile dhe bazofile — të gjitha me granula në citoplazmë. Alternativa C është e paplotë, sepse harron eozinofilet."
+  },
+  {
+    "id": "bio-sistemet-351",
+    "question": "Gjatë procesit të transplantimit, sistemi imunitar nuk bëhet shkak për flakjen e organeve vetëm në rastin e:",
+    "answers": [
+      "binjakëve monozigotikë",
+      "binjakëve dizigotikë",
+      "individëve të të njëjtit lloj",
+      "motrat dhe vëllezërit"
+    ],
+    "correct": 0,
+    "explanation": "Binjakët monozigotikë janë gjenetikisht identikë → antigjenet e tyre janë të njëjta dhe organi nuk njihet si i huaj. Binjakët dizigotikë janë si vëllezër të zakonshëm."
+  },
+  {
+    "id": "bio-sistemet-352",
+    "question": "Imunoglobulinat e tipit IgG, sa zona të lidhjes me antigjenin kanë?",
+    "answers": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "Struktura në formë Y-je ka dy krahë, secili me një vend lidhjeje → 2 zona. Prandaj një antitrup mund të lidhë dy antigjene njëherësh."
+  },
+  {
+    "id": "bio-sistemet-353",
+    "question": "Fibrinogjeni që realizon koagulimin e gjakut prodhohet nga:",
+    "answers": [
+      "hipofiza",
+      "hipotalamusi",
+      "mëlçia",
+      "pankreasi"
+    ],
+    "correct": 2,
+    "explanation": "Mëlçia sintetizon shumicën e proteinave plazmatike, përfshirë fibrinogjenin dhe protrombinën. Prandaj sëmundjet e mëlçisë sjellin çrregullime mpiksjeje."
+  },
+  {
+    "id": "bio-sistemet-354",
+    "question": "Diabeti i tipit 1 është sëmundje që shkaktohet nga:",
+    "answers": [
+      "mosnjohja e receptorit nga insulina",
+      "dëmtimi i qelizave α të Ishujve të Langerhansit",
+      "dëmtimi i pjesës ekzokrine të pankreasit",
+      "dëmtimi i qelizave β të Ishujve të Langerhansit"
+    ],
+    "correct": 3,
+    "explanation": "Tipi 1 = mungesë insuline, sepse shkatërrohen qelizat BETA që e prodhojnë atë. Mosnjohja e receptorit (rezistenca) është karakteristikë e tipit 2."
+  },
+  {
+    "id": "bio-sistemet-355",
+    "question": "Cila nga këto qeliza të gjakut kanë bërthamën me lobe?",
+    "answers": [
+      "Eritrocitet",
+      "Limfocitet",
+      "Monocitet",
+      "Neutrofilet"
+    ],
+    "correct": 3,
+    "explanation": "Neutrofilet quhen edhe polimorfonukleare, sepse bërthama u ndahet në 2–5 lobe. Limfociti ka bërthamë të rrumbullakët, eritrociti nuk ka fare."
+  },
+  {
+    "id": "bio-sistemet-356",
+    "question": "Truri kontrollon temperaturën e trupit duke përdorur disa organe si:",
+    "answers": [
+      "lëkurën",
+      "stomakun",
+      "mushkërinë",
+      "veshkat"
+    ],
+    "correct": 0,
+    "explanation": "Lëkura është efektori kryesor termorregullues: djersitje, zgjerim/ngushtim enësh dhe ngritje qimesh. Veshkat rregullojnë ujin, jo temperaturën."
+  },
+  {
+    "id": "bio-sistemet-357",
+    "question": "Pjesa më e madhe e ripërthithjes në veshka ndodh në gypin proksimal. Këto qeliza janë përshtatur për të kryer ripërthithjen sepse:",
+    "answers": [
+      "përmbajnë mikrovile që rrisin sipërfaqen",
+      "kanë sasi të vogël të mitokondrive",
+      "kanë sasi të vogël të proteinave transportuese",
+      "janë larg me kapilarët e gjakut"
+    ],
+    "correct": 0,
+    "explanation": "Mikrovilet formojnë 'buzë furçe' që shumëfishon sipërfaqen. Tri alternativat e tjera janë e kundërta e përshtatjes: aty ka SHUMË mitokondri e transportues dhe kapilarët janë ngjitur."
+  },
+  {
+    "id": "bio-sistemet-358",
+    "question": "Nga vjen gjaku në kapilarët, në kapilarët që rrethojnë gjithë gjatësinë e gypit të nefronit?",
+    "answers": [
+      "Arteriola aferente",
+      "Arteriola eferente",
+      "Arteria hepatike",
+      "Arteria pulmonare"
+    ],
+    "correct": 1,
+    "explanation": "Gjaku del nga glomerula me arteriolën EFERENTE dhe formon rrjetin peritubular rreth gypave. Aferentja e sjell gjakun në glomerulë, jo te gypat."
+  },
+  {
+    "id": "bio-sistemet-359",
+    "question": "Glomerulat e veshkës furnizohen me gjak nga:",
+    "answers": [
+      "arteriola aferente",
+      "arteriola eferente",
+      "arteria hepatike",
+      "vena hepatike"
+    ],
+    "correct": 0,
+    "explanation": "Aferente = që sjell (ad-ferre). Ajo e çon gjakun në glomerulë; eferentja e largon. Enët hepatike i takojnë mëlçisë."
+  },
+  {
+    "id": "bio-sistemet-360",
+    "question": "Qelizat që formojnë shtresën e brendshme të kapsulës së Bauman-it njihen me emrin?",
+    "answers": [
+      "Qelizat e Malpigit",
+      "Qelizat Endoteliale",
+      "Qelizat Enterocite",
+      "Qelizat Podocite"
+    ],
+    "correct": 3,
+    "explanation": "Podocitet mbështillen rreth kapilarëve me 'këmbëza' që lënë çarje filtruese. Endoteli është muri i kapilarit, enterocitet janë qeliza të zorrës."
+  },
+  {
+    "id": "bio-sistemet-361",
+    "question": "Kontrolli i përqëndrimit të glukozës së gjakut përfshin mekanizmin e feedback-ut negativ. Cilët janë organet efektorë në këtë mekanizëm kontrolli?",
+    "answers": [
+      "Hipotalamusi",
+      "Mëlçia",
+      "Mushkëria",
+      "Pankreasi"
+    ],
+    "correct": 1,
+    "explanation": "Pankreasi është receptori-kontrollues që lëshon hormonet; EFEKTORI që vepron (depoziton ose çliron glukozën) është mëlçia."
+  },
+  {
+    "id": "bio-sistemet-362",
+    "question": "Kur glukagoni vepron në qelizat e mëlçisë nxit:",
+    "answers": [
+      "aktivizimin e sintezës së glikogjenit nga glukoza",
+      "aktivizimin e sintezës së lipideve",
+      "aktivizimin e sintezës së proteinave",
+      "aktivizimin e enzimave që shndërrojnë glikogjenin në glukozë"
+    ],
+    "correct": 3,
+    "explanation": "Glukagoni e rrit gliceminë duke e zbërthyer glikogjenin (glikogjenolizë). Alternativa A përshkruan pikërisht veprimin e kundërt, atë të insulinës."
+  },
+  {
+    "id": "bio-sistemet-363",
+    "question": "Roli i acetilkolinesterazës është të nxisë:",
+    "answers": [
+      "hidrolizën e acetilkolinës",
+      "sintezën e acetilkolinës",
+      "futjen e joneve Ca në neuron",
+      "daljen e joneve Ca nga neuroni"
+    ],
+    "correct": 0,
+    "explanation": "Mbaresa '-azë' pas emrit të substratit tregon zbërthim: enzima e shkatërron acetilkolinën në sinaps, që ngacmimi të mos vazhdojë pafundësisht."
+  },
+  {
+    "id": "bio-sistemet-364",
+    "question": "Neuronet lëvizore transmetojnë impulset nervore:",
+    "answers": [
+      "direkt në efektor",
+      "direkt në neuronet ndijore",
+      "nga neuronet e ndërmjetme në efektor",
+      "nga efektori në neuronet e ndërmjetme"
+    ],
+    "correct": 2,
+    "explanation": "Në harkun reflektor neuroni lëvizor e merr impulsin nga neuroni i ndërmjetëm dhe e çon te muskuli ose gjëndra. Drejtimi është gjithmonë SNQ → efektor."
+  },
+  {
+    "id": "bio-sistemet-365",
+    "question": "Në sinapsin bllokues neuronet parasinapatikë çlirojnë një lloj neurotransmetues që shkakton:",
+    "answers": [
+      "hapjen e kanaleve për Na+ dhe futjen e tyre në neuronin passinaptik",
+      "hapjen e kanaleve për K+ dhe futjen e tyre në neuronin passinaptik",
+      "hapjen e kanaleve për Ca2+ dhe futjen e tyre në neuronin passinaptik",
+      "futjen e Cl në neuronin passinaptik"
+    ],
+    "correct": 3,
+    "explanation": "Hyrja e joneve negative Cl⁻ e bën brendësinë edhe më negative (hiperpolarizim) → neuroni bëhet më i vështirë për t'u ngacmuar. Hyrja e Na⁺ do të shkaktonte të kundërtën, ngacmim."
+  },
+  {
+    "id": "bio-sistemet-366",
+    "question": "Pompa Na+- K+ sposton:",
+    "answers": [
+      "1 jon Na+ dhe 1 jon K+ në njëjtin drejtim",
+      "1 jon Na+ jashtë dhe 1 jon K+ brenda",
+      "3 jone Na+ brenda dhe 2 jone K+ jashtë",
+      "3 jone Na+ jashtë dhe 2 jone K+ brenda"
+    ],
+    "correct": 3,
+    "explanation": "Raporti 3:2 me Na⁺ JASHTË dhe K⁺ BRENDA. Meqë dalin 3 ngarkesa pozitive dhe hyjnë vetëm 2, brendësia bëhet negative — baza e potencialit të qetësisë."
+  },
+  {
+    "id": "bio-sistemet-367",
+    "question": "Trupat e neuroneve lëvizorë, në palcën kurrizore ndodhen:",
+    "answers": [
+      "jashtë SNQ-së",
+      "në lëndën e bardhë",
+      "në brirët e sipër të lëndës gri",
+      "në brirët e poshtëm të lëndës gri"
+    ],
+    "correct": 3,
+    "explanation": "Brirët e përparmë (të poshtëm) të lëndës gri strehojnë neuronet lëvizore; brirët e pasmë marrin informacionin ndijor."
+  },
+  {
+    "id": "bio-sistemet-368",
+    "question": "Në sinapset kolinergjike, si neurotejçues janë:",
+    "answers": [
+      "acetilkolina",
+      "adrenalina",
+      "dopamina",
+      "noradrenalina"
+    ],
+    "correct": 0,
+    "explanation": "Emri e tregon: kolinergjik ← acetilKOLINË. Sinapset ku vepron noradrenalina quhen adrenergjike."
+  },
+  {
+    "id": "bio-sistemet-369",
+    "question": "Potenciali i qetësisë e ka vlerën afërsisht:",
+    "answers": [
+      "-90 milivolt",
+      "-70 milivolt",
+      "+30 milivolt",
+      "+50 milivolt"
+    ],
+    "correct": 1,
+    "explanation": "Vlera standarde e potencialit të qetësisë është rreth −70 mV. Vlera pozitive (+30 mV) arrihet vetëm gjatë kulmit të potencialit të veprimit."
+  },
+  {
+    "id": "bio-sistemet-370",
+    "question": "Veshka kryen të gjitha funksionet e mëposhtme, PËRVEÇ:",
+    "answers": [
+      "eliminimit të proteinave me masë të madhe në gjak",
+      "ndërhyn në ruajtjen e ekuilibrit hidro-mineral të organizmit",
+      "ndërhyn në rregullimin hormonal të presionit të gjakut",
+      "ndërhyn në rregullimin e sasisë së rruazave të kuqe të pranishme në gjak"
+    ],
+    "correct": 0,
+    "explanation": "Proteinat e mëdha NUK filtrohen fare — prania e tyre në urinë është shenjë sëmundjeje. Veshka rregullon ujin, presionin (renina) dhe eritrocitet (eritropoetina)."
+  },
+  {
+    "id": "bio-sistemet-371",
+    "question": "Një nga proceset që ndodhin në tubin e përdredhur distal në veshkë është:",
+    "answers": [
+      "sekretimi pasiv i joneve të hidrogjenit drejtë lëngut indor",
+      "transportimi aktiv i K+ nga lëngu indor në hapësirat e gypit",
+      "transporti aktiv i Na+ nga lëngu indor në gyp",
+      "ripërthithje e kufizuar e ujit"
+    ],
+    "correct": 3,
+    "explanation": "Gypi distal bën rregullim të imët: riabsorbon pak ujë (nën kontrollin e ADH-së) dhe sekreton H⁺ e K⁺ DREJT gypit, jo drejt lëngut indor. Natriumi riabsorbohet, nuk pompohet brenda gypit."
+  },
+  {
+    "id": "bio-sistemet-372",
+    "question": "Gjatë një frike apo stresi, lëkura e njeriut zbehet për shkak të efektit të cilit hormon?",
+    "answers": [
+      "Adrenalinës",
+      "Glukagonit",
+      "Kortizolit",
+      "Insulinës"
+    ],
+    "correct": 0,
+    "explanation": "Adrenalina i ngushton enët e lëkurës dhe e drejton gjakun te muskujt e zemra ('lufto ose ik') → lëkura zbehet."
+  },
+  {
+    "id": "bio-sistemet-373",
+    "question": "Diametri i arteries aferente renale është:",
+    "answers": [
+      "nuk ka arterie eferente",
+      "njësoj si ai i arteries eferente",
+      "më i vogël se ai i arteries eferente",
+      "më i madh se ai i arteries eferente"
+    ],
+    "correct": 3,
+    "explanation": "Hyrja e gjerë dhe dalja e ngushtë krijojnë presionin e lartë brenda glomerulës, që bën të mundur ultrafiltrimin."
+  },
+  {
+    "id": "bio-sistemet-374",
+    "question": "Membrana bazale që ndodhet midis endotelit të glomerulës dhe podociteve të nefronit ndalon kalimin nga plazma në Kapsulën e Bauman-it të:",
+    "answers": [
+      "molekulave të mëdha proteinike",
+      "aminoacideve",
+      "glukozës",
+      "uresë"
+    ],
+    "correct": 0,
+    "explanation": "Membrana bazale është 'sita' molekulare: lejon molekulat e vogla (glukozë, aminoacide, ure) dhe ndalon proteinat e mëdha të plazmës."
+  },
+  {
+    "id": "bio-sistemet-375",
+    "question": "Uretra e femrave është:",
+    "answers": [
+      "në të njëjtën gjatësi me uretrën e meshkujve",
+      "ndryshon përmasat në varësi të moshës",
+      "më e shkurtër se uretra e meshkujve",
+      "më e gjatë se uretra e meshkujve"
+    ],
+    "correct": 2,
+    "explanation": "Uretra femërore është rreth 4 cm, ajo mashkullore rreth 20 cm (kalon edhe nëpër penis). Shkurtësia e saj shpjegon infeksionet më të shpeshta urinare te femrat."
+  },
+  {
+    "id": "bio-sistemet-376",
+    "question": "Cili nga pohimet NUK ka lidhje me transportin e uresë në segmente të ndryshme të nefronit:",
+    "answers": [
+      "burimi kryesor i uresë tubulare është plazma nëpërmjet ultrafiltratit glomerular",
+      "përqendrimi i uresë në lumenin e kanaleve grumbulluese kortikale rritet ndërsa uji ripërthithet",
+      "laku i hollë Henle dhe kanali grumbullues medular janë të depërtueshëm ndaj uresë",
+      "përqendrimi i uresë në lumenin e kanaleve grumbulluese kortikale ulet ndërsa uji ripërthithet"
+    ],
+    "correct": 3,
+    "explanation": "Kur uji largohet, ureja që mbetet bëhet më e PËRQENDRUAR, jo më e holluar. Prandaj D bie ndesh me B, e cila është e saktë."
+  },
+  {
+    "id": "bio-sistemet-377",
+    "question": "Qelizat e gypit mbledhës në veshka shërbejnë si shenjë për cilin nga hormonet e mëposhtme:",
+    "answers": [
+      "oksitocina",
+      "eritropoetina",
+      "ADH-së",
+      "adrenalinës"
+    ],
+    "correct": 2,
+    "explanation": "ADH-ja lidhet me receptorët e gypit mbledhës dhe fut akuaporinat. Oksitocina vepron te mitra e gjiri, eritropoetina te palca kockore."
+  },
+  {
+    "id": "bio-sistemet-378",
+    "question": "Gjatë kalimit të urinës në gypin mbledhës, uji mund të largohet në saj të:",
+    "answers": [
+      "transportit pasiv",
+      "transportit aktiv",
+      "kotransportit",
+      "osmozës"
+    ],
+    "correct": 3,
+    "explanation": "Medula e veshkës është shumë e kripur, prandaj uji del nga gypi mbledhës me OSMOZË. Uji nuk transportohet kurrë në mënyrë aktive."
+  },
+  {
+    "id": "bio-sistemet-379",
+    "question": "Në gypin e përdredhur distal, Na+:",
+    "answers": [
+      "pompohet aktivisht nga gypi në lëngun indor",
+      "pompohet aktivisht nga lëngu indor në gyp",
+      "transportohet me difuzion të lehtësuar nga gypi në lëngun indor",
+      "transportohet me proteina kanalore nga lëngu indor në gyp"
+    ],
+    "correct": 0,
+    "explanation": "Natriumi RIABSORBOHET: pompohet aktivisht nga filtrati drejt lëngut indor e më pas në gjak, nën kontrollin e aldosteronit. Drejtimi i kundërt do të ishte humbje kripe."
+  },
+  {
+    "id": "bio-sistemet-380",
+    "question": "Cilin nga efektet e mëposhtme ka ADH në tubin e përdredhur distal?",
+    "answers": [
+      "Uljen e ripërthithjes së ujit",
+      "Rritjen e ripërthithjes së ujit",
+      "Uljen e përqendrimit të urinës",
+      "Rritjen e volumit të urinës"
+    ],
+    "correct": 1,
+    "explanation": "ADH = antidiuretik: rrit riabsorbimin e ujit, pra urina bëhet më e paktë dhe më e koncentruar. Alternativat A, C dhe D përshkruajnë mungesën e ADH-së."
+  },
+  {
+    "id": "bio-sistemet-381",
+    "question": "Grami është bimë barishtore që riprodhohet në mënyrë aseksuale me rizomë. Një studiues shqyrtoi 5 bimë grami dhe mati gjatësitë e rizomave A dhe B (në mm): bima 1: 175/310; bima 2: 230/260; bima 3: 145/330; bima 4: 120/245; bima 5: 105/220. Gjatësitë mesatare të rizomës A dhe B janë:",
+    "image": "/question-images/biologji/sistemet/sistemet-381.png",
+    "imageAlt": "Tabelë me gjatësitë e rizomave A dhe B për pesë bimë grami",
+    "answers": [
+      "120mm / 245mm",
+      "145mm / 330mm",
+      "155mm / 273mm",
+      "165mm / 287mm"
+    ],
+    "correct": 2,
+    "explanation": "Rizoma A: (175+230+145+120+105) = 775 : 5 = 155 mm. Rizoma B: (310+260+330+245+220) = 1365 : 5 = 273 mm. Alternativat A dhe B janë thjesht vlera të veçanta nga tabela, jo mesatare."
+  },
+  {
+    "id": "bio-sistemet-382",
+    "question": "Molla (Malus domestica) është një bimë frutore që i përket familjes Rosaceae. Kur kokrrizat e pjalmit të një bime me gjenotip (dd) bien mbi krezën e pistilit të një bime me gjenotip (DD), çfarë gjenotipi do të kenë qelizat e embrionit dhe të endospermës së farës? (Embrioni / Endosperma)",
+    "answers": [
+      "Dd / DDd",
+      "Dd / Ddd",
+      "dd / Ddd",
+      "dd / ddd"
+    ],
+    "correct": 0,
+    "explanation": "Pllenim i dyfishtë: embrioni = vezë (D) + spermë (d) = Dd. Endosperma = dy bërthama polare (D + D) + spermë (d) = DDd, pra gjithmonë triploide."
+  },
+  {
+    "id": "bio-sistemet-383",
+    "question": "Supozoni se një grua normale nuk ka lindur kurrë një fëmijë. Bazuar në këto dy të dhëna: -vezët prodhohen në harkun kohor, 1 vezë çdo 28 ditë (1 cikël menstrual) -periudha totale riprodhuese e gruas, në mesatare është nga 13-45 vjet. Llogarisni, sa vezë të pjekura do të kishte prodhuar gjatë jetës së saj?",
+    "answers": [
+      "384",
+      "348",
+      "308",
+      "248"
+    ],
+    "correct": 0,
+    "explanation": "Periudha riprodhuese: 45 − 13 = 32 vjet. Me 12 cikle në vit: 32 × 12 = 384 vezë. Kjo është arsyeja pse numri i vezëve të pjekura gjatë jetës është disa qindra, jo mijëra."
+  },
+  {
+    "id": "bio-sistemet-384",
+    "question": "Figura e mëposhtme paraqet aparatin e riprodhimit te mashkulli. Cila është rruga e saktë e ejakulimit të spermatozoideve nga trupi?",
+    "image": "/question-images/biologji/sistemet/sistemet-384.png",
+    "imageAlt": "Skemë e aparatit riprodhues mashkullor me strukturat e shënuara A deri H",
+    "answers": [
+      "A → C → G",
+      "A → C → B",
+      "E → F → H",
+      "D → F → G"
+    ],
+    "correct": 0,
+    "explanation": "Rruga fillon gjithmonë te testikuli (A), vazhdon me kanalin deferent (C) dhe del përmes uretrës (G). Çdo rrugë që nuk nis te testikuli është e gabuar."
+  },
+  {
+    "id": "bio-sistemet-385",
+    "question": "Cila strukturë siguron temperaturën optimale për prodhimin e spermatozoideve?",
+    "image": "/question-images/biologji/sistemet/sistemet-385.png",
+    "imageAlt": "Prerje e aparatit riprodhues mashkullor me strukturat e shënuara A deri G",
+    "answers": [
+      "Struktura A",
+      "Struktura D",
+      "Struktura F",
+      "Struktura G"
+    ],
+    "correct": 2,
+    "explanation": "Skrotumi (struktura F) i mban testikujt jashtë zgavrës së trupit, në ~34 °C — rreth 2–3 gradë nën temperaturën trupore, e domosdoshme për spermatogjenezën."
+  },
+  {
+    "id": "bio-sistemet-386",
+    "question": "Në figurën e mëposhtme janë treguar proceset që ndodhin në riprodhimin e njeriut. Cila nga alternativat e mëposhtme tregon saktë proceset e përfaqësuara nga numrat në figurë?",
+    "image": "/question-images/biologji/sistemet/sistemet-386.png",
+    "imageAlt": "Skemë e riprodhimit të njeriut me katër procese të numërtuara nga prindërit te zigota dhe fëmija",
+    "answers": [
+      "1-Mitozë, 2-Mejozë, 3-Fekondim, 4-Zhvillim",
+      "1-Mejozë, 2-Mejozë, 3-Fekondim, 4-Zhvillim",
+      "1-Mejozë, 2-Mitozë, 3-Diferencim, 4-Fekondim",
+      "1-Mitozë, 2-Mitozë, 3-Diferencim, 4-Fekondim"
+    ],
+    "correct": 1,
+    "explanation": "Të dy prindërit prodhojnë gamete me MEJOZË (1 dhe 2); bashkimi i tyre është fekondimi (3) dhe rritja e zigotës në fëmijë është zhvillimi (4)."
+  },
+  {
+    "id": "bio-sistemet-387",
+    "question": "Tek një person, i cili jeton për një kohë të gjatë në lartësi të mëdha, mbi nivelin e detit shkaktohet:",
+    "answers": [
+      "rritje të prodhimit të eritrociteve",
+      "ulje të prodhimit të eritrociteve",
+      "rritje të prodhimit të leukociteve",
+      "ulje të prodhimit të leukociteve"
+    ],
+    "correct": 0,
+    "explanation": "Në lartësi ka pak oksigjen → veshka çliron eritropoetinë → palca prodhon më shumë eritrocite. Leukocitet nuk lidhen me transportin e O₂."
+  },
+  {
+    "id": "bio-sistemet-388",
+    "question": "Enzima e cila shndërron fibrinogjenin në fibrinë gjatë mpiksjes së gjakut është:",
+    "answers": [
+      "anhidraza",
+      "trombina",
+      "amilaza",
+      "katalazë"
+    ],
+    "correct": 1,
+    "explanation": "Zinxhiri i mpiksjes: protrombinë → trombinë → trombina e kthen fibrinogjenin e tretshëm në fibrinë të patretshme, e cila formon rrjetën."
+  },
+  {
+    "id": "bio-sistemet-389",
+    "question": "Ena e gjakut, në të cilën arrijnë molekulat e oksigjenit pasi janë përthithur nga alveolat është?",
+    "answers": [
+      "Arteriolat",
+      "Trungu i aortës",
+      "Vena mushkërore",
+      "Arteria mushkërore"
+    ],
+    "correct": 2,
+    "explanation": "Pas shkëmbimit në alveola, gjaku i oksigjenuar mblidhet në venat mushkërore drejt atriumit të majtë. Arteria mushkërore e sjell gjakun venoz PARA shkëmbimit."
+  },
+  {
+    "id": "bio-sistemet-390",
+    "question": "Personi i moshës 50 vjeç, i është nënshtruar një kontrolli mjekësor. Mjeku e këshilloi për të bërë një ndërhyrje të quajtur bypass. Cila prej enëve të gjakut është bllokuar tek ky pacient?",
+    "answers": [
+      "Vena zgavrore e sipërme",
+      "Arteriet koronare",
+      "Kapilari arterial",
+      "Venat karotide"
+    ],
+    "correct": 1,
+    "explanation": "Bypass-i kardiak bëhet kur arteriet koronare, që ushqejnë vetë muskulin e zemrës, ngushtohen nga pllakat aterosklerotike."
+  },
+  {
+    "id": "bio-sistemet-391",
+    "question": "Hemoglobina është molekulë proteinike me strukturë kuaternare, e cila transporton oksigjenin. Struktura sekondare e kësaj proteine ka të bëjë me:",
+    "answers": [
+      "renditjen lineare të aminoacideve në secilin zinxhir polipeptidik",
+      "palosjen e çdo zinxhiri në strukturë globulare",
+      "organizimin e veçantë të zinxhirëve polipeptidikë",
+      "organizimin e çdo zinxhiri në strukturë α helikale"
+    ],
+    "correct": 3,
+    "explanation": "Sekondare = spirale α ose fletë β, e mbajtur nga lidhje hidrogjenore. A është primare, B është terciare, C është kuaternare."
+  },
+  {
+    "id": "bio-sistemet-392",
+    "question": "Debiti kardiak është vëllimi i gjakut të pompuar nga:",
+    "answers": [
+      "një ventrikuli zemrës gjatë një minute",
+      "një atrium i zemrës gjatë një minute",
+      "dhomat e zemrës gjatë një minute",
+      "ventrikuli dhe atrium i zemrës gjatë një minutë"
+    ],
+    "correct": 0,
+    "explanation": "Debiti kardiak = vëllimi sistolik × frekuenca, i matur për NJË ventrikul në një minutë. Veshoret vetëm mbushin barkushet, nuk pompojnë në qarkullim."
+  },
+  {
+    "id": "bio-sistemet-393",
+    "question": "Limfocitet β ndihmojnë në mbrojtjen e trupit nga sëmundjet sepse ato prodhojnë:",
+    "answers": [
+      "antigjene",
+      "antibiotikë",
+      "antitrupa",
+      "antitoksina"
+    ],
+    "correct": 2,
+    "explanation": "Limfocitet B kthehen në qeliza plazmatike që prodhojnë ANTITRUPA. Antigjenet i sjell patogjeni, antibiotikët prodhohen nga kërpudhat/bakteret."
+  },
+  {
+    "id": "bio-sistemet-394",
+    "question": "Kur përqendrimi i insulinës është i ulët, proteina transportuese të glukozës gjenden:",
+    "answers": [
+      "në fshikat në bërthamë",
+      "në fshikat në citoplazëm",
+      "ndodh fuzimi i fshikave me membranën plazmatike",
+      "proteinat transmembranore të glukozës nuk janë sintetizuar"
+    ],
+    "correct": 1,
+    "explanation": "Transportuesit GLUT rrinë të ruajtur në fshikëza citoplazmike; vetëm kur vjen insulina fshikëzat shkrihen me membranën dhe glukoza hyn në qelizë."
+  },
+  {
+    "id": "bio-sistemet-395",
+    "question": "Kur adrenalina vepron në receptorin transmembranor, të qelizave të mëlçisë, mesazheri sekondar që formohet brenda qelizës është?",
+    "answers": [
+      "Ca2+",
+      "Digliceroli",
+      "AMP ciklike",
+      "GMP ciklike"
+    ],
+    "correct": 2,
+    "explanation": "Adrenalina (mesazher i parë) aktivizon adenilat-ciklazën → AMP-ciklike brenda qelizës, e cila nis kaskadën e zbërthimit të glikogjenit."
+  },
+  {
+    "id": "bio-sistemet-396",
+    "question": "Tek njeriu testikujt prodhojnë hormonin testosterone. Çfarë do të ndodhë tek një mashkull në rast se adenohipofiza nuk prodhon LH?",
+    "answers": [
+      "Testikujt nuk do të ndryshojnë sasinë e testosteronit",
+      "Testikujt nuk do të prodhojnë fare testosteron",
+      "Testikujt do të prodhojnë më pak testosteron",
+      "Testikujt do të prodhojnë më shumë testosteron"
+    ],
+    "correct": 2,
+    "explanation": "LH-ja është nxitësi kryesor i qelizave të Leydigut; pa të prodhimi bie ndjeshëm, por një sasi bazale mbetet — prandaj 'më pak', jo 'aspak'."
+  },
+  {
+    "id": "bio-sistemet-397",
+    "question": "Tek femrat adenohipofiza prodhon hormonet FSH dhe LH. Çfarë do të ndodhë me këto hormone, në rast se sasia e hormonit progesteron mbahet e lartë?",
+    "answers": [
+      "FSH dhe LH nuk ndikohen nga progesteroni",
+      "FSH dhe LH nuk do pësojnë ndryshime",
+      "FSH dhe LH do të zvogëlohen",
+      "FSH dhe LH do të rriten"
+    ],
+    "correct": 2,
+    "explanation": "Progesteroni i lartë frenon hipofizën me feedback negativ → FSH dhe LH bien dhe nuk ka ovulim të ri. Mbi këtë parim funksionojnë kontraceptivët hormonalë."
+  },
+  {
+    "id": "bio-sistemet-398",
+    "question": "Kur përqendrimi i glukozës në gjak kalon pikun optimal, prodhimi i glukagonit:",
+    "answers": [
+      "ulet",
+      "rritet",
+      "nuk ndryshon",
+      "ulet prodhimi insulinës"
+    ],
+    "correct": 0,
+    "explanation": "Glukagoni nevojitet vetëm kur sheqeri është i ulët; me gliceminë e lartë ai bie dhe insulina rritet. Ata veprojnë gjithmonë në drejtime të kundërta."
+  },
+  {
+    "id": "bio-sistemet-399",
+    "question": "Një pacient ka të dëmtuar qelizat beta, të ishujve të Langerhansit në pankreas. Si do të ndikojë kjo ngjarje në nivelin e sheqerit në gjak?",
+    "answers": [
+      "Glicemia do të ulet",
+      "Glicemia do të mbahet në normë",
+      "Glicemia nuk varet nga qelizat beta",
+      "Glicemia do të rritet"
+    ],
+    "correct": 3,
+    "explanation": "Qelizat beta prodhojnë insulinën, hormonin e vetëm që e ul gliceminë. Pa to sheqeri qëndron i lartë — kjo është diabeti i tipit 1."
+  },
+  {
+    "id": "bio-sistemet-400",
+    "question": "Në cilat nga pohimet e mëposhtme jepet më i plotë funksioni i testosteronit?",
+    "answers": [
+      "Të formojë rrugët gjenitale ♂",
+      "Të formojë rrugët gjenitale ♂ + spermatogjenezë",
+      "Të formojë rrugët gjenitale ♂ + spermatogjenezë + muskulaturë skeleti",
+      "Të formojë rrugët gjenitale ♂ + spermatogjenezë + tipare dytësore"
+    ],
+    "correct": 3,
+    "explanation": "Testosteroni bën tri gjëra: formon rrugët gjenitale, nxit spermatogjenezën dhe zhvillon tiparet DYTËSORE seksuale (zë i trashë, qime, muskulaturë). Alternativa D është më gjithëpërfshirësja, sepse muskulatura përfshihet te tiparet dytësore."
+  }
+]

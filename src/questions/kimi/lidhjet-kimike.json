@@ -1,1 +1,2282 @@
-[]
+[
+  {
+    "id": "kimi-lidhjet-stekiometria-001",
+    "question": "Lidhja që realizohet midis joneve të metalit dhe elektroneve të lira quhet lidhje:",
+    "answers": [
+      "bashkërenditëse",
+      "jonike",
+      "kovalente",
+      "metalike"
+    ],
+    "correct": 3,
+    "explanation": "Lidhja metalike formohet nga jonet pozitive të metalit të renditura në një rrjetë kristalore, të rrethuara nga një 're' elektronesh të lira që lëvizin lirshëm mes tyre."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-002",
+    "question": "Sa lidhje kimike formon atomi qendror në molekulën e CCl4?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Karboni ka 4 elektrone valentore dhe formon 4 lidhje σ me 4 atomet e klorit, duke arritur strukturën tetraedrike."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-003",
+    "question": "Një lidhje kovalente është aq më e dobët, sa më e madhe të jetë:",
+    "answers": [
+      "zona e mbulimit",
+      "energjia e lidhjes",
+      "gjatësia e lidhjes",
+      "afërsia e bërthamave të atomeve"
+    ],
+    "correct": 2,
+    "explanation": "Sa më e gjatë të jetë lidhja, aq më e dobët është ajo, sepse mbulimi i orbitaleve dhe forca e tërheqjes ndërmjet bërthamave zvogëlohen me largimin e atomeve."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-004",
+    "question": "Cila nga molekulat e mëposhtme ka lidhje dyfishe?",
+    "answers": [
+      "CS2",
+      "NH3",
+      "C4H10",
+      "C3H7OH"
+    ],
+    "correct": 0,
+    "explanation": "CS2 (S=C=S) ka dy lidhje dyfishe C=S. NH3, C4H10 dhe C3H7OH janë përbërje me vetëm lidhje njëfishe (të ngopura)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-005",
+    "question": "Lidhja kimike e cila formohet midis atomit me formulë elektronike 1s²2s²2p⁶3s¹ dhe atomit me formulë elektronike 1s²2s²2p⁶3s²3p⁵ është:",
+    "answers": [
+      "jonike",
+      "bashkërenditëse",
+      "kovalente polare",
+      "kovalente jopolare"
+    ],
+    "correct": 0,
+    "explanation": "Konfigurimi i parë i përket natriumit (grupi IA, metal), i dyti klorit (grupi VIIA, jometall). Metal + jometall me ndryshim të madh elektronegativiteti → lidhje jonike."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-006",
+    "question": "Referuar forcave të bashkëveprimit ndërmolekular, forcat e Van der Valsit në krahasim me forcat e lidhjes kovalente, jonike dhe ato bashkërenditëse, janë:",
+    "answers": [
+      "të njëjta",
+      "më të forta",
+      "shumë më të forta",
+      "shumë të dobëta"
+    ],
+    "correct": 3,
+    "explanation": "Forcat ndërmolekulare (Van der Waals) janë dukshëm më të dobëta se lidhjet kimike të mirëfillta (kovalente, jonike, bashkërenditëse), të cilat veprojnë brenda vetë molekulës."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-007",
+    "question": "Cila nga përbërjet formon lidhje hidrogjenore midis molekulave të saj?",
+    "answers": [
+      "HCl",
+      "CH3Cl",
+      "C2H5OH",
+      "CH3-O-CH3"
+    ],
+    "correct": 2,
+    "explanation": "Lidhja hidrogjenore kërkon H të lidhur direkt me N, O ose F. Vetëm C2H5OH (etanoli) ka grup O-H, prandaj formon lidhje hidrogjenore mes molekulave të veta. HCl, CH3Cl dhe eteri CH3OCH3 nuk kanë H të lidhur me atom shumë elektronegativ e të vogël."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-008",
+    "question": "Me atomin e cilit element, atomi i bromit formon molekulë me lidhje kovalente?",
+    "answers": [
+      "Li",
+      "K",
+      "Ca",
+      "H"
+    ],
+    "correct": 3,
+    "explanation": "Li, K dhe Ca janë metale që me bromin (jometal) formojnë lidhje jonike. Hidrogjeni, si jometal, formon me bromin lidhje kovalente (HBr)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-009",
+    "question": "Renditja e molekulave sipas rritjes së pikës së vlimit është:",
+    "answers": [
+      "Cl2, Br2, I2, F2",
+      "Br2, I2, F2, Cl2",
+      "F2, Cl2, Br2, I2",
+      "I2, Br2, Cl2, F2"
+    ],
+    "correct": 2,
+    "explanation": "Pika e vlimit e halogjeneve rritet me rritjen e masës molekulare (rritje e forcave të Londonit): F2 < Cl2 < Br2 < I2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-010",
+    "question": "Për të përcaktuar karakterin e një lidhjeje kimike, mund të bazohemi tek:",
+    "answers": [
+      "gjeometria e molekulës",
+      "ndryshimi i elektronegativitetit të atomeve që lidhen",
+      "gjeometria e molekulës dhe elektronegativiteti i atomeve",
+      "kapaciteti i molekulës për të formuar lidhje hidrogjenore"
+    ],
+    "correct": 1,
+    "explanation": "Karakteri i lidhjes (jonike, kovalente polare apo jopolare) përcaktohet nga ndryshimi i elektronegativitetit mes atomeve që lidhen."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-011",
+    "question": "Cili nga pohimet NUK është i saktë?",
+    "answers": [
+      "Cl2 ka lidhje kovalente jopolare",
+      "CaF2 ka lidhje kovalente",
+      "KCl ka lidhje jonike",
+      "NH3 ka lidhje kovalente polare"
+    ],
+    "correct": 1,
+    "explanation": "CaF2 formohet nga metali Ca dhe jometali F me ndryshim të madh elektronegativiteti, prandaj ka lidhje jonike, jo kovalente. Pohimet e tjera janë të sakta."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-012",
+    "question": "Cili nga pohimet është i saktë?",
+    "answers": [
+      "Zona e mbulimit të orbitaleve është e vogël gjatë formimit të lidhjes σ",
+      "Lidhja σ është më e dobët dhe më pak e qëndrueshme se lidhja π",
+      "Lidhja σ realizohet nga mbulimi anësor i orbitaleve py-py dhe pz-pz",
+      "Energjia e çliruar gjatë formimit të lidhjes σ është më e madhe se energjia e çliruar gjatë formimit të lidhjes π"
+    ],
+    "correct": 3,
+    "explanation": "Lidhja σ formohet nga mbulim ballor (jo anësor) i orbitaleve, ka zonë mbulimi më të madhe dhe është më e fortë e më e qëndrueshme se lidhja π, prandaj gjatë formimit të saj çlirohet më shumë energji."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-013",
+    "question": "Moment dipolar të ndryshëm nga 0 ka molekula:",
+    "answers": [
+      "BF3",
+      "CCl4",
+      "Cl2",
+      "PCl3"
+    ],
+    "correct": 3,
+    "explanation": "BF3 (trekëndore rrafshore) dhe CCl4 (tetraedrike) janë simetrike dhe jopolare, Cl2 është homonukleare. PCl3 ka formë piramidale (çift vetjak te P), asimetrike, prandaj ka moment dipolar të ndryshëm nga zero."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-014",
+    "question": "Nga komponimet e mëposhtme, NUK mund të formojë lidhje hidrogjenore me ujin:",
+    "answers": [
+      "HF",
+      "NH3",
+      "C3H8",
+      "CH3OH"
+    ],
+    "correct": 2,
+    "explanation": "C3H8 (propani) nuk ka atome N, O ose F të lidhura me H, as çifte vetjake të përshtatshme, prandaj nuk formon lidhje hidrogjenore me ujin. HF, NH3 dhe CH3OH e formojnë lehtësisht."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-015",
+    "question": "Tretshmërinë më të lartë në ujë e ka:",
+    "answers": [
+      "I2",
+      "NH3",
+      "PH3",
+      "CH4"
+    ],
+    "correct": 1,
+    "explanation": "NH3 është shumë polar dhe formon lidhje hidrogjenore të forta me ujin (si dhurues ashtu edhe pranues), prandaj ka tretshmëri shumë të lartë. I2 dhe CH4 janë jopolarë, PH3 formon lidhje hidrogjenore shumë më të dobëta se NH3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-016",
+    "question": "Cila prej grimcave mund të formojë lidhje bashkërenditëse?",
+    "answers": [
+      "H+",
+      "Na+",
+      "H",
+      "K+"
+    ],
+    "correct": 0,
+    "explanation": "Lidhja bashkërenditëse (koordinative) formohet kur një grimcë me orbital bosh (pranues) pranon një çift elektronesh nga një dhurues. H+ (protoni) nuk ka elektrone dhe orbital bosh, prandaj pranon lehtësisht çiftin e vetjak (p.sh. në formimin e NH4+)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-017",
+    "question": "Një nga lidhjet e mëposhtme është më polare:",
+    "answers": [
+      "H-I",
+      "N-H",
+      "H-Cl",
+      "H-Br"
+    ],
+    "correct": 1,
+    "explanation": "Polariteti rritet me ndryshimin e elektronegativitetit: N-H (3.07-2.1=0.97) ka ndryshimin më të madh krahasuar me H-I (0.3), H-Cl (0.9) dhe H-Br (0.7)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-018",
+    "question": "Në molekulën e butanit atomet e karbonit janë:",
+    "answers": [
+      "të gjitha të hibridizimit sp3",
+      "të gjitha të hibridizimit sp2",
+      "të gjitha të hibridizimit sp",
+      "dy atome karboni të hibridizimit sp2 dhe dy të hibridizimit sp3"
+    ],
+    "correct": 0,
+    "explanation": "Butani (C4H10) është alkan i ngopur, me vetëm lidhje njëfishe C-C dhe C-H, prandaj të katër atomet e karbonit janë sp3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-019",
+    "question": "Forcat e Londonit janë më të mëdha midis molekulave:",
+    "answers": [
+      "Br2",
+      "Cl2",
+      "H2",
+      "N2"
+    ],
+    "correct": 0,
+    "explanation": "Forcat e Londonit rriten me rritjen e masës molekulare (numrit të elektroneve). Br2 (M≈160) ka masën më të madhe krahasuar me Cl2, H2 dhe N2, prandaj forcat e Londonit janë më të forta te Br2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-020",
+    "question": "Formimi i orbitalit molekular σ, si rezultat i mbulimit të orbitaleve atomike px-px, realizohet në molekulën:",
+    "answers": [
+      "HF",
+      "Br2",
+      "HBr",
+      "H2Se"
+    ],
+    "correct": 1,
+    "explanation": "Në Br2, të dy atomet kontribuojnë orbitale p (px) përgjatë boshtit të lidhjes, duke formuar lidhjen σ nga mbulimi p-p. Në HF, HBr dhe H2Se lidhja σ formohet nga mbulimi s-p (orbitali s i H me orbitalin p të atomit tjetër)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-021",
+    "question": "Në cilën nga përbërjet e mëposhtme karboni është i hibridizimit sp2?",
+    "answers": [
+      "C2H6",
+      "C2H4",
+      "C2H2",
+      "CO2"
+    ],
+    "correct": 1,
+    "explanation": "C2H4 (eteni) ka një lidhje dyfishe C=C, që kërkon hibridizim sp2. C2H6 është sp3 (vetëm lidhje njëfishe), C2H2 dhe CO2 janë sp (lidhje trefishe ose dy lidhje dyfishe)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-022",
+    "question": "Në molekulën e oksigjenit O2 formohen:",
+    "answers": [
+      "dy lidhje σ",
+      "dy lidhje π",
+      "një lidhje π dhe dy lidhje σ",
+      "një lidhje σ dhe një lidhje π"
+    ],
+    "correct": 3,
+    "explanation": "O2 ka lidhje dyfishe O=O, e përbërë nga një lidhje σ dhe një lidhje π."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-023",
+    "question": "Sipas modelit VSEPR, çfarë forme gjeometrike ka molekula OF2?",
+    "answers": [
+      "këndore",
+      "lineare",
+      "trekëndore",
+      "tetrakëndore"
+    ],
+    "correct": 0,
+    "explanation": "Atomi qendror O ka 2 çifte lidhëse (me F) dhe 2 çifte vetjake, duke i dhënë molekulës formë këndore, si tek uji."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-024",
+    "question": "Cila nga molekulat është polare dhe ka tretshmërinë më të lartë në ujë?",
+    "answers": [
+      "CH4",
+      "HCl",
+      "I2",
+      "NH3"
+    ],
+    "correct": 3,
+    "explanation": "NH3 është shumë polar dhe formon lidhje hidrogjenore të forta e të shumta me ujin, prandaj ka tretshmërinë më të lartë. CH4 dhe I2 janë jopolarë."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-025",
+    "question": "Orientimin hapësinor të orbitaleve e përcakton:",
+    "answers": [
+      "numri kuantik magnetik",
+      "numri kuantik spin",
+      "numri kuantik orbital",
+      "numri kuantik themelor"
+    ],
+    "correct": 0,
+    "explanation": "Numri kuantik magnetik (ml) përcakton orientimin hapësinor të orbitalit, numri themelor (n) përcakton nivelin energjetik, numri orbital (l) formën e orbitalit, dhe spini rrotullimin e elektronit."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-026",
+    "question": "Cila nga molekulat e përbërjeve të mëposhtme ka lidhje bashkërenditëse midis atomeve?",
+    "answers": [
+      "H2O",
+      "NH3",
+      "MgBr2",
+      "Al2Cl6"
+    ],
+    "correct": 3,
+    "explanation": "Al2Cl6 është dimer i AlCl3, ku dy atome klori 'urë' dhurojnë çiftin e tyre të vetjak te atomet e aluminit, duke formuar lidhje bashkërenditëse (koordinative) mes njësive AlCl3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-027",
+    "question": "Forma gjeometrike e jonit nitrat NO3- është:",
+    "answers": [
+      "lineare",
+      "tetraedrike",
+      "trekëndore",
+      "bipiramidë trekëndore"
+    ],
+    "correct": 2,
+    "explanation": "Joni nitrat ka atomin qendror N të rrethuar nga tre atome O pa çift vetjak në N, duke i dhënë formë trekëndore rrafshore (sp2)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-028",
+    "question": "Cili prej komponimeve NUK është jonik?",
+    "answers": [
+      "CaS",
+      "LiF",
+      "MgO",
+      "CF4"
+    ],
+    "correct": 3,
+    "explanation": "CaS, LiF dhe MgO formohen nga metal + jometal (lidhje jonike). CF4 formohet nga dy jometale (karbon dhe fluor), prandaj ka lidhje kovalente, jo jonike."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-029",
+    "question": "Cili nga pohimet është i saktë për sa i përket forcave të bashkëveprimit ndërmolekular dipol-dipol?",
+    "answers": [
+      "Janë forca shtytëse.",
+      "Janë forca më të forta ndërmolekulare.",
+      "Janë forca tërheqëse.",
+      "Forcat zvogëlohen me rritjen e madhësisë së dipoleve."
+    ],
+    "correct": 2,
+    "explanation": "Forcat dipol-dipol janë forca tërheqëse ndërmjet skajeve me ngarkesa të kundërta të molekulave polare. Ato nuk janë as shtytëse, as forcat më të forta ndërmolekulare (lidhja hidrogjenore është më e fortë), dhe rriten, jo zvogëlohen, me rritjen e dipolit."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-030",
+    "question": "Në përbërjet kovalente me masë molekulare të përafërt, renditja e forcave ndërmolekulare nga më e forta tek më e dobëta është:",
+    "answers": [
+      "hidrogjenore–London–dipol-dipol",
+      "London–dipol-dipol-hidrogjenore",
+      "hidrogjenore–dipol-dipol-London",
+      "dipol-dipol–hidrogjenore-London"
+    ],
+    "correct": 2,
+    "explanation": "Për masa molekulare të përafërta, lidhja hidrogjenore është më e forta, pasuar nga forcat dipol-dipol dhe në fund forcat e Londonit (më të dobëta, të pranishme në të gjitha molekulat)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-031",
+    "question": "Uji ka pikë vlimi relativisht shumë më të lartë se H2S edhe pse oksigjeni dhe squfuri bëjnë pjesë në të njëjtin grup të sistemit periodik, pasi:",
+    "answers": [
+      "këndi valentor te H2S është më i madh se te H2O",
+      "lidhja H-O është pak polare se lidhja S-H",
+      "oksigjeni është më pak elektronegativ se squfuri",
+      "midis molekulave të H2O veprojnë lidhje hidrogjenore, ndërsa midis molekulave të H2S jo"
+    ],
+    "correct": 3,
+    "explanation": "Oksigjeni është i vogël dhe shumë elektronegativ, prandaj midis molekulave të ujit formohen lidhje hidrogjenore të forta. Squfuri, më pak elektronegativ e më i madh, nuk mundëson lidhje hidrogjenore të ngjashme midis molekulave të H2S."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-032",
+    "question": "Sa çifte lidhëse (ÇL) dhe sa çifte vetjake (ÇV) ka gjithsej në molekulën e CF4?",
+    "answers": [
+      "4 ÇL dhe 12 ÇV",
+      "4 ÇV dhe 6 ÇL",
+      "4 ÇL dhe 8 ÇV",
+      "4 ÇV dhe 12 ÇL"
+    ],
+    "correct": 0,
+    "explanation": "Karboni formon 4 lidhje σ me florin (4 çifte lidhëse). Secili nga 4 atomet e F ka 3 çifte vetjake (4×3=12 ÇV gjithsej), pasi përdor vetëm 1 nga 4 çiftet e veta elektronike për lidhje."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-033",
+    "question": "Sa atome azot ka në 328 gram nitrat kalciumi, duke ditur se M[Ca(NO3)2]=164 g/mol?",
+    "answers": [
+      "6.02 x 10^23 atome",
+      "24.08 x 10^23 atome",
+      "18.06 x 10^23 atome",
+      "12.04 x 10^23 atome"
+    ],
+    "correct": 1,
+    "explanation": "n[Ca(NO3)2] = 328/164 = 2 mol. Secila formulë njësi ka 2 atome N, pra 4 mol atome N. Numri i atomeve = 4 × 6.02×10²³ = 24.08×10²³."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-034",
+    "question": "Çfarë vëllimi do të zënë në kushte standarde 4.6 gram NO2?",
+    "answers": [
+      "2.4 litra",
+      "2.7 litra",
+      "4.2 litra",
+      "5.8 litra"
+    ],
+    "correct": 0,
+    "explanation": "M(NO2)=46 g/mol. n=4.6/46=0.1 mol. V=0.1×22.4=2.24 litra (≈2.4 litra)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-035",
+    "question": "Forma e të gjitha molekulave ku atomi qendror ka dy çifte lidhëse dhe dy çifte vetjake, është:",
+    "answers": [
+      "këndore",
+      "lineare",
+      "tetraedrike",
+      "piramidale"
+    ],
+    "correct": 0,
+    "explanation": "Dy çifte lidhëse dhe dy çifte vetjake rreth atomit qendror (si te H2O) japin formë molekulare këndore."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-036",
+    "question": "Këndi valentor i molekulave që kanë një atom qendror të rrethuar nga tre çifte lidhëse (pa çifte vetjake), është:",
+    "answers": [
+      "109.5°",
+      "120°",
+      "180°",
+      "104.5°"
+    ],
+    "correct": 1,
+    "explanation": "Tre çifte lidhëse pa çift vetjak japin gjeometri trekëndore rrafshore me kënd valentor 120°."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-037",
+    "question": "Lidhjet hidrogjenore midis molekulave janë më të forta te:",
+    "answers": [
+      "H2O",
+      "H2S",
+      "NH3",
+      "HCl"
+    ],
+    "correct": 0,
+    "explanation": "Oksigjeni është më elektronegativ dhe më i vogël se N, S dhe Cl (në këtë kontekst funksional), prandaj lidhjet hidrogjenore te H2O janë më të forta se te NH3, ndërsa H2S dhe HCl praktikisht nuk formojnë lidhje hidrogjenore të konsiderueshme."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-038",
+    "question": "Molekula e cila ka momentin dipolar të ndryshëm nga zero, është:",
+    "answers": [
+      "Cl2",
+      "BeCl2",
+      "CH4",
+      "H2S"
+    ],
+    "correct": 3,
+    "explanation": "Cl2 (homonukleare), BeCl2 (lineare) dhe CH4 (tetraedrike) janë simetrike dhe jopolare. H2S ka formë këndore (asimetrike), prandaj ka moment dipolar të ndryshëm nga zero."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-039",
+    "question": "Sa molare është tretësira e acidit nitrik me përqendrim 15.55% dhe dendësi 1.09 g/ml?",
+    "answers": [
+      "3 M",
+      "2.7 M",
+      "2.5 M",
+      "2.25 M"
+    ],
+    "correct": 1,
+    "explanation": "C(M) = (10 × %C × ρ) / M = (10 × 15.55 × 1.09) / 63 ≈ 2.7 M."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-040",
+    "question": "Çfarë trysnie do të ketë një bombël me vëllim 81 litra, nëse ka brenda 15 mol O2 në temperaturën 25°C (R=0.082)?",
+    "answers": [
+      "4.00 atm",
+      "4.58 atm",
+      "4.80 atm",
+      "45.8 atm"
+    ],
+    "correct": 1,
+    "explanation": "P = nRT/V = (15 × 0.082 × 298) / 81 ≈ 4.5-4.6 atm, më afër 4.58 atm."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-041",
+    "question": "Fluori jep me klorin një përbërje që përmban 61.6% fluor. Formula molekulare e përbërjes është:",
+    "answers": [
+      "ClF3",
+      "Cl2F",
+      "Cl3F",
+      "ClF6"
+    ],
+    "correct": 0,
+    "explanation": "Për ClF3: M=35.5+3×19=92.5 g/mol; %F=(3×19)/92.5=61.6%, që përputhet saktësisht me të dhënën."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-042",
+    "question": "Cila nga plehrat kimike përmban përqindjen më të lartë të azotit?",
+    "answers": [
+      "N2H4CO (M=60g/mol)",
+      "NH4NH3 (M=35g/mol)",
+      "(NH4)2SO4 (M=132g/mol)",
+      "NaNO3 (M=85g/mol)"
+    ],
+    "correct": 1,
+    "explanation": "Duke llogaritur %N = (masa N)/(M) × 100: N2H4CO≈46.7%, (NH4)2SO4≈21.2%, NaNO3≈16.5%, ndërsa te opsioni me M=35g/mol (2 atome N, 7 atome H) %N=28/35=80%, përqindja më e lartë."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-043",
+    "question": "Nga bashkëveprimi i amoniakut me oksigjenin (NH3 + O2 → NO + H2O) u përftua 120 gr NO. Numri i moleve dhe masa e amoniakut e oksigjenit që kanë hyrë në reaksion janë:",
+    "answers": [
+      "2 mole NH3, 1 mol O2 dhe 34 gram NH3, 32 gram O2",
+      "3 mole NH3, 2 mol O2 dhe 51 gram NH3, 64 gram O2",
+      "4 mole NH3, 5 mol O2 dhe 68 gram NH3, 160 gram O2",
+      "5 mole NH3, 3 mol O2 dhe 85 gram NH3, 96 gram O2"
+    ],
+    "correct": 2,
+    "explanation": "Barazimi i balancuar: 4NH3+5O2→4NO+6H2O. n(NO)=120/30=4 mol → nevojiten 4 mol NH3 (68g) dhe 5 mol O2 (160g)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-044",
+    "question": "Përqendrimi molar i joneve në tretësirën 0.1M të BaCl2 është:",
+    "answers": [
+      "për jonet Ba2+ 0.1 M dhe jonet Cl- 0.2 M",
+      "për jonet Cl- 0.1 M dhe jonet Ba2+ 0.2 M",
+      "për jonet Ba2+ 0.2 M dhe jonet Cl- 0.4 M",
+      "për jonet Cl- 0.2 M dhe jonet Ba2+ 0.4 M"
+    ],
+    "correct": 0,
+    "explanation": "BaCl2 → Ba2+ + 2Cl-. Nga 0.1M BaCl2 përftohen 0.1M Ba2+ dhe 0.2M Cl- (dyfishi, sipas koeficientit stekiometrik)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-045",
+    "question": "Gjeni molaritetin e një tretësire prej 2 litra ujë dhe 51 gram sodë, NaHCO3 (M=84 g/mol).",
+    "answers": [
+      "0.3 M",
+      "0.9 M",
+      "0.03 M",
+      "0.09 M"
+    ],
+    "correct": 0,
+    "explanation": "n(NaHCO3)=51/84≈0.607 mol. M=0.607/2≈0.3 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-046",
+    "question": "Njehsoni përqendrimin molar të NaOH në tretësirë, kur ai është 26%, dhe dendësia 1.08 g/ml (M=40).",
+    "answers": [
+      "8 mol/litër",
+      "7 mol/litër",
+      "6 mol/litër",
+      "5 mol/litër"
+    ],
+    "correct": 1,
+    "explanation": "C(M)=(10×26×1.08)/40=280.8/40=7.02≈7 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-047",
+    "question": "Tretësira e NaOH me përqendrim 15% dhe dendësi 1.08 g/ml, përqendrimi molar i saj është:",
+    "answers": [
+      "1 M",
+      "2 M",
+      "3 M",
+      "4 M"
+    ],
+    "correct": 3,
+    "explanation": "C(M)=(10×15×1.08)/40=162/40=4.05≈4 M."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-048",
+    "question": "Një aliazh përmban 75% Ni, 12% Fe, 11% Cr, 2% Mn në masë. Nëse kemi 250 g Ni, sa gram Fe gjenden në aliazh?",
+    "answers": [
+      "20.7g",
+      "30.2g",
+      "39.9g",
+      "50.0g"
+    ],
+    "correct": 2,
+    "explanation": "Masa totale e aliazhit = 250/0.75 ≈ 333.3g. Masa Fe = 0.12×333.3 ≈ 40g, që përputhet me 39.9g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-049",
+    "question": "Tretësira e një substance, me përqendrim 8.75%, ka dendësinë 1.08 g/ml dhe përqendrimin molar 1.8 M. Masa molare e saj është:",
+    "answers": [
+      "51.3 g/mol",
+      "51.0 g/mol",
+      "50.7 g/mol",
+      "52.5 g/mol"
+    ],
+    "correct": 3,
+    "explanation": "M = (10×%C×ρ)/C(M) = (10×8.75×1.08)/1.8 = 94.5/1.8 = 52.5 g/mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-050",
+    "question": "Klorur hekuri (III) prodhohet nga veprimi i 5.6 gram Fe me 7.1 gram Cl2. Sasia e klorurit të hekurit të prodhuar është:",
+    "answers": [
+      "10.7 gram",
+      "14.3 gram",
+      "14.8 gram",
+      "16.1 gram"
+    ],
+    "correct": 0,
+    "explanation": "n(Fe)=0.1mol, n(Cl2)=0.1mol. Reaksioni 2Fe+3Cl2→2FeCl3 kërkon raport 2:3; Cl2 është reagenti kufizues. Nga 0.1mol Cl2 përftohen 0.0667mol FeCl3 (M=162.5) ≈ 10.7 gram."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-051",
+    "question": "Sa molare është tretësira kur në 500 ml të saj janë tretur 0.25 mole NaCl?",
+    "answers": [
+      "0.6 mol/l",
+      "0.5 mol/l",
+      "0.7 mol/l",
+      "0.8 mol/l"
+    ],
+    "correct": 1,
+    "explanation": "M = n/V = 0.25/0.5 = 0.5 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-052",
+    "question": "Për të përgatitur 400ml tretësirë 0.5 M të acidit HCl, sa gram acid nevojiten?",
+    "answers": [
+      "5.00 g",
+      "5.50 g",
+      "6.00 g",
+      "7.30 g"
+    ],
+    "correct": 3,
+    "explanation": "n=0.4×0.5=0.2 mol; masa=0.2×36.5=7.3g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-053",
+    "question": "Tretësira me C%=7.5% dhe dendësi 1.18 g/ml e H2SO4 (M=98g/mol) e ka përqendrimin molar:",
+    "answers": [
+      "0.6 M",
+      "0.8 M",
+      "0.7 M",
+      "0.9 M"
+    ],
+    "correct": 3,
+    "explanation": "C(M)=(10×7.5×1.18)/98≈0.9 M."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-054",
+    "question": "Njehsoni numrin e moleve të gazit që ndodhen në një enë me vëllim 55 litër, në trysni 2×10² kPa, në temperaturë 67°C (R=0.082).",
+    "answers": [
+      "2.60",
+      "3.94",
+      "3.50",
+      "3.74"
+    ],
+    "correct": 1,
+    "explanation": "T=340K, P≈1.97 atm (200 kPa). n=PV/RT=(1.97×55)/(0.082×340)≈3.9 mol, më afër 3.94."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-055",
+    "question": "Nëse 500 ml tretësirë përgatitet nga 17 g NaNO3 (M=85g/mol), molariteti i tretësirës do të jetë:",
+    "answers": [
+      "0.1M",
+      "0.3M",
+      "0.4M",
+      "1.0M"
+    ],
+    "correct": 2,
+    "explanation": "n=17/85=0.2 mol; M=0.2/0.5=0.4 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-056",
+    "question": "Sa gram klorur kaliumi nevojiten për të përgatitur 300g tretësirë me përqendrim 5%?",
+    "answers": [
+      "18g",
+      "20g",
+      "15g",
+      "17g"
+    ],
+    "correct": 2,
+    "explanation": "Masa KCl = 300×0.05 = 15g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-057",
+    "question": "Cila prej alternativave paraqet formulën e saktë të oksidit të azotit kur ai kombinohet me maksimumin e sasisë së oksigjenit?",
+    "answers": [
+      "XO4",
+      "XO3",
+      "X2O5",
+      "X2O7"
+    ],
+    "correct": 2,
+    "explanation": "Gjendja më e lartë e oksidimit e azotit është +5, që korrespondon me oksidin N2O5 (X2O5)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-058",
+    "question": "Formula e përbërjes sulfat amoni është:",
+    "answers": [
+      "NH4SO4",
+      "(NH4)2SO4",
+      "NH4(SO4)2",
+      "(NH4)2(SO4)2"
+    ],
+    "correct": 1,
+    "explanation": "Dy jone NH4+ (ngarkesë +1) nevojiten për të balancuar një jon SO4^2- (ngarkesë -2): (NH4)2SO4."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-059",
+    "question": "Formulat njësi për kripërat e formuara nga K+ + PO4^3- dhe Li+ + SO4^2- janë:",
+    "answers": [
+      "K3PO4 dhe Li2SO4",
+      "K2PO4 dhe LiSO4",
+      "K PO4 dhe Li2SO4",
+      "K(PO4)3 dhe Li SO4"
+    ],
+    "correct": 0,
+    "explanation": "Për balancimin e ngarkesave: 3 K+ me 1 PO4^3- (K3PO4) dhe 2 Li+ me 1 SO4^2- (Li2SO4)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-060",
+    "question": "Cila nga formulat kimike të mëposhtme tregon raportin e saktë midis joneve Ba2+ dhe NO3-?",
+    "answers": [
+      "BaNO3",
+      "Ba2NO3",
+      "Ba(NO3)2",
+      "Ba3(NO3)2"
+    ],
+    "correct": 2,
+    "explanation": "Për të balancuar ngarkesën +2 të Ba2+ nevojiten dy jone NO3- (ngarkesë -1 secili): Ba(NO3)2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-061",
+    "question": "Raporti i atomeve magnez : azot në përbërjen nitrur magnezi është:",
+    "answers": [
+      "1 : 1",
+      "2 : 2",
+      "3 : 3",
+      "3 : 2"
+    ],
+    "correct": 3,
+    "explanation": "Mg është +2 dhe N është -3. Për të balancuar ngarkesat: 3Mg²⁺ (+6) me 2N³⁻ (-6) → Mg3N2, pra raporti Mg:N = 3:2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-062",
+    "question": "Cilat janë numrat e oksidimit të N në oksidet e tij?",
+    "answers": [
+      "+2, +4",
+      "+2, +4, +6",
+      "+1, +2, +3, +4, +5",
+      "+2, +4, +5"
+    ],
+    "correct": 2,
+    "explanation": "Oksidet e azotit përfshijnë N2O(+1), NO(+2), N2O3(+3), NO2(+4), N2O5(+5), pra numrat e oksidimit variojnë nga +1 deri +5."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-063",
+    "question": "Formula e saktë e përbërjes fosfat magnezi është:",
+    "answers": [
+      "Mg(PO4)2",
+      "MgPO4",
+      "Mg3(PO4)2",
+      "Mg2PO4"
+    ],
+    "correct": 2,
+    "explanation": "Mg²⁺ dhe PO4³⁻ balancohen si 3Mg²⁺ (+6) me 2PO4³⁻ (-6): Mg3(PO4)2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-064",
+    "question": "Sa është numri i oksidimit të squfurit në komponimin Fe2(SO4)3·3H2O?",
+    "answers": [
+      "-2",
+      "+3",
+      "+4",
+      "+6"
+    ],
+    "correct": 3,
+    "explanation": "Në jonin sulfat SO4²⁻, oksigjeni ka gjendje -2 (4×(-2)=-8); që ngarkesa totale të jetë -2, squfuri duhet të ketë gjendje oksidimi +6."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-065",
+    "question": "Sa është numri i përgjithshëm i elektroneve në jonet e klorurit të natriumit?",
+    "answers": [
+      "Jon natriumi=11; jon klorur=17",
+      "Jon natriumi=8; jon klorur=8",
+      "Jon natriumi=11; jon klorur=18",
+      "Jon natriumi=10; jon klorur=18"
+    ],
+    "correct": 3,
+    "explanation": "Na (Z=11) humbet 1 elektron duke formuar Na⁺ me 10 elektrone. Cl (Z=17) fiton 1 elektron duke formuar Cl⁻ me 18 elektrone."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-066",
+    "question": "Cila prej formulave të mëposhtme NUK është e saktë?",
+    "answers": [
+      "SiH4",
+      "PH3",
+      "MgH",
+      "HF"
+    ],
+    "correct": 2,
+    "explanation": "Mg është +2 dhe H (si hidrid) është -1, prandaj formula e saktë duhet të jetë MgH2 (jo MgH), për të balancuar ngarkesat. SiH4, PH3 dhe HF janë të sakta."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-067",
+    "question": "Cila prej substancave të mëposhtme digjet duke formuar dioksid squfuri?",
+    "answers": [
+      "Sulfat magnezi",
+      "Squfur",
+      "Trioksidi i squfurit",
+      "Acidi sulfurik"
+    ],
+    "correct": 1,
+    "explanation": "Squfuri elementar digjet në oksigjen sipas reaksionit S + O2 → SO2. Substancat e tjera janë tashmë të oksiduara/kripëra dhe nuk 'digjen' në këtë kuptim."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-068",
+    "question": "Formulat e sakta të sulfatit të hekurit (III) dhe sulfurit të hekurit (III) janë:",
+    "answers": [
+      "FeSO4 dhe FeS",
+      "Fe(SO4)3 dhe FeS3",
+      "Fe2(SO4)3 dhe Fe2S3",
+      "Fe3SO4 dhe Fe2S3"
+    ],
+    "correct": 2,
+    "explanation": "Fe³⁺ balancohet me SO4²⁻: 2Fe³⁺(+6) me 3SO4²⁻(-6) → Fe2(SO4)3. Fe³⁺ balancohet me S²⁻: 2Fe³⁺(+6) me 3S²⁻(-6) → Fe2S3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-069",
+    "question": "Cili nga kombinimet emërtim-formulë kimike është i saktë?",
+    "answers": [
+      "sulfit kaliumi - K2S",
+      "karbonat natriumi - NaCO3",
+      "nitrat magnezi - MgNO3",
+      "fosfat kalciumi - Ca3(PO4)2"
+    ],
+    "correct": 3,
+    "explanation": "Ca²⁺ balancohet me PO4³⁻ si 3Ca²⁺ me 2PO4³⁻: Ca3(PO4)2 — i saktë. K2S është sulfur kaliumi (jo sulfit), Na2CO3 (jo NaCO3) është karbonat natriumi, Mg(NO3)2 (jo MgNO3) është nitrat magnezi."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-070",
+    "question": "Cili nga kombinimet emërtim-formulë kimike NUK është i saktë?",
+    "answers": [
+      "sulfit kaliumi - K2S",
+      "karbonat natriumi - Na2CO3",
+      "nitrat magnezi - Mg(NO3)2",
+      "fosfat kalciumi - Ca3(PO4)2"
+    ],
+    "correct": 0,
+    "explanation": "K2S është formula e sulfurit të kaliumit, jo e sulfitit (sulfiti do të ishte K2SO3). Kombinimet e tjera janë të sakta."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-071",
+    "question": "Përziejmë 44.8 litra oksigjen me 89.6 litra monoksid karboni, në kushte normale. Vëllimi i dioksidit të karbonit që përftohet, është:",
+    "answers": [
+      "44.8 l",
+      "89.6 l",
+      "112 l",
+      "22.4 l"
+    ],
+    "correct": 1,
+    "explanation": "2CO+O2→2CO2. n(O2)=2mol, n(CO)=4mol — raporti stekiometrik pikërisht 2:1 përputhet, të dy konsumohen plotësisht. Përftohen 4mol CO2 = 89.6 l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-072",
+    "question": "CaCO3 shpërbëhet me nxehtësi sipas CaCO3 = CaO + CO2. Sasia e CaCO3 nëse janë fituar 44.8 l CO2 (K.N.) është:",
+    "answers": [
+      "200 gr",
+      "150 gr",
+      "250 gr",
+      "270 gr"
+    ],
+    "correct": 0,
+    "explanation": "n(CO2)=44.8/22.4=2mol. Raporti 1:1 me CaCO3, pra n(CaCO3)=2mol; masa=2×100=200g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-073",
+    "question": "Një substancë përmban 6.02×10²³ atome hidrogjen, 6.02×10²³ atome azot dhe 18.06×10²³ atome oksigjen. Formula empirike e substancës është:",
+    "answers": [
+      "H2NO3",
+      "HNO3",
+      "HNO2",
+      "H2NO2"
+    ],
+    "correct": 1,
+    "explanation": "n(H)=1mol, n(N)=1mol, n(O)=3mol (18.06/6.02=3). Raporti H:N:O=1:1:3, pra formula empirike HNO3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-074",
+    "question": "Cilët nga pohimet e mëposhtme janë të sakta për përbërjen Ca3(PO4)2 (M=310 g/mol)?",
+    "answers": [
+      "I dhe II",
+      "I dhe III",
+      "I, II dhe III",
+      "I, III dhe IV"
+    ],
+    "correct": 1,
+    "explanation": "I: 1 formulë njësi ka 3+2+8=13 atome, pra 1mol=13mol atome (e vërtetë). III: masa molare 310g/mol siç jepet (e vërtetë). II: formula njësi ka 8 atome oksigjen, jo 4 (e gabuar). IV: 0.5mol ka 1.5mol-atome kalcium, jo 3 (e gabuar)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-075",
+    "question": "Formulat e sakta të sulfatit të bakrit (II) dhe sulfurit të bakrit (I) janë:",
+    "answers": [
+      "CuSO4 dhe CuS",
+      "Cu(SO4)2 dhe CuS2",
+      "Cu2(SO4) dhe Cu2S2",
+      "CuSO4 dhe Cu2S"
+    ],
+    "correct": 3,
+    "explanation": "Cu²⁺ me SO4²⁻ balancohet 1:1 → CuSO4. Cu⁺ me S²⁻ balancohet 2:1 (2Cu⁺=+2, S²⁻=-2) → Cu2S."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-076",
+    "question": "Përbërjet e mundshme midis jonit të elementit X (Z=13, alumin) dhe joneve sulfat SO4²⁻ dhe nitrat NO3⁻ janë:",
+    "answers": [
+      "X2SO4 dhe XNO3",
+      "X2(SO4)3 dhe X(NO3)2",
+      "X(SO4)2 dhe XNO3",
+      "X2(SO4)3 dhe X(NO3)3"
+    ],
+    "correct": 3,
+    "explanation": "X (Z=13, Al) formon jonin X³⁺. Me SO4²⁻: 2X³⁺(+6) me 3SO4²⁻(-6) → X2(SO4)3. Me NO3⁻: 1X³⁺(+3) me 3NO3⁻(-3) → X(NO3)3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-077",
+    "question": "Molekula që e ka këndin valentor më të madh është:",
+    "answers": [
+      "BCl3",
+      "CH4",
+      "H2O",
+      "PH3"
+    ],
+    "correct": 0,
+    "explanation": "BCl3 ka formë trekëndore rrafshore me kënd 120°, më i madh se 109.5° i CH4 (tetraedrike), 104.5° i H2O (këndore) dhe ~93° i PH3 (piramidale)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-078",
+    "question": "Në cilën nga përbërjet, forcat ndërmolekulare të Van der Valsit janë më të forta?",
+    "answers": [
+      "PH3",
+      "H2S",
+      "H2Se",
+      "H2Te"
+    ],
+    "correct": 3,
+    "explanation": "Forcat e Van der Waals (Londonit) rriten me rritjen e masës molekulare. H2Te (M≈129.6) ka masën më të madhe krahasuar me PH3, H2S dhe H2Se, prandaj forcat janë më të forta."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-079",
+    "question": "Në cilën prej molekulave ndodhen gjashtë zona me ngarkesë negative rreth atomit qendror dhe këndet e lidhjes janë 90 gradë?",
+    "answers": [
+      "Al2Cl6",
+      "BF3",
+      "SF6",
+      "PCl5"
+    ],
+    "correct": 2,
+    "explanation": "SF6 ka 6 çifte lidhëse rreth S (gjeometri oktaedrike), me kënde lidhjeje 90°."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-080",
+    "question": "Formë gjeometrike bipiramidë trekëndore ka molekula:",
+    "answers": [
+      "BCl3",
+      "BeCl2",
+      "PCl3",
+      "PCl5"
+    ],
+    "correct": 3,
+    "explanation": "PCl5 ka 5 çifte lidhëse pa çift vetjak rreth P, duke i dhënë formë bipiramidë trekëndore (hibridizim sp3d)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-081",
+    "question": "Përbërja e hidrogjenuar që ka pikën e vlimit më të lartë, është:",
+    "answers": [
+      "H2S",
+      "H2Se",
+      "H2O",
+      "H2Te"
+    ],
+    "correct": 2,
+    "explanation": "Uji formon lidhje hidrogjenore të forta midis molekulave, çka i jep pikë vlimi anomalisht të lartë krahasuar me H2S, H2Se dhe H2Te, ku mungon lidhja hidrogjenore e fortë."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-082",
+    "question": "Molekula e një përbërjeje kimike shkruhet AB2, ku A si atom qendror nuk ka çift vetjak, është:",
+    "answers": [
+      "polare/këndore",
+      "jopolare/lineare",
+      "polare/trekëndore",
+      "jopolare/tetraedrike"
+    ],
+    "correct": 1,
+    "explanation": "Pa çift vetjak dhe me dy grupe identike B, molekula AB2 ka formë lineare dhe simetrike, prandaj dipolet anulohen — jopolare."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-083",
+    "question": "YCl3 është molekulë planare trekëndore. Në cilin grup të sistemit periodik bën pjesë elementi Y?",
+    "answers": [
+      "Gr.IA",
+      "Gr.IIA",
+      "Gr.IIIA",
+      "Gr.IVA"
+    ],
+    "correct": 2,
+    "explanation": "Forma trekëndore rrafshore pa çift vetjak në Y do të thotë se Y ka 3 elektrone valentore për 3 lidhje, pra i përket grupit IIIA (si B ose Al)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-084",
+    "question": "Molekula e një përbërjeje kimike shkruhet AB3. Atomi A nuk ka çift vetjak. Forma gjeometrike e saj është:",
+    "answers": [
+      "këndore",
+      "lineare",
+      "tetraedrike",
+      "trigonale"
+    ],
+    "correct": 3,
+    "explanation": "Tre çifte lidhëse pa çift vetjak në atomin qendror japin formë trigonale (trekëndore rrafshore)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-085",
+    "question": "Hibridizim sp2 të atomit qendror ka tek molekula:",
+    "answers": [
+      "C3H8",
+      "CH2Cl2",
+      "C3H6",
+      "C3H7Cl"
+    ],
+    "correct": 2,
+    "explanation": "C3H6 si propen ka lidhje dyfishe C=C, që kërkon hibridizim sp2. C3H8, CH2Cl2 dhe C3H7Cl janë përbërje të ngopura me karbon sp3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-086",
+    "question": "Cila nga molekulat e mëposhtme formon dipole të çastit dhe kalon nga gjendja e gaztë në atë të lëngët (K.N.), nëse dipoli induktohet nga njëra molekulë tek tjetra?",
+    "answers": [
+      "Br2",
+      "H2",
+      "I2",
+      "BeH2"
+    ],
+    "correct": 0,
+    "explanation": "Br2 është halogjeni i vetëm në gjendje të lëngët në kushte normale, pikërisht për shkak të forcave të Londonit (dipole të çastit të induktuara) mjaft të forta për shkak të re-së së madhe elektronike."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-087",
+    "question": "Molekulë polare është:",
+    "answers": [
+      "CO2",
+      "CCl4",
+      "CHCl3",
+      "C6H14"
+    ],
+    "correct": 2,
+    "explanation": "CHCl3 (kloroform) ka gjeometri tetraedrike jo simetrike (3 Cl + 1 H të ndryshëm), prandaj dipolet nuk anulohen — molekulë polare. CO2, CCl4 dhe C6H14 janë simetrike/jopolare."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-088",
+    "question": "Në cilën nga përbërjet e mëposhtme ka vetëm lidhje kovalente të formuara nga mbulimi boshtor i orbitaleve s-p?",
+    "answers": [
+      "N2",
+      "Br2",
+      "HI",
+      "KCl"
+    ],
+    "correct": 2,
+    "explanation": "Në HI, orbitali s i hidrogjenit mbulon boshtor orbitalin p të jodit, duke formuar lidhje σ s-p. N2 dhe Br2 formojnë lidhje p-p, ndërsa KCl është jonik."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-089",
+    "question": "Molekula me këndin valentor më të vogël është:",
+    "answers": [
+      "AlCl3",
+      "BeCl2",
+      "CCl4",
+      "NCl3"
+    ],
+    "correct": 3,
+    "explanation": "NCl3 ka formë piramidale me çift vetjak në N, që zvogëlon këndin nën 109.5° (~107°) — më i vogël se 120° i AlCl3, 180° i BeCl2 dhe 109.5° i CCl4."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-090",
+    "question": "Në molekulën e PCl5, atomi qendror i fosforit është hibridizuar sipas llojit:",
+    "answers": [
+      "sp2",
+      "sp3",
+      "sp3d1",
+      "sp3d2"
+    ],
+    "correct": 2,
+    "explanation": "PCl5 ka 5 çifte lidhëse rreth P, çka kërkon hibridizim sp3d (bipiramidë trekëndore)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-091",
+    "question": "Ndër çiftet e mëposhtme të molekulave, cili prej tyre është në rendin rritës të polaritetit?",
+    "answers": [
+      "H-Cl; H-H",
+      "H-H; H-Cl",
+      "Cl-Cl; Br-Br",
+      "Cl-Cl; F-F"
+    ],
+    "correct": 1,
+    "explanation": "H-H ka ndryshim elektronegativiteti 0 (jopolare), ndërsa H-Cl ka ndryshim 0.9 (polare). Radha H-H → H-Cl është rritëse. C dhe D krahasojnë vetëm molekula homonukleare (jopolare të dyja)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-092",
+    "question": "Njëra nga përbërjet e mëposhtme NUK e plotëson tetëshen elektronike:",
+    "answers": [
+      "CCl4",
+      "NH3",
+      "SiO2",
+      "BF3"
+    ],
+    "correct": 3,
+    "explanation": "BF3 ka vetëm 3 lidhje rreth borit (6 elektrone), duke lënë tetëshen e paplotësuar — shembulli klasik i mungesës së oktetit. CCl4, NH3 dhe SiO2 e plotësojnë tetëshen."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-093",
+    "question": "Duke ditur që beriliumi ndodhet në periodën 2, grupin IIA, kurse klori në periodën 3, grupin VIIA, forma gjeometrike e molekulës (BeCl2) do të jetë:",
+    "answers": [
+      "lineare",
+      "trekëndore",
+      "këndore",
+      "piramidë"
+    ],
+    "correct": 0,
+    "explanation": "Be ka 2 elektrone valentore, pa çift vetjak, formon 2 lidhje me Cl — gjeometri lineare (BeCl2)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-094",
+    "question": "Në cilën nga molekulat e mëposhtme, fortësia e lidhjes karbon-karbon është më e madhe?",
+    "answers": [
+      "CH4",
+      "C2H6",
+      "C2H2",
+      "C2H4"
+    ],
+    "correct": 2,
+    "explanation": "C2H2 ka lidhje trefishe C≡C, që është më e fortë dhe më e shkurtër se lidhja njëfishe (C2H6) ose dyfishe (C2H4). CH4 nuk ka fare lidhje C-C."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-095",
+    "question": "Renditja e joneve sipas madhësisë në zbritje është:",
+    "answers": [
+      "Cl-, K+, Ca2+, S2-",
+      "S2-, Cl-, K+, Ca2+",
+      "K+, Ca2+, Cl-, S2-",
+      "S2-, Ca2+, Cl-, K+"
+    ],
+    "correct": 1,
+    "explanation": "K+, Ca2+, Cl- dhe S2- janë izoelektronike me argonin (18 elektrone). Për grimca izoelektronike, madhësia zvogëlohet me rritjen e ngarkesës bërthamore: S2-(Z=16) > Cl-(Z=17) > K+(Z=19) > Ca2+(Z=20)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-096",
+    "question": "Sipas polaritetit në zbritje, lidhjet kimike (me hidrogjenin) renditen:",
+    "answers": [
+      "F–H; O–H; Cl–H; S–H; H–H",
+      "O–H; S–H; F–H; H–H; Cl–H",
+      "Cl–H; F–H; H–H; O–H; S–H",
+      "S–H; O–H; F–H; H–H; Cl–H"
+    ],
+    "correct": 0,
+    "explanation": "Ndryshimi i elektronegativitetit: F-H=1.9, O-H=1.4, Cl-H=0.9, S-H=0.4, H-H=0. Renditja zbritëse: F-H > O-H > Cl-H > S-H > H-H."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-097",
+    "question": "Një element i panjohur X ka shtatë elektrone në shtresën e tretë. Lidhja kimike që formon X me hidrogjenin është:",
+    "answers": [
+      "kovalente jopolare",
+      "kovalente polare",
+      "jonike",
+      "hidrogjenore"
+    ],
+    "correct": 1,
+    "explanation": "Konfigurimi 3s²3p⁵ me 7 elektrone valentore i përgjigjet klorit. HCl formohet nga dy jometale me ndryshim të moderuar elektronegativiteti — lidhje kovalente polare."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-098",
+    "question": "Sa litra dhe sa gram amoniak në kushte normale prodhohen nga bashkëveprimi i 29.6 gram hidroksid kalciumi (M=74) me klorurin e amonit?",
+    "answers": [
+      "9.68 l NH3 dhe 16.3 gr. NH3",
+      "17.92 l NH3 dhe 13.6 gr. NH3",
+      "6.72 l NH3 dhe 19.2 gr. NH3",
+      "2.24 l NH3 dhe 16.7 gr. NH3"
+    ],
+    "correct": 1,
+    "explanation": "Ca(OH)2+2NH4Cl→CaCl2+2NH3+2H2O. n(Ca(OH)2)=29.6/74=0.4mol → n(NH3)=0.8mol. V=0.8×22.4=17.92l; masa=0.8×17=13.6g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-099",
+    "question": "Sa litra dioksid karboni do të çlirohen nga veprimi i karbonatit të kalciumit me 200 ml tretësirë acidi nitrik 0.3 molare?",
+    "answers": [
+      "0.67 l CO2",
+      "6.07 l CO2",
+      "7.67 l CO2",
+      "7.06 l CO2"
+    ],
+    "correct": 0,
+    "explanation": "CaCO3+2HNO3→Ca(NO3)2+H2O+CO2. n(HNO3)=0.2×0.3=0.06mol → n(CO2)=0.03mol. V=0.03×22.4=0.672 l ≈0.67 l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-100",
+    "question": "Sa gram CaCl2 përftohet nga veprimi i 7.4 gram Ca(OH)2 me 3.65 gram HCl?",
+    "answers": [
+      "5.55 gr. CaCl2",
+      "55.5 gr. CaCl2",
+      "45.5 gr. CaCl2",
+      "55.4 gr. CaCl2"
+    ],
+    "correct": 0,
+    "explanation": "Ca(OH)2+2HCl→CaCl2+2H2O. n(Ca(OH)2)=0.1mol, n(HCl)=0.1mol — HCl është reagenti kufizues (kërkohen 0.2mol për 0.1mol Ca(OH)2). n(CaCl2)=0.1/2=0.05mol; masa=0.05×111=5.55g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-101",
+    "question": "Njehsoni rendimentin e reaksionit nëse vepron 89.6 l H2 (K.N) me karbonin dhe përftohet 25.6 gram CH4.",
+    "answers": [
+      "45%",
+      "60%",
+      "80%",
+      "70%"
+    ],
+    "correct": 2,
+    "explanation": "C+2H2→CH4. n(H2)=89.6/22.4=4mol → teorikisht n(CH4)=2mol (32g). Rendimenti=25.6/32×100=80%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-102",
+    "question": "Një përbërje përmban 52.17% karbon, 34.78% oksigjen dhe 13.04% hidrogjen. Formula empirike e përbërjes është:",
+    "answers": [
+      "C2H6O2",
+      "C2H4O",
+      "C2H6O",
+      "C2H4O2"
+    ],
+    "correct": 2,
+    "explanation": "Në 100g: mol C=52.17/12≈4.35, mol O=34.78/16≈2.17, mol H=13.04/1=13.04. Duke pjesëtuar me më të voglin (2.17): C≈2, O≈1, H≈6 → C2H6O."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-103",
+    "question": "Masa e ujit që duhet të shtohet në 100g tretësirë 36% HCl, që të përftohet tretësirë 10%, është:",
+    "answers": [
+      "36 g",
+      "100 g",
+      "260 g",
+      "360 g"
+    ],
+    "correct": 2,
+    "explanation": "Masa HCl (konstante) = 36g. (36)/(100+x)=0.10 → 100+x=360 → x=260g ujë i shtuar."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-104",
+    "question": "Cilët prej koeficientëve a, b, c dhe d janë koeficientët stekiometrikë të barazimit aCa(OH)2 + bH3PO4 → cCa3(PO4)2 + dH2O?",
+    "answers": [
+      "2, 3, 1, 6",
+      "2, 3, 3, 1",
+      "3, 2, 1, 6",
+      "2, 3, 6, 1"
+    ],
+    "correct": 2,
+    "explanation": "Barazimi i balancuar: 3Ca(OH)2+2H3PO4→Ca3(PO4)2+6H2O. Kontrollohet: Ca(3=3), P(2=2), O(6+8=14 majtas; 8+6=14 djathtas), H(6+6=12 majtas; 12 djathtas)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-105",
+    "question": "Formula molekulare e një alkeni, nëse 0.3 mol të tij kanë masën 21 gram, është:",
+    "answers": [
+      "C2H4",
+      "C3H6",
+      "C4H8",
+      "C5H10"
+    ],
+    "correct": 3,
+    "explanation": "M=21/0.3=70 g/mol. Alkenet kanë formulë CnH2n (M=14n). 14n=70 → n=5 → C5H10."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-106",
+    "question": "Tretësira e sulfatit të natriumit përmban 35.5 gram sulfat natriumi (M=142) në 200 ml të saj. Përqendrimi molar i saj është:",
+    "answers": [
+      "1.2M",
+      "1.25M",
+      "1.5M",
+      "2.5M"
+    ],
+    "correct": 1,
+    "explanation": "n=35.5/142=0.25mol. M=0.25/0.2=1.25 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-107",
+    "question": "Në 0.25 mol sulfat natriumi Na2SO4 sa jone sulfat ndodhen?",
+    "answers": [
+      "1.505×10^20",
+      "1.505×10^22",
+      "1.505×10^23",
+      "1.605×10^23"
+    ],
+    "correct": 2,
+    "explanation": "Raporti Na2SO4:SO4²⁻ është 1:1, pra n(SO4²⁻)=0.25mol. Numri i joneve = 0.25×6.02×10²³=1.505×10²³."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-108",
+    "question": "Në 0.25 mol sulfat natriumi Na2SO4 sa është numri i atomeve oksigjen?",
+    "answers": [
+      "3.01×10^23",
+      "6.02×10^23",
+      "6.08×10^23",
+      "6.02×10^20"
+    ],
+    "correct": 1,
+    "explanation": "Çdo formulë njësi Na2SO4 ka 4 atome O, pra n(O)=0.25×4=1mol. Numri i atomeve = 1×6.02×10²³=6.02×10²³."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-109",
+    "question": "Molekulë polare dhe gjendje fizike të lëngët ka përbërja:",
+    "answers": [
+      "CCl4",
+      "CHCl3",
+      "C2H4",
+      "SiF4"
+    ],
+    "correct": 1,
+    "explanation": "CHCl3 (kloroform) ka gjeometri tetraedrike asimetrike (polare) dhe është i lëngët në kushte normale. CCl4 është jopolar, C2H4 dhe SiF4 janë gaze jopolare."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-110",
+    "question": "Një aliazh bakër-zink me masë 25 gram tretet me acid klorhidrik dhe çlirohen 3.36 litra hidrogjen (K.N.). Masa e zinkut në aliazh është:",
+    "answers": [
+      "9.60g",
+      "9.75g",
+      "9.50g",
+      "9.65g"
+    ],
+    "correct": 1,
+    "explanation": "Vetëm zinku reagon me HCl (bakri nuk reagon). Zn+2HCl→ZnCl2+H2. n(H2)=3.36/22.4=0.15mol=n(Zn). Masa Zn=0.15×65=9.75g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-111",
+    "question": "Natriumi vepron me ujin e ftohtë dhe çliron gaz. Gjeni masën e natriumit që duhet të veprojë me ujin, për të përftuar 16 gram NaOH.",
+    "answers": [
+      "9g",
+      "9.2g",
+      "9.9g",
+      "9.4g"
+    ],
+    "correct": 1,
+    "explanation": "2Na+2H2O→2NaOH+H2. n(NaOH)=16/40=0.4mol=n(Na) (raport 1:1). Masa Na=0.4×23=9.2g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-112",
+    "question": "Një 1 litër tretësirë 3M, KNO3 përmban:",
+    "answers": [
+      "5 mol-jone NO3-",
+      "3 mol-jone K+",
+      "2 mol-jone NO3-",
+      "1 mol-jone K+"
+    ],
+    "correct": 1,
+    "explanation": "KNO3→K++NO3-. n(KNO3)=3mol në 1L, prandaj n(K+)=3mol dhe n(NO3-)=3mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-113",
+    "question": "Sa gram kripë duhet të shtoni në 100 g tretësirë 20% që përqendrimi të bëhet 50%?",
+    "answers": [
+      "30 g",
+      "40 g",
+      "50 g",
+      "60 g"
+    ],
+    "correct": 3,
+    "explanation": "Masa fillestare kripe=20g. (20+x)/(100+x)=0.50 → 20+x=50+0.5x → 0.5x=30 → x=60g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-114",
+    "question": "Sa mole HNO3 ndodhen në 100 ml tretësirë me përqendrim 63% në masë dhe d=1.4 g/cm3?",
+    "answers": [
+      "0.7",
+      "1",
+      "1.4",
+      "2.8"
+    ],
+    "correct": 2,
+    "explanation": "Masa tretësirës=100×1.4=140g. Masa HNO3=140×0.63=88.2g. n=88.2/63=1.4mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-115",
+    "question": "Nëse 100 g sheqer treten në 400 g ujë, përqendrimi i tretësirës së përftuar është:",
+    "answers": [
+      "20%",
+      "10%",
+      "25%",
+      "40%"
+    ],
+    "correct": 0,
+    "explanation": "%C=100/(100+400)×100=100/500×100=20%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-116",
+    "question": "Në sa gram ujë duhen të treten 0.4 mol NaCl, për të përgatitur një tretësirë ujore me përqendrim në masë 20% (M=58.5)?",
+    "answers": [
+      "93.6",
+      "32.3",
+      "64.7",
+      "16.4"
+    ],
+    "correct": 0,
+    "explanation": "Masa NaCl=0.4×58.5=23.4g. 23.4/(23.4+x)=0.20 → 23.4=4.68+0.2x → x=93.6g ujë."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-117",
+    "question": "Nga veprimi i 10g CaC2 me ujin, formohet Ca(OH)2 dhe çlirohet 1.12 litra etin (C2H2) i gaztë (K.N.). Përqindja e CaC2 që ka hyrë në reaksion është:",
+    "answers": [
+      "30%",
+      "32%",
+      "34%",
+      "36%"
+    ],
+    "correct": 1,
+    "explanation": "CaC2+2H2O→Ca(OH)2+C2H2. n(C2H2)=1.12/22.4=0.05mol=n(CaC2 i reaguar). Masa reaguar=0.05×64=3.2g. %=3.2/10×100=32%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-118",
+    "question": "Njehsoni numrin e moleve të substancës së tretur në 40 cm3 tretësirë ujore acid nitrik me përqendrim 0.2 mol/dm3.",
+    "answers": [
+      "0.05 mole",
+      "0.8 mole",
+      "0.008 mole",
+      "1 mol"
+    ],
+    "correct": 2,
+    "explanation": "n=C×V=0.2 mol/l × 0.04 l = 0.008 mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-119",
+    "question": "MgCO3+2HCl=MgCl2+H2O+CO2. Të gjendet vëllimi i CO2 (K.N.) kur hedhim 6 gr. MgCO3 dhe 14 gr. HCl.",
+    "answers": [
+      "1.1L",
+      "1.6L",
+      "0.16L",
+      "22.4L"
+    ],
+    "correct": 1,
+    "explanation": "n(MgCO3)=6/84≈0.0714mol, n(HCl)=14/36.5≈0.384mol (tepricë). MgCO3 është kufizues; n(CO2)=n(MgCO3)=0.0714mol. V=0.0714×22.4≈1.6 l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-120",
+    "question": "Në molekulat e mëposhtme, në njërën prej tyre jometali ka vënë në dispozicion (për lidhje) 7 elektrone. Ajo molekulë është:",
+    "answers": [
+      "SO3",
+      "CO2",
+      "P2O5",
+      "Cl2O7"
+    ],
+    "correct": 3,
+    "explanation": "Në Cl2O7, klori ka gjendje oksidimi +7, pra ka përdorur të gjitha 7 elektronet e veta valentore për lidhje me oksigjenin. Në SO3(S:+6), CO2(C:+4) dhe P2O5(P:+5) numri i elektroneve të përdorura është më i vogël se 7."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-121",
+    "question": "Sa gram Na2CO3 nevojitet për të përftuar 2 litra tretësirë 0.2 M?",
+    "answers": [
+      "42.0g",
+      "42.4g",
+      "45.2g",
+      "40.0g"
+    ],
+    "correct": 1,
+    "explanation": "M(Na2CO3)=106 g/mol. n=2×0.2=0.4mol. Masa=0.4×106=42.4g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-122",
+    "question": "Masa e një polimeri është 387000 g/mol. Ai përbëhet nga C, H, Cl dhe ka 6000 monomerë. Masa në gram e një monomeri është:",
+    "answers": [
+      "6.45 g/mol",
+      "64.5 g/mol",
+      "129 g/mol",
+      "119 g/mol"
+    ],
+    "correct": 1,
+    "explanation": "Masa monomeri = masa totale/numri i monomerëve = 387000/6000 = 64.5 g/mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-123",
+    "question": "Njehsoni numrin e mol-atomeve të secilit element që ndodhen në 14.2 gram Na2SO4 (M=142).",
+    "answers": [
+      "0.2 mol-atome Na; 0.1 mol-atome S; 0.4 mol-atome O",
+      "0.1 mol-atome Na; 0.2 mol-atome S; 0.4 mol-atome O",
+      "0.1 mol-atome Na; 0.1 mol-atome S; 0.3 mol-atome O",
+      "0.2 mol-atome Na; 0.2 mol-atome S; 0.2 mol-atome O"
+    ],
+    "correct": 0,
+    "explanation": "n(Na2SO4)=14.2/142=0.1mol. Për formulë njësi: 2 Na, 1 S, 4 O → n(Na)=0.2mol, n(S)=0.1mol, n(O)=0.4mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-124",
+    "question": "Njehsoni % e kalciumit që ndodhet në 374 gram xeheror, i cili përmban 89.2% Ca3(PO4)2 (M=310).",
+    "answers": [
+      "30.518%",
+      "34.0%",
+      "34.518%",
+      "33.108%"
+    ],
+    "correct": 2,
+    "explanation": "Masa Ca3(PO4)2=374×0.892≈333.6g. n=333.6/310≈1.076mol → n(Ca)=3.228mol → masa Ca≈129.1g. %Ca në xeheror=129.1/374×100≈34.5%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-125",
+    "question": "Rubidiumi formon dy izotope natyrorë me numra mase 85 dhe 87, me përqindje përkatësisht 72% dhe 28%. Njehsoni masën mesatare të rubidiumit.",
+    "answers": [
+      "88.56",
+      "85.56",
+      "8.556",
+      "855.6"
+    ],
+    "correct": 1,
+    "explanation": "Masa mesatare = 85×0.72 + 87×0.28 = 61.2+24.36 = 85.56."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-126",
+    "question": "Duke ditur masën mesatare të rubidiumit (85.56), njehsoni masën në gram të klorit (Cl2) që futet në reaksion me 20 gram rubidium për të përftuar RbCl.",
+    "answers": [
+      "8.29g klor",
+      "7.35g klor",
+      "8.00g klor",
+      "83.5g klor"
+    ],
+    "correct": 0,
+    "explanation": "n(Rb)=20/85.56≈0.234mol. 2Rb+Cl2→2RbCl, prandaj n(Cl2)=0.234/2≈0.117mol. Masa Cl2=0.117×71≈8.29g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-127",
+    "question": "Çfarë mase jodi nevojitet për të bërë 500 mL të një tretësire 0.250 M të jodit I2 (Ar I=126.9)?",
+    "answers": [
+      "3.17 g I2",
+      "30.7 g I2",
+      "317 g I2",
+      "31.7 g I2"
+    ],
+    "correct": 3,
+    "explanation": "M(I2)=253.8 g/mol. n=0.5×0.250=0.125mol. Masa=0.125×253.8=31.7g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-128",
+    "question": "Vëllimi që zë 50g amoniak në trysni 81.04 kPa dhe temperaturë 303K (R=8.31 kPa·L/mol·K) është:",
+    "answers": [
+      "91.39",
+      "92.49",
+      "95.68",
+      "97.2"
+    ],
+    "correct": 0,
+    "explanation": "n(NH3)=50/17≈2.941mol. V=nRT/P=(2.941×8.31×303)/81.04≈91.39 litra."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-129",
+    "question": "Një përbërje kimike përmban 4.6g natrium, 7.1 gram klor dhe 6.4 gram oksigjen. Formula molekulare dhe emri i përbërjes janë:",
+    "answers": [
+      "NaClO2, klorit natriumi",
+      "NaClO, hipoklorit natriumi",
+      "NaClO4, perklorat natriumi",
+      "NaClO3, klorat natriumi"
+    ],
+    "correct": 0,
+    "explanation": "n(Na)=0.2mol, n(Cl)=0.2mol, n(O)=0.4mol. Raporti Na:Cl:O=1:1:2, pra formula NaClO2 (klorit natriumi)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-130",
+    "question": "Një përbërje organike me masë molekulare 56 gram/mol, përmban 85.71% karbon dhe 14.29% hidrogjen. Formula molekulare e saj është:",
+    "answers": [
+      "CH4",
+      "C4H8",
+      "C3H6",
+      "C4H10"
+    ],
+    "correct": 1,
+    "explanation": "Masa C në 56g = 56×0.8571=48g → mol C=4. Masa H=8g → mol H=8. Formula C4H8."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-131",
+    "question": "Njehsoni numrin e molekulave të Cl2 në një mostër që fitohet nga përzierja e 1.7 moleve Cl2 me 30 g Cl2 (Ar Cl=35.5).",
+    "answers": [
+      "12.77×10^23",
+      "1.27×10^23",
+      "127.7×10^23",
+      "11.77×10^23"
+    ],
+    "correct": 0,
+    "explanation": "n(30g Cl2)=30/71≈0.4225mol. Total n=1.7+0.4225≈2.1225mol. Numri i molekulave=2.1225×6.02×10²³≈12.77×10²³."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-132",
+    "question": "Njehsoni masën në gram të Na2O që duhet të veprojë me ujin, për të përftuar 40 gram NaOH.",
+    "answers": [
+      "62g",
+      "32g",
+      "31g",
+      "30g"
+    ],
+    "correct": 2,
+    "explanation": "Na2O+H2O→2NaOH. n(NaOH)=40/40=1mol → n(Na2O)=0.5mol. M(Na2O)=62 g/mol. Masa=0.5×62=31g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-133",
+    "question": "Në përbërjen molekulare me formulë SOCl2, molekula e saj ka formë gjeometrike:",
+    "answers": [
+      "trekëndore dhe është polare",
+      "tetraedrike dhe është jopolare",
+      "piramidë me bazë trekëndore dhe polare",
+      "këndore dhe është jopolare"
+    ],
+    "correct": 2,
+    "explanation": "S si atom qendror ka 3 zona lidhëse (O, Cl, Cl) dhe 1 çift vetjak, duke i dhënë formë piramidë me bazë trekëndore, asimetrike, pra polare."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-134",
+    "question": "Njehsoni përqendrimin në përqindje të tretësirës me dendësi 1.2 g/ml, të përftuar nga përzierja e dy tretësirave të Ca(OH)2: 100ml 0.6M dhe 300ml 1M.",
+    "answers": [
+      "5.55%",
+      "6.50%",
+      "7.55%",
+      "8.50%"
+    ],
+    "correct": 0,
+    "explanation": "n(Ca(OH)2)=0.1×0.6+0.3×1=0.36mol. Masa=0.36×74=26.64g. Vëllimi total=400ml, masa tretësirës=400×1.2=480g. %C=26.64/480×100=5.55%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-135",
+    "question": "Tunxhi është aliazh i bakrit dhe zinkut, ku 40% e masës është zink. Njehsoni sasinë e zinkut dhe bakrit që gjendet në 250 gram tunxh.",
+    "answers": [
+      "110g Zn dhe 140g Cu",
+      "100g Zn dhe 150g Cu",
+      "140g Zn dhe 110g Cu",
+      "110g Zn dhe 140g Cu"
+    ],
+    "correct": 1,
+    "explanation": "Masa Zn=250×0.40=100g. Masa Cu=250×0.60=150g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-136",
+    "question": "Alternativa e saktë, për numrin e mol-atomeve të secilit element që ndodhen në 155 gram Ca3(PO4)2 (M=310), është:",
+    "answers": [
+      "3 mol-atome Ca; 1 mol-atome P; 4 mol-atome O",
+      "1.5 mol-atome Ca; 1 mol-atome P; 4 mol-atome O",
+      "1.5 mol-atome Ca; 2 mol-atome P; 4 mol-atome O",
+      "1.5 mol-atome Ca; 1 mol-atome P; 2 mol-atome O"
+    ],
+    "correct": 1,
+    "explanation": "n(Ca3(PO4)2)=155/310=0.5mol. Për formulë njësi: 3 Ca, 2 P, 8 O → n(Ca)=1.5mol, n(P)=1mol, n(O)=4mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-137",
+    "question": "Në 150 g tretësirë 10% KCl shtohen 30g KCl(ng). Përqendrimi i tretësirës së re do të jetë:",
+    "answers": [
+      "30%",
+      "10%",
+      "15%",
+      "25%"
+    ],
+    "correct": 3,
+    "explanation": "Masa fillestare KCl=15g. Masa totale KCl=15+30=45g. Masa totale tretësirës=150+30=180g. %C=45/180×100=25%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-138",
+    "question": "Në 26.6 gramë përbërje të një oksidi të azotit të panjohur gjenden 9.8 gram azot. Formula empirike e oksidit të azotit është:",
+    "answers": [
+      "NO",
+      "NO2",
+      "N2O3",
+      "N2O4"
+    ],
+    "correct": 2,
+    "explanation": "Masa O=26.6-9.8=16.8g. n(N)=9.8/14=0.7mol, n(O)=16.8/16=1.05mol. Raporti N:O=0.7:1.05=2:3 → N2O3."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-139",
+    "question": "Sa është përqendrimi molar i tretësirës së përftuar, kur në 400 ml tretësirë 0.5 M hidroksid kaliumi KOH shtojmë 600 ml ujë?",
+    "answers": [
+      "0.3 M",
+      "0.2 M",
+      "0.1 M",
+      "1 M"
+    ],
+    "correct": 1,
+    "explanation": "n(KOH)=0.4×0.5=0.2mol. Vëllimi i ri=400+600=1000ml=1L. M=0.2/1=0.2 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-140",
+    "question": "Përcaktoni formulën molekulare të hidrokarburit të ngopur, i cili e ka raportin në masë H/C=7/36.",
+    "answers": [
+      "C6H16",
+      "C6H12",
+      "C6H18",
+      "C6H14"
+    ],
+    "correct": 3,
+    "explanation": "Për alkan CnH2n+2: (2n+2)/(12n)=7/36. Zgjidhja jep n=6, pra formula C6H14."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-141",
+    "question": "Njehsoni përqendrimin në përqindje të tretësirës që përftohet, në qoftë se në 200 gramë tretësirë, me përqendrim 20%, shtohen 50 gram ujë.",
+    "answers": [
+      "15%",
+      "16%",
+      "17%",
+      "18%"
+    ],
+    "correct": 1,
+    "explanation": "Masa solute=200×0.20=40g. Masa totale e re=200+50=250g. %C=40/250×100=16%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-142",
+    "question": "Njehsoni përqendrimin e tretësirës që përftohet nga tretja e 20 gram klorur natriumi në 280 gram ujë.",
+    "answers": [
+      "6.66%",
+      "66.6%",
+      "67.5%",
+      "69%"
+    ],
+    "correct": 0,
+    "explanation": "%C=20/(20+280)×100=20/300×100≈6.66%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-143",
+    "question": "Në 200g tretësirë me përqendrim 10% shtohen 100g ujë. Njehsoni përqendrimin e tretësirës së përftuar.",
+    "answers": [
+      "6.6%",
+      "7.0%",
+      "9.0%",
+      "8.0%"
+    ],
+    "correct": 0,
+    "explanation": "Masa solute=200×0.10=20g. Masa totale e re=200+100=300g. %C=20/300×100≈6.6%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-144",
+    "question": "Sa ml tretësirë NaOH me përqendrim 3M nevojiten për të neutralizuar 25ml tretësirë H2SO4 me përqendrim 1.5M?",
+    "answers": [
+      "20ml",
+      "15ml",
+      "25ml",
+      "30ml"
+    ],
+    "correct": 2,
+    "explanation": "H2SO4+2NaOH→Na2SO4+2H2O. n(H2SO4)=0.025×1.5=0.0375mol. n(NaOH)=2×0.0375=0.075mol. V=0.075/3=0.025L=25ml."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-145",
+    "question": "Në 200 ml tretësirë të holluar të acidit sulfurik shtohet tallash hekuri. Vëllimi i hidrogjenit të çliruar në kushte normale është 2.24 litra. Gjeni përqendrimin e acidit para shtimit të tallashit të hekurit.",
+    "answers": [
+      "0.4M",
+      "0.6M",
+      "0.7M",
+      "0.5M"
+    ],
+    "correct": 3,
+    "explanation": "Fe+H2SO4→FeSO4+H2. n(H2)=2.24/22.4=0.1mol=n(H2SO4). C=0.1/0.2=0.5 mol/l."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-146",
+    "question": "Sa elektrone të azotit janë të përfshirë në formimin e lidhjeve në molekulën e HONO2 (acidi nitrik)?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Azoti në HNO3 nuk ka çift vetjak (ngarkesë formale +1), pra i përdor të gjitha 5 elektronet e veta valentore për formimin e lidhjeve me tre atomet e oksigjenit."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-147",
+    "question": "Nga veprimi i azotit me 6.72 litra hidrogjen (K.N.) u përftua amoniak. Vëllimi i azotit (K.N.) dhe masa e amoniakut, duke pranuar që reaksioni shkon deri në fund, janë:",
+    "answers": [
+      "4.48 l N2 dhe 44.3gr NH3",
+      "22.4 l N2 dhe 4.3gr NH3",
+      "44.8 l N2 dhe 34.4gr NH3",
+      "2.24 l N2 dhe 3.4gr NH3"
+    ],
+    "correct": 3,
+    "explanation": "N2+3H2→2NH3. n(H2)=6.72/22.4=0.3mol → n(N2)=0.1mol (V=2.24l); n(NH3)=0.2mol (masa=0.2×17=3.4g)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-148",
+    "question": "Masa e ujit dhe vëllimi i oksigjenit që përftohet nga shpërbërja e 6.8 gram peroksid hidrogjeni (H2O2), janë:",
+    "answers": [
+      "6.33gr dhe 4.48 l",
+      "3.36gr dhe 22.4 l",
+      "3.6gr dhe 2.24 l",
+      "3.66gr dhe 24.8 l"
+    ],
+    "correct": 2,
+    "explanation": "2H2O2→2H2O+O2. n(H2O2)=6.8/34=0.2mol → n(H2O)=0.2mol (masa=3.6g); n(O2)=0.1mol (V=2.24l)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-149",
+    "question": "Masa në gram e tretësirës ujore të acidit sulfurik H2SO4 (M=98) me përqendrim 10%, që duhet të veprojë me hidroksidin e kalciumit për të përftuar 13.6 gram CaSO4 (M=136), është:",
+    "answers": [
+      "9.8gr",
+      "98gr",
+      "980gr",
+      "4.9gr"
+    ],
+    "correct": 1,
+    "explanation": "n(CaSO4)=13.6/136=0.1mol=n(H2SO4). Masa H2SO4=0.1×98=9.8g. Masa tretësirës 10%=9.8/0.10=98g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-150",
+    "question": "Një përzierje gazesh prej 12 gram përmban helium dhe oksigjen. Oksigjeni zë vëllimin 3.36 litra (K.N.). Numri i moleve të secilit gaz në përzierje është:",
+    "answers": [
+      "0.15 mol O2 dhe 1.8mol He",
+      "1.5mol O2 dhe 8.1 mol He",
+      "5.15 mol O2 dhe 8.8 mol He",
+      "0.015 mol O2 dhe 1.18 mol He"
+    ],
+    "correct": 0,
+    "explanation": "n(O2)=3.36/22.4=0.15mol; masa O2=0.15×32=4.8g. Masa He=12-4.8=7.2g; n(He)=7.2/4=1.8mol."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-151",
+    "question": "Vëllimi i CO2 dhe masa e H2O që përftohen nga veprimi i 300 ml tretësirë 0.2 M të HCl me K2CO3 është:",
+    "answers": [
+      "0.672 l CO2 dhe 0.54 gram H2O",
+      "6.72 l CO2 dhe 5.4 gram H2O",
+      "27.6 l CO2 dhe 4.5 gram H2O",
+      "0.726 l CO2 dhe 0.45 gram H2O"
+    ],
+    "correct": 0,
+    "explanation": "K2CO3+2HCl→2KCl+H2O+CO2. n(HCl)=0.3×0.2=0.06mol → n(CO2)=n(H2O)=0.03mol. V(CO2)=0.672l; masa H2O=0.03×18=0.54g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-152",
+    "question": "Nga nxehja e 16.8 gram karbonat magnezi MgCO3 u përftuan 6 gram oksid magnezi MgO. Rendimenti është:",
+    "answers": [
+      "6.66%",
+      "60.6%",
+      "75.0%",
+      "60.5%"
+    ],
+    "correct": 2,
+    "explanation": "MgCO3→MgO+CO2. n(MgCO3)=16.8/84=0.2mol → teorikisht 0.2×40=8g MgO. Rendimenti=6/8×100=75%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-153",
+    "question": "Nga veprimi i 40 gram tretësire ujore me përqendrim 20% të hidroksidit të natriumit me 300 ml tretësirë 1 M të acidit klorhidrik, u përftua klorur natriumi dhe ujë. Masa e klorurit të natriumit të përftuar dhe e substancës së tepruar është:",
+    "answers": [
+      "117gr NaCl dhe 36.5 gr HCl tepër",
+      "11.7gr NaCl dhe 3.65 gr HCl tepër",
+      "17.1gr NaCl dhe 35.6 gr NaOH tepër",
+      "171gr NaCl dhe 36.5 gr NaOH tepër"
+    ],
+    "correct": 1,
+    "explanation": "n(NaOH)=8/40=0.2mol (kufizues), n(HCl)=0.3mol. n(NaCl)=0.2mol → masa=11.7g. Tepricë HCl=0.1mol → masa=3.65g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-154",
+    "question": "Masa e 0.6 mol përzierje të elementeve kalcium dhe karbon është 10 gram. Njehsoni përqindjen në masë të kalciumit që gjendet në përzierje.",
+    "answers": [
+      "40%",
+      "30%",
+      "20%",
+      "50%"
+    ],
+    "correct": 0,
+    "explanation": "x+y=0.6 dhe 40x+12y=10, ku x=mol Ca. Zgjidhja jep x=0.1mol Ca (masë=4g). %Ca=4/10×100=40%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-155",
+    "question": "Një hidrokarbur i ngopur përmban 25% hidrogjen dhe 75% karbon. Forma gjeometrike dhe këndi valentor të hidrokarburit janë:",
+    "answers": [
+      "formë këndore / këndi 104.5°",
+      "formë piramidale / këndi 107.5°",
+      "formë tetraedrike / këndi 109.5°",
+      "formë lineare / këndi 180°"
+    ],
+    "correct": 2,
+    "explanation": "Raporti mol C:H=(75/12):(25/1)=6.25:25=1:4, që korrespondon me CH4 (metan). Metani ka formë tetraedrike, kënd valentor 109.5°."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-156",
+    "question": "Sa lidhje σ dhe sa lidhje π ka alkeni me masë molare 70 gram/mol?",
+    "answers": [
+      "15 σ + 0 π",
+      "14 σ + 1 π",
+      "13 σ + 2 π",
+      "12 σ + 3 π"
+    ],
+    "correct": 1,
+    "explanation": "M=14n=70 → n=5 → C5H10 (penten, me 1 lidhje dyfishe). Ka 4 lidhje σ C-C + 10 lidhje σ C-H = 14σ, dhe 1π nga lidhja dyfishe."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-157",
+    "question": "Një përbërje organike që përmban 24 gram karbon, 16 gram oksigjen, 6 gram hidrogjen dhe formon lidhje hidrogjenore është:",
+    "answers": [
+      "CH3OH",
+      "C2H5OH",
+      "CH3COOH",
+      "CH3-O-CH3"
+    ],
+    "correct": 1,
+    "explanation": "mol C=2, mol O=1, mol H=6 → formula C2H6O. Nga izomerët e mundshëm me këtë formulë, vetëm etanoli (C2H5OH) ka grup O-H dhe formon lidhje hidrogjenore; dimetil-eteri (D) ka të njëjtën formulë por s'ka O-H."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-158",
+    "question": "Në cilën nga përbërjet ka edhe lidhje jonike, edhe lidhje bashkërenditëse?",
+    "answers": [
+      "HF",
+      "Cl2",
+      "KCl",
+      "NH4Cl"
+    ],
+    "correct": 3,
+    "explanation": "NH4Cl përmban jonin NH4+ (formuar nga lidhje bashkërenditëse, N dhuron çiftin e vetjak te H+) dhe lidhjen jonike midis NH4+ dhe Cl-."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-159",
+    "question": "Në një mol substancë ndodhen 6.02×10²³ atome magnez dhe 12.04×10²³ atome klor (MgCl2). Lidhja që realizohet midis këtyre atomeve është:",
+    "answers": [
+      "kovalente",
+      "jonike",
+      "hidrogjenore",
+      "bashkërenditëse"
+    ],
+    "correct": 1,
+    "explanation": "Mg (metal) me Cl (jometal) formon lidhje jonike, me raport atomik 1:2, përputhet me MgCl2."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-160",
+    "question": "Në një komponim jonik, si kationi ashtu edhe anioni janë izoelektronikë me argonin. Raporti kation:anion është 1:1. Grupi ku bën pjesë atomi i elementit që formon kationin dhe anionin, është:",
+    "answers": [
+      "grupi VIIA dhe IA",
+      "grupi IA dhe VA",
+      "grupi IA dhe VIIA",
+      "grupi VIA dhe IIA"
+    ],
+    "correct": 2,
+    "explanation": "Për të pasur raport 1:1, kationi dhe anioni duhet të kenë ngarkesë të barabartë (+1/-1). K+ (grupi IA, humbet 1e) dhe Cl- (grupi VIIA, fiton 1e) janë të dy izoelektronikë me Ar (18e), duke formuar KCl."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-161",
+    "question": "Sa gram tretësirë NaOH me përqendrim 12% nevojitet për të asnjanësuar 300 ml tretësirë 0.2 M të H2SO4?",
+    "answers": [
+      "25 gr.",
+      "40 gr.",
+      "47 gr.",
+      "35 gr."
+    ],
+    "correct": 1,
+    "explanation": "n(H2SO4)=0.3×0.2=0.06mol → n(NaOH)=0.12mol. Masa NaOH=4.8g. Masa tretësirës 12%=4.8/0.12=40g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-162",
+    "question": "Bakri vepron me 400 ml tretësirë 1 M të acidit nitrik të holluar. Masa e bakrit që ka hyrë në reaksion dhe vëllimi (K.N.) i NO që përftohet, është:",
+    "answers": [
+      "9.6 gr. Cu dhe 2.24 l NO",
+      "6.9 l NO dhe 6.7 gr. Cu",
+      "6.9 gr. Cu dhe 22.4 l NO",
+      "44.8 l NO dhe 7.6 gr. Cu"
+    ],
+    "correct": 0,
+    "explanation": "3Cu+8HNO3→3Cu(NO3)2+2NO+4H2O. n(HNO3)=0.4mol → n(Cu)=0.4×3/8=0.15mol (masa=9.6g); n(NO)=0.4×2/8=0.1mol (V=2.24l)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-163",
+    "question": "Karboni digjet me oksigjen dhe përftohet dioksid karboni. Sa gram karbon nevojitet për të vepruar me 64 gram oksigjen? Sa do të jetë masa dhe vëllimi i CO2 që përftohet?",
+    "answers": [
+      "14 gr. C, 66 gr CO2 dhe 22.4 l CO2",
+      "24 gr. C, 88 gr CO2 dhe 44.8 l CO2",
+      "14 gr. C, 86 gr CO2 dhe 67.2 l CO2",
+      "28 gr. C, 66 gr CO2 dhe 2.24 l CO2"
+    ],
+    "correct": 1,
+    "explanation": "C+O2→CO2. n(O2)=64/32=2mol → n(C)=2mol (masa=24g). n(CO2)=2mol (masa=88g, V=44.8l)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-164",
+    "question": "Elektroni i fundit i atomit të elementit X ka numrat kuantikë n=3, l=1, m=-1, ms=-1/2. Forma gjeometrike dhe këndi valentor i njërës prej molekulave që X formon me oksigjenin, janë:",
+    "answers": [
+      "trigonale planare, 120°",
+      "piramidale, 109.5°",
+      "këndore, 104.5°",
+      "oktaedrike 90°"
+    ],
+    "correct": 0,
+    "explanation": "Numrat kuantikë tregojnë konfigurimin 3p⁴, që i përket squfurit (S). Molekula SO3 (S pa çift vetjak, 3 zona lidhëse) ka formë trigonale planare me kënd 120°."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-165",
+    "question": "X ndodhet në Periodën 2, Grupin IIIA; Y ndodhet në Periodën 2, Grupin VIIA. Në molekulën XY3, hibridizimi i atomit qendror, forma gjeometrike dhe këndi valentor, janë:",
+    "answers": [
+      "sp, lineare, 180°",
+      "sp2, trigonale, 120°",
+      "sp3, tetraedrike, 109.5°",
+      "sp, piramidale, 107.5°"
+    ],
+    "correct": 1,
+    "explanation": "X=Bor (B), Y=Fluor (F). BF3: B ka 3 lidhje pa çift vetjak, hibridizim sp2, formë trigonale rrafshore, kënd 120°."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-166",
+    "question": "3.75 gram të një komponimi (Cu, N, O) shpërbëhet me nxehtësi dhe jep 1.59 gram CuO, 1.84 gram NO2 dhe oksigjen. Formula kimike e komponimit, kur M=188g/mol, është:",
+    "answers": [
+      "CuNO3",
+      "Cu2NO3",
+      "Cu(NO3)3",
+      "Cu(NO3)2"
+    ],
+    "correct": 3,
+    "explanation": "n(CuO)≈0.02mol=n(Cu), n(NO2)=0.04mol=n(N). Raporti Cu:N=1:2, që përputhet me Cu(NO3)2 (M=64+2×62=188), duke konfirmuar edhe masën molare të dhënë."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-167",
+    "question": "Përqendrimi në përqindje i tretësirës së përftuar nga tretja e 25 g CuSO4·5H2O në 55 g ujë është:",
+    "answers": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "correct": 3,
+    "explanation": "M(CuSO4·5H2O)=250. Masa CuSO4 e pastër në 25g hidrat = 25×(160/250)=16g. Masa tretësirës=25+55=80g. %C=16/80×100=20%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-168",
+    "question": "Veprojnë 6 litra SO2 me 4 litra O2, reaksion i pakthyeshëm. Cili nga pohimet është i saktë?",
+    "answers": [
+      "vetëm I",
+      "I dhe II",
+      "II dhe III",
+      "I dhe III"
+    ],
+    "correct": 1,
+    "explanation": "2SO2+O2→2SO3, raport 2:1. Për 6l SO2 nevojiten 3l O2; kemi 4l, pra 1l O2 tepron (II e vërtetë). SO2 konsumohet plotësisht (6l, jo 4l si në III, që e gabuar), duke prodhuar 6l SO3 (I e vërtetë)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-169",
+    "question": "Tre metale X, Y, Z u testuan me ujë dhe oksidet e tyre me karbon (shih tabelën në pyetje). Cili është përfundimi i saktë për metalet X, Y dhe Z?",
+    "answers": [
+      "Metali X është natriumi dhe Y është magnezi",
+      "Metali X është më pak aktiv se ai Y",
+      "Metali Z është më pak aktiv se ai Y",
+      "Metali Z është magnezi dhe ai Y është bakri"
+    ],
+    "correct": 3,
+    "explanation": "Z (nuk vepron me ujë të ftohtë, por vepron me avuj uji) përputhet me magnezin. Y (nuk vepron me ujë, por oksidi i tij reduktohet nga karboni) përputhet me bakrin, pasi CuO reduktohet lehtë nga karboni."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-170",
+    "question": "Një aliazh bakër-zink me masë 25 gram vepron me acidin klorhidrik. Përftohen 3.36 litra hidrogjen (K.N.). Përbërja në përqindje e zinkut dhe bakrit është:",
+    "answers": [
+      "39% Zn; 61% Cu",
+      "61% Zn; 39% Cu",
+      "49% Zn; 51% Cu",
+      "51% Zn; 49% Cu"
+    ],
+    "correct": 0,
+    "explanation": "Vetëm Zn reagon me HCl. n(H2)=3.36/22.4=0.15mol=n(Zn). Masa Zn=0.15×65=9.75g. %Zn=9.75/25×100=39%; %Cu=61%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-171",
+    "question": "Masa e Na2SO3 (me papastërti 10%) që duhet të veprojë me acidin klorhidrik për të përftuar 2.24 litra dioksid squfuri (K.N.), është:",
+    "answers": [
+      "10.32 g",
+      "14 g",
+      "111 g",
+      "126 g"
+    ],
+    "correct": 1,
+    "explanation": "Na2SO3+2HCl→2NaCl+H2O+SO2. n(SO2)=0.1mol=n(Na2SO3). Masa e pastër=0.1×126=12.6g. Me papastërti 10% (pastërti 90%), masa totale=12.6/0.9=14g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-172",
+    "question": "Reaksioni i pluhurit të aluminit me oksidin e hekurit (III) është reaksion termik, ku përftohet hekur i shkrirë. Sa gram hekur prodhohet kur në reaksion marrin pjesë 27 g alumin dhe 104 g oksid hekuri (III)?",
+    "answers": [
+      "55g",
+      "56g",
+      "57g",
+      "58g"
+    ],
+    "correct": 1,
+    "explanation": "2Al+Fe2O3→Al2O3+2Fe. n(Al)=1mol (kufizues, kërkon vetëm 0.5mol Fe2O3, kemi 0.65mol). n(Fe)=n(Al)=1mol. Masa Fe=1×56=56g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-173",
+    "question": "Nga veprimi i 13.8 gram metal (Me) me numër oksidimi +1 me ujin, çlirohen 6.72 litra hidrogjen në kushte normale. Masa atomike relative e metalit është:",
+    "answers": [
+      "23 g/mol",
+      "22 g/mol",
+      "21 g/mol",
+      "20 g/mol"
+    ],
+    "correct": 0,
+    "explanation": "2Me+2H2O→2MeOH+H2. n(H2)=6.72/22.4=0.3mol → n(Me)=0.6mol. Ar(Me)=13.8/0.6=23 g/mol (natriumi)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-174",
+    "question": "Njehsoni sasinë e bakrit të përftuar, kur 60 gram CuO reduktohen nga 5.6 litra hidrogjen.",
+    "answers": [
+      "16g",
+      "17g",
+      "18g",
+      "15g"
+    ],
+    "correct": 0,
+    "explanation": "CuO+H2→Cu+H2O. n(H2)=5.6/22.4=0.25mol (kufizues, pasi n(CuO)=60/80=0.75mol). n(Cu)=0.25mol. Masa=0.25×64=16g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-175",
+    "question": "Masa e N2F4 që përftohet nga bashkëveprimi i 4.0 g NH3 me 14 g F2 sipas reaksionit 2NH3+5F2→N2F4+6HF, është:",
+    "answers": [
+      "7.15",
+      "7.24",
+      "7.65",
+      "8.45"
+    ],
+    "correct": 2,
+    "explanation": "n(NH3)=4/17≈0.235mol, n(F2)=14/38≈0.368mol. F2 është kufizues (kërkohen 0.588mol për të gjithë NH3). n(N2F4)=0.368/5≈0.0737mol. Masa=0.0737×104≈7.65g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-176",
+    "question": "Sa gram argjend mund të fitohen nga 250g xeheror i papastër, i cili përmban 70% Ag2S?",
+    "answers": [
+      "152.3g",
+      "140.2g",
+      "133.5g",
+      "120.4g"
+    ],
+    "correct": 0,
+    "explanation": "Masa Ag2S=250×0.70=175g. M(Ag2S)=246. n(Ag2S)=175/246≈0.711mol → n(Ag)=1.423mol. Masa Ag=1.423×107≈152.3g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-177",
+    "question": "Një mostër prej 1.261g kafeinë e pastër përmban 0.624g C, 0.065g H, 0.364g N dhe 0.208g O. Cila është formula empirike e kafeinës?",
+    "answers": [
+      "C4H4N2O",
+      "C4H5N2O",
+      "C4H4NO",
+      "C4H4N2O2"
+    ],
+    "correct": 1,
+    "explanation": "mol C=0.052, mol H=0.065, mol N=0.026, mol O=0.013. Duke pjesëtuar me më të voglin (0.013): C=4, H=5, N=2, O=1 → C4H5N2O."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-178",
+    "question": "Sa kilogram të një aliazhi që përmban 92.5% Ag dhe 7.5% Cu, mund të prodhohen nga 3.00 kg argjend i pastër?",
+    "answers": [
+      "3.14",
+      "3.24",
+      "3.34",
+      "3.44"
+    ],
+    "correct": 1,
+    "explanation": "Masa aliazhit = masa Ag/0.925 = 3.00/0.925≈3.24 kg."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-179",
+    "question": "Përbërja organike prej 6gr, duke u oksiduar plotësisht, jep 7.2 gr H2O dhe 13.2 gr CO2, me dendësi avulli 2.076 herë më e madhe se ajri. Gjeni formulën molekulare të përbërjes.",
+    "answers": [
+      "C3H8O",
+      "C2H2O",
+      "C2H4O",
+      "C4H4"
+    ],
+    "correct": 0,
+    "explanation": "M=2.076×29≈60 g/mol. n(CO2)=0.3mol(C), n(H2O)=0.4mol(H=0.8mol). Masa O=6-3.6-0.8=1.6g→0.1mol. Raporti C:H:O=3:8:1, formula C3H8O (M=60, përputhet)."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-180",
+    "question": "Një burim uji përmban 100mg/l Ca(HCO3)2 (M=162). Sa karbonat natriumi (M=106) nevojiten për zbutjen e 1m³ të këtij uji?",
+    "answers": [
+      "65.4",
+      "78.9",
+      "88.9g",
+      "98.9"
+    ],
+    "correct": 0,
+    "explanation": "Masa Ca(HCO3)2 në 1000l=100g. n=100/162≈0.617mol. Ca(HCO3)2+Na2CO3→CaCO3+2NaHCO3 (1:1). Masa Na2CO3=0.617×106≈65.4g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-181",
+    "question": "Çfarë sasie karbonat kaliumi (M=138) duhet të bashkëveprojë me qumështin e gëlqeres, që të merret një sasi prej 2 kg karbonat kalciumi (M=100)?",
+    "answers": [
+      "2.76 kg",
+      "27.6 kg",
+      "25.5kg",
+      "2.46kg"
+    ],
+    "correct": 0,
+    "explanation": "K2CO3+Ca(OH)2→CaCO3+2KOH. n(CaCO3)=2000/100=20mol=n(K2CO3). Masa K2CO3=20×138=2760g=2.76kg."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-182",
+    "question": "Sa ton gur gëlqeror me pastërti 90% duhen shtuar në 3 ton xeheror hekuri, që përmban 20% silicë SiO2, në mënyrë që e gjithë silica të kalojë në skorje?",
+    "answers": [
+      "1.21 ton",
+      "1.11 ton",
+      "1.31 ton",
+      "1.41 ton"
+    ],
+    "correct": 1,
+    "explanation": "Masa SiO2=3×0.20=0.6 ton. n(SiO2)=600000/60.1≈9983mol=n(CaCO3) i nevojshëm (raport 1:1). Masa CaCO3 e pastër≈0.998 ton; me pastërti 90%, masa gurit=0.998/0.90≈1.11 ton."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-183",
+    "question": "Sa gram bakër përftohen kur 60 g CuO reduktohen me 5.6 l hidrogjen të matur në kushte normale? (Ar Cu=63.5)",
+    "answers": [
+      "15.875g",
+      "1.587g",
+      "14.875g",
+      "13.587g"
+    ],
+    "correct": 0,
+    "explanation": "n(H2)=5.6/22.4=0.25mol (kufizues). n(Cu)=0.25mol. Masa Cu=0.25×63.5=15.875g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-184",
+    "question": "Llogaritni sasinë e karbonatit të natriumit që fitohet nga 2000 kg NaCl, me humbje procesi 2%.",
+    "answers": [
+      "1775.8 kg",
+      "17.758 kg",
+      "17.25 kg",
+      "118.25 kg"
+    ],
+    "correct": 0,
+    "explanation": "Raporti neto 2NaCl→Na2CO3. n(NaCl)=2000000/58.5≈34188mol → n(Na2CO3) teorik≈17094mol → masa teorike≈1812kg. Me humbje 2% (rendiment 98%): masa≈1812×0.98≈1775.8kg."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-185",
+    "question": "Një përzierje etanal CH3CHO me propanon CH3COCH3, me masë 20 g, vepron me AgOH dhe formohet 54 g Ag metalik. Njehsoni përqindjen në masë të propanonit në përzierje.",
+    "answers": [
+      "45%",
+      "40%",
+      "50%",
+      "55%"
+    ],
+    "correct": 0,
+    "explanation": "Vetëm etanali (aldehidi) reagon me AgOH. n(Ag)=54/108=0.5mol → n(CH3CHO)=0.25mol (raport 1:2). Masa etanal=0.25×44=11g. Masa propanon=20-11=9g. %propanon=9/20×100=45%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-186",
+    "question": "Sa gram tretësirë NaOH me përqendrim 10% duhet për asnjanësimin e 200 gram tretësirë H2SO4 15%?",
+    "answers": [
+      "244.8g",
+      "248g",
+      "255g",
+      "249g"
+    ],
+    "correct": 0,
+    "explanation": "Masa H2SO4=200×0.15=30g. n(H2SO4)=30/98≈0.306mol → n(NaOH)=0.612mol (masa≈24.5g). Masa tretësirës 10%=24.5/0.10≈244.8g."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-187",
+    "question": "Përcaktoni formulën molekulare të një acidi monokarboksilik që përftohet, kur përzihen 12g të këtij acidi me 400 ml tretësirë 0.5M të NaOH.",
+    "answers": [
+      "CH3COOH",
+      "CH3OH",
+      "HCOOH",
+      "CH3COOCH3"
+    ],
+    "correct": 0,
+    "explanation": "n(NaOH)=0.4×0.5=0.2mol=n(acidit) (raport 1:1, neutralizim i plotë). M(acid)=12/0.2=60 g/mol, që përputhet me CH3COOH."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-188",
+    "question": "180 gram klorur amoni NH4Cl u përdorën për të përftuar në kushte normale 34 gram NH3. Rendimenti i reaksionit është:",
+    "answers": [
+      "59.4%",
+      "39%",
+      "49%",
+      "55%"
+    ],
+    "correct": 0,
+    "explanation": "n(NH4Cl)=180/53.5≈3.364mol → teorikisht n(NH3)=3.364mol (masa≈57.2g). Rendimenti=34/57.2×100≈59.4%."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-189",
+    "question": "Metani CH4 digjet në oksigjen duke prodhuar dioksid karboni dhe ujë. Vëllimi i oksigjenit që nevojitet për djegien e 32 gram metan, dhe numri i molekulave të kësaj sasie metani, janë:",
+    "answers": [
+      "143.4 l dhe 16.06×10²³ molekula",
+      "134.4 l dhe 18.06×10²³ molekula",
+      "89.6 l dhe 12.04×10²³ molekula",
+      "134.4 l dhe 24.08×10²³ molekula"
+    ],
+    "correct": 2,
+    "explanation": "CH4+2O2→CO2+2H2O. n(CH4)=32/16=2mol → n(O2)=4mol (V=89.6l). Numri molekulave CH4=2×6.02×10²³=12.04×10²³."
+  },
+  {
+    "id": "kimi-lidhjet-stekiometria-190",
+    "question": "96 gram magnez digjen në prani të oksigjenit të ajrit. Vëllimi i oksigjenit që nevojitet, vëllimi i ajrit ku ndodhet ky oksigjen, dhe masa e oksidit të magnezit të përftuar, janë:",
+    "answers": [
+      "12.2 l, 224 l dhe 320 g",
+      "22.4 l, 122 l dhe 80 g",
+      "4.48 l, 242 l dhe 60 g",
+      "44.8 l, 224 l dhe 160 g"
+    ],
+    "correct": 3,
+    "explanation": "2Mg+O2→2MgO. n(Mg)=96/24=4mol → n(O2)=2mol (V=44.8l). Duke marrë ajrin ~20% O2, V(ajër)=44.8/0.20=224l. n(MgO)=4mol, masa=4×40=160g."
+  }
+]
