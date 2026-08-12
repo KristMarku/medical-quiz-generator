@@ -134,3 +134,10 @@
   color: #b42318;
   font-weight: 600;
 }
+
+.infoPanel,
+.infoPanel h1,
+.infoPanel h2,
+.infoPanel h3{
+    color:#1f2937;
+}

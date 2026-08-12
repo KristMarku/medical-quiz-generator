@@ -56,6 +56,11 @@
 
 }
 
+.navButton,
+.backButton{
+    color:#1f2937;
+}
+
 .topicButton{
 
     font-size:16px;
