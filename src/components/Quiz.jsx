@@ -1,5 +1,6 @@
 import "../styles/Quiz.css";
 import { useState } from "react";
+import { trackEvent } from "../utils/analytics";
 
 function Quiz({ quiz, exitQuiz }) {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -35,6 +36,25 @@ function Quiz({ quiz, exitQuiz }) {
     }, 0);
   }
 
+  function finishQuiz() {
+    const score = calculateScore();
+
+    trackEvent("quiz_finished", {
+      quiz_title: quiz.title,
+      question_count: quiz.questions.length,
+      score,
+    });
+    setIsFinished(true);
+  }
+
+  function confirmExitQuiz() {
+    trackEvent("quiz_exited", {
+      quiz_title: quiz.title,
+      question_number: currentQuestion + 1,
+    });
+    exitQuiz();
+  }
+
   function renderExitConfirmation() {
     if (!showExitConfirmation) return null;
 
@@ -53,7 +73,7 @@ function Quiz({ quiz, exitQuiz }) {
             <button onClick={() => setShowExitConfirmation(false)}>
               Cancel
             </button>
-            <button className="quitButton" onClick={exitQuiz}>
+            <button className="quitButton" onClick={confirmExitQuiz}>
               Yes, quit
             </button>
           </div>
@@ -125,7 +145,7 @@ function Quiz({ quiz, exitQuiz }) {
         </button>
 
         {currentQuestion === quiz.questions.length - 1 ? (
-          <button onClick={() => setIsFinished(true)}>Finish Quiz</button>
+          <button onClick={finishQuiz}>Finish Quiz</button>
         ) : (
           <button onClick={() => setCurrentQuestion(currentQuestion + 1)}>
             Next

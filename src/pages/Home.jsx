@@ -4,6 +4,7 @@ import Navigation from "../components/Navigation";
 import InfoPanel from "../components/InfoPanel";
 import Quiz from "../components/Quiz";
 import generateQuiz from "../utils/generateQuiz";
+import { trackEvent } from "../utils/analytics";
 import data from "../data/structure.json";
 
 import "../styles/Home.css";
@@ -44,6 +45,12 @@ function Home() {
 
     setQuizMessage("");
     setQuiz(generatedQuiz);
+    trackEvent("quiz_started", {
+      quiz_title: currentNode.title,
+      quiz_type: currentNode.type,
+      question_count: generatedQuiz.questions.length,
+      question_order: shuffleLesson ? "shuffled" : "default",
+    });
   }
 
   function exitQuiz() {
