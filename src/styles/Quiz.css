@@ -64,7 +64,7 @@
   margin: 20px 0;
 }
 
-.infoPanel > button,
+.exitQuizButton,
 .quizNavigation button,
 .modalActions button {
   padding: 10px 16px;

@@ -92,7 +92,10 @@ function Quiz({ quiz, exitQuiz }) {
           Your score: {score} / {quiz.questions.length}
         </h2>
 
-        <button onClick={() => setShowExitConfirmation(true)}>
+        <button
+          className="exitQuizButton"
+          onClick={() => setShowExitConfirmation(true)}
+        >
           Exit Quiz
         </button>
 
@@ -153,7 +156,12 @@ function Quiz({ quiz, exitQuiz }) {
         )}
       </div>
 
-      <button onClick={() => setShowExitConfirmation(true)}>Exit Quiz</button>
+      <button
+        className="exitQuizButton"
+        onClick={() => setShowExitConfirmation(true)}
+      >
+        Exit Quiz
+      </button>
 
       {renderExitConfirmation()}
     </div>
