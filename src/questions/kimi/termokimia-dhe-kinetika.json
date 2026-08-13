@@ -1,101 +1,1190 @@
 [
-{"id":"kimia-termokinetika-001","question":"Sa nxehtësi çlirohet gjatë një reaksioni në kalorimetër, kur nxehtësia rrit temperaturën e 1,75kg H2O nga 23°C në 42°C? (CH2O=4,2 J/g°C)","answers":["-139,6 kJ","+139,6 kJ","-278,2 kJ","+278,2 kJ"],"correct":0,"explanation":"Q=mcΔT=1750g×4,2×19=139650J=139,6kJ; nxehtësia çlirohet nga reaksioni, prandaj është negative."},
-{"id":"kimia-termokinetika-002","question":"N2(g)+3H2(g)=2NH3(g) Q=-92kJ. Sa litra N2 (K.N.) janë përdorur kur janë çliruar 322kJ nxehtësi?","answers":["39,2 l","78,4 l","50,4 l","72,8 l"],"correct":1,"explanation":"322kJ/92kJ=3,5mol N2; V=3,5×22,4=78,4L."},
-{"id":"kimia-termokinetika-003","question":"Sa është entalpia standarde e djegies së metanit, bazuar në energjitë e lidhjeve: E(C-H)=412, E(O=O)=496, E(C=O)=805, E(O-H)=463 kJ/mol?","answers":["+104 kJmol-1","-104 kJmol-1","-822 kJmol-1","+822 kJmol-1"],"correct":2,"explanation":"Lidhje të thyera: 4(C-H)+2(O=O)=2640kJ; lidhje të formuara: 2(C=O)+4(O-H)=3462kJ; ΔH=2640-3462=-822kJ/mol."},
-{"id":"kimia-termokinetika-004","question":"Gjatë djegies së 8g metan çlirohen 445000J. Sa nxehtësi çlirohet nga djegia e 1mol metan?","answers":["-890 kJmol-1","+890 kJmol-1","-223 kJmol-1","+223 kJmol-1"],"correct":0,"explanation":"8g CH4=0,5mol; për 1mol: 445kJ/0,5=890kJ, çlirohet (negative)."},
-{"id":"kimia-termokinetika-005","question":"Gjatë djegies së 46g etanol çlirohen 1365,7kJ. Sa nxehtësi çlirohet nga djegia e 0,5mol etanol?","answers":["-341,42kJ","+341,42 kJ","-682,85 kJ","+682,85 kJ"],"correct":2,"explanation":"46g=1mol çliron 1365,7kJ; për 0,5mol: 1365,7/2=682,85kJ, çlirohet."},
-{"id":"kimia-termokinetika-006","question":"4NH3(g)+3O2(g)=2N2(g)+6H2O(l) çliron 1205kJ. Sa nxehtësi çlirohet nga djegia e 34g amoniak? (ArN=14)","answers":["-602,5 kJ","+602,5 kJ","-301 kJ","+301 kJ"],"correct":0,"explanation":"34g NH3=2mol (nga 4mol total); 1205×(2/4)=602,5kJ, çlirohet."},
-{"id":"kimia-termokinetika-007","question":"2CO(g)+O2(g)=2CO2(g) Q=-566kJ. Sa nxehtësi çlirohet nga djegia e 28g CO? (ArC=12; ArO=16)","answers":["-141,5 kJ","+141,5 kJ","-283 kJ","+283 kJ"],"correct":2,"explanation":"28g CO=1mol (nga 2mol total); 566×(1/2)=283kJ, çlirohet."},
-{"id":"kimia-termokinetika-008","question":"FeO(ng)+H2(g)=Fe(ng)+H2O(g) Q=+24,7kJ. Sa nxehtësi shoqëron reaksionin kur fitohet 140g Fe? (ArFe=56)","answers":["-61,75 kJ","+61,75 kJ","-49,45 kJ","+49,45 kJ"],"correct":1,"explanation":"140g Fe=2,5mol; 24,7×2,5=61,75kJ, thithet (endotermik, pozitive)."},
-{"id":"kimia-termokinetika-009","question":"H2(g)+1/2O2(g)=H2O(g) çliron 242kJ. Sa nxehtësi çlirohet nga djegia e 9g hidrogjen?","answers":["1089 kJ","968 kJ","847 kJ","726 kJ"],"correct":0,"explanation":"9g H2=4,5mol; 242×4,5=1089kJ."},
-{"id":"kimia-termokinetika-010","question":"2H2S(g)+3O2(g)=2SO2(g)+2H2O(l) çliron 1205,2kJ. Sa nxehtësi çlirohet nga djegia e 34g H2S? (ArS=32)","answers":["602,6kJ","301,3kJ","903,9kJ","150,7kJ"],"correct":0,"explanation":"34g H2S=1mol (nga 2mol total); 1205,2×(1/2)=602,6kJ."},
-{"id":"kimia-termokinetika-011","question":"Në cilin barazim termokimik entalpia e reaksionit është edhe entalpi standarde e formimit?","answers":["CaO(ng)+H2O(l)=Ca(OH)2(uj) ∆H0=-63,3kJ","CO(g)+1/2O2(g)=CO2(g) ∆H0=-283kJ","S(ng)+O2(g)=SO2(g) ∆H0=-296,9kJ","H2(g)+Cl2(g)=2HCl(g) ∆H0=-184,6kJ"],"correct":2,"explanation":"Formimi kërkon 1 mol produkt nga elementet në gjendje standarde; S+O2=SO2 plotëson këtë kusht (S dhe O2 janë elemente)."},
-{"id":"kimia-termokinetika-012","question":"Në cilin barazim termokimik entalpia e reaksionit është edhe entalpi standarde e formimit?","answers":["N2(g)+3H2(g)=2NH3(g) ∆H0=-92 kJ","C(ng)+O2(g)=CO2(g) ∆H0=-393,5 kJ","CO(g)+1/2O2(g)=CO2(g) ∆H0=-283 kJ","H2(g)+O2(g)=2H2O(g) ∆H0=-571,6 kJ"],"correct":1,"explanation":"C+O2=CO2 formon 1 mol produkt nga elemente në gjendje standarde, pra është reaksion formimi."},
-{"id":"kimia-termokinetika-013","question":"Reaksion endotermik është:","answers":["C(ng)+O2(g)=CO2(g) ∆H<0","S(ng)+O2(g)=SO2(g) ∆H<0","CaCO3(ng)=CaO(ng)+CO2(g) ∆H>0","1/2N2(g)+3/2H2(g)=NH3(g) ∆H<0"],"correct":2,"explanation":"Shpërbërja e CaCO3 me ∆H>0 është endotermike; të tjerat kanë ∆H<0 (ekzotermike)."},
-{"id":"kimia-termokinetika-014","question":"Sa është nxehtësia specifike e alkoolit etilik, nëse për të rritur temperaturën e 15g alkool nga 22,7°C në 26,2°C duhen 129J?","answers":["2,457J/g°C","24,57J/g°C","1,228J/g°C","12,28J/g°C"],"correct":0,"explanation":"c=Q/(mΔT)=129/(15×3,5)=2,457 J/g°C."},
-{"id":"kimia-termokinetika-015","question":"Cila është temperatura përfundimtare e 32,3g nikeli në 24,25°C, kur i jepen 50J nxehtësi (c=0,444J/g°C)?","answers":["27,736°C","20,764°C","13,868°C","10,382°C"],"correct":0,"explanation":"ΔT=Q/(mc)=50/(32,3×0,444)=3,486°C; T final=24,25+3,486=27,736°C."},
-{"id":"kimia-termokinetika-016","question":"Djegia e 1g C6H6 çliron 41,84kJ. Sa nxehtësi formohet nga djegia e 1mol C6H6? (M=78g/mol)","answers":["1631,76kJ","163,176kJ","326,352kJ","3263,52kJ"],"correct":3,"explanation":"1mol C6H6=78g; 78×41,84=3263,52kJ."},
-{"id":"kimia-termokinetika-017","question":"Jepen: C2H2+H2=C2H4 ∆H=-175,7kJ/mol dhe C2H2+2H2=C2H6 ∆H=-312,0kJ/mol. Sa është entalpia e C2H4+H2=C2H6?","answers":["–136,3 kJ/mol","–312,0 kJ/mol","+312,0 kJ/mol","+136,3 kJ/mol"],"correct":0,"explanation":"Sipas ligjit të Hesit: ΔH=ΔH2-ΔH1=-312,0-(-175,7)=-136,3kJ/mol."},
-{"id":"kimia-termokinetika-018","question":"N2(g)+3H2(g)→2NH3(g), k=0,15 (reaksion elementar). Sa është shpejtësia kur [N2]=2mol/l dhe [H2]=3mol/l?","answers":["8,1 mol/l∙s","0,6 mol/l∙s","1,2 mol/l∙s","2,7 mol/l∙s"],"correct":0,"explanation":"V=k[N2][H2]³=0,15×2×27=8,1mol/l·s."},
-{"id":"kimia-termokinetika-019","question":"2SO2(g)+O2(g)=2SO3(g): dyfishimi i [SO2] dyfishon shpejtësinë, ndryshimi i [O2] nuk e prek. Barazimi kinetik është:","answers":["V=k∙[SO2]","V=k∙[SO2]²∙[O2]","V=k∙[SO2]²","V=k∙[SO2]∙[O2]"],"correct":0,"explanation":"Dyfishimi i [SO2] jep dyfishim të shpejtësisë → rend i parë; O2 s'ka efekt → rend zero."},
-{"id":"kimia-termokinetika-020","question":"Për 2A+B=C, sa herë duhet të rritet [A] që shpejtësia të mos ndryshojë kur [B] zvogëlohet 2 herë?","answers":["1,25 herë","1,41 herë","1,75 herë","2,58 herë"],"correct":1,"explanation":"V=k[A]²[B]; [A]² duhet dyfishohet, pra [A] rritet me √2=1,41 herë."},
-{"id":"kimia-termokinetika-021","question":"Sa herë rritet shpejtësia e reaksionit kur temperatura rritet nga 20°C në 80°C, koeficienti i temp. =2?","answers":["8 herë","16 herë","32herë","64 herë"],"correct":3,"explanation":"Faktori=2^((80-20)/10)=2^6=64."},
-{"id":"kimia-termokinetika-022","question":"2C(ng)+4H2(g)+O2(g)=2CH3OH(l) ∆H=-478kJ. Entalpia standarde e formimit të CH3OH(l) është:","answers":["-119,5 kJ","-239 kJ","-478 kJ","-956 kJ"],"correct":1,"explanation":"Formimi standard është për 1mol produkt: -478/2=-239kJ/mol."},
-{"id":"kimia-termokinetika-023","question":"Si ndryshon shpejtësia e reaksionit kur temp. rritet nga 20°C në 70°C dhe koeficienti i temp. =2?","answers":["Rritet 32 herë","Rritet 25 herë","Zvogëlohet 32 herë","Zvogëlohet 25 herë"],"correct":0,"explanation":"Faktori=2^((70-20)/10)=2^5=32, rritet."},
-{"id":"kimia-termokinetika-024","question":"Temperatura e 5g ujë ndryshoi nga 43,2°C në 11°C (c=1kal/g°C). Cili pohim është i saktë?","answers":["Absorboi 32,2 Kal","Çliroi 161 Kal","Absorboi 161 Kal","Çliroi 5000 Kal"],"correct":1,"explanation":"Temperatura zbriti (43,2→11), pra uji çliroi nxehtësi: Q=5×1×32,2=161kal."},
-{"id":"kimia-termokinetika-025","question":"Si ndryshon shpejtësia kur temp. zvogëlohet nga 80°C në 30°C dhe koeficienti i temp.=3?","answers":["Rritet 243 herë","Rritet 81 herë","Zvogëlohet 243 herë","Zvogëlohet 81 herë"],"correct":2,"explanation":"Faktori=3^((80-30)/10)=3^5=243; meqë temperatura zbret, shpejtësia zvogëlohet."},
-{"id":"kimia-termokinetika-026","question":"Sa herë duhet të rritet trysnia e gazeve që shpejtësia e 2CO(g)+O2(g)=2CO2(g) të rritet 216 herë?","answers":["4 herë","5 herë","6 herë","7 herë"],"correct":2,"explanation":"Rendi total=3; n³=216 → n=6."},
-{"id":"kimia-termokinetika-027","question":"Kur trysnia rritet 3 herë, si ndryshon shpejtësia e 2CO(g)+O2(g)=2CO2(g)?","answers":["Rritet 9 herë","Rritet 27 herë","Zvogëlohet 27 herë","Zvogëlohet 9 herë"],"correct":1,"explanation":"Rendi total=3; 3³=27, rritet."},
-{"id":"kimia-termokinetika-028","question":"Sa është shpejtësia mesatare e A→B kur [A] shkon nga 0,5 në 0,1mol/l brenda 8 sek?","answers":["0,5x10¹ mol/l·s","0,5x10⁻² mol/l·s","5x10⁻¹ mol/l·s","5x10⁻² mol/l·s"],"correct":3,"explanation":"V=(0,5-0,1)/8=0,05=5×10⁻² mol/l·s."},
-{"id":"kimia-termokinetika-029","question":"2N2O5(g)→4NO2(g)+O2(g), shpejtësia e formimit të O2 është 0,09mol/l·s. Sa është shpejtësia e formimit të NO2?","answers":["0,09 mol/l·s","0,18 mol/l·s","0,36 mol/l·s","0,90 mol/l·s"],"correct":2,"explanation":"Raporti NO2:O2=4:1, pra rate(NO2)=4×0,09=0,36mol/l·s."},
-{"id":"kimia-termokinetika-030","question":"Sa është shpejtësia mesatare e 2A→B+C kur [B] shkon nga 0,5 në 0,95mol/l brenda 10s?","answers":["0,5x10¹ mol/l·s","4,5x10⁻² mol/l·s","5,0x10⁻¹ mol/l·s","9,5x10⁻¹ mol/l·s"],"correct":1,"explanation":"V(B)=(0,95-0,5)/10=0,045=4,5×10⁻² mol/l·s."},
-{"id":"kimia-termokinetika-031","question":"A+2B=C, [A]0=2mol/l, [B]0=2,5mol/l, k=2. Sa është shpejtësia kur janë shpenzuar 0,15mol A?","answers":["17,9 mol/l·s","15,1 mol/l·s","8,8 mol/l·s","2,5 mol/l·s"],"correct":0,"explanation":"[A]=1,85; ΔB=0,3 → [B]=2,2; V=k[A][B]²=2×1,85×4,84=17,9mol/l·s."},
-{"id":"kimia-termokinetika-032","question":"Kur trysnia rritet 6 herë, sa herë rritet shpejtësia e 2SO2(g)+O2(g)=2SO3(g)?","answers":["36 herë","216 herë","6 herë","Nuk ndryshon"],"correct":1,"explanation":"Rendi total=3; 6³=216."},
-{"id":"kimia-termokinetika-033","question":"Sa është konstantja e ekuilibrit për CO2(g)+H2(g)⇌CO(g)+H2O(g), kur [CO]=0,02M; [H2O]=0,32M; [H2]=0,08M; [CO2]=0,08M?","answers":["0,5","1,0","1,5","2,0"],"correct":1,"explanation":"Kc=([CO][H2O])/([CO2][H2])=(0,02×0,32)/(0,08×0,08)=1,0."},
-{"id":"kimia-termokinetika-034","question":"1/2N2(g)+3/2H2(g)=NH3(g) ∆H=-11kJ/mol. Sa nxehtësi çlirohet kur formohen 85g NH3? (ArN=14;ArH=1)","answers":["5,5 kJ","11,5 kJ","55 kJ","110 kJ"],"correct":2,"explanation":"85g NH3=5mol; 11×5=55kJ."},
-{"id":"kimia-termokinetika-035","question":"A2+B2→2AB me mekanizëm: faza e ngadaltë A2→2A, faza e shpejtë A+B2→AB+B. Cili është barazimi i shpejtësisë?","answers":["V=k[A2]","V=k[B2]","V=k[A2][B2]","V=k[A][B2]"],"correct":0,"explanation":"Shpejtësia përcaktohet nga faza e ngadaltë: A2→2A, pra V=k[A2]."},
-{"id":"kimia-termokinetika-036","question":"CH4(g)+2O2(g)→CO2(g)+2H2O(g) ∆H=-890kJ. Kur digjen 2,24 litra CH4 (K.N.), çlirohen:","answers":["44,5 kJ","89 kJ","445 kJ","890 kJ"],"correct":1,"explanation":"2,24L CH4=0,1mol; 890×0,1=89kJ."},
-{"id":"kimia-termokinetika-037","question":"Për të shndërruar 9g H2O(l)→H2O(g), janë shpenzuar 5,9kJ. Vlera e entalpisë së reaksionit është:","answers":["-5 kJ","-10 kJ","+10 kJ","+11,8 kJ"],"correct":3,"explanation":"9g H2O=0,5mol; për 1mol: 5,9/0,5=11,8kJ, thithet (pozitive, procesi kërkon energji)."},
-{"id":"kimia-termokinetika-038","question":"Energjia e aktivizimit është:","answers":["energjia termike e prodhuar ose thithur nga 1mol reaktantësh","energjia kimike që zotërojnë grimcat e produkteve","energjia kinetike që zotërojnë grimcat e reaktantëve në çastin e përplasjes","rritja e energjisë kimike mes grimcave në çastin e përplasjes"],"correct":2,"explanation":"Energjia e aktivizimit është energjia minimale kinetike që duhet grimcat në çastin e përplasjes për të reaguar."},
-{"id":"kimia-termokinetika-039","question":"Lidhur me enzimat, cili pohim NUK është i saktë?","answers":["Janë katalizator specifik të proceseve biologjike","Rrisin temperaturën për të përshpejtuar reaksionet biologjike","Zvogëlojnë energjinë e aktivizimit","Përbëhen nga molekula të mëdha proteinash"],"correct":1,"explanation":"Enzimat përshpejtojnë reaksionet duke ulur energjinë e aktivizimit, jo duke rritur temperaturën."},
-{"id":"kimia-termokinetika-040","question":"Cili stad i mekanizmit përcakton shpejtësinë e një reaksioni jo të thjeshtë?","answers":["Stadi përfundimtar, ku formohen produktet","Stadi që ka energjinë më të madhe të aktivizimit","Stadi që ka energjinë më të vogël të aktivizimit","Stadi që nis reaksionin"],"correct":1,"explanation":"Faza më e ngadaltë (energjia më e madhe e aktivizimit) përcakton shpejtësinë e përgjithshme."},
-{"id":"kimia-termokinetika-041","question":"Sa është entalpia standarde e formimit të C2H5OH kur nga djegia e 4,6g çlirohet 123,53kJ? (∆H0H2O=-242; ∆H0CO2=-393,5 kJ/mol; M=46g/mol)","answers":["–277,7 kJ","–1235,3 kJ","+1235,3 kJ","–1515 kJ"],"correct":0,"explanation":"Djegia jep -1235,3kJ/mol; ΔHf(etanol)=[2(-393,5)+3(-242)]-(-1235,3)=-277,7kJ/mol."},
-{"id":"kimia-termokinetika-042","question":"Sa nxehtësi çlirohet kur bashkëveprojnë 100L NH3 me HNO3? (∆H0NH3=-46; ∆H0HNO3=-173,2; ∆H0NH4NO3=-365 kJ/mol)","answers":["–145,7 kJ","+145,7 kJ","+650,9 kJ","–650,9 kJ"],"correct":3,"explanation":"ΔHrxn=-365-(-46-173,2)=-145,8kJ/mol; 100L NH3=4,46mol; 145,8×4,46≈650,9kJ."},
-{"id":"kimia-termokinetika-043","question":"Jepen: N2+O2=2NO ∆H0=+180,8kJ dhe N2+2O2=2NO2 ∆H0=+66,6kJ. Sa është entalpia e NO(g)+1/2O2(g)=NO2(g)?","answers":["-90,0 kJ","+33,3 kJ","-57,1 kJ","-114,2 kJ"],"correct":2,"explanation":"ΔH=1/2(66,6)-1/2(180,8)=33,3-90,4=-57,1kJ."},
-{"id":"kimia-termokinetika-044","question":"Sa është entalpia standarde për 2NaHCO3(ng)=Na2CO3(ng)+CO2(g)+H2O(l)? (∆H0NaHCO3=-950,8; ∆H0Na2CO3=-1130,7; ∆H0CO2=-393,5; ∆H0H2O=-285,8 kJ/mol)","answers":["-951 kJmol-1","+951 kJmol-1","-91,6 kJmol-1","+91,6 kJmol-1"],"correct":3,"explanation":"ΔH=[-1130,7-393,5-285,8]-2(-950,8)=-1810+1901,6=+91,6kJ/mol."},
-{"id":"kimia-termokinetika-045","question":"Ndryshimi i entalpisë së N2(g)+3H2(g)=2NH3, bazuar në energjitë e lidhjeve: E(N≡N)=945; E(H-H)=436; E(N-H)=391 kJ/mol.","answers":["+93 kJmol-1","-93 kJmol-1","-529 kJmol-1","+529 kJmol-1"],"correct":1,"explanation":"Lidhje të thyera: 945+3×436=2253; lidhje formuara: 6×391=2346; ΔH=2253-2346=-93kJ."},
-{"id":"kimia-termokinetika-046","question":"Cili reaksion është endotermik?","answers":["CaO(ng)+H2O(l)=Ca(OH)2(ng)","CO(g)+1/2O2(g)=CO2(g)","2Al2O3(ng)=4Al(ng)+3O2(g)","H2(g)+Cl2(g)=2HCl(g)"],"correct":2,"explanation":"Shpërbërja e Al2O3 në Al dhe O2 (e kundërta e formimit shumë ekzotermik) kërkon energji, është endotermike."},
-{"id":"kimia-termokinetika-047","question":"Jepen: N2(g)+2O2(g)=2NO2(g) ∆H1=+66,4kJ dhe 2NO(g)+O2(g)=2NO2(g) ∆H2=-114,1kJ. Sa është entalpia molare e formimit të NO(g)?","answers":["+47,7 kJ","–47,7 kJ","+90,2 kJ","–180,4 kJ"],"correct":2,"explanation":"1/2N2+O2=NO: ΔH=(ΔH1-ΔH2)/2=(66,4+114,1)/2=90,2kJ."},
-{"id":"kimia-termokinetika-048","question":"Sa nxehtësi çlirohet nga adicioni i 20L hidrogjen (K.N.) me eten: C2H4(g)+H2(g)=C2H6(g)? (∆H0C2H4=+52,3; ∆H0C2H6=-84,7 kJ/mol)","answers":["-122,3 kJ","+122,3 kJ","-137,1 kJ","+137,1 kJ"],"correct":0,"explanation":"ΔHrxn=-84,7-52,3=-137,0kJ/mol; 20L H2=0,893mol; 137×0,893=122,3kJ, çlirohet."},
-{"id":"kimia-termokinetika-049","question":"Sa nxehtësi fitohet nga djegia e plotë e 90g gaz uji (CO+H2 barazmolarë)? (∆H0CO2=-393,5; ∆H0H2O=-286; ∆H0CO=-110 kJ/mol)","answers":["-569,5 kJ","-1138,5 kJ","-1708,5 kJ","+569,3 kJ"],"correct":2,"explanation":"3mol secili (28x+2x=90); djegia CO: 283,5×3=850,5; djegia H2: 286×3=858; total=1708,5kJ."},
-{"id":"kimia-termokinetika-050","question":"Sa është ∆H0 për 4NH3(g)+7O2(g)=4NO2(g)+6H2O(l)? (∆H0NH3=-46; ∆H0NO2=+34; ∆H0H2O=-286 kJ/mol)","answers":["+1764 kJ/mol","–1764 kJ/mol","-1396 kJ/mol","+1396 kJ/mol"],"correct":2,"explanation":"ΔH=[4(34)+6(-286)]-4(-46)=[136-1716]+184=-1396kJ."},
-{"id":"kimia-termokinetika-051","question":"CH3OCH3(l)+3O2(g)=2CO2(g)+3H2O(l) çliron 1450kJ. Njehsoni ∆H nëse digjen 2,61g eter. (ArC=12,ArO=16,ArH=1)","answers":["-82,2 kJ/mol","-822 kJ/mol","-435 kJ/mol","-43,5kJ/mol"],"correct":0,"explanation":"2,61g/46g/mol=0,0567mol; 1450×0,0567=82,2kJ, çlirohet."},
-{"id":"kimia-termokinetika-052","question":"Çfarë nxehtësie nevojitet për të ngrohur 250g ujë nga 22°C në 98°C? (Cs=4,18J/g°C)","answers":["39,71 kJ","397,1 kJ","79,42 kJ","794,2 kJ"],"correct":2,"explanation":"Q=mcΔT=250×4,18×76=79420J=79,42kJ."},
-{"id":"kimia-termokinetika-053","question":"CH3OH(l)+3/2O2(g)=CO2(g)+2H2O(l) ∆H=-764kJ/mol. Sa litra O2 (K.N.) veprojnë nëse çlirohen 945kJ?","answers":["4,15 l","41,5 l","2,27 l","27,7 l"],"correct":1,"explanation":"945/764=1,237mol metanol → O2=1,5×1,237=1,856mol=41,5L."},
-{"id":"kimia-termokinetika-054","question":"Gjatë përftimit të 0,09g H2O(l) u çlirua 1,43kJ. Sa është entalpia standarde e formimit të ujit?","answers":["-572 kJ/mol","+572 kJ/mol","+286 kJ/mol","-286 kJ/mol"],"correct":3,"explanation":"0,09g H2O=0,005mol; për 1mol: 1,43/0,005=286kJ, çlirohet (negative)."},
-{"id":"kimia-termokinetika-055","question":"Jepen: H2+1/2O2=H2O(g) ∆H=-241,8kJ dhe H2+1/2O2=H2O(l) ∆H=-285,8kJ. Cili pohim NUK është i saktë?","answers":["Reaksioni 1 është ekzotermik","Reaksioni 2 është formimi i H2O(l)","Shpërbërja e ujit është endotermike","∆H për H2O(g)→H2O(l) është +44 kJ"],"correct":3,"explanation":"ΔH për kondensimin H2O(g)→H2O(l)=-285,8-(-241,8)=-44kJ (negative, jo pozitive)."},
-{"id":"kimia-termokinetika-056","question":"A(g)+2B(g)=C(g), [A]0=2, [B]0=2,5mol/l. Sa është shpejtësia kur mbeten 1,85mol A?","answers":["4,46 x konstante","4,49 x konstante","8,95 x konstante","13,4 x konstante"],"correct":2,"explanation":"ΔA=0,15; ΔB=0,3 → [B]=2,2; V=k[A][B]²=k×1,85×4,84=8,95k."},
-{"id":"kimia-termokinetika-057","question":"Në 400ml, ka 0,1mol CO dhe 0,15mol O2 (2CO+O2=2CO2). Sa është shpejtësia kur k=12?","answers":["1,11 mol/l·s","0,75 mol/l·s","0,28 mol/l·s","0,41 mol/l·s"],"correct":2,"explanation":"[CO]=0,25M,[O2]=0,375M; V=k[CO]²[O2]=12×0,0625×0,375=0,28mol/l·s."},
-{"id":"kimia-termokinetika-058","question":"A+B=D: trefishimi i [A] rrit shpejtësinë 3 herë; dyfishimi i [B] e dyfishon. Rendi i reaksionit është:","answers":["rendi i parë","rendi i dytë","rendi zero","rendi i tretë"],"correct":1,"explanation":"Rend 1 për A + rend 1 për B = rend total i dytë."},
-{"id":"kimia-termokinetika-059","question":"Në 1200ml ka 0,15mol CO dhe 0,25mol O2 (2CO+O2=2CO2, k=12). Sa është shpejtësia?","answers":["3,9x10⁻² mol/l·s","3,6x10⁻¹ mol/l·s","6x10⁻² mol/l·s","6x10⁻¹ mol/l·s"],"correct":0,"explanation":"[CO]=0,125M,[O2]=0,208M; V=12×0,0156×0,208=0,039mol/l·s."},
-{"id":"kimia-termokinetika-060","question":"A(g)+B(g)=2C(g), [B]0=0,8mol/l, pas 30s harxhohet 60% e B. Sa është shpejtësia mesatare?","answers":["1,6x10⁻¹ mol/l·s","8x10⁻³ mol/l·s","1,6x10⁻² mol/l·s","8x10⁻² mol/l·s"],"correct":2,"explanation":"ΔB=0,6×0,8=0,48; V=0,48/30=1,6×10⁻²mol/l·s."},
-{"id":"kimia-termokinetika-061","question":"a. A+B=C dhe b. D+E=G, me [A]=[D],[B]=[E], T e njëjtë. Shpejtësia e (a) është 2× e (b). Për konstantet themi:","answers":["Janë të barabarta","k(a) është 2× k(b)","k(b) është 2× k(a)","k(a) është 1,5× k(b)"],"correct":1,"explanation":"Meqë përqendrimet janë të njëjta dhe V(a)=2V(b), atëherë k(a)=2k(b)."},
-{"id":"kimia-termokinetika-062","question":"Sa nxehtësi çlirohet nga djegia e 4,48L pentan (K.N.)? C5H12+8O2=5CO2+6H2O(l) (∆H0CO2=-393,5;∆H0H2O=-285,8;∆H0C5H12=-146,7 kJ/mol)","answers":["70,712 kJ","707,12 kJ","353,56 kJ","3535,6 kJ"],"correct":1,"explanation":"ΔHcombustion=-3535,6kJ/mol; 4,48L=0,2mol; 3535,6×0,2=707,12kJ."},
-{"id":"kimia-termokinetika-063","question":"A(g)+2B(g)=C(g): sa herë duhet të rritet [A] që kur [B] zvogëlohet 3 herë, shpejtësia të mos ndryshojë?","answers":["3 herë","1,5 herë","6 herë","9 herë"],"correct":3,"explanation":"[B]² zvogëlohet 9 herë; [A] (rend 1) duhet të rritet 9 herë për kompensim."},
-{"id":"kimia-termokinetika-064","question":"Sa herë duhet të rritet trysnia që shpejtësia e 2SO2(g)+O2(g)=2SO3(g) të rritet 512 herë?","answers":["5 herë","3 herë","8 herë","9 herë"],"correct":2,"explanation":"Rendi total=3; n³=512 → n=8."},
-{"id":"kimia-termokinetika-065","question":"2A(g)+B(g)=C(g): sa herë duhet të rritet [B] që kur [A] zvogëlohet 4 herë, shpejtësia të mos ndryshojë?","answers":["8 herë","16 herë","4 herë","32 herë"],"correct":1,"explanation":"[A]² zvogëlohet 16 herë; [B] (rend 1) duhet të rritet 16 herë."},
-{"id":"kimia-termokinetika-066","question":"Njehsoni konstanten e ekuilibrit për COCl2(g)⇌CO(g)+Cl2(g) në V=5L me 0,2mol COCl2, 0,5mol CO, 0,5mol Cl2.","answers":["2,5x10¹","1,25","4x10¹","2,5x10⁻¹"],"correct":3,"explanation":"[COCl2]=0,04M,[CO]=[Cl2]=0,1M; Kc=(0,1×0,1)/0,04=0,25."},
-{"id":"kimia-termokinetika-067","question":"N2O(g)+NO(g)↔N2(g)+NO2(g) ∆H=-33kJ, Ea(drejtë)=50kJ. Sa është Ea për reaksionin e zhdrejtë?","answers":["17 kJ","65 kJ","80 kJ","83 kJ"],"correct":3,"explanation":"Ea(zhdrejtë)=Ea(drejtë)-ΔH=50-(-33)=83kJ."},
-{"id":"kimia-termokinetika-068","question":"A(g)+B(g)=2C(g): dyfishimi i [A] dyfishon shpejtësinë, dyfishimi i [B] nuk e ndryshon. Cili barazim kinetik është i saktë?","answers":["V=k[A]²","V=k[A][A][C]²","V=k[A]","V=k[A][B]"],"correct":2,"explanation":"Rend 1 për A (dyfishimi dyfishon), rend 0 për B: V=k[A]."},
-{"id":"kimia-termokinetika-069","question":"A2B(l)+C2(g)↔A2C(g)+BC(g) ∆H>0. Cila ndërhyrje rrit [BC] në ekuilibër?","answers":["Ulja e temperaturës","Ulja e [C2]","Ulja e trysnisë","Shtimi i A2C"],"correct":2,"explanation":"Ana e djathtë ka më shumë mole gazi (2 vs 1); ulja e trysnisë e zhvendos ekuilibrin djathtas, duke rritur [BC]."},
-{"id":"kimia-termokinetika-070","question":"2NO+O2=2NO2. [NO]0=0,8,[O2]0=0,6mol/l rriten në [NO]=1,2,[O2]=0,9. Si ndryshon shpejtësia?","answers":["Rritet 2,25 herë","Rritet 1,5 herë","Rritet 4,5 herë","Rritet 3,37 herë"],"correct":3,"explanation":"V1=k(0,8)²(0,6)=0,384k; V2=k(1,2)²(0,9)=1,296k; raporti=3,37."},
-{"id":"kimia-termokinetika-071","question":"2X(ng)+3/2O2(g)=X2O3(ng) ∆H=-1624kJ. Kur prodhohen 20g X2O3, çlirohen 203kJ. Cila është Ar(X)? (ArO=16)","answers":["56","84","112","168"],"correct":0,"explanation":"mol X2O3=203/1624=0,125mol; M=20/0,125=160g/mol; 2Ar(X)+48=160 → Ar(X)=56."},
-{"id":"kimia-termokinetika-072","question":"Sa nxehtësi duhet dhënë 25kg ujë (c=4,18J/g°C) për t'i rritur temperaturën nga 25°C në 85°C?","answers":["6,27 x 10⁶ J","1,87 x 10² J","2,87x 10⁻⁶ J","1,07x 10⁻² J"],"correct":0,"explanation":"Q=25000×4,18×60=6.270.000J=6,27×10⁶J."},
-{"id":"kimia-termokinetika-073","question":"A(g)+B(g)→2C(g): dyfishimi i [A] rrit shpejtësinë 4 herë; [B] nuk ka efekt. Barazimi i shpejtësisë është:","answers":["V=k[A]²","V=k[A]⁴","V=k[A][B]","V=k[A]²[B]"],"correct":0,"explanation":"Dyfishimi jep 4× rritje → rend 2 për A; B rend 0."},
-{"id":"kimia-termokinetika-074","question":"Djegia e CS2 çliron 1075,2kJ/mol. Sa është entalpia standarde e formimit të CS2? (∆H0CO2=-393,5;∆H0SO2=-296,9 kJ/mol)","answers":["-70,8 kJ/mol","+87,9 kJ/mol","–26,9 kJ/mol","+30,4 kJ/mol"],"correct":1,"explanation":"ΔHf(CS2)=[ΔHf(CO2)+2ΔHf(SO2)]-ΔHcombustion=[-393,5-593,8]-(-1075,2)=+87,9kJ/mol."},
-{"id":"kimia-termokinetika-075","question":"Djegia e butadienit C4H6 çliron 2542kJ/mol. Sa është entalpia standarde e formimit? (∆H0CO2=-393,5;∆H0H2O(g)=-286 kJ/mol)","answers":["-160,8 kJ/mol","+77,1 kJ/mol","-50,4 kJ/mol","+110,0 kJ/mol"],"correct":3,"explanation":"ΔHf=[4(-393,5)+3(-286)]-(-2542)=[-1574-858]+2542=+110,0kJ/mol."},
-{"id":"kimia-termokinetika-076","question":"Sa nxehtësi çlirohet kur digjen plotësisht 0,5mol metanol? (∆H0CO2=-393;∆H0H2O=-286;∆H0CH3OH=-75 kJ/mol)","answers":["250 kJ","545 kJ","445 kJ","351 kJ"],"correct":2,"explanation":"ΔHrxn=[-393-572]-(-75)=-890kJ/mol; për 0,5mol: 890×0,5=445kJ."},
-{"id":"kimia-termokinetika-077","question":"Si ndryshon shpejtësia e 2A(g)+B2(g)=2AB(g) nëse trysnia rritet 4 herë?","answers":["Rritet 64 herë","Rritet 16 herë","Zvogëlohet 16 herë","Nuk ndryshon"],"correct":0,"explanation":"Rendi total=3; 4³=64."},
-{"id":"kimia-termokinetika-078","question":"A(g)+2B(g)→C(g), [A]0=0,3,[B]0=0,5mol/l, k=0,8. Sa është shpejtësia kur [A] zvogëlohet me 0,1mol/l?","answers":["1,44 x10⁻² mol/l·s","1,88 x10⁻² mol/l·s","1,22 x10⁻¹ mol/l·s","6,44x10⁻¹ mol/l·s"],"correct":0,"explanation":"[A]=0,2; ΔB=0,2 → [B]=0,3; V=0,8×0,2×0,09=1,44×10⁻²mol/l·s."},
-{"id":"kimia-termokinetika-079","question":"2NO(g)+Cl2(g)→2NOCl(g): dyfishimi i reaktantëve rrit shpejtësinë 4 herë; trefishimi i Cl2 e rrit 3 herë. Barazimi dhe rendi janë:","answers":["V=k[Cl2] dhe rendi i parë","V=k[NO]² dhe rendi i dytë","V=k[NO][Cl2] dhe rendi i dytë","V=k[NO]²[Cl2] dhe rendi i tretë"],"correct":3,"explanation":"Rend 2 për NO, rend 1 për Cl2, total rendi i tretë."},
-{"id":"kimia-termokinetika-080","question":"Nga 3 eksperimente për 2NO(g)+H2(g)→N2O(g)+H2O(l), gjeni barazimin kinetik nga të dhënat e tabelës.","answers":["V=k[NO][H2]","V=k[NO]²[H2]","V=k[NO][H2]²","V=k[NO]"],"correct":1,"explanation":"Dyfishimi i [NO] jep 4× rritje (rend 2); dyfishimi i [H2] jep 2× rritje (rend 1)."},
-{"id":"kimia-termokinetika-081","question":"Nga djegia e 1mol përzierje CH4/C2H6 çlirohen 1322,7kJ. (CH4: ∆H=-887,4; C2H6: ∆H=-1431,6 kJ/mol). Sa mol metan përmban përzierja?","answers":["0,2 mol","0,25 mol","0,5 mol","0,75 mol"],"correct":0,"explanation":"887,4x+1431,6(1-x)=1322,7 → x=0,2mol."},
-{"id":"kimia-termokinetika-082","question":"Sa është entalpia e N2(g)+3H2(g)=2NH3, bazuar në djegien: 4NH3(g)+5O2(g)=4NO(g)+6H2O(l) ∆H=-1170,2kJ (∆H0NO=+90,4;∆H0H2O=-286 kJ/mol)?","answers":["-46 kJmol-1","-92 kJmol-1","-184 kJmol-1","+184 kJmol-1"],"correct":1,"explanation":"ΔHf(NH3)=-46kJ/mol nga djegia; sinteza formon 2mol NH3: 2×(-46)=-92kJ."},
-{"id":"kimia-termokinetika-083","question":"Bazuar në thyerjen/formimin e lidhjeve, cili reaksion është ekzotermik?","answers":["2NH3(g)=N2(g)+3H2(g)","CS2(l)+3O2(g)=CO2(g)+2SO2(g)","N2O4(g)=2NO2(g)","N2(g)+O2(g)=2NO(g)"],"correct":1,"explanation":"Djegia e CS2 (reaksion oksidimi tipik) çliron energji të madhe, është ekzotermike."},
-{"id":"kimia-termokinetika-084","question":"Sa nxehtësi çlirohet nga bashkëveprimi N2/H2 (raport 1:3) në 8,96L (K.N.)? (∆H0NH3=-46kJ)","answers":["-92 kJ","-9,2 kJ","+92 kJ","+9,2 kJ"],"correct":1,"explanation":"Total 0,4mol (N2=0,1;H2=0,3, raport stekiometrik); NH3 formuar=0,2mol; 46×0,2=9,2kJ, çlirohet."},
-{"id":"kimia-termokinetika-085","question":"50ml 1M HCl + 50ml 1M NaOH: temperatura rritet nga 21°C në 27,5°C. Sa është ∆H (kJ/mol)? (Cs=4,18J/g°C, dH2O=1g/ml)","answers":["–2,7 kJ/mol","–54 kJ/mol","+2,7 kJ/mol","+5,4 kJ/mol"],"correct":1,"explanation":"Q=100g×4,18×6,5=2717J=2,717kJ; mol=0,05; ΔH=-2,717/0,05=-54kJ/mol."},
-{"id":"kimia-termokinetika-086","question":"Duke përdorur: C2H5OH+3O2=2CO2+3H2O ∆H1=-1367kJ/mol dhe C2H4+3O2=2CO2+2H2O ∆H2=-1411kJ/mol, njehsoni ∆H0 për C2H4+H2O=C2H5OH.","answers":["–44 kJ/mol","–22 kJ/mol","+44 kJ/mol","+22 kJ/mol"],"correct":0,"explanation":"ΔH=ΔH2-ΔH1=-1411-(-1367)=-44kJ/mol."},
-{"id":"kimia-termokinetika-087","question":"Jepen: 4Al+3O2=2Al2O3 ∆H=-3352kJ dhe 4Al+3MnO2=3Mn+2Al2O3 ∆H=-1792kJ. Sa është entalpia standarde e formimit të MnO2?","answers":["-1560 kJ/mol","+1560 kJ/mol","-520 kJ/mol","+520 kJ/mol"],"correct":2,"explanation":"3Mn+3O2=3MnO2: ΔH=-3352-(-1792)=-1560kJ (për 3mol); për 1mol: -520kJ/mol."},
-{"id":"kimia-termokinetika-088","question":"Bazuar në: N2+O2=2NO ∆H1=+180,7kJ; 2NO+O2=2NO2 ∆H2=-113,1kJ; 2N2O=2N2+O2 ∆H3=-163,2kJ. Sa është entalpia e N2O(g)+NO2(g)→3NO(g)?","answers":["-155,65 kJ","+155,65 kJ","+223,25 kJ","-223,25 kJ"],"correct":1,"explanation":"Duke kombinuar sipas ligjit të Hesit reaksionet e dhëna, ΔH=+155,65kJ."},
-{"id":"kimia-termokinetika-089","question":"A+2B=C, k=0,8. [A]0=1,[B]0=1,5mol/l. Sa është shpejtësia kur mbetet 30% e A?","answers":["7,2x10⁻² mol/l·s","7,2 x10⁻³ mol/l·s","2,4x10⁻² mol/l·s","2,4x10⁻³ mol/l·s"],"correct":3,"explanation":"[A]=0,3; ΔB=1,4 → [B]=0,1; V=0,8×0,3×0,01=2,4×10⁻³mol/l·s."},
-{"id":"kimia-termokinetika-090","question":"A(g)+B(g)→C(g): dyfishimi i A dhe B së bashku rrit shpejtësinë 8 herë; dyfishimi vetëm i A e dyfishon. Rendi total i reaksionit është:","answers":["1","1,5","2","2,5"],"correct":1,"explanation":"Rend 1 për A; kombinuar 4^(1+m)=8 → m=0,5 për B; total=1,5."},
-{"id":"kimia-termokinetika-091","question":"A(g)+3B(g)=C(g) (reaksion i thjeshtë): si ndryshon shpejtësia kur dyfishohet trysnia e përgjithshme?","answers":["Rritet 16 herë","Rritet 8 herë","Zvogëlohet 16 herë","Zvogëlohet 8 herë"],"correct":0,"explanation":"Rendi total=1+3=4; 2⁴=16."},
-{"id":"kimia-termokinetika-092","question":"Si ndryshon shpejtësia e 2A(g)+B(g)=C(g) kur vëllimi zvogëlohet 1,5 herë?","answers":["Rritet 2,25 herë","Zvogëlohet 2,25 herë","Rritet 3,37 herë","Nuk ndryshon"],"correct":2,"explanation":"Rendi total=3; përqendrimet rriten 1,5×; 1,5³=3,37, rritet."},
-{"id":"kimia-termokinetika-093","question":"2SO2+O2=2SO3, k=0,2. [SO2]0=2,5,[O2]0=1,5mol/l. Sa është shpejtësia kur janë shpenzuar 20% SO2?","answers":["1,8 mol/l·s","1,0 mol/l·s","1,2 mol/l·s","0,8 mol/l·s"],"correct":1,"explanation":"[SO2]=2,0; ΔO2=0,25 → [O2]=1,25; V=0,2×4×1,25=1,0mol/l·s."},
-{"id":"kimia-termokinetika-094","question":"2A(g)+B(g)=C(g), [A]0=1,5,[B]0=2,6mol/l, k=1,2. Sa është shpejtësia kur janë shpenzuar 0,6mol A?","answers":["1,9 mol/l·s","1,18 mol/l·s","2,23 mol/l·s","7,02 mol/l·s"],"correct":2,"explanation":"[A]=0,9; ΔB=0,3 → [B]=2,3; V=1,2×0,81×2,3=2,23mol/l·s."},
-{"id":"kimia-termokinetika-095","question":"Nga 3 matje për A+B→C, njehsoni konstanten e shpejtësisë sipas të dhënave të tabelës.","answers":["0,0015 mol/l·s","0,015 mol/l·s","0,15 mol/l·s","3,7 mol/l·s"],"correct":1,"explanation":"Nga të dhënat, rendi është 1 për A dhe 1 për B; k≈0,015 L/mol·s."},
-{"id":"kimia-termokinetika-096","question":"A(g)+B(g)=C(g), [A]0=1,3,[B]0=2,2mol/l, k=0,5. Sa është shpejtësia kur janë shpenzuar 50% e A?","answers":["0,4 mol/l·s","0,7 mol/l·s","0,6 mol/l·s","0,5 mol/l·s"],"correct":3,"explanation":"[A]=0,65; ΔB=0,65 → [B]=1,55; V=0,5×0,65×1,55≈0,5mol/l·s."},
-{"id":"kimia-termokinetika-097","question":"2CO(g)+O2(g)=2CO2(g), [CO]0=0,5,[O2]0=0,3mol/l, k=1,2. Sa është shpejtësia kur mbetet 30% O2?","answers":["8,6x10⁻³ mol/l·s","5,1x10⁻³ mol/l·s","6,9x10⁻⁴ mol/l·s","5,7x10⁻⁴ mol/l·s"],"correct":2,"explanation":"[O2]=0,09; ΔCO=0,42 → [CO]=0,08; V=1,2×0,0064×0,09=6,9×10⁻⁴mol/l·s."},
-{"id":"kimia-termokinetika-098","question":"2NO(g)+Cl2(g)=2NOCl(g): [NO] shkon nga 0,5 në 0,05mol/l pas 40s; [Cl2]0=0,3mol/l. Sa është [Cl2] pas 40s?","answers":["0,075mol/l","0,1125mol/l","0,0075mol/l","0,01125mol/l"],"correct":0,"explanation":"ΔNO=0,45; ΔCl2=0,45/2=0,225; [Cl2]=0,3-0,225=0,075mol/l."},
-{"id":"kimia-termokinetika-099","question":"Nga 3 matje për I⁻+OCl⁻→IO⁻+Cl⁻, njehsoni konstanten e shpejtësisë me njësinë përkatëse.","answers":["0,06 l/mol·s","2,06 l/mol·s","6,02 mol²l²s⁻¹","60,2 mol²l²s⁻¹"],"correct":0,"explanation":"Rendi 1 për I⁻ dhe 1 për OCl⁻; nga të dhënat, k≈0,06 L/mol·s."}
+    {
+        "id": "kimia-termokinetika-001",
+        "question": "Sa nxehtësi çlirohet gjatë një reaksioni në kalorimetër, kur nxehtësia rrit temperaturën e 1,75kg H2O nga 23°C në 42°C? (CH2O=4,2 J/g°C)",
+        "answers": [
+            "-139,6 kJ",
+            "+139,6 kJ",
+            "-278,2 kJ",
+            "+278,2 kJ"
+        ],
+        "correct": 0,
+        "explanation": "Q=mcΔT=1750g×4,2×19=139650J=139,6kJ; nxehtësia çlirohet nga reaksioni, prandaj është negative."
+    },
+    {
+        "id": "kimia-termokinetika-002",
+        "question": "N2(g)+3H2(g)=2NH3(g) Q=-92kJ. Sa litra N2 (K.N.) janë përdorur kur janë çliruar 322kJ nxehtësi?",
+        "answers": [
+            "39,2 l",
+            "78,4 l",
+            "50,4 l",
+            "72,8 l"
+        ],
+        "correct": 1,
+        "explanation": "322kJ/92kJ=3,5mol N2; V=3,5×22,4=78,4L."
+    },
+    {
+        "id": "kimia-termokinetika-003",
+        "question": "Sa është entalpia standarde e djegies së metanit, bazuar në energjitë e lidhjeve: E(C-H)=412, E(O=O)=496, E(C=O)=805, E(O-H)=463 kJ/mol?",
+        "answers": [
+            "+104 kJmol-1",
+            "-104 kJmol-1",
+            "-822 kJmol-1",
+            "+822 kJmol-1"
+        ],
+        "correct": 2,
+        "explanation": "Lidhje të thyera: 4(C-H)+2(O=O)=2640kJ; lidhje të formuara: 2(C=O)+4(O-H)=3462kJ; ΔH=2640-3462=-822kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-004",
+        "question": "Gjatë djegies së 8g metan çlirohen 445000J. Sa nxehtësi çlirohet nga djegia e 1mol metan?",
+        "answers": [
+            "-890 kJmol-1",
+            "+890 kJmol-1",
+            "-223 kJmol-1",
+            "+223 kJmol-1"
+        ],
+        "correct": 0,
+        "explanation": "8g CH4=0,5mol; për 1mol: 445kJ/0,5=890kJ, çlirohet (negative)."
+    },
+    {
+        "id": "kimia-termokinetika-005",
+        "question": "Gjatë djegies së 46g etanol çlirohen 1365,7kJ. Sa nxehtësi çlirohet nga djegia e 0,5mol etanol?",
+        "answers": [
+            "-341,42kJ",
+            "+341,42 kJ",
+            "-682,85 kJ",
+            "+682,85 kJ"
+        ],
+        "correct": 2,
+        "explanation": "46g=1mol çliron 1365,7kJ; për 0,5mol: 1365,7/2=682,85kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-006",
+        "question": "4NH3(g)+3O2(g)=2N2(g)+6H2O(l) çliron 1205kJ. Sa nxehtësi çlirohet nga djegia e 34g amoniak? (ArN=14)",
+        "answers": [
+            "-602,5 kJ",
+            "+602,5 kJ",
+            "-301 kJ",
+            "+301 kJ"
+        ],
+        "correct": 0,
+        "explanation": "34g NH3=2mol (nga 4mol total); 1205×(2/4)=602,5kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-007",
+        "question": "2CO(g)+O2(g)=2CO2(g) Q=-566kJ. Sa nxehtësi çlirohet nga djegia e 28g CO? (ArC=12; ArO=16)",
+        "answers": [
+            "-141,5 kJ",
+            "+141,5 kJ",
+            "-283 kJ",
+            "+283 kJ"
+        ],
+        "correct": 2,
+        "explanation": "28g CO=1mol (nga 2mol total); 566×(1/2)=283kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-008",
+        "question": "FeO(ng)+H2(g)=Fe(ng)+H2O(g) Q=+24,7kJ. Sa nxehtësi shoqëron reaksionin kur fitohet 140g Fe? (ArFe=56)",
+        "answers": [
+            "-61,75 kJ",
+            "+61,75 kJ",
+            "-49,45 kJ",
+            "+49,45 kJ"
+        ],
+        "correct": 1,
+        "explanation": "140g Fe=2,5mol; 24,7×2,5=61,75kJ, thithet (endotermik, pozitive)."
+    },
+    {
+        "id": "kimia-termokinetika-009",
+        "question": "H2(g)+1/2O2(g)=H2O(g) çliron 242kJ. Sa nxehtësi çlirohet nga djegia e 9g hidrogjen?",
+        "answers": [
+            "1089 kJ",
+            "968 kJ",
+            "847 kJ",
+            "726 kJ"
+        ],
+        "correct": 0,
+        "explanation": "9g H2=4,5mol; 242×4,5=1089kJ."
+    },
+    {
+        "id": "kimia-termokinetika-010",
+        "question": "2H2S(g)+3O2(g)=2SO2(g)+2H2O(l) çliron 1205,2kJ. Sa nxehtësi çlirohet nga djegia e 34g H2S? (ArS=32)",
+        "answers": [
+            "602,6kJ",
+            "301,3kJ",
+            "903,9kJ",
+            "150,7kJ"
+        ],
+        "correct": 0,
+        "explanation": "34g H2S=1mol (nga 2mol total); 1205,2×(1/2)=602,6kJ."
+    },
+    {
+        "id": "kimia-termokinetika-011",
+        "question": "Në cilin barazim termokimik entalpia e reaksionit është edhe entalpi standarde e formimit?",
+        "answers": [
+            "CaO(ng)+H2O(l)=Ca(OH)2(uj) ∆H0=-63,3kJ",
+            "CO(g)+1/2O2(g)=CO2(g) ∆H0=-283kJ",
+            "S(ng)+O2(g)=SO2(g) ∆H0=-296,9kJ",
+            "H2(g)+Cl2(g)=2HCl(g) ∆H0=-184,6kJ"
+        ],
+        "correct": 2,
+        "explanation": "Formimi kërkon 1 mol produkt nga elementet në gjendje standarde; S+O2=SO2 plotëson këtë kusht (S dhe O2 janë elemente)."
+    },
+    {
+        "id": "kimia-termokinetika-012",
+        "question": "Në cilin barazim termokimik entalpia e reaksionit është edhe entalpi standarde e formimit?",
+        "answers": [
+            "N2(g)+3H2(g)=2NH3(g) ∆H0=-92 kJ",
+            "C(ng)+O2(g)=CO2(g) ∆H0=-393,5 kJ",
+            "CO(g)+1/2O2(g)=CO2(g) ∆H0=-283 kJ",
+            "H2(g)+O2(g)=2H2O(g) ∆H0=-571,6 kJ"
+        ],
+        "correct": 1,
+        "explanation": "C+O2=CO2 formon 1 mol produkt nga elemente në gjendje standarde, pra është reaksion formimi."
+    },
+    {
+        "id": "kimia-termokinetika-013",
+        "question": "Reaksion endotermik është:",
+        "answers": [
+            "C(ng)+O2(g)=CO2(g) ∆H<0",
+            "S(ng)+O2(g)=SO2(g) ∆H<0",
+            "CaCO3(ng)=CaO(ng)+CO2(g) ∆H>0",
+            "1/2N2(g)+3/2H2(g)=NH3(g) ∆H<0"
+        ],
+        "correct": 2,
+        "explanation": "Shpërbërja e CaCO3 me ∆H>0 është endotermike; të tjerat kanë ∆H<0 (ekzotermike)."
+    },
+    {
+        "id": "kimia-termokinetika-014",
+        "question": "Sa është nxehtësia specifike e alkoolit etilik, nëse për të rritur temperaturën e 15g alkool nga 22,7°C në 26,2°C duhen 129J?",
+        "answers": [
+            "2,457J/g°C",
+            "24,57J/g°C",
+            "1,228J/g°C",
+            "12,28J/g°C"
+        ],
+        "correct": 0,
+        "explanation": "c=Q/(mΔT)=129/(15×3,5)=2,457 J/g°C."
+    },
+    {
+        "id": "kimia-termokinetika-015",
+        "question": "Cila është temperatura përfundimtare e 32,3g nikeli në 24,25°C, kur i jepen 50J nxehtësi (c=0,444J/g°C)?",
+        "answers": [
+            "27,736°C",
+            "20,764°C",
+            "13,868°C",
+            "10,382°C"
+        ],
+        "correct": 0,
+        "explanation": "ΔT=Q/(mc)=50/(32,3×0,444)=3,486°C; T final=24,25+3,486=27,736°C."
+    },
+    {
+        "id": "kimia-termokinetika-016",
+        "question": "Djegia e 1g C6H6 çliron 41,84kJ. Sa nxehtësi formohet nga djegia e 1mol C6H6? (M=78g/mol)",
+        "answers": [
+            "1631,76kJ",
+            "163,176kJ",
+            "326,352kJ",
+            "3263,52kJ"
+        ],
+        "correct": 3,
+        "explanation": "1mol C6H6=78g; 78×41,84=3263,52kJ."
+    },
+    {
+        "id": "kimia-termokinetika-017",
+        "question": "Jepen: C2H2+H2=C2H4 ∆H=-175,7kJ/mol dhe C2H2+2H2=C2H6 ∆H=-312,0kJ/mol. Sa është entalpia e C2H4+H2=C2H6?",
+        "answers": [
+            "–136,3 kJ/mol",
+            "–312,0 kJ/mol",
+            "+312,0 kJ/mol",
+            "+136,3 kJ/mol"
+        ],
+        "correct": 0,
+        "explanation": "Sipas ligjit të Hesit: ΔH=ΔH2-ΔH1=-312,0-(-175,7)=-136,3kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-018",
+        "question": "N2(g)+3H2(g)→2NH3(g), k=0,15 (reaksion elementar). Sa është shpejtësia kur [N2]=2mol/l dhe [H2]=3mol/l?",
+        "answers": [
+            "8,1 mol/l∙s",
+            "0,6 mol/l∙s",
+            "1,2 mol/l∙s",
+            "2,7 mol/l∙s"
+        ],
+        "correct": 0,
+        "explanation": "V=k[N2][H2]³=0,15×2×27=8,1mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-019",
+        "question": "2SO2(g)+O2(g)=2SO3(g): dyfishimi i [SO2] dyfishon shpejtësinë, ndryshimi i [O2] nuk e prek. Barazimi kinetik është:",
+        "answers": [
+            "V=k∙[SO2]",
+            "V=k∙[SO2]²∙[O2]",
+            "V=k∙[SO2]²",
+            "V=k∙[SO2]∙[O2]"
+        ],
+        "correct": 0,
+        "explanation": "Dyfishimi i [SO2] jep dyfishim të shpejtësisë → rend i parë; O2 s'ka efekt → rend zero."
+    },
+    {
+        "id": "kimia-termokinetika-020",
+        "question": "Për 2A+B=C, sa herë duhet të rritet [A] që shpejtësia të mos ndryshojë kur [B] zvogëlohet 2 herë?",
+        "answers": [
+            "1,25 herë",
+            "1,41 herë",
+            "1,75 herë",
+            "2,58 herë"
+        ],
+        "correct": 1,
+        "explanation": "V=k[A]²[B]; [A]² duhet dyfishohet, pra [A] rritet me √2=1,41 herë."
+    },
+    {
+        "id": "kimia-termokinetika-021",
+        "question": "Sa herë rritet shpejtësia e reaksionit kur temperatura rritet nga 20°C në 80°C, koeficienti i temp. =2?",
+        "answers": [
+            "8 herë",
+            "16 herë",
+            "32herë",
+            "64 herë"
+        ],
+        "correct": 3,
+        "explanation": "Faktori=2^((80-20)/10)=2^6=64."
+    },
+    {
+        "id": "kimia-termokinetika-022",
+        "question": "2C(ng)+4H2(g)+O2(g)=2CH3OH(l) ∆H=-478kJ. Entalpia standarde e formimit të CH3OH(l) është:",
+        "answers": [
+            "-119,5 kJ",
+            "-239 kJ",
+            "-478 kJ",
+            "-956 kJ"
+        ],
+        "correct": 1,
+        "explanation": "Formimi standard është për 1mol produkt: -478/2=-239kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-023",
+        "question": "Si ndryshon shpejtësia e reaksionit kur temp. rritet nga 20°C në 70°C dhe koeficienti i temp. =2?",
+        "answers": [
+            "Rritet 32 herë",
+            "Rritet 25 herë",
+            "Zvogëlohet 32 herë",
+            "Zvogëlohet 25 herë"
+        ],
+        "correct": 0,
+        "explanation": "Faktori=2^((70-20)/10)=2^5=32, rritet."
+    },
+    {
+        "id": "kimia-termokinetika-024",
+        "question": "Temperatura e 5g ujë ndryshoi nga 43,2°C në 11°C (c=1kal/g°C). Cili pohim është i saktë?",
+        "answers": [
+            "Absorboi 32,2 Kal",
+            "Çliroi 161 Kal",
+            "Absorboi 161 Kal",
+            "Çliroi 5000 Kal"
+        ],
+        "correct": 1,
+        "explanation": "Temperatura zbriti (43,2→11), pra uji çliroi nxehtësi: Q=5×1×32,2=161kal."
+    },
+    {
+        "id": "kimia-termokinetika-025",
+        "question": "Si ndryshon shpejtësia kur temp. zvogëlohet nga 80°C në 30°C dhe koeficienti i temp.=3?",
+        "answers": [
+            "Rritet 243 herë",
+            "Rritet 81 herë",
+            "Zvogëlohet 243 herë",
+            "Zvogëlohet 81 herë"
+        ],
+        "correct": 2,
+        "explanation": "Faktori=3^((80-30)/10)=3^5=243; meqë temperatura zbret, shpejtësia zvogëlohet."
+    },
+    {
+        "id": "kimia-termokinetika-026",
+        "question": "Sa herë duhet të rritet trysnia e gazeve që shpejtësia e 2CO(g)+O2(g)=2CO2(g) të rritet 216 herë?",
+        "answers": [
+            "4 herë",
+            "5 herë",
+            "6 herë",
+            "7 herë"
+        ],
+        "correct": 2,
+        "explanation": "Rendi total=3; n³=216 → n=6."
+    },
+    {
+        "id": "kimia-termokinetika-027",
+        "question": "Kur trysnia rritet 3 herë, si ndryshon shpejtësia e 2CO(g)+O2(g)=2CO2(g)?",
+        "answers": [
+            "Rritet 9 herë",
+            "Rritet 27 herë",
+            "Zvogëlohet 27 herë",
+            "Zvogëlohet 9 herë"
+        ],
+        "correct": 1,
+        "explanation": "Rendi total=3; 3³=27, rritet."
+    },
+    {
+        "id": "kimia-termokinetika-028",
+        "question": "Sa është shpejtësia mesatare e A→B kur [A] shkon nga 0,5 në 0,1mol/l brenda 8 sek?",
+        "answers": [
+            "0,5x10¹ mol/l·s",
+            "0,5x10⁻² mol/l·s",
+            "5x10⁻¹ mol/l·s",
+            "5x10⁻² mol/l·s"
+        ],
+        "correct": 3,
+        "explanation": "V=(0,5-0,1)/8=0,05=5×10⁻² mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-029",
+        "question": "2N2O5(g)→4NO2(g)+O2(g), shpejtësia e formimit të O2 është 0,09mol/l·s. Sa është shpejtësia e formimit të NO2?",
+        "answers": [
+            "0,09 mol/l·s",
+            "0,18 mol/l·s",
+            "0,36 mol/l·s",
+            "0,90 mol/l·s"
+        ],
+        "correct": 2,
+        "explanation": "Raporti NO2:O2=4:1, pra rate(NO2)=4×0,09=0,36mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-030",
+        "question": "Sa është shpejtësia mesatare e 2A→B+C kur [B] shkon nga 0,5 në 0,95mol/l brenda 10s?",
+        "answers": [
+            "0,5x10¹ mol/l·s",
+            "4,5x10⁻² mol/l·s",
+            "5,0x10⁻¹ mol/l·s",
+            "9,5x10⁻¹ mol/l·s"
+        ],
+        "correct": 1,
+        "explanation": "V(B)=(0,95-0,5)/10=0,045=4,5×10⁻² mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-031",
+        "question": "A+2B=C, [A]0=2mol/l, [B]0=2,5mol/l, k=2. Sa është shpejtësia kur janë shpenzuar 0,15mol A?",
+        "answers": [
+            "17,9 mol/l·s",
+            "15,1 mol/l·s",
+            "8,8 mol/l·s",
+            "2,5 mol/l·s"
+        ],
+        "correct": 0,
+        "explanation": "[A]=1,85; ΔB=0,3 → [B]=2,2; V=k[A][B]²=2×1,85×4,84=17,9mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-032",
+        "question": "Kur trysnia rritet 6 herë, sa herë rritet shpejtësia e 2SO2(g)+O2(g)=2SO3(g)?",
+        "answers": [
+            "36 herë",
+            "216 herë",
+            "6 herë",
+            "Nuk ndryshon"
+        ],
+        "correct": 1,
+        "explanation": "Rendi total=3; 6³=216."
+    },
+    {
+        "id": "kimia-termokinetika-033",
+        "question": "Sa është konstantja e ekuilibrit për CO2(g)+H2(g)⇌CO(g)+H2O(g), kur [CO]=0,02M; [H2O]=0,32M; [H2]=0,08M; [CO2]=0,08M?",
+        "answers": [
+            "0,5",
+            "1,0",
+            "1,5",
+            "2,0"
+        ],
+        "correct": 1,
+        "explanation": "Kc=([CO][H2O])/([CO2][H2])=(0,02×0,32)/(0,08×0,08)=1,0."
+    },
+    {
+        "id": "kimia-termokinetika-034",
+        "question": "1/2N2(g)+3/2H2(g)=NH3(g) ∆H=-11kJ/mol. Sa nxehtësi çlirohet kur formohen 85g NH3? (ArN=14;ArH=1)",
+        "answers": [
+            "5,5 kJ",
+            "11,5 kJ",
+            "55 kJ",
+            "110 kJ"
+        ],
+        "correct": 2,
+        "explanation": "85g NH3=5mol; 11×5=55kJ."
+    },
+    {
+        "id": "kimia-termokinetika-035",
+        "question": "A2+B2→2AB me mekanizëm: faza e ngadaltë A2→2A, faza e shpejtë A+B2→AB+B. Cili është barazimi i shpejtësisë?",
+        "answers": [
+            "V=k[A2]",
+            "V=k[B2]",
+            "V=k[A2][B2]",
+            "V=k[A][B2]"
+        ],
+        "correct": 0,
+        "explanation": "Shpejtësia përcaktohet nga faza e ngadaltë: A2→2A, pra V=k[A2]."
+    },
+    {
+        "id": "kimia-termokinetika-036",
+        "question": "CH4(g)+2O2(g)→CO2(g)+2H2O(g) ∆H=-890kJ. Kur digjen 2,24 litra CH4 (K.N.), çlirohen:",
+        "answers": [
+            "44,5 kJ",
+            "89 kJ",
+            "445 kJ",
+            "890 kJ"
+        ],
+        "correct": 1,
+        "explanation": "2,24L CH4=0,1mol; 890×0,1=89kJ."
+    },
+    {
+        "id": "kimia-termokinetika-037",
+        "question": "Për të shndërruar 9g H2O(l)→H2O(g), janë shpenzuar 5,9kJ. Vlera e entalpisë së reaksionit është:",
+        "answers": [
+            "-5 kJ",
+            "-10 kJ",
+            "+10 kJ",
+            "+11,8 kJ"
+        ],
+        "correct": 3,
+        "explanation": "9g H2O=0,5mol; për 1mol: 5,9/0,5=11,8kJ, thithet (pozitive, procesi kërkon energji)."
+    },
+    {
+        "id": "kimia-termokinetika-038",
+        "question": "Energjia e aktivizimit është:",
+        "answers": [
+            "energjia termike e prodhuar ose thithur nga 1mol reaktantësh",
+            "energjia kimike që zotërojnë grimcat e produkteve",
+            "energjia kinetike që zotërojnë grimcat e reaktantëve në çastin e përplasjes",
+            "rritja e energjisë kimike mes grimcave në çastin e përplasjes"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-termokinetika-039",
+        "question": "Lidhur me enzimat, cili pohim NUK është i saktë?",
+        "answers": [
+            "Janë katalizator specifik të proceseve biologjike",
+            "Rrisin temperaturën për të përshpejtuar reaksionet biologjike",
+            "Zvogëlojnë energjinë e aktivizimit",
+            "Përbëhen nga molekula të mëdha proteinash"
+        ],
+        "correct": 1,
+        "explanation": "Enzimat përshpejtojnë reaksionet duke ulur energjinë e aktivizimit, jo duke rritur temperaturën."
+    },
+    {
+        "id": "kimia-termokinetika-040",
+        "question": "Cili stad i mekanizmit përcakton shpejtësinë e një reaksioni jo të thjeshtë?",
+        "answers": [
+            "Stadi përfundimtar, ku formohen produktet",
+            "Stadi që ka energjinë më të madhe të aktivizimit",
+            "Stadi që ka energjinë më të vogël të aktivizimit",
+            "Stadi që nis reaksionin"
+        ],
+        "correct": 1,
+        "explanation": "Faza më e ngadaltë (energjia më e madhe e aktivizimit) përcakton shpejtësinë e përgjithshme."
+    },
+    {
+        "id": "kimia-termokinetika-041",
+        "question": "Sa është entalpia standarde e formimit të C2H5OH kur nga djegia e 4,6g çlirohet 123,53kJ? (∆H0H2O=-242; ∆H0CO2=-393,5 kJ/mol; M=46g/mol)",
+        "answers": [
+            "–277,7 kJ",
+            "–1235,3 kJ",
+            "+1235,3 kJ",
+            "–1515 kJ"
+        ],
+        "correct": 0,
+        "explanation": "Djegia jep -1235,3kJ/mol; ΔHf(etanol)=[2(-393,5)+3(-242)]-(-1235,3)=-277,7kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-042",
+        "question": "Sa nxehtësi çlirohet kur bashkëveprojnë 100L NH3 me HNO3? (∆H0NH3=-46; ∆H0HNO3=-173,2; ∆H0NH4NO3=-365 kJ/mol)",
+        "answers": [
+            "–145,7 kJ",
+            "+145,7 kJ",
+            "+650,9 kJ",
+            "–650,9 kJ"
+        ],
+        "correct": 3,
+        "explanation": "ΔHrxn=-365-(-46-173,2)=-145,8kJ/mol; 100L NH3=4,46mol; 145,8×4,46≈650,9kJ."
+    },
+    {
+        "id": "kimia-termokinetika-043",
+        "question": "Jepen: N2+O2=2NO ∆H0=+180,8kJ dhe N2+2O2=2NO2 ∆H0=+66,6kJ. Sa është entalpia e NO(g)+1/2O2(g)=NO2(g)?",
+        "answers": [
+            "-90,0 kJ",
+            "+33,3 kJ",
+            "-57,1 kJ",
+            "-114,2 kJ"
+        ],
+        "correct": 2,
+        "explanation": "ΔH=1/2(66,6)-1/2(180,8)=33,3-90,4=-57,1kJ."
+    },
+    {
+        "id": "kimia-termokinetika-044",
+        "question": "Sa është entalpia standarde për 2NaHCO3(ng)=Na2CO3(ng)+CO2(g)+H2O(l)? (∆H0NaHCO3=-950,8; ∆H0Na2CO3=-1130,7; ∆H0CO2=-393,5; ∆H0H2O=-285,8 kJ/mol)",
+        "answers": [
+            "-951 kJmol-1",
+            "+951 kJmol-1",
+            "-91,6 kJmol-1",
+            "+91,6 kJmol-1"
+        ],
+        "correct": 3,
+        "explanation": "ΔH=[-1130,7-393,5-285,8]-2(-950,8)=-1810+1901,6=+91,6kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-045",
+        "question": "Ndryshimi i entalpisë së N2(g)+3H2(g)=2NH3, bazuar në energjitë e lidhjeve: E(N≡N)=945; E(H-H)=436; E(N-H)=391 kJ/mol.",
+        "answers": [
+            "+93 kJmol-1",
+            "-93 kJmol-1",
+            "-529 kJmol-1",
+            "+529 kJmol-1"
+        ],
+        "correct": 1,
+        "explanation": "Lidhje të thyera: 945+3×436=2253; lidhje formuara: 6×391=2346; ΔH=2253-2346=-93kJ."
+    },
+    {
+        "id": "kimia-termokinetika-046",
+        "question": "Cili reaksion është endotermik?",
+        "answers": [
+            "CaO(ng)+H2O(l)=Ca(OH)2(ng)",
+            "CO(g)+1/2O2(g)=CO2(g)",
+            "2Al2O3(ng)=4Al(ng)+3O2(g)",
+            "H2(g)+Cl2(g)=2HCl(g)"
+        ],
+        "correct": 2,
+        "explanation": "Shpërbërja e Al2O3 në Al dhe O2 (e kundërta e formimit shumë ekzotermik) kërkon energji, është endotermike."
+    },
+    {
+        "id": "kimia-termokinetika-047",
+        "question": "Jepen: N2(g)+2O2(g)=2NO2(g) ∆H1=+66,4kJ dhe 2NO(g)+O2(g)=2NO2(g) ∆H2=-114,1kJ. Sa është entalpia molare e formimit të NO(g)?",
+        "answers": [
+            "+47,7 kJ",
+            "–47,7 kJ",
+            "+90,2 kJ",
+            "–180,4 kJ"
+        ],
+        "correct": 2,
+        "explanation": "1/2N2+O2=NO: ΔH=(ΔH1-ΔH2)/2=(66,4+114,1)/2=90,2kJ."
+    },
+    {
+        "id": "kimia-termokinetika-048",
+        "question": "Sa nxehtësi çlirohet nga adicioni i 20L hidrogjen (K.N.) me eten: C2H4(g)+H2(g)=C2H6(g)? (∆H0C2H4=+52,3; ∆H0C2H6=-84,7 kJ/mol)",
+        "answers": [
+            "-122,3 kJ",
+            "+122,3 kJ",
+            "-137,1 kJ",
+            "+137,1 kJ"
+        ],
+        "correct": 0,
+        "explanation": "ΔHrxn=-84,7-52,3=-137,0kJ/mol; 20L H2=0,893mol; 137×0,893=122,3kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-049",
+        "question": "Sa nxehtësi fitohet nga djegia e plotë e 90g gaz uji (CO+H2 barazmolarë)? (∆H0CO2=-393,5; ∆H0H2O=-286; ∆H0CO=-110 kJ/mol)",
+        "answers": [
+            "-569,5 kJ",
+            "-1138,5 kJ",
+            "-1708,5 kJ",
+            "+569,3 kJ"
+        ],
+        "correct": 2,
+        "explanation": "3mol secili (28x+2x=90); djegia CO: 283,5×3=850,5; djegia H2: 286×3=858; total=1708,5kJ."
+    },
+    {
+        "id": "kimia-termokinetika-050",
+        "question": "Sa është ∆H0 për 4NH3(g)+7O2(g)=4NO2(g)+6H2O(l)? (∆H0NH3=-46; ∆H0NO2=+34; ∆H0H2O=-286 kJ/mol)",
+        "answers": [
+            "+1764 kJ/mol",
+            "–1764 kJ/mol",
+            "-1396 kJ/mol",
+            "+1396 kJ/mol"
+        ],
+        "correct": 2,
+        "explanation": "ΔH=[4(34)+6(-286)]-4(-46)=[136-1716]+184=-1396kJ."
+    },
+    {
+        "id": "kimia-termokinetika-051",
+        "question": "CH3OCH3(l)+3O2(g)=2CO2(g)+3H2O(l) çliron 1450kJ. Njehsoni ∆H nëse digjen 2,61g eter. (ArC=12,ArO=16,ArH=1)",
+        "answers": [
+            "-82,2 kJ/mol",
+            "-822 kJ/mol",
+            "-435 kJ/mol",
+            "-43,5kJ/mol"
+        ],
+        "correct": 0,
+        "explanation": "2,61g/46g/mol=0,0567mol; 1450×0,0567=82,2kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-052",
+        "question": "Çfarë nxehtësie nevojitet për të ngrohur 250g ujë nga 22°C në 98°C? (Cs=4,18J/g°C)",
+        "answers": [
+            "39,71 kJ",
+            "397,1 kJ",
+            "79,42 kJ",
+            "794,2 kJ"
+        ],
+        "correct": 2,
+        "explanation": "Q=mcΔT=250×4,18×76=79420J=79,42kJ."
+    },
+    {
+        "id": "kimia-termokinetika-053",
+        "question": "CH3OH(l)+3/2O2(g)=CO2(g)+2H2O(l) ∆H=-764kJ/mol. Sa litra O2 (K.N.) veprojnë nëse çlirohen 945kJ?",
+        "answers": [
+            "4,15 l",
+            "41,5 l",
+            "2,27 l",
+            "27,7 l"
+        ],
+        "correct": 1,
+        "explanation": "945/764=1,237mol metanol → O2=1,5×1,237=1,856mol=41,5L."
+    },
+    {
+        "id": "kimia-termokinetika-054",
+        "question": "Gjatë përftimit të 0,09g H2O(l) u çlirua 1,43kJ. Sa është entalpia standarde e formimit të ujit?",
+        "answers": [
+            "-572 kJ/mol",
+            "+572 kJ/mol",
+            "+286 kJ/mol",
+            "-286 kJ/mol"
+        ],
+        "correct": 3,
+        "explanation": "0,09g H2O=0,005mol; për 1mol: 1,43/0,005=286kJ, çlirohet (negative)."
+    },
+    {
+        "id": "kimia-termokinetika-055",
+        "question": "Jepen: H2+1/2O2=H2O(g) ∆H=-241,8kJ dhe H2+1/2O2=H2O(l) ∆H=-285,8kJ. Cili pohim NUK është i saktë?",
+        "answers": [
+            "Reaksioni 1 është ekzotermik",
+            "Reaksioni 2 është formimi i H2O(l)",
+            "Shpërbërja e ujit është endotermike",
+            "∆H për H2O(g)→H2O(l) është +44 kJ"
+        ],
+        "correct": 3,
+        "explanation": "ΔH për kondensimin H2O(g)→H2O(l)=-285,8-(-241,8)=-44kJ (negative, jo pozitive)."
+    },
+    {
+        "id": "kimia-termokinetika-056",
+        "question": "A(g)+2B(g)=C(g), [A]0=2, [B]0=2,5mol/l. Sa është shpejtësia kur mbeten 1,85mol A?",
+        "answers": [
+            "4,46 x konstante",
+            "4,49 x konstante",
+            "8,95 x konstante",
+            "13,4 x konstante"
+        ],
+        "correct": 2,
+        "explanation": "ΔA=0,15; ΔB=0,3 → [B]=2,2; V=k[A][B]²=k×1,85×4,84=8,95k."
+    },
+    {
+        "id": "kimia-termokinetika-057",
+        "question": "Në 400ml, ka 0,1mol CO dhe 0,15mol O2 (2CO+O2=2CO2). Sa është shpejtësia kur k=12?",
+        "answers": [
+            "1,11 mol/l·s",
+            "0,75 mol/l·s",
+            "0,28 mol/l·s",
+            "0,41 mol/l·s"
+        ],
+        "correct": 2,
+        "explanation": "[CO]=0,25M,[O2]=0,375M; V=k[CO]²[O2]=12×0,0625×0,375=0,28mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-058",
+        "question": "A+B=D: trefishimi i [A] rrit shpejtësinë 3 herë; dyfishimi i [B] e dyfishon. Rendi i reaksionit është:",
+        "answers": [
+            "rendi i parë",
+            "rendi i dytë",
+            "rendi zero",
+            "rendi i tretë"
+        ],
+        "correct": 1,
+        "explanation": "Rend 1 për A + rend 1 për B = rend total i dytë."
+    },
+    {
+        "id": "kimia-termokinetika-059",
+        "question": "Në 1200ml ka 0,15mol CO dhe 0,25mol O2 (2CO+O2=2CO2, k=12). Sa është shpejtësia?",
+        "answers": [
+            "3,9x10⁻² mol/l·s",
+            "3,6x10⁻¹ mol/l·s",
+            "6x10⁻² mol/l·s",
+            "6x10⁻¹ mol/l·s"
+        ],
+        "correct": 0,
+        "explanation": "[CO]=0,125M,[O2]=0,208M; V=12×0,0156×0,208=0,039mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-060",
+        "question": "A(g)+B(g)=2C(g), [B]0=0,8mol/l, pas 30s harxhohet 60% e B. Sa është shpejtësia mesatare?",
+        "answers": [
+            "1,6x10⁻¹ mol/l·s",
+            "8x10⁻³ mol/l·s",
+            "1,6x10⁻² mol/l·s",
+            "8x10⁻² mol/l·s"
+        ],
+        "correct": 2,
+        "explanation": "ΔB=0,6×0,8=0,48; V=0,48/30=1,6×10⁻²mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-061",
+        "question": "a. A+B=C dhe b. D+E=G, me [A]=[D],[B]=[E], T e njëjtë. Shpejtësia e (a) është 2× e (b). Për konstantet themi:",
+        "answers": [
+            "Janë të barabarta",
+            "k(a) është 2× k(b)",
+            "k(b) është 2× k(a)",
+            "k(a) është 1,5× k(b)"
+        ],
+        "correct": 1,
+        "explanation": "Meqë përqendrimet janë të njëjta dhe V(a)=2V(b), atëherë k(a)=2k(b)."
+    },
+    {
+        "id": "kimia-termokinetika-062",
+        "question": "Sa nxehtësi çlirohet nga djegia e 4,48L pentan (K.N.)? C5H12+8O2=5CO2+6H2O(l) (∆H0CO2=-393,5;∆H0H2O=-285,8;∆H0C5H12=-146,7 kJ/mol)",
+        "answers": [
+            "70,712 kJ",
+            "707,12 kJ",
+            "353,56 kJ",
+            "3535,6 kJ"
+        ],
+        "correct": 1,
+        "explanation": "ΔHcombustion=-3535,6kJ/mol; 4,48L=0,2mol; 3535,6×0,2=707,12kJ."
+    },
+    {
+        "id": "kimia-termokinetika-063",
+        "question": "A(g)+2B(g)=C(g): sa herë duhet të rritet [A] që kur [B] zvogëlohet 3 herë, shpejtësia të mos ndryshojë?",
+        "answers": [
+            "3 herë",
+            "1,5 herë",
+            "6 herë",
+            "9 herë"
+        ],
+        "correct": 3,
+        "explanation": "[B]² zvogëlohet 9 herë; [A] (rend 1) duhet të rritet 9 herë për kompensim."
+    },
+    {
+        "id": "kimia-termokinetika-064",
+        "question": "Sa herë duhet të rritet trysnia që shpejtësia e 2SO2(g)+O2(g)=2SO3(g) të rritet 512 herë?",
+        "answers": [
+            "5 herë",
+            "3 herë",
+            "8 herë",
+            "9 herë"
+        ],
+        "correct": 2,
+        "explanation": "Rendi total=3; n³=512 → n=8."
+    },
+    {
+        "id": "kimia-termokinetika-065",
+        "question": "2A(g)+B(g)=C(g): sa herë duhet të rritet [B] që kur [A] zvogëlohet 4 herë, shpejtësia të mos ndryshojë?",
+        "answers": [
+            "8 herë",
+            "16 herë",
+            "4 herë",
+            "32 herë"
+        ],
+        "correct": 1,
+        "explanation": "[A]² zvogëlohet 16 herë; [B] (rend 1) duhet të rritet 16 herë."
+    },
+    {
+        "id": "kimia-termokinetika-066",
+        "question": "Njehsoni konstanten e ekuilibrit për COCl2(g)⇌CO(g)+Cl2(g) në V=5L me 0,2mol COCl2, 0,5mol CO, 0,5mol Cl2.",
+        "answers": [
+            "2,5x10¹",
+            "1,25",
+            "4x10¹",
+            "2,5x10⁻¹"
+        ],
+        "correct": 3,
+        "explanation": "[COCl2]=0,04M,[CO]=[Cl2]=0,1M; Kc=(0,1×0,1)/0,04=0,25."
+    },
+    {
+        "id": "kimia-termokinetika-067",
+        "question": "N2O(g)+NO(g)↔N2(g)+NO2(g) ∆H=-33kJ, Ea(drejtë)=50kJ. Sa është Ea për reaksionin e zhdrejtë?",
+        "answers": [
+            "17 kJ",
+            "65 kJ",
+            "80 kJ",
+            "83 kJ"
+        ],
+        "correct": 3,
+        "explanation": "Ea(zhdrejtë)=Ea(drejtë)-ΔH=50-(-33)=83kJ."
+    },
+    {
+        "id": "kimia-termokinetika-068",
+        "question": "A(g)+B(g)=2C(g): dyfishimi i [A] dyfishon shpejtësinë, dyfishimi i [B] nuk e ndryshon. Cili barazim kinetik është i saktë?",
+        "answers": [
+            "V=k[A]²",
+            "V=k[A][A][C]²",
+            "V=k[A]",
+            "V=k[A][B]"
+        ],
+        "correct": 2,
+        "explanation": "Rend 1 për A (dyfishimi dyfishon), rend 0 për B: V=k[A]."
+    },
+    {
+        "id": "kimia-termokinetika-069",
+        "question": "A2B(l)+C2(g)↔A2C(g)+BC(g) ∆H>0. Cila ndërhyrje rrit [BC] në ekuilibër?",
+        "answers": [
+            "Ulja e temperaturës",
+            "Ulja e [C2]",
+            "Ulja e trysnisë",
+            "Shtimi i A2C"
+        ],
+        "correct": 2,
+        "explanation": "Ana e djathtë ka më shumë mole gazi (2 vs 1); ulja e trysnisë e zhvendos ekuilibrin djathtas, duke rritur [BC]."
+    },
+    {
+        "id": "kimia-termokinetika-070",
+        "question": "2NO+O2=2NO2. [NO]0=0,8,[O2]0=0,6mol/l rriten në [NO]=1,2,[O2]=0,9. Si ndryshon shpejtësia?",
+        "answers": [
+            "Rritet 2,25 herë",
+            "Rritet 1,5 herë",
+            "Rritet 4,5 herë",
+            "Rritet 3,37 herë"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-termokinetika-071",
+        "question": "2X(ng)+3/2O2(g)=X2O3(ng) ∆H=-1624kJ. Kur prodhohen 20g X2O3, çlirohen 203kJ. Cila është Ar(X)? (ArO=16)",
+        "answers": [
+            "56",
+            "84",
+            "112",
+            "168"
+        ],
+        "correct": 0,
+        "explanation": "mol X2O3=203/1624=0,125mol; M=20/0,125=160g/mol; 2Ar(X)+48=160 → Ar(X)=56."
+    },
+    {
+        "id": "kimia-termokinetika-072",
+        "question": "Sa nxehtësi duhet dhënë 25kg ujë (c=4,18J/g°C) për t'i rritur temperaturën nga 25°C në 85°C?",
+        "answers": [
+            "6,27 x 10⁶ J",
+            "1,87 x 10² J",
+            "2,87x 10⁻⁶ J",
+            "1,07x 10⁻² J"
+        ],
+        "correct": 0,
+        "explanation": "Q=25000×4,18×60=6.270.000J=6,27×10⁶J."
+    },
+    {
+        "id": "kimia-termokinetika-073",
+        "question": "A(g)+B(g)→2C(g): dyfishimi i [A] rrit shpejtësinë 4 herë; [B] nuk ka efekt. Barazimi i shpejtësisë është:",
+        "answers": [
+            "V=k[A]²",
+            "V=k[A]⁴",
+            "V=k[A][B]",
+            "V=k[A]²[B]"
+        ],
+        "correct": 0,
+        "explanation": "Dyfishimi jep 4× rritje → rend 2 për A; B rend 0."
+    },
+    {
+        "id": "kimia-termokinetika-074",
+        "question": "Djegia e CS2 çliron 1075,2kJ/mol. Sa është entalpia standarde e formimit të CS2? (∆H0CO2=-393,5;∆H0SO2=-296,9 kJ/mol)",
+        "answers": [
+            "-70,8 kJ/mol",
+            "+87,9 kJ/mol",
+            "–26,9 kJ/mol",
+            "+30,4 kJ/mol"
+        ],
+        "correct": 1,
+        "explanation": "ΔHf(CS2)=[ΔHf(CO2)+2ΔHf(SO2)]-ΔHcombustion=[-393,5-593,8]-(-1075,2)=+87,9kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-075",
+        "question": "Djegia e butadienit C4H6 çliron 2542kJ/mol. Sa është entalpia standarde e formimit? (∆H0CO2=-393,5;∆H0H2O(g)=-286 kJ/mol)",
+        "answers": [
+            "-160,8 kJ/mol",
+            "+77,1 kJ/mol",
+            "-50,4 kJ/mol",
+            "+110,0 kJ/mol"
+        ],
+        "correct": 3,
+        "explanation": "ΔHf=[4(-393,5)+3(-286)]-(-2542)=[-1574-858]+2542=+110,0kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-076",
+        "question": "Sa nxehtësi çlirohet kur digjen plotësisht 0,5mol metanol? (∆H0CO2=-393;∆H0H2O=-286;∆H0CH3OH=-75 kJ/mol)",
+        "answers": [
+            "250 kJ",
+            "545 kJ",
+            "445 kJ",
+            "351 kJ"
+        ],
+        "correct": 2,
+        "explanation": "ΔHrxn=[-393-572]-(-75)=-890kJ/mol; për 0,5mol: 890×0,5=445kJ."
+    },
+    {
+        "id": "kimia-termokinetika-077",
+        "question": "Si ndryshon shpejtësia e 2A(g)+B2(g)=2AB(g) nëse trysnia rritet 4 herë?",
+        "answers": [
+            "Rritet 64 herë",
+            "Rritet 16 herë",
+            "Zvogëlohet 16 herë",
+            "Nuk ndryshon"
+        ],
+        "correct": 0,
+        "explanation": "Rendi total=3; 4³=64."
+    },
+    {
+        "id": "kimia-termokinetika-078",
+        "question": "A(g)+2B(g)→C(g), [A]0=0,3,[B]0=0,5mol/l, k=0,8. Sa është shpejtësia kur [A] zvogëlohet me 0,1mol/l?",
+        "answers": [
+            "1,44 x10⁻² mol/l·s",
+            "1,88 x10⁻² mol/l·s",
+            "1,22 x10⁻¹ mol/l·s",
+            "6,44x10⁻¹ mol/l·s"
+        ],
+        "correct": 0,
+        "explanation": "[A]=0,2; ΔB=0,2 → [B]=0,3; V=0,8×0,2×0,09=1,44×10⁻²mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-079",
+        "question": "2NO(g)+Cl2(g)→2NOCl(g): dyfishimi i reaktantëve rrit shpejtësinë 4 herë; trefishimi i Cl2 e rrit 3 herë. Barazimi dhe rendi janë:",
+        "answers": [
+            "V=k[Cl2] dhe rendi i parë",
+            "V=k[NO]² dhe rendi i dytë",
+            "V=k[NO][Cl2] dhe rendi i dytë",
+            "V=k[NO]²[Cl2] dhe rendi i tretë"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-termokinetika-080",
+        "question": "Nga 3 eksperimente për 2NO(g)+H2(g)→N2O(g)+H2O(l), gjeni barazimin kinetik nga të dhënat e tabelës.",
+        "answers": [
+            "V=k[NO][H2]",
+            "V=k[NO]²[H2]",
+            "V=k[NO][H2]²",
+            "V=k[NO]"
+        ],
+        "correct": 1,
+        "explanation": "Dyfishimi i [NO] jep 4× rritje (rend 2); dyfishimi i [H2] jep 2× rritje (rend 1)."
+    },
+    {
+        "id": "kimia-termokinetika-081",
+        "question": "Nga djegia e 1mol përzierje CH4/C2H6 çlirohen 1322,7kJ. (CH4: ∆H=-887,4; C2H6: ∆H=-1431,6 kJ/mol). Sa mol metan përmban përzierja?",
+        "answers": [
+            "0,2 mol",
+            "0,25 mol",
+            "0,5 mol",
+            "0,75 mol"
+        ],
+        "correct": 0,
+        "explanation": "887,4x+1431,6(1-x)=1322,7 → x=0,2mol."
+    },
+    {
+        "id": "kimia-termokinetika-082",
+        "question": "Sa është entalpia e N2(g)+3H2(g)=2NH3, bazuar në djegien: 4NH3(g)+5O2(g)=4NO(g)+6H2O(l) ∆H=-1170,2kJ (∆H0NO=+90,4;∆H0H2O=-286 kJ/mol)?",
+        "answers": [
+            "-46 kJmol-1",
+            "-92 kJmol-1",
+            "-184 kJmol-1",
+            "+184 kJmol-1"
+        ],
+        "correct": 1,
+        "explanation": "ΔHf(NH3)=-46kJ/mol nga djegia; sinteza formon 2mol NH3: 2×(-46)=-92kJ."
+    },
+    {
+        "id": "kimia-termokinetika-083",
+        "question": "Bazuar në thyerjen/formimin e lidhjeve, cili reaksion është ekzotermik?",
+        "answers": [
+            "2NH3(g)=N2(g)+3H2(g)",
+            "CS2(l)+3O2(g)=CO2(g)+2SO2(g)",
+            "N2O4(g)=2NO2(g)",
+            "N2(g)+O2(g)=2NO(g)"
+        ],
+        "correct": 1,
+        "explanation": "Djegia e CS2 (reaksion oksidimi tipik) çliron energji të madhe, është ekzotermike."
+    },
+    {
+        "id": "kimia-termokinetika-084",
+        "question": "Sa nxehtësi çlirohet nga bashkëveprimi N2/H2 (raport 1:3) në 8,96L (K.N.)? (∆H0NH3=-46kJ)",
+        "answers": [
+            "-92 kJ",
+            "-9,2 kJ",
+            "+92 kJ",
+            "+9,2 kJ"
+        ],
+        "correct": 1,
+        "explanation": "Total 0,4mol (N2=0,1;H2=0,3, raport stekiometrik); NH3 formuar=0,2mol; 46×0,2=9,2kJ, çlirohet."
+    },
+    {
+        "id": "kimia-termokinetika-085",
+        "question": "50ml 1M HCl + 50ml 1M NaOH: temperatura rritet nga 21°C në 27,5°C. Sa është ∆H (kJ/mol)? (Cs=4,18J/g°C, dH2O=1g/ml)",
+        "answers": [
+            "–2,7 kJ/mol",
+            "–54 kJ/mol",
+            "+2,7 kJ/mol",
+            "+5,4 kJ/mol"
+        ],
+        "correct": 1,
+        "explanation": "Q=100g×4,18×6,5=2717J=2,717kJ; mol=0,05; ΔH=-2,717/0,05=-54kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-086",
+        "question": "Duke përdorur: C2H5OH+3O2=2CO2+3H2O ∆H1=-1367kJ/mol dhe C2H4+3O2=2CO2+2H2O ∆H2=-1411kJ/mol, njehsoni ∆H0 për C2H4+H2O=C2H5OH.",
+        "answers": [
+            "–44 kJ/mol",
+            "–22 kJ/mol",
+            "+44 kJ/mol",
+            "+22 kJ/mol"
+        ],
+        "correct": 0,
+        "explanation": "ΔH=ΔH2-ΔH1=-1411-(-1367)=-44kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-087",
+        "question": "Jepen: 4Al+3O2=2Al2O3 ∆H=-3352kJ dhe 4Al+3MnO2=3Mn+2Al2O3 ∆H=-1792kJ. Sa është entalpia standarde e formimit të MnO2?",
+        "answers": [
+            "-1560 kJ/mol",
+            "+1560 kJ/mol",
+            "-520 kJ/mol",
+            "+520 kJ/mol"
+        ],
+        "correct": 2,
+        "explanation": "3Mn+3O2=3MnO2: ΔH=-3352-(-1792)=-1560kJ (për 3mol); për 1mol: -520kJ/mol."
+    },
+    {
+        "id": "kimia-termokinetika-088",
+        "question": "Bazuar në: N2+O2=2NO ∆H1=+180,7kJ; 2NO+O2=2NO2 ∆H2=-113,1kJ; 2N2O=2N2+O2 ∆H3=-163,2kJ. Sa është entalpia e N2O(g)+NO2(g)→3NO(g)?",
+        "answers": [
+            "-155,65 kJ",
+            "+155,65 kJ",
+            "+223,25 kJ",
+            "-223,25 kJ"
+        ],
+        "correct": 1,
+        "explanation": "Duke kombinuar sipas ligjit të Hesit reaksionet e dhëna, ΔH=+155,65kJ."
+    },
+    {
+        "id": "kimia-termokinetika-089",
+        "question": "A+2B=C, k=0,8. [A]0=1,[B]0=1,5mol/l. Sa është shpejtësia kur mbetet 30% e A?",
+        "answers": [
+            "7,2x10⁻² mol/l·s",
+            "7,2 x10⁻³ mol/l·s",
+            "2,4x10⁻² mol/l·s",
+            "2,4x10⁻³ mol/l·s"
+        ],
+        "correct": 3,
+        "explanation": "[A]=0,3; ΔB=1,4 → [B]=0,1; V=0,8×0,3×0,01=2,4×10⁻³mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-090",
+        "question": "A(g)+B(g)→C(g): dyfishimi i A dhe B së bashku rrit shpejtësinë 8 herë; dyfishimi vetëm i A e dyfishon. Rendi total i reaksionit është:",
+        "answers": [
+            "1",
+            "1,5",
+            "2",
+            "2,5"
+        ],
+        "correct": 1,
+        "explanation": "Rend 1 për A; kombinuar 4^(1+m)=8 → m=0,5 për B; total=1,5."
+    },
+    {
+        "id": "kimia-termokinetika-091",
+        "question": "A(g)+3B(g)=C(g) (reaksion i thjeshtë): si ndryshon shpejtësia kur dyfishohet trysnia e përgjithshme?",
+        "answers": [
+            "Rritet 16 herë",
+            "Rritet 8 herë",
+            "Zvogëlohet 16 herë",
+            "Zvogëlohet 8 herë"
+        ],
+        "correct": 0,
+        "explanation": "Rendi total=1+3=4; 2⁴=16."
+    },
+    {
+        "id": "kimia-termokinetika-092",
+        "question": "Si ndryshon shpejtësia e 2A(g)+B(g)=C(g) kur vëllimi zvogëlohet 1,5 herë?",
+        "answers": [
+            "Rritet 2,25 herë",
+            "Zvogëlohet 2,25 herë",
+            "Rritet 3,37 herë",
+            "Nuk ndryshon"
+        ],
+        "correct": 2,
+        "explanation": "Rendi total=3; përqendrimet rriten 1,5×; 1,5³=3,37, rritet."
+    },
+    {
+        "id": "kimia-termokinetika-093",
+        "question": "2SO2+O2=2SO3, k=0,2. [SO2]0=2,5,[O2]0=1,5mol/l. Sa është shpejtësia kur janë shpenzuar 20% SO2?",
+        "answers": [
+            "1,8 mol/l·s",
+            "1,0 mol/l·s",
+            "1,2 mol/l·s",
+            "0,8 mol/l·s"
+        ],
+        "correct": 1,
+        "explanation": "[SO2]=2,0; ΔO2=0,25 → [O2]=1,25; V=0,2×4×1,25=1,0mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-094",
+        "question": "2A(g)+B(g)=C(g), [A]0=1,5,[B]0=2,6mol/l, k=1,2. Sa është shpejtësia kur janë shpenzuar 0,6mol A?",
+        "answers": [
+            "1,9 mol/l·s",
+            "1,18 mol/l·s",
+            "2,23 mol/l·s",
+            "7,02 mol/l·s"
+        ],
+        "correct": 2,
+        "explanation": "[A]=0,9; ΔB=0,3 → [B]=2,3; V=1,2×0,81×2,3=2,23mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-095",
+        "question": "Nga 3 matje për A+B→C, njehsoni konstanten e shpejtësisë sipas të dhënave të tabelës.",
+        "answers": [
+            "0,0015 mol/l·s",
+            "0,015 mol/l·s",
+            "0,15 mol/l·s",
+            "3,7 mol/l·s"
+        ],
+        "correct": 1,
+        "explanation": "Nga të dhënat, rendi është 1 për A dhe 1 për B; k≈0,015 L/mol·s."
+    },
+    {
+        "id": "kimia-termokinetika-096",
+        "question": "A(g)+B(g)=C(g), [A]0=1,3,[B]0=2,2mol/l, k=0,5. Sa është shpejtësia kur janë shpenzuar 50% e A?",
+        "answers": [
+            "0,4 mol/l·s",
+            "0,7 mol/l·s",
+            "0,6 mol/l·s",
+            "0,5 mol/l·s"
+        ],
+        "correct": 3,
+        "explanation": "[A]=0,65; ΔB=0,65 → [B]=1,55; V=0,5×0,65×1,55≈0,5mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-097",
+        "question": "2CO(g)+O2(g)=2CO2(g), [CO]0=0,5,[O2]0=0,3mol/l, k=1,2. Sa është shpejtësia kur mbetet 30% O2?",
+        "answers": [
+            "8,6x10⁻³ mol/l·s",
+            "5,1x10⁻³ mol/l·s",
+            "6,9x10⁻⁴ mol/l·s",
+            "5,7x10⁻⁴ mol/l·s"
+        ],
+        "correct": 2,
+        "explanation": "[O2]=0,09; ΔCO=0,42 → [CO]=0,08; V=1,2×0,0064×0,09=6,9×10⁻⁴mol/l·s."
+    },
+    {
+        "id": "kimia-termokinetika-098",
+        "question": "2NO(g)+Cl2(g)=2NOCl(g): [NO] shkon nga 0,5 në 0,05mol/l pas 40s; [Cl2]0=0,3mol/l. Sa është [Cl2] pas 40s?",
+        "answers": [
+            "0,075mol/l",
+            "0,1125mol/l",
+            "0,0075mol/l",
+            "0,01125mol/l"
+        ],
+        "correct": 0,
+        "explanation": "ΔNO=0,45; ΔCl2=0,45/2=0,225; [Cl2]=0,3-0,225=0,075mol/l."
+    },
+    {
+        "id": "kimia-termokinetika-099",
+        "question": "Nga 3 matje për I⁻+OCl⁻→IO⁻+Cl⁻, njehsoni konstanten e shpejtësisë me njësinë përkatëse.",
+        "answers": [
+            "0,06 l/mol·s",
+            "2,06 l/mol·s",
+            "6,02 mol²l²s⁻¹",
+            "60,2 mol²l²s⁻¹"
+        ],
+        "correct": 0,
+        "explanation": "Rendi 1 për I⁻ dhe 1 për OCl⁻; nga të dhënat, k≈0,06 L/mol·s."
+    }
 ]

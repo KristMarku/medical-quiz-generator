@@ -1,182 +1,2162 @@
 [
-{"id":"kimia-ekuilibri-001","question":"Për reaksionin në ekuilibër CaCO3(ng) + nxehtësi ⇌ CaO(ng) + CO2(g), vlera e konstantes së ekuilibrit rritet në qoftë se:","answers":["rrisim trysninë","ulim sasinë e CO2","rrisim temperaturën","ulim vëllimin e enës"],"correct":2,"explanation":"Reaksioni është endotermik (kërkon nxehtësi); rritja e temperaturës favorizon drejtimin e drejtë dhe rrit K."},
-{"id":"kimia-ekuilibri-002","question":"Reaksioni i ekuilibrit midis azotit dhe oksigjenit mund të shkruhet: N2+O2⇌2NO (K1) dhe ½N2+½O2⇌NO (K2). Duke krahasuar vlerat e konstanteve, mund të themi:","answers":["K1 = K2","K1 = 2K2","K1 = ½K2","K1 = K2²"],"correct":3,"explanation":"Kur një barazim shumëzohet me n, konstantja e re bëhet K^n; reaksioni 2 është reaksioni 1 i shumëzuar me ½, pra K2 = K1^(½), që do të thotë K1 = K2²."},
-{"id":"kimia-ekuilibri-003","question":"Ekuilibri: N2O4(g)⇌2NO2(g) zhvendoset djathtas kur:","answers":["rrisim trysninë","ulim temperaturën","rrisim temperaturën","shtojmë në enë NO2"],"correct":2,"explanation":"Shpërbërja e N2O4 është endotermike dhe rrit numrin e moleve gazi; rritja e temperaturës e zhvendos ekuilibrin djathtas."},
-{"id":"kimia-ekuilibri-004","question":"Për reaksionin në ekuilibër: 2A(g)+B(g)⇌3C(g), Ke=4. Përqendrimet e ekuilibrit për A dhe C janë nga 0.2 mol/L. Përqendrimi i ekuilibrit të B është:","answers":["0.04 mol/L","0.05 mol/L","0.4 mol/L","0.5 mol/L"],"correct":1,"explanation":"Kc=[C]³/([A]²[B]) ⇒ 4=(0.2)³/((0.2)²·[B]) ⇒ [B]=0.008/(0.04·4)=0.05 mol/L."},
-{"id":"kimia-ekuilibri-005","question":"Në një reaksion të prapësueshëm, çfarë efekti ka shtimi i një katalizatori te k1, k2 dhe Ke?","answers":["Rritet, zvogëlohet, nuk ndryshon","Rritet, zvogëlohet, rritet","Rritet, rritet, nuk ndryshon","Rritet, rritet, rritet"],"correct":2,"explanation":"Katalizatori rrit njësoj shpejtësinë e reaksionit të drejtë dhe të zhdrejtë, prandaj Ke=k1/k2 mbetet i pandryshuar."},
-{"id":"kimia-ekuilibri-006","question":"Në 400°C Ke=50 për H2(g)+I2(g)⇌2HI(g). Një përzierje barazmolare H2 dhe I2 vendoset deri sa arrihet ekuilibri. Në enë do të ketë:","answers":["vetëm HI","vetëm H2 dhe I2","më pak HI se sa H2 ose I2","më shumë HI se sa H2 ose I2"],"correct":3,"explanation":"Ke=50 >1 tregon se produktet (HI) favorizohen shumë më tepër se reaktantët në gjendjen e ekuilibrit."},
-{"id":"kimia-ekuilibri-007","question":"Për 2SO2(g)+O2(g)⇌2SO3(g), [SO2]0=0.9M, [O2]0=0.8M, [SO2]eq=0.3M. Vlera e Kc është:","answers":["0.6","0.8","3.6","8"],"correct":3,"explanation":"ΔSO2=0.6 ⇒ eq: [SO2]=0.3, [O2]=0.8-0.3=0.5, [SO3]=0.6; Kc=(0.6)²/((0.3)²·0.5)=8."},
-{"id":"kimia-ekuilibri-008","question":"Procesi Haber: N2(g)+3H2(g)⇌2NH3(g), ΔH<0. Kur temperatura e sistemit rritet:","answers":["vlera e Kp rritet","vlera e Kp zvogëlohet","vlera e Kp nuk ndryshon","vlera e Kp rritet e pastaj zvogëlohet"],"correct":1,"explanation":"Reaksioni është ekzotermik; rritja e T favorizon reaksionin e zhdrejtë, prandaj Kp zvogëlohet."},
-{"id":"kimia-ekuilibri-009","question":"NH4Cl(ng)⇌NH3(g)+HCl(g). Shprehja e Kp për këtë reaksion është:","answers":["Kp = pNH3·pHCl","Kp = 1/(pNH3·pHCl)","Kp = pNH3·pHCl/pNH4Cl","Kp = pNH4Cl/(pNH3·pHCl)"],"correct":0,"explanation":"Substancat e ngurta nuk përfshihen në shprehjen e K; mbeten vetëm trysnitë e pjesshme të gazeve produkte."},
-{"id":"kimia-ekuilibri-010","question":"Kc=[P]²/([Q][R]³), ΔH<0. Cili faktor rrit vlerën e Kc?","answers":["Ulja e temperaturës","Zvogëlimi i trysnisë","Rritja e temperaturës","Rritja e trysnisë"],"correct":0,"explanation":"Për reaksion ekzotermik, ulja e temperaturës e zhvendos ekuilibrin drejt produkteve, duke rritur Kc."},
-{"id":"kimia-ekuilibri-011","question":"Për ekuilibrin: A(ng)+2B+(uj)⇌A2+(uj)+2B(ng), njësia matëse e konstantes së ekuilibrit është:","answers":["mol/dm³","dm³/mol","mol²/dm⁶","nuk ka njësi"],"correct":1,"explanation":"K=[A2+]/[B+]²; njësia = (mol/L)/(mol/L)² = L/mol = dm³/mol."},
-{"id":"kimia-ekuilibri-012","question":"Cr2O7²⁻(uj)+H2O(l)⇌2CrO4²⁻(uj)+2H⁺(uj), portokalli⇌verdhë. Shtimi i pak NaOH në gjendjen ku mbizotëron ngjyra portokalli:","answers":["kthen tretësirën në të gjelbër","kthen tretësirën në pa ngjyrë","e zhvendos ekuilibrin majtas","e zhvendos ekuilibrin djathtas"],"correct":3,"explanation":"NaOH konsumon H⁺, ulet [H⁺], ekuilibri zhvendoset djathtas drejt CrO4²⁻ (verdhë)."},
-{"id":"kimia-ekuilibri-013","question":"PCl5(g)⇌PCl3(g)+Cl2(g), në 260°C Kp=2 atm, pPCl3=0.5atm, pCl2=0.8atm. Trysnia e pjesshme e PCl5 në ekuilibër është:","answers":["0.2 atm","0.8 atm","1 atm","5 atm"],"correct":0,"explanation":"Kp=pPCl3·pCl2/pPCl5 ⇒ 2=0.4/pPCl5 ⇒ pPCl5=0.2 atm."},
-{"id":"kimia-ekuilibri-014","question":"CO(g)+2H2(g)⇌CH3OH(g), ΔH=-90 kJ/mol. Rendimenti i metanolit favorizohet nga:","answers":["temperaturë dhe trysni e ulët","temperaturë e ulët dhe trysni e lartë","temperaturë e lartë dhe trysni e ulët","temperaturë e lartë dhe trysni e lartë"],"correct":1,"explanation":"Reaksion ekzotermik me zvogëlim molesh gazi; favorizohet nga T e ulët (Le Chatelier termik) dhe P e lartë (zhvendos drejt më pak moleve)."},
-{"id":"kimia-ekuilibri-015","question":"Për CO(g)+2H2(g)⇌CH3OH(g) në 260°C, Kc=3.6. Kjo vlerë do të thotë:","answers":["janë formuar 3.6 mol metanol","janë formuar 3.6 mol metanol nga 1 mol CO","përqendrimi i metanolit është 3.6 herë më i madh se i H2","në shprehjen e Kc, numëruesi është 3.6 herë më i madh se emëruesi"],"correct":3,"explanation":"Kc është thjesht raporti numerik numërues/emërues i shprehjes së ekuilibrit, jo sasi apo raport përqendrimesh specifike."},
-{"id":"kimia-ekuilibri-016","question":"CH3COOH+H2SO4⇌CH3COOH2⁺+HSO4⁻. Cilat janë acide sipas Bronsted-Lauri?","answers":["CH3COOH dhe H2SO4","CH3COOH2⁺ dhe HSO4⁻","H2SO4 dhe CH3COOH2⁺","CH3COOH dhe HSO4⁻"],"correct":2,"explanation":"H2SO4 dhurin protonin (acid) drejt, ndërsa CH3COOH2⁺ (acidi i konjuguar) dhuron protonin në reaksionin e zhdrejtë."},
-{"id":"kimia-ekuilibri-017","question":"Cili është acidi i konjuguar për bazën HAsO4²⁻?","answers":["AsO4³⁻","H2AsO4⁻","H2AsO3⁻","H3AsO4"],"correct":1,"explanation":"Acidi i konjuguar formohet duke shtuar një H⁺ te baza: HAsO4²⁻ + H⁺ → H2AsO4⁻."},
-{"id":"kimia-ekuilibri-018","question":"X ka pH=2 dhe Y ka pH=4. Cili pohim është i saktë?","answers":["X ka [H⁺] 100 herë më të lartë se Y","Y ka [H⁺] 2 herë më të lartë se X","X ka [H⁺] 4 herë më të lartë se Y","Y ka [H⁺] 100 herë më të lartë se X"],"correct":0,"explanation":"[H⁺]X=10⁻², [H⁺]Y=10⁻⁴; raporti = 10²=100 herë më i madh te X."},
-{"id":"kimia-ekuilibri-019","question":"Barazimi jonik i shkurtuar për hidrolizën e Na2S është:","answers":["Na2S⇌2Na⁺+S²⁻","S²⁻+2H2O⇌2OH⁻+H2S","Na2S+2H2O⇌2NaOH+H2S","Na2S+2H2O⇌2NaOH+2H⁺"],"correct":1,"explanation":"Barazimi jonik i shkurtuar përfshin vetëm jonin që hidrolizohet (S²⁻) dhe ujin, jo jonet spektatore Na⁺."},
-{"id":"kimia-ekuilibri-020","question":"HClO+HNO2⇌H2ClO⁺+NO2⁻. Sipas Bronsted-Lourit, acidi dhe baza e konjuguar e tij janë:","answers":["HClO dhe HNO2","HClO dhe H2ClO⁺","HNO2 dhe NO2⁻","H2ClO⁺ dhe NO2⁻"],"correct":2,"explanation":"HNO2 dhuron protonin (acid) duke formuar bazën e vet të konjuguar NO2⁻."},
-{"id":"kimia-ekuilibri-021","question":"Bazuar në teorinë e Bronshted-Lourit, veti amfotere paraqet:","answers":["CO3²⁻","H2CO3","HPO4²⁻","H3PO4"],"correct":2,"explanation":"HPO4²⁻ mund të veprojë si acid (duke dhuruar H⁺) ose si bazë (duke pranuar H⁺), pra është amfoter."},
-{"id":"kimia-ekuilibri-022","question":"Nga përzierja e Pb(NO3)2 me KI formohet precipitat i verdhë. Barazimi jonik për këtë reaksion është:","answers":["Pb⁺+I⁻→PbI(ng)","Pb²⁺+I²⁻→PbI(ng)","Pb²⁺+2I⁻→PbI2(ng)","Pb⁺+2I⁻→PbI2(ng)"],"correct":2,"explanation":"Pb²⁺ dhe I⁻ bashkohen sipas ngarkesave dhe stekiometrisë 1:2 për të formuar PbI2 të ngurtë."},
-{"id":"kimia-ekuilibri-023","question":"Cila nga këto vepron me ujin për të formuar një oksiacid?","answers":["N2","NH3","Al2O3","Cl2O3"],"correct":3,"explanation":"Cl2O3 është oksid acid (jometal); reagon me ujë duke formuar acidin përkatës HClO2."},
-{"id":"kimia-ekuilibri-024","question":"Vetëm një çift oksidesh, kur hidhet në ujë, NUK formon tretësirë acidi. Cili?","answers":["CO dhe NO","CO dhe CO2","CO dhe SO2","NO dhe CO2"],"correct":0,"explanation":"CO dhe NO janë oksidе neutrale, nuk reagojnë me ujin për të formuar acide, ndryshe nga CO2, SO2."},
-{"id":"kimia-ekuilibri-025","question":"Cila tretësirë pothuajse NUK ndryshon pH kur shtojmë 1 ml 0.01M NaOH?","answers":["HCl dhe NaCl","HCN dhe KCN","KOH dhe KCN","KOH dhe KCl"],"correct":1,"explanation":"HCN (acid i dobët) me KCN (kripa e tij) formojnë tretësirë tampon, që rezistin ndaj ndryshimeve të pH."},
-{"id":"kimia-ekuilibri-026","question":"Një tretësirë me vetëm një substancë të tretur ka pH=9. Cila substancë është?","answers":["HCl","KOH","NH4Cl","CH3COOH"],"correct":1,"explanation":"Vetëm baza (KOH) mund të japë mjedis bazik (pH>7); acidet dhe kripa NH4Cl japin mjedis acid."},
-{"id":"kimia-ekuilibri-027","question":"Kloruri i argjendit AgCl tretet më mirë në:","answers":["ujë të distiluar","tretësirën e HCl","tretësirën e NaCl","tretësirën e AgNO3"],"correct":0,"explanation":"Në ujë të pastër nuk ka efekt të jonit të përbashkët (Cl⁻ ose Ag⁺), prandaj tretshmëria e AgCl është maksimale."},
-{"id":"kimia-ekuilibri-028","question":"Vlera e Ku (Kw) rritet me rritjen e temperaturës. Kur temperatura rritet, uji i pastër:","answers":["mbetet neutral","sillet si acid","sillet si bazë","shpërbashkohet më pak"],"correct":0,"explanation":"[H⁺]=[OH⁻] mbetet gjithmonë e barabartë në ujë të pastër, pavarësisht temperaturës, prandaj mbetet neutral (edhe pse pH ndryshon)."},
-{"id":"kimia-ekuilibri-029","question":"Në 60°C, Ku=9·10⁻¹⁴. Vlera e pH për ujin e pastër në këtë temperaturë është: (log3≈0.5)","answers":["6","6.5","7","7.5"],"correct":1,"explanation":"[H⁺]=√(9·10⁻¹⁴)=3·10⁻⁷ ⇒ pH=7-log3=7-0.5=6.5."},
-{"id":"kimia-ekuilibri-030","question":"Një tretësirë ujore e acidit etanoik hollohet gradualisht. Cili pohim është i saktë?","answers":["Vlera e pH rritet","Vlera e Ka rritet","Përqendrimi i molekulave të pashpërbashkuara rritet","Përqindja e molekulave të shpërbashkuara zvogëlohet"],"correct":0,"explanation":"Hollimi ul [H⁺], prandaj pH rritet, edhe pse shkalla (%) e shpërbashkimit rritet me hollimin."},
-{"id":"kimia-ekuilibri-031","question":"KPT për Zn(OH)2 është 1.2·10⁻¹⁷. Cili pohim është i saktë?","answers":["Kpt nuk ndryshon kur ndryshon pH","Kpt nuk varet nga temperatura","Kpt ndryshon nëse shtojmë ZnCl2","Tretshmëria e Zn(OH)2 nuk ndryshon nëse shtojmë ZnCl2"],"correct":0,"explanation":"Kpt është konstante vetëm në funksion të temperaturës; nuk ndryshon nga shtimi i joneve të përbashkëta apo nga pH."},
-{"id":"kimia-ekuilibri-032","question":"Cili nga acidet e mëposhtme është acid i fortë?","answers":["HF","HCN","HCl","H2CO3"],"correct":2,"explanation":"HCl shpërbashkohet plotësisht në ujë, ndryshe nga HF, HCN, H2CO3 që janë acide të dobëta."},
-{"id":"kimia-ekuilibri-033","question":"Vlera e pH e një tretësire acidi të fortë monoprotik me përqendrim 10⁻³M është:","answers":["-3","3","11","10⁻³"],"correct":1,"explanation":"Acid i fortë monoprotik: [H⁺]=10⁻³M ⇒ pH=-log(10⁻³)=3."},
-{"id":"kimia-ekuilibri-034","question":"Fenolftalina e hedhur në tretësirë ujore KCN merr ngjyrë:","answers":["blu","të verdhë","të kuqe","portokalli"],"correct":2,"explanation":"KCN hidrolizohet duke dhënë mjedis bazik; fenolftalina merr ngjyrë të kuqe/rozë në mjedis bazik."},
-{"id":"kimia-ekuilibri-035","question":"Tretësira ujore e HI me përqendrim 0.01M e ka pH:","answers":["1","2","3","7"],"correct":1,"explanation":"HI acid i fortë monoprotik: [H⁺]=0.01M ⇒ pH=-log(10⁻²)=2."},
-{"id":"kimia-ekuilibri-036","question":"Përqendrimi i OH⁻ është 10⁻⁶M. pH i tretësirës në këtë rast është:","answers":["2","6","7","8"],"correct":3,"explanation":"pOH=6 ⇒ pH=14-6=8."},
-{"id":"kimia-ekuilibri-037","question":"Cila tretësirë pothuajse NUK ndryshon vlerën e pH kur e hollojmë dy herë?","answers":["HCl dhe NaCl","HCN dhe KCN","KOH dhe KCN","KOH dhe KCl"],"correct":1,"explanation":"Tretësira tampon HCN/KCN e ruan pH-in praktikisht të pandryshuar edhe pas hollimit."},
-{"id":"kimia-ekuilibri-038","question":"Raporti midis pH të HCl 0.1M dhe pH të Ba(OH)2 0.05M është:","answers":["1 me 2","2 me 1","1 me 10","1 me 13"],"correct":3,"explanation":"pH(HCl)=-log(0.1)=1; Ba(OH)2 0.05M jep [OH⁻]=0.1M ⇒ pOH=1, pH=13; raporti 1:13."},
-{"id":"kimia-ekuilibri-039","question":"Duke u nisur nga vlerat e konstanteve të shpërbashkimit të disa acideve, cili është acidi më i fortë?","answers":["2×10⁻²⁰","1.5×10⁻²¹","1.2×10⁻²²","2.5×10⁻²³"],"correct":0,"explanation":"Sa më e madhe vlera e Ka, aq më i fortë acidi; 2×10⁻²⁰ është vlera më e madhe."},
-{"id":"kimia-ekuilibri-040","question":"pH i tretësirës 0.001M të KOH është:","answers":["3","10","11","12"],"correct":2,"explanation":"Bazë e fortë: [OH⁻]=10⁻³M ⇒ pOH=3 ⇒ pH=14-3=11."},
-{"id":"kimia-ekuilibri-041","question":"Në 5L tretësirë ndodhen 0.5 mole HNO3. Vlera e pH të tretësirës është:","answers":["1","2","3","5"],"correct":0,"explanation":"[HNO3]=0.5/5=0.1M, acid i fortë ⇒ [H⁺]=0.1M ⇒ pH=1."},
-{"id":"kimia-ekuilibri-042","question":"Masa në gram e KOH (M=56g/mol) për të përgatitur 200ml tretësirë 4M është:","answers":["44.8g","45g","45.8g","46g"],"correct":0,"explanation":"mol=0.2L×4M=0.8mol ⇒ masa=0.8×56=44.8g."},
-{"id":"kimia-ekuilibri-043","question":"Si reagon uji në: NH3+H2O⇌NH4⁺+OH⁻, sipas Bronsted-Louer?","answers":["si acid, sepse pranon proton","si bazë, sepse pranon proton","si acid, sepse liron proton","si bazë, sepse liron proton"],"correct":2,"explanation":"Uji i jep një proton NH3-së duke formuar OH⁻, prandaj vepron si acid (dhurues protoni)."},
-{"id":"kimia-ekuilibri-044","question":"Cila kripë, duke reaguar me ujin, jep tretësirë bazike me pH>7?","answers":["NaCl","NH4Cl","NaHCO3","NaNO3"],"correct":2,"explanation":"NaHCO3 është kripë e acidit të dobët dhe bazës së fortë; hidrolizohet duke dhënë mjedis lehtësisht bazik."},
-{"id":"kimia-ekuilibri-045","question":"Në titrimin e HCl me tretësirën ujore të amoniakut, pH në pikën e asnjanësimit është përafërsisht:","answers":["1","5","7","8"],"correct":1,"explanation":"Kripa e formuar NH4Cl (nga acid i fortë + bazë e dobët) hidrolizohet duke dhënë mjedis acid, pH<7."},
-{"id":"kimia-ekuilibri-046","question":"Në një tretësirë me pOH=12, mjedisi i tretësirës është:","answers":["acid i dobët","acid i fortë","bazë e dobët","bazë e fortë"],"correct":1,"explanation":"pOH=12 ⇒ pH=2, mjedis shumë acid, karakteristik për një acid të fortë."},
-{"id":"kimia-ekuilibri-047","question":"Në 100ml BaF2 0.5M shtojmë 50ml K2SO4 0.1M. Numri i moleve BaSO4 të formuar është:","answers":["0.01","0.05","0.001","0.005"],"correct":3,"explanation":"mol Ba²⁺=0.05 (tepricë), mol SO4²⁻=0.005 (kufizues); formohen 0.005 mol BaSO4."},
-{"id":"kimia-ekuilibri-048","question":"Numri i joneve Ca²⁺ në 7.4g Ca(OH)2 (M=74g/mol) është:","answers":["0.5×6.02×10²³","0.4×6.02×10²³","0.3×6.02×10²³","0.1×6.02×10²³"],"correct":3,"explanation":"mol Ca(OH)2=7.4/74=0.1mol ⇒ jone Ca²⁺=0.1×NA=0.1×6.02×10²³."},
-{"id":"kimia-ekuilibri-049","question":"Një tretësirë 3M e K2SO4 me vëllim 1L përmban:","answers":["2mol SO4²⁻","3mol K⁺","5mol SO4²⁻","6mol K⁺"],"correct":3,"explanation":"3mol K2SO4 japin 3mol SO4²⁻ dhe 2×3=6mol K⁺."},
-{"id":"kimia-ekuilibri-050","question":"Përqendrimi molar i tretësirës me 8g NaOH në 0.5L është:","answers":["0.4M","0.6M","0.65M","0.7M"],"correct":0,"explanation":"mol NaOH=8/40=0.2mol ⇒ M=0.2/0.5=0.4M."},
-{"id":"kimia-ekuilibri-051","question":"Barazimi jonik për AgNO3(uj)+HCl(uj)=AgCl(ng)+HNO3(uj) është:","answers":["Ag⁺+Cl⁻=AgCl(ng)","Ag⁺+NO3⁻=Cl⁻+NO3⁻","Cl⁻+H⁺=Cl⁻+H⁺","NO3⁻+H⁺=H⁺+NO3⁻"],"correct":0,"explanation":"Vetëm jonet që reagojnë dhe formojnë precipitat përfshihen; Ag⁺ dhe Cl⁻ bashkohen duke formuar AgCl(ng)."},
-{"id":"kimia-ekuilibri-052","question":"Njëra nga substancat e mëposhtme është elektrolit i dobët:","answers":["NaOH","K2SO4","HCN","H2SO4"],"correct":2,"explanation":"HCN shpërbashkohet pjesërisht në ujë (acid i dobët), ndryshe nga NaOH, K2SO4, H2SO4 që janë elektrolite të forta."},
-{"id":"kimia-ekuilibri-053","question":"Masa e Cl2 (ArCl=35.5) e përftuar nga 73g HCl sipas MnO2+4HCl=MnCl2+Cl2+2H2O është:","answers":["35.5g","36.5g","37.5g","38.5g"],"correct":0,"explanation":"mol HCl=73/36.5=2mol; sipas stekiometrisë 4HCl→1Cl2, 2mol HCl→0.5mol Cl2=0.5×71=35.5g."},
-{"id":"kimia-ekuilibri-054","question":"Shprehja e Kpt për tretësirën e ngopur Ca3(PO4)2 është:","answers":["Kpt=[Ca²⁺]·[PO4³⁻]","Kpt=[Ca²⁺]³·[PO4³⁻]²","Kpt=[3Ca²⁺]·[2PO4³⁻]","Kpt=[3Ca²⁺]³·[2PO4³⁻]²"],"correct":1,"explanation":"Eksponentët në Kpt janë koeficientët stekiometrikë: Ca3(PO4)2⇌3Ca²⁺+2PO4³⁻ ⇒ Kpt=[Ca²⁺]³[PO4³⁻]²."},
-{"id":"kimia-ekuilibri-055","question":"Shprehja e Kpt për tretësirën e ngopur Fe2(SO4)3 është:","answers":["Kpt=[Fe³⁺]²·[SO4²⁻]³","Kpt=[Fe³⁺]·[SO4²⁻]","Kpt=[2Fe³⁺]·[3SO4²⁻]","Kpt=[2Fe³⁺]²·[3SO4²⁻]³"],"correct":0,"explanation":"Fe2(SO4)3⇌2Fe³⁺+3SO4²⁻ ⇒ Kpt=[Fe³⁺]²[SO4²⁻]³."},
-{"id":"kimia-ekuilibri-056","question":"Shprehja e Kpt për tretësirën e ngopur BaF2 është:","answers":["Kpt=[Ba²⁺]·[F⁻]²","Kpt=[Ba²⁺]·[F⁻]","Kpt=[Ba²⁺]·[2F⁻]²","Kpt=[Ba²⁺]·[2F⁻]"],"correct":0,"explanation":"BaF2⇌Ba²⁺+2F⁻ ⇒ Kpt=[Ba²⁺][F⁻]²."},
-{"id":"kimia-ekuilibri-057","question":"Cila nga kripërat e mëposhtme, duke u tretur në ujë, NUK hidrolizon?","answers":["CH3COONH4","Na2SO4","NH4Cl","KCN"],"correct":1,"explanation":"Na2SO4 është kripë e acidit të fortë dhe bazës së fortë, nuk hidrolizon dhe jep tretësirë neutrale."},
-{"id":"kimia-ekuilibri-058","question":"AgI ka Kpt=8.3×10⁻¹⁷, PbI2 ka Kpt=7.1×10⁻⁹. Mund të themi se:","answers":["AgI ka tretshmëri më të madhe se PbI2","PbI2 ka tretshmëri më të madhe se AgI","produkti jonik i të dyjave është i barabartë","produkti jonik i AgI është më i madh se ai i PbI2"],"correct":1,"explanation":"Duke llogaritur tretshmërinë molare nga formula e secilit tip (1:1 dhe 1:2), PbI2 rezulton me tretshmëri dukshëm më të madhe se AgI."},
-{"id":"kimia-ekuilibri-059","question":"Cili nga reaksionet NUK është reaksion acid-bazë (në tretësira ujore)?","answers":["2H2O⇌H3O⁺+OH⁻","NH4⁺+NH2⁻⇌2NH3","HNO3+HClO4⇌H2NO3⁺+ClO4⁻","FeCl3+6H2O→Fe(H2O)6³⁺+3Cl⁻"],"correct":3,"explanation":"Reaksioni i FeCl3 me ujë është hidratim/dissociim jonik, jo transferim protoni Bronsted-Lauri."},
-{"id":"kimia-ekuilibri-060","question":"CuCl ka tretshmëri ~4×10⁻⁴mol/L. Nëse në 1L tretësirë e ngopur shtohen 0.1mol CaCl2, ndodh që:","answers":["[Cu⁺] ulet për shkak të efektit të jonit të përbashkët","[Cu⁺] rritet për shkak të efektit të jonit të përbashkët","[Cu⁺] ulet nga oksidimi në Cu²⁺","[Cu⁺] mbetet i pandryshuar"],"correct":0,"explanation":"Cl⁻ shtesë nga CaCl2 është jon i përbashkët me CuCl, që zhvendos ekuilibrin e tretjes majtas, duke ulur [Cu⁺]."},
-{"id":"kimia-ekuilibri-061","question":"Tretësirë tampon: CH3COOH 0.1M (Ka≈10⁻⁵) dhe CH3COONa 0.05M. pH i saj është: (log2=0.3)","answers":["3","4.3","4.7","5"],"correct":2,"explanation":"pH=pKa+log([kripa]/[acidi])=5+log(0.05/0.1)=5-0.3=4.7."},
-{"id":"kimia-ekuilibri-062","question":"Vlera e produktit jonik të tretësirës me Pb²⁺=0.002M dhe I⁻=0.004M është:","answers":["4×10⁻⁹","3.2×10⁻⁸","1.3×10⁻⁷","8×10⁻⁶"],"correct":1,"explanation":"PJ=[Pb²⁺][I⁻]²=0.002×(0.004)²=3.2×10⁻⁸."},
-{"id":"kimia-ekuilibri-063","question":"Tretësirë e ngopur Mg(OH)2 me [Mg²⁺]=10⁻⁴M. Vlera e Kpt është:","answers":["1×10⁻⁸","2×10⁻⁸","4×10⁻¹²","8×10⁻¹²"],"correct":2,"explanation":"[OH⁻]=2×10⁻⁴M ⇒ Kpt=[Mg²⁺][OH⁻]²=10⁻⁴×(2×10⁻⁴)²=4×10⁻¹²."},
-{"id":"kimia-ekuilibri-064","question":"Cila nga tretësirat e mëposhtme është më acide?","answers":["3M HCl","2M HNO3","2M HCOOH","3M CH3COOH"],"correct":0,"explanation":"HCl dhe HNO3 janë acide të forta (shpërbashkohen plotësisht); HCl 3M ka [H⁺] më të lartë se HNO3 2M."},
-{"id":"kimia-ekuilibri-065","question":"Tretësira ujore e HNO2 asnjanësohet plotësisht me NaOH. Vlera e pH e tretësirës së asnjanësuar ka më shumë mundësi të jetë:","answers":["5.5","7","8.5","13"],"correct":2,"explanation":"Formohet kripa NaNO2 (acid i dobët+bazë e fortë), që hidrolizon duke dhënë mjedis lehtësisht bazik, pH>7."},
-{"id":"kimia-ekuilibri-066","question":"Cila tretësirë ka pH më të ulët?","answers":["0.01M HCl","0.1M HCl","0.01M CH3COOH","0.1M CH3COOH"],"correct":1,"explanation":"HCl (acid i fortë) me përqendrim më të lartë (0.1M) jep [H⁺] më të madhe se çdo variant tjetër."},
-{"id":"kimia-ekuilibri-067","question":"Cili çift, kur përzihet, formon tretësirë tampon me pH>7?","answers":["Acid metanoik dhe metanoat natriumi","Hidroksid natriumi dhe klorur natriumi","Klorur amoni dhe etanoat amoni","Amoniak dhe klorur amoni"],"correct":3,"explanation":"Amoniaku (bazë e dobët) me kripën e tij NH4Cl formon tampon bazik me pH>7."},
-{"id":"kimia-ekuilibri-068","question":"CH2ClCH2Cl(g)⇌CH2CHCl(g)+HCl(g). Rritja e rendimentit të kloretenit ndodh kur:","answers":["rrisim temperaturën","rrisim trysninë","rrisim sipërfaqen e katalizatorit","ndryshojmë katalizatorin"],"correct":0,"explanation":"Reaksioni rrit numrin e moleve gazi (endotermik); rritja e temperaturës e zhvendos ekuilibrin drejt produkteve."},
-{"id":"kimia-ekuilibri-069","question":"N2(g)+3H2(g)⇌2NH3(g), ΔH=-92kJ/mol. Cili pohim NUK është i saktë?","answers":["Kp rritet nëse ulet temperatura","Kp rritet nëse rritet trysnia e përgjithshme","Njësia e Kp është atm⁻²","Kp nuk ndryshon nëse rritet përqendrimi i reaktantëve"],"correct":1,"explanation":"Kp varet vetëm nga temperatura, jo nga trysnia; pohimi që trysnia ndryshon Kp është i gabuar."},
-{"id":"kimia-ekuilibri-070","question":"Cila është shprehja e saktë për konstanten e parë të aciditetit të H3PO4?","answers":["Ka=[H⁺]/[H3PO4]","Ka=[H⁺][H2PO4⁻]/[H3PO4]","Ka=[H⁺][HPO4²⁻]/[H3PO4]","Ka=[H⁺][PO4³⁻]/[H3PO4]"],"correct":1,"explanation":"Ka1 e shkallës së parë të shpërbashkimit shprehet: H3PO4⇌H⁺+H2PO4⁻, Ka1=[H⁺][H2PO4⁻]/[H3PO4]."},
-{"id":"kimia-ekuilibri-071","question":"Tretësira ujore e NH4Cl ka pH<7 sepse:","answers":["jonet NH4⁺ i japin protone ujit duke rritur [H3O⁺]","jonet Cl⁻ lidhen me H⁺ e ujit duke formuar HCl","tretësira është e paqëndrueshme dhe shpërbëhet","NH4Cl vepron me CO2 e atmosferës"],"correct":0,"explanation":"NH4⁺ është acid i dobët i konjuguar; hidrolizohet duke dhuruar protone ujit, rritet [H3O⁺]."},
-{"id":"kimia-ekuilibri-072","question":"Tretshmëria e Ag2S është 1×10⁻⁴mol/L në 25°C. Vlera e Kpt është:","answers":["2×10⁻¹²","4×10⁻¹²","3×10⁻⁸","1×10⁻⁸"],"correct":1,"explanation":"Ag2S⇌2Ag⁺+S²⁻; Kpt=(2s)²·s=4s³=4×(10⁻⁴)³=4×10⁻¹²."},
-{"id":"kimia-ekuilibri-073","question":"0.1mol H2 me 0.1mol I2 (H2+I2⇌2HI). Kur arrihet ekuilibri, 30% e H2 është harxhuar. Numri i moleve H2, I2, HI (sipas radhës) është:","answers":["0.03; 0.03; 0.07","0.03; 0.03; 0.14","0.07; 0.07; 0.03","0.07; 0.07; 0.06"],"correct":3,"explanation":"30% e 0.1mol H2 = 0.03mol harxhuar; mbetet H2=I2=0.07mol; HI formuar=2×0.03=0.06mol."},
-{"id":"kimia-ekuilibri-074","question":"4HCl(g)+O2(g)⇌2H2O(g)+2Cl2(g). Përqendrimi i të gjitha substancave rritet 2 herë. Ekuilibri:","answers":["zhvendoset djathtas, sepse shpejtësia e drejtë rritet më shumë se e zhdrejta","nuk zhvendoset, shpejtësitë mbeten të barabarta","zhvendoset majtas, sepse shpejtësia e drejtë rritet më shumë","zhvendoset djathtas, sepse reaksioni i drejtë është ekzotermik"],"correct":0,"explanation":"Shkalla e reaksionit të drejtë (rendi 5) rritet më shumë (2⁵=32) se e zhdrejtit (rendi 4, 2⁴=16), prandaj ekuilibri zhvendoset djathtas."},
-{"id":"kimia-ekuilibri-075","question":"2SO2(g)+O2(g)⇌2SO3(g). Në ekuilibër [SO2]=0.2M, [O2]=0.6M, [SO3]=0.4M. Përqendrimi fillestar i O2 është:","answers":["0.2 mol/L","0.4 mol/L","0.6 mol/L","0.8 mol/L"],"correct":3,"explanation":"SO3 formuar=0.4mol/L ⇒ O2 konsumuar=0.2mol/L (raporti 2SO3:1O2); O2 fillestar=0.6+0.2=0.8mol/L."},
-{"id":"kimia-ekuilibri-076","question":"Në 1L, ekuilibri 2SO2(g)+O2(g)⇌2SO3(g) ka 0.2mol SO2, 0.1mol O2, 0.2mol SO3. Vëllimi rritet dhe SO2 rritet në 0.3mol. Numri i moleve O2 dhe SO3 pas rritjes së vëllimit është:","answers":["0.1 mol O2 dhe 0.2 mol SO3","0.15 mol O2 dhe 0.1 mol SO3","0.2 mol O2 dhe 0.1 mol SO3","0.1 mol O2 dhe 0.15 mol SO3"],"correct":1,"explanation":"Rritja e vëllimit zhvendos ekuilibrin drejt anës me më shumë mole gazi (majtas); ΔSO2=+0.1 ⇒ ΔO2=+0.05, ΔSO3=-0.1, duke dhënë O2=0.15mol dhe SO3=0.1mol."},
-{"id":"kimia-ekuilibri-077","question":"CO2(g)+H2(g)⇌CO(g)+H2O(g), Kc=0.08 në 400°C dhe 0.41 në 600°C. Kur rritet temperatura:","answers":["ekuilibri zhvendoset djathtas, sepse drejti është endotermik","ekuilibri zhvendoset djathtas, sepse drejti është ekzotermik","ekuilibri nuk zhvendoset, numri i moleve gazi është i barabartë","në 600°C reaksioni shkon deri në fund"],"correct":0,"explanation":"Rritja e Kc me temperaturën tregon se reaksioni i drejtë favorizohet nga nxehtësia, pra është endotermik."},
-{"id":"kimia-ekuilibri-078","question":"2NOCl(g)⇌2NO(g)+Cl2(g), vëllim 1L, formohet 0.1mol Cl2, Kc=5. Përqendrimi në ekuilibër i NOCl është:","answers":["8×10⁻⁴ mol/L","4×10⁻⁴ mol/L","2.8×10⁻² mol/L","4.8×10⁻² mol/L"],"correct":2,"explanation":"NO=0.2mol, Cl2=0.1mol; Kc=[NO]²[Cl2]/[NOCl]²=5 ⇒ [NOCl]²=(0.04×0.1)/5=8×10⁻⁴ ⇒ [NOCl]≈2.8×10⁻²mol/L."},
-{"id":"kimia-ekuilibri-079","question":"H2(g)+I2(g)⇌2HI(g), Kc=0.5, [I2]=[HI]=0.5mol/L në ekuilibër. Përqendrimi i ekuilibrit dhe fillestar i H2 janë:","answers":["[H2]ek=0.5 dhe [H2]fill=1.5","[H2]ek=1 dhe [H2]fill=1.5","[H2]ek=1 dhe [H2]fill=1.25","[H2]ek=1.5 dhe [H2]fill=1.25"],"correct":2,"explanation":"Kc=[HI]²/([H2][I2]) ⇒ [H2]ek=0.25/(0.5×0.5)=1mol/L; H2 konsumuar=0.25mol/L ⇒ fillestar=1+0.25=1.25mol/L."},
-{"id":"kimia-ekuilibri-080","question":"2NO(g)+O2(g)⇌2NO2(g), Kc=2 L/mol në 400°C, eq [NO]=0.02M, [NO2]=0.04M. Përqendrimi fillestar i O2 është:","answers":["0.02 mol/L","0.04 mol/L","1.02 mol/L","2.02 mol/L"],"correct":3,"explanation":"Kc=[NO2]²/([NO]²[O2])=2 ⇒ [O2]eq=2mol/L; O2 konsumuar=0.02mol/L ⇒ fillestar=2+0.02=2.02mol/L."},
-{"id":"kimia-ekuilibri-081","question":"3Fe(ng)+4H2O(g)⇌Fe3O4(ng)+4H2(g), vëllim 1L, 5.6g Fe dhe 3.6g H2O, ekuilibri arrihet me [H2]=0.1mol/L. Konstantja e ekuilibrit është:","answers":["1","2","10","20"],"correct":0,"explanation":"H2O fillestare=0.2mol; H2 formuar=0.1mol ⇒ H2O konsumuar=0.1mol, mbetet 0.1mol/L; Kc=[H2]⁴/[H2O]⁴=(0.1)⁴/(0.1)⁴=1."},
-{"id":"kimia-ekuilibri-082","question":"Përqendrimi i secilit jon në tretësirën e acidit etanoik me gradë shpërbashkimi 0.002 dhe Ka=1.8×10⁻⁵ është:","answers":["9×10⁻³","8×10⁻³","7×10⁻³","5×10⁻³"],"correct":0,"explanation":"Nga Ka=Cα² gjendet C=Ka/α²≈4.5M; [H⁺]=Cα=4.5×0.002≈9×10⁻³M."},
-{"id":"kimia-ekuilibri-083","question":"pH i tretësirës 0.001M HNO3 dhe [OH⁻] janë:","answers":["1 dhe [OH⁻]=10⁻³M","2 dhe [OH⁻]=10⁻¹⁰M","3 dhe [OH⁻]=10⁻¹¹M","4 dhe [OH⁻]=10⁻¹²M"],"correct":2,"explanation":"HNO3 acid i fortë: [H⁺]=10⁻³ ⇒ pH=3; [OH⁻]=Kw/[H⁺]=10⁻¹⁴/10⁻³=10⁻¹¹M."},
-{"id":"kimia-ekuilibri-084","question":"pH i tretësirës 0.1M CH3COOH (Ka=10⁻⁵) është:","answers":["0.1","0.3","1","3"],"correct":3,"explanation":"[H⁺]=√(Ka·C)=√(10⁻⁵×0.1)=10⁻³ ⇒ pH=3."},
-{"id":"kimia-ekuilibri-085","question":"Përzihen 4L tretësirë 1M HCl me 2L tretësirë 1M Ca(OH)2. Vlera e pH-it të përzierjes është:","answers":["4","6","7","8"],"correct":2,"explanation":"mol H⁺=4, mol OH⁻=2×2=4; asnjanësohen plotësisht, formohet kripë neutrale CaCl2, pH=7."},
-{"id":"kimia-ekuilibri-086","question":"pH i një tretësire është 3. Përqendrimi i OH⁻ është:","answers":["10⁻¹²","10⁻¹¹","10⁻¹¹","10⁻¹²"],"correct":1,"explanation":"pOH=14-3=11 ⇒ [OH⁻]=10⁻¹¹M."},
-{"id":"kimia-ekuilibri-087","question":"2.3g Na treten në 1L ujë. Vlera e pH e tretësirës së përftuar është:","answers":["10","12","13","13.5"],"correct":2,"explanation":"mol Na=2.3/23=0.1mol ⇒ formohet 0.1mol NaOH në 1L; [OH⁻]=0.1M ⇒ pOH=1 ⇒ pH=13."},
-{"id":"kimia-ekuilibri-088","question":"Tretësira 0.05M e Ba(OH)2 e ka pH:","answers":["12","12.5","13","13.5"],"correct":2,"explanation":"[OH⁻]=2×0.05=0.1M ⇒ pOH=1 ⇒ pH=13."},
-{"id":"kimia-ekuilibri-089","question":"Në 350K, Kpt(MgF2)=4×10⁻⁹. Masa e MgF2 (M=62g/mol) që tretet në 100mL ujë të pastër është:","answers":["6.2g","10⁻³g","4×10⁻³g","6.2×10⁻³g"],"correct":3,"explanation":"Kpt=4s³ ⇒ s=10⁻³mol/L; në 100mL: mol=10⁻⁴, masa=10⁻⁴×62=6.2×10⁻³g."},
-{"id":"kimia-ekuilibri-090","question":"Në 10L tretësirë NaOH (M=40g/mol), ndodhen 4g NaOH. pH i tretësirës është:","answers":["8","10","12","13"],"correct":2,"explanation":"mol NaOH=0.1, [NaOH]=0.01M ⇒ pOH=2 ⇒ pH=12."},
-{"id":"kimia-ekuilibri-091","question":"Lëngu gastrik është tretësirë 0.365% e HCl, densitet 1g/ml. Vlera e pH-it të tij është: (MHCl=36.5g/mol)","answers":["0","1","2","3"],"correct":1,"explanation":"Në 1L (1000g): masa HCl=3.65g, mol=0.1mol ⇒ [HCl]=0.1M ⇒ pH=1."},
-{"id":"kimia-ekuilibri-092","question":"pH i tretësirës tampone me 0.2mol HA (pKa=4.8) dhe 0.2mol NaA, në 1L, është:","answers":["7","5.8","4.8","3.8"],"correct":2,"explanation":"Kur mol acid=mol kripë, raporti është 1 ⇒ pH=pKa=4.8 (ekuacioni Henderson-Hasselbalch)."},
-{"id":"kimia-ekuilibri-093","question":"Vëllimi i H2 (K.N.) i çliruar nga 5.4g Al (ArAl=27) me HCl është:","answers":["5.7L","5.75L","6.55L","6.72L"],"correct":3,"explanation":"mol Al=0.2mol; 2Al+6HCl→2AlCl3+3H2 ⇒ mol H2=(3/2)×0.2=0.3mol ⇒ V=0.3×22.4=6.72L."},
-{"id":"kimia-ekuilibri-094","question":"Tretësirë KOH 100ml, C%=10%, densitet 1.2g/ml. Masa e KOH (M=56g/mol) dhe përqendrimi molar janë:","answers":["12g dhe 2.14M","11g dhe 2.11M","10g dhe 2.10M","9g dhe 2.01M"],"correct":0,"explanation":"masa tretësire=120g, masa KOH=12g (10%), mol=12/56=0.214 ⇒ M=0.214/0.1=2.14M."},
-{"id":"kimia-ekuilibri-095","question":"[H⁺] në tretësirën 0.01M HCN me gradë shpërbashkimi 0.01 dhe Ka sipas radhës janë:","answers":["1×10⁻⁵ dhe 1×10⁻⁶","1×10⁻⁴ dhe 1×10⁻⁶","1×10⁻³ dhe 1×10⁻⁵","1×10⁻² dhe 1×10⁻⁴"],"correct":1,"explanation":"[H⁺]=Cα=0.01×0.01=10⁻⁴M; Ka=Cα²=0.01×(0.01)²=10⁻⁶."},
-{"id":"kimia-ekuilibri-096","question":"Përzierje K2CO3+MgCO3 (3g) i nënshtrohet shpërbërjes termike, çliron 0.448L gaz. Përqindja në masë e MgCO3 (M=84g/mol) është:","answers":["56% MgCO3","58% MgCO3","59% MgCO3","60% MgCO3"],"correct":0,"explanation":"Vetëm MgCO3 shpërbëhet termikisht; mol CO2=0.02mol=mol MgCO3, masa=1.68g ⇒ %=1.68/3×100=56%."},
-{"id":"kimia-ekuilibri-097","question":"Përqendrimi molar i bazës MOH me Kb=1×10⁻⁵ dhe α=0.01 është:","answers":["10⁻¹","10⁻²","10⁻³","10⁻⁴"],"correct":0,"explanation":"Kb=Cα² ⇒ C=Kb/α²=10⁻⁵/10⁻⁴=10⁻¹M."},
-{"id":"kimia-ekuilibri-098","question":"Kpt për BaSO4 kur në 1L ujë të pastër treten 0.003mol BaSO4 është:","answers":["9×10⁻⁶","8×10⁻⁶","7×10⁻⁶","6×10⁻⁶"],"correct":0,"explanation":"Kpt=[Ba²⁺][SO4²⁻]=(0.003)²=9×10⁻⁶."},
-{"id":"kimia-ekuilibri-099","question":"Masa e H2SO4 (M=98g/mol) që vepron me 0.5L 0.2M KOH është:","answers":["4.9g","5.2g","5.3g","5.4g"],"correct":0,"explanation":"mol KOH=0.1; H2SO4+2KOH→K2SO4+2H2O ⇒ mol H2SO4=0.05, masa=0.05×98=4.9g."},
-{"id":"kimia-ekuilibri-100","question":"Tretësira ujore me 3g CH3COOH në 500ml e ka pH: (Macid=60g/mol, Ka=10⁻⁵)","answers":["1","3","5","7"],"correct":1,"explanation":"mol=3/60=0.05mol, [CH3COOH]=0.1M; [H⁺]=√(10⁻⁵×0.1)=10⁻³ ⇒ pH=3."},
-{"id":"kimia-ekuilibri-101","question":"Ka(HCN)=8×10⁻¹⁰. Grada e shpërbashkimit α për tretësirën 0.5M është:","answers":["2×10⁻³","2×10⁻⁵","4×10⁻³","4×10⁻⁵"],"correct":3,"explanation":"α=√(Ka/C)=√(8×10⁻¹⁰/0.5)=√(1.6×10⁻⁹)≈4×10⁻⁵."},
-{"id":"kimia-ekuilibri-102","question":"Në 2L ujë treten 4.48L NH3(g) (K.N.). Kb(NH3)=10⁻⁵. pH i tretësirës së krijuar është:","answers":["9","11","13","14"],"correct":1,"explanation":"mol NH3=0.2, [NH3]=0.1M; [OH⁻]=√(Kb×C)=√(10⁻⁵×0.1)=10⁻³ ⇒ pOH=3 ⇒ pH=11."},
-{"id":"kimia-ekuilibri-103","question":"Përzihen Ca(OH)2 100ml 0.6M me 300ml 1M (d=1.2g/ml). Përqendrimi në % është: (MCa(OH)2=74g/mol)","answers":["5.55%","5.65%","6.55%","6.65%"],"correct":0,"explanation":"mol total=0.06+0.3=0.36mol, masa=26.64g; masa tretësire=400ml×1.2=480g; %=26.64/480×100=5.55%."},
-{"id":"kimia-ekuilibri-104","question":"pH i tretësirës nga 10mL 0.1M HCl + 10mL 0.4M NaCl është: (log5=0.7)","answers":["1","1.3","2.3","3"],"correct":1,"explanation":"mol H⁺=0.001 pas hollimit në 20mL ⇒ [H⁺]=0.05M ⇒ pH=2-log5=2-0.7=1.3."},
-{"id":"kimia-ekuilibri-105","question":"pH i tretësirës nga tretja e 0.137g Ba (ArBa=137) në 200mL ujë është:","answers":["10","11","12","13"],"correct":2,"explanation":"mol Ba=0.001mol → 0.001mol Ba(OH)2 në 0.2L; [OH⁻]=0.01M ⇒ pOH=2 ⇒ pH=12."},
-{"id":"kimia-ekuilibri-106","question":"Tretësirë 0.2M HCOOH me α=0.03. Vlera e Ka është:","answers":["1.8×10⁻⁴","1.8×10⁻⁵","3.6×10⁻⁴","3.6×10⁻⁵"],"correct":0,"explanation":"Ka≈Cα²=0.2×(0.03)²=1.8×10⁻⁴."},
-{"id":"kimia-ekuilibri-107","question":"N2O4(g)⇌2NO2(g), Kc=0.4, [NO2]eq=0.2M. Përqendrimi fillestar i N2O4 është:","answers":["0.1 mol/L","0.2 mol/L","0.3 mol/L","0.4 mol/L"],"correct":1,"explanation":"[N2O4]eq=[NO2]²/Kc=0.04/0.4=0.1M; N2O4 konsumuar=0.1M ⇒ fillestar=0.1+0.1=0.2M."},
-{"id":"kimia-ekuilibri-108","question":"CO(g)+H2O(g)⇌CO2(g)+H2(g), [CO]0=[H2O]0=0.1M, [CO2]eq=0.05M. Vlera e Kc është:","answers":["0.05","0.1","1","2"],"correct":2,"explanation":"Duke konsumuar 0.05M nga secili reaktant, eq: CO=H2O=0.05, CO2=H2=0.05 ⇒ Kc=(0.05×0.05)/(0.05×0.05)=1."},
-{"id":"kimia-ekuilibri-109","question":"Në vëllim 3L, 0.36mol NO dhe 0.6mol NO2. Ekuilibri i 2NO+O2⇌2NO2 arrihet kur 40% e njërës substancë ka hyrë në reaksion. Vlera e Kc është:","answers":["0.3 L/mol","0.9 L/mol","3 L/mol","9 L/mol"],"correct":3,"explanation":"40% e NO2 (0.24mol) shpërbëhet duke dhënë NO dhe O2; llogaritja e përqendrimeve në ekuilibër jep Kc=[NO2]²/([NO]²[O2])=9 L/mol."},
-{"id":"kimia-ekuilibri-110","question":"CaSO4 e ngopur ka [CaSO4]=4×10⁻³M. Numri i moleve CaSO4 që treten në 1L 0.02M K2SO4 është:","answers":["4×10⁻³ mol","8×10⁻⁴ mol","8×10⁻⁶ mol","16×10⁻⁶ mol"],"correct":1,"explanation":"Ksp=(4×10⁻³)²=1.6×10⁻⁵; me jon të përbashkët SO4²⁻=0.02M, tretshmëria e re s=Ksp/0.02=8×10⁻⁴mol."},
-{"id":"kimia-ekuilibri-111","question":"Kpt(CaCO3)=1×10⁻¹⁰ në 40°C. Vëllimi i ujit që duhet për tretjen e 1g CaCO3 (M=100g/mol) është:","answers":["1 litër","10 litra","100 litra","1000 litra"],"correct":3,"explanation":"s=√Kpt=10⁻⁵mol/L; për 0.01mol CaCO3 duhen V=0.01/10⁻⁵=1000L."},
-{"id":"kimia-ekuilibri-112","question":"Për të tretur 4.61g PbI2 (M=461g/mol) duhen 10L ujë. Vlera e Kpt për PbI2 është:","answers":["4×10⁻⁹","2×10⁻⁹","2×10⁻⁶","4×10⁻⁶"],"correct":0,"explanation":"mol PbI2=0.01, s=0.001mol/L ⇒ Kpt=(s)(2s)²=4s³=4×10⁻⁹."},
-{"id":"kimia-ekuilibri-113","question":"Kpt(MgF2)=4×10⁻⁹ në 20°C. Tretshmëria e MgF2 në 100mL 0.1M MgCl2 është:","answers":["10⁻² mol","10⁻³ mol","10⁻⁴ mol","10⁻⁵ mol"],"correct":2,"explanation":"Me jon të përbashkët Mg²⁺≈0.1M: Kpt≈0.1×(2s)²=4e-9 ⇒ s=10⁻⁴mol/L."},
-{"id":"kimia-ekuilibri-114","question":"Një tretësirë e Mg(OH)2 e ka pH=10. Vlera e Kpt të Mg(OH)2 është:","answers":["1×10⁻⁸","2×10⁻⁸","5×10⁻¹³","8×10⁻¹³"],"correct":2,"explanation":"[OH⁻]=10⁻⁴ ⇒ [Mg²⁺]=[OH⁻]/2=5×10⁻⁵; Kpt=[Mg²⁺][OH⁻]²=5×10⁻⁵×10⁻⁸=5×10⁻¹³."},
-{"id":"kimia-ekuilibri-115","question":"PCl5(g)⇌PCl3(g)+Cl2(g), Kc=10⁻³ në 150°C, eq [PCl5]=10⁻¹mol/L. Përqendrimi fillestar i PCl5 është:","answers":["0.1 M","0.11 M","0.2 M","0.22 M"],"correct":1,"explanation":"Kc=x²/0.1=10⁻³ ⇒ x=0.01M (PCl3=Cl2); fillestar PCl5=0.1+0.01=0.11M."},
-{"id":"kimia-ekuilibri-116","question":"Përqendrimi i OH⁻ në tretësirën 0.1M HOCl (Ka=10⁻³) është:","answers":["10⁻² M","10⁻⁷ M","10⁻¹⁰ M","10⁻¹² M"],"correct":3,"explanation":"Duke zgjidhur ekuacionin e Ka, [H⁺]≈10⁻²M; [OH⁻]=Kw/[H⁺]≈10⁻¹²M."},
-{"id":"kimia-ekuilibri-117","question":"Në tretësirën 0.005M HA me Ka=1.8×10⁻⁵, përqindja e molekulave të shpërbashkuara është:","answers":["3%","6%","20%","40%"],"correct":1,"explanation":"α=√(Ka/C)=√(1.8×10⁻⁵/0.005)=√(3.6×10⁻³)≈0.06=6%."},
-{"id":"kimia-ekuilibri-118","question":"Tretësirë 0.2M HA me 3% shpërbashkuar. Vlera e Ka është përafërsisht:","answers":["1.8×10⁻⁴ M","3.6×10⁻⁵ M","6×10⁻⁶ M","4.2×10⁻⁸ M"],"correct":0,"explanation":"Ka≈Cα²=0.2×(0.03)²≈1.8×10⁻⁴."},
-{"id":"kimia-ekuilibri-119","question":"Tretësira e bazës BOH e ka pH=10, Kb=1×10⁻⁶. Përqendrimi fillestar i bazës është:","answers":["1 M","0.1 M","0.01 M","0.001 M"],"correct":2,"explanation":"[OH⁻]=10⁻⁴; C=[OH⁻]²/Kb=(10⁻⁴)²/10⁻⁶=0.01M."},
-{"id":"kimia-ekuilibri-120","question":"N2O4(g)⇌2NO2(g), Kc=0.3, [NO2]eq=0.3M. Sa përqind e N2O4 është shpërbërë?","answers":["30%","33.3%","45%","50.5%"],"correct":1,"explanation":"[N2O4]eq=0.3, fillestar=0.45 (0.15 shpërbërë); %=0.15/0.45×100=33.3%."},
-{"id":"kimia-ekuilibri-121","question":"Në 1L, 0.3mol N2 dhe 0.5mol H2. N2+3H2⇌2NH3, shpenzohet 60% e H2. Vlera e Kc është:","answers":["1 L²/mol²","1.6 L²/mol²","12 L²/mol²","25 L²/mol²"],"correct":3,"explanation":"H2 konsumuar=0.3mol, N2 konsumuar=0.1mol; eq: N2=0.2, H2=0.2, NH3=0.2; Kc=(0.2)²/(0.2×(0.2)³)=25."},
-{"id":"kimia-ekuilibri-122","question":"Përzihen 400ml 2M Ba(OH)2 me 600ml 3M HNO3. Vlera e pH e tretësirës është: (log2=0.3)","answers":["0.7","1.3","7","8.3"],"correct":0,"explanation":"mol OH⁻=1.6, mol H⁺=1.8; H⁺ i tepërt=0.2mol në 1L ⇒ [H⁺]=0.2M ⇒ pH=1-log2=0.7."},
-{"id":"kimia-ekuilibri-123","question":"5L, 0.5mol HNO3. Nëse ngrohet deri sa vëllimi bëhet 1L, çfarë ndodh me pH-in? (log5=0.7)","answers":["Zvogëlohet nga 1 në 0.3","Zvogëlohet nga 0.3 në 0","Rritet nga 1 në 1.3","Nuk ndryshon"],"correct":0,"explanation":"[HNO3] rritet nga 0.1M (pH=1) në 0.5M (pH=1-log5=0.3) me tretjen e vëllimit."},
-{"id":"kimia-ekuilibri-124","question":"Në 2L ujë treten 2.24L HCl(g) (K.N.). pH i tretësirës është: (log5=0.7)","answers":["1","1.3","1.7","2.3"],"correct":1,"explanation":"mol HCl=0.1, [HCl]=0.05M ⇒ pH=2-log5=2-0.7=1.3."},
-{"id":"kimia-ekuilibri-125","question":"Përzihen 2L 0.1M HNO2 (Ka=10⁻⁴) me 1L 0.1M KOH. pH i përzierjes është:","answers":["1","4","7","8"],"correct":1,"explanation":"KOH neutralizon pjesë të HNO2, mbetet tampon me mole të barabarta acid-kripë; pH=pKa=4."},
-{"id":"kimia-ekuilibri-126","question":"Përzihen 1L 0.1M HCN (Ka=10⁻⁸) me 2L 0.2M KOH. pH i tretësirës së formuar është:","answers":["5","7","9","13"],"correct":3,"explanation":"KOH në tepricë të madhe neutralizon HCN dhe lë OH⁻ të pareaguar, duke dhënë pH bazik të lartë (13)."},
-{"id":"kimia-ekuilibri-127","question":"Tretësira 0.2M HNO2 e ka pH=2. Vlera e Ka të acidit është:","answers":["2×10⁻²","3×10⁻⁴ M","5×10⁻⁴ M","6×10⁻² M"],"correct":2,"explanation":"[H⁺]=0.01M; Ka=[H⁺]²/(C-[H⁺])=(0.01)²/0.19≈5×10⁻⁴."},
-{"id":"kimia-ekuilibri-128","question":"Tretësirë NH3 10% (d=0.99g/mL, Kb=1.8×10⁻⁵, M=17g/mol). Vlera e pH-it është:","answers":["9","10","11","12"],"correct":3,"explanation":"Përqendrimi molar rezulton ~5.8M; [OH⁻]=√(Kb·C)≈0.01M ⇒ pOH≈2 ⇒ pH≈12."},
-{"id":"kimia-ekuilibri-129","question":"1L 0.1M HNO2 + 8g NaOH (M=40g/mol). Vlera e pH e tretësirës së formuar është:","answers":["4","7","10","13"],"correct":3,"explanation":"mol NaOH=0.2 tejkalon mol HNO2=0.1; NaOH e tepërt=0.1mol në 1L ⇒ [OH⁻]=0.1M ⇒ pH=13."},
-{"id":"kimia-ekuilibri-130","question":"3Fe(ng)+4H2O(g)⇌Fe3O4(ng)+4H2(g) në 950°C, Kc=16. Me 0.6mol H2O dhe tepricë Fe në 1L, sa % e ujit mbetet?","answers":["33.3%","40.7%","53%","60.5%"],"correct":0,"explanation":"Duke zgjidhur (x/(0.6-x))⁴=16 ⇒ x=0.4mol reaguar; mbetet 0.2mol nga 0.6mol fillestar, pra 33.3%."},
-{"id":"kimia-ekuilibri-131","question":"A(g)+2B(g)⇌3C(g)+D(g), vëllim 2L, 1.6mol A dhe 1.6mol B fillimisht. [D]eq=0.2mol/L. Vlera e Kc është:","answers":["5.5","4","0.5","0.45"],"correct":3,"explanation":"D formuar=0.4mol ⇒ A reaguar=0.4, B reaguar=0.8; llogaritja e përqendrimeve në ekuilibër jep Kc≈0.45."},
-{"id":"kimia-ekuilibri-132","question":"H2(g)+Br2(g)⇌2HBr(g), Kc=1, [H2]0=[Br2]0=3mol/L. Sa % e H2 dhe Br2 janë shndërruar në HBr?","answers":["20.7%","25.3%","33.3%","40.7%"],"correct":2,"explanation":"Nga Kc=1, konvertimi x zgjidh ekuacionin (2x)²=(3-x)² ⇒ x=1mol/L, që korrespondon me 33.3% konvertim."},
-{"id":"kimia-ekuilibri-133","question":"2NOCl(g)⇌2NO(g)+Cl2(g), Kc=1×10⁻² mol/L në 600K, eq [NOCl]=0.02mol/L. Përqendrimi fillestar i NOCl është:","answers":["0.01 mol/L","0.02 mol/L","0.03 mol/L","0.04 mol/L"],"correct":3,"explanation":"Zgjidhja e Kc=4y³/(0.02)²=10⁻² jep y=0.01mol/L (NO=2y, Cl2=y); fillestar NOCl=0.02+2(0.01)=0.04mol/L."},
-{"id":"kimia-ekuilibri-134","question":"HA (CM=0.2M) shpërbashkohet 0.1%. Vlera e Ka është:","answers":["2×10⁻⁷ M","4×10⁻⁸ M","4×10⁻⁴ M","2×10⁻⁴ M"],"correct":0,"explanation":"α=0.001; Ka≈Cα²=0.2×(0.001)²=2×10⁻⁷."},
-{"id":"kimia-ekuilibri-135","question":"Tretshmëria molare e PbCO3 (Kpt=1×10⁻¹²) është:","answers":["1×10⁻⁶","1×10⁻⁷","1×10⁻⁸","1×10⁻⁹"],"correct":0,"explanation":"Kpt=s² (tip 1:1) ⇒ s=√(1×10⁻¹²)=1×10⁻⁶mol/L."},
-{"id":"kimia-ekuilibri-136","question":"Përzihen 0.1L 1M Ca(OH)2 me 400mL 0.5M HCl. Vlera e pH e tretësirës është:","answers":["2","7","11","13"],"correct":1,"explanation":"mol OH⁻=0.2, mol H⁺=0.2; asnjanësohen plotësisht ⇒ pH=7."},
-{"id":"kimia-ekuilibri-137","question":"Përzihen 500mL 0.4M HNO3 me 500mL 0.6M Ca(OH)2. Vlera e pH e tretësirës është: (log2=0.3)","answers":["1","7","12.7","13.6"],"correct":3,"explanation":"mol H⁺=0.2, mol OH⁻=0.6; OH⁻ i tepërt=0.4mol në 1L ⇒ [OH⁻]=0.4M ⇒ pOH=0.4 ⇒ pH=13.6."},
-{"id":"kimia-ekuilibri-138","question":"Sa duhet të jetë përqendrimi i HNO2 (Ka=10⁻⁴) që pH i tij të jetë i barabartë me atë të 0.1M CH3COOH (Ka=10⁻⁵)?","answers":["0.01 M","0.02 M","0.1 M","0.3 M"],"correct":0,"explanation":"[H⁺] e CH3COOH=10⁻³; nga √(Ka·C)=10⁻³ për HNO2 ⇒ C=10⁻⁶/10⁻⁴=0.01M."},
-{"id":"kimia-ekuilibri-139","question":"Kpt(Pb(IO3)2)=4×10⁻¹³. Tretshmëria e tij në 0.1M KIO3 është:","answers":["1×10⁻¹¹ M","4×10⁻¹¹ M","1×10⁻¹³ M","4×10⁻¹³ M"],"correct":1,"explanation":"Me jon të përbashkët IO3⁻=0.1M: s=Kpt/[IO3⁻]²=4×10⁻¹³/0.01=4×10⁻¹¹M."},
-{"id":"kimia-ekuilibri-140","question":"Kpt(CaC2O4)≈10⁻¹⁰. Kur hidhet në 1L 0.01M (NH4)2C2O4, tretshmëria e tij krahasuar me ujin e pastër:","answers":["rritet 100 herë","rritet 1000 herë","zvogëlohet 100 herë","zvogëlohet 1000 herë"],"correct":3,"explanation":"s(ujë)=√Kpt=10⁻⁵; s(me jon të përbashkët)=Kpt/0.01=10⁻⁸; raporti tregon zvogëlim 1000 herë."},
-{"id":"kimia-ekuilibri-141","question":"Kpt(BaSO4)=1×10⁻¹⁰. Tretshmëria e tij (në g/L) në 1×10⁻²M Na2SO4 është:","answers":["2.33×10⁻⁷ g/L","2.33×10⁻⁶ g/L","2.33×10⁻⁵ g/L","2.33×10⁻⁴ g/L"],"correct":1,"explanation":"s=Kpt/[SO4²⁻]=1×10⁻¹⁰/0.01=1×10⁻⁸mol/L; masa=1×10⁻⁸×233=2.33×10⁻⁶g/L."},
-{"id":"kimia-ekuilibri-142","question":"Në 500mL ujë treten 0.0166g Ag2CrO4 (M=332g/mol). Vlera e Kpt në këtë temperaturë është:","answers":["1×10⁻⁸","4×10⁻⁷","2×10⁻¹⁰","4×10⁻¹²"],"correct":3,"explanation":"mol=5×10⁻⁵ në 0.5L ⇒ s=10⁻⁴mol/L; Kpt=(2s)²(s)=4s³=4×10⁻¹²."},
-{"id":"kimia-ekuilibri-143","question":"Sa gram CaF2 (M=78g/mol, Kpt=1×10⁻¹¹) mund të treten në 100mL 0.1M KF?","answers":["7.8×10⁻⁹","7.8×10⁻¹⁰","4.5×10⁻⁹","3.9×10⁻⁹"],"correct":0,"explanation":"Me jon të përbashkët F⁻=0.1M: s=Kpt/[F⁻]²=1×10⁻⁹mol/L; në 100mL: masa=1×10⁻¹⁰×78=7.8×10⁻⁹g."},
-{"id":"kimia-ekuilibri-144","question":"Shkalla e shpërbashkimit të HX në tretësirën 0.1M është 1%. Vlera e Ka është:","answers":["10⁻³","10⁻⁴","10⁻⁵","10⁻⁶"],"correct":2,"explanation":"Ka≈Cα²=0.1×(0.01)²=10⁻⁵."},
-{"id":"kimia-ekuilibri-145","question":"H2(g)+I2(g)⇌2HI(g), Kc=0.25, [H2]0=[I2]0=0.1mol/L. Përqendrimi i ekuilibrit të HI(g) është:","answers":["0.01 mol/L","0.02 mol/L","0.03 mol/L","0.04 mol/L"],"correct":3,"explanation":"√Kc=0.5=2x/(0.1-x) ⇒ x=0.02M; [HI]eq=2x=0.04mol/L."},
-{"id":"kimia-ekuilibri-146","question":"Në 713K, Kc(shpërbërja e HI)=1/64, vëllim 5L, fillimisht 0.5mol HI. Numri i moleve H2 në ekuilibër është:","answers":["0.002 mol","0.001 mol","0.01 mol","0.05 mol"],"correct":3,"explanation":"Duke zgjidhur x/(0.1-2x)=1/8 gjendet x=0.01mol/L ⇒ moles H2 në 5L = 0.05mol."},
-{"id":"kimia-ekuilibri-147","question":"2NH3(g)⇌N2(g)+3H2(g), fillimisht 2mol NH3 në 1L, 40% zbërthehet. Vlera e Kc është:","answers":["2.08 mol²/L²","3.08 mol²/L²","0.48 mol²/L²","0.58 mol²/L²"],"correct":2,"explanation":"NH3 zbërthyer=0.8mol ⇒ N2=0.4, H2=1.2, NH3 mbetur=1.2; Kc=(0.4×1.2³)/(1.2)²=0.48."},
-{"id":"kimia-ekuilibri-148","question":"N2(g)+O2(g)⇌2NO(g), Kc=4, eq [N2]=4, [O2]=1, [NO]=4mol/L. Kur shtohen 3mol O2, Përqendrimi i NO në ekuilibrin e ri është:","answers":["2 mol/L","4 mol/L","6 mol/L","8 mol/L"],"correct":2,"explanation":"Zgjidhja e Kc=4=(4+2ξ)²/(4-ξ)² jep ξ=1; [NO]i ri=4+2(1)=6mol/L."},
-{"id":"kimia-ekuilibri-149","question":"2NO(g)+O2(g)⇌2NO2(g), fillimisht [NO]=0.4, [O2]=0.3, eq [NO2]=0.2mol/L. Vlera e Kc është:","answers":["0.1 L/mol","0.5 L/mol","5 L/mol","10 L/mol"],"correct":2,"explanation":"NO konsumuar=0.2, O2 konsumuar=0.1; eq: NO=0.2, O2=0.2, NO2=0.2; Kc=(0.2)²/((0.2)²×0.2)=5."},
-{"id":"kimia-ekuilibri-150","question":"pH i tretësirës nga 1L 0.1M NaOH + 1L 0.2M HCl është (log5=0.7):","answers":["1","1.2","1.3","1.7"],"correct":2,"explanation":"HCl e tepërt=0.1mol në 2L ⇒ [H⁺]=0.05M ⇒ pH=2-log5=1.3."},
-{"id":"kimia-ekuilibri-151","question":"Në 2L ujë treten 4.48L NH3 (K.N.), Kb=10⁻⁵. Vlera e pH e tretësirës është:","answers":["10","11","12","13"],"correct":1,"explanation":"[NH3]=0.1M; [OH⁻]=√(Kb·C)=10⁻³ ⇒ pOH=3 ⇒ pH=11."},
-{"id":"kimia-ekuilibri-152","question":"Tretësirë 0.02M HA (acid i fortë), 500ml, i shtohet 500ml ujë. Vlera e pH pas shtimit të ujit është:","answers":["1","2","3","7"],"correct":1,"explanation":"Hollim 2x: C=0.01M ⇒ [H⁺]=0.01M ⇒ pH=2."},
-{"id":"kimia-ekuilibri-153","question":"Përzihen vëllime të barabarta NaI 0.2M dhe Pb(NO3)2 0.1M (Kpt PbI2=4×10⁻⁹). Përqendrimi molar i Pb²⁺ pas precipitimit dhe vendosjes së ekuilibrit është:","answers":["1×10⁻³","2×10⁻³","8×10⁻⁵","8×10⁻⁴"],"correct":0,"explanation":"Raporti stekiometrik I⁻:Pb²⁺ pas hollimit është 2:1 (pikërisht), duke lënë [I⁻]=2[Pb²⁺]; nga Kpt=4[Pb²⁺]³=4×10⁻⁹ ⇒ [Pb²⁺]=10⁻³M."},
-{"id":"kimia-ekuilibri-154","question":"NaOH 40mL asnjanësohet plotësisht nga 25mL 0.4M H2SO4. Përqendrimi në g/L i NaOH (M=40g/mol) është:","answers":["0.5 g/L","5 g/L","10 g/L","20 g/L"],"correct":3,"explanation":"mol H2SO4=0.01 ⇒ mol H⁺=0.02=mol NaOH; C=0.02/0.04=0.5M ⇒ 0.5×40=20g/L."},
-{"id":"kimia-ekuilibri-155","question":"Shtohen 500mL 0.05M H2SO4 në 500mL 0.08M NaOH. Vlera e pH e përzierjes në 25°C është:","answers":["2","3.7","7","10.3"],"correct":0,"explanation":"mol H⁺=0.05, mol OH⁻=0.04; H⁺ i tepërt=0.01mol në 1L ⇒ [H⁺]=0.01M ⇒ pH=2."},
-{"id":"kimia-ekuilibri-156","question":"Përzierje e ngurtë Na dhe Na2O2 hidhet në 1L ujë, çlirohen 1.12L H2 dhe 2.24L O2 (K.N.). Vlera e pH e tretësirës së përftuar është: (log5=0.7)","answers":["11.3","12.7","13.3","13.7"],"correct":3,"explanation":"mol NaOH nga Na (0.1mol) dhe nga Na2O2 (0.4mol) japin total 0.5mol NaOH në 1L; [OH⁻]=0.5M ⇒ pOH=0.3 ⇒ pH=13.7."},
-{"id":"kimia-ekuilibri-157","question":"Përzihen 0.5L 0.1M KOH me 0.5L 0.2M HCl. pH i tretësirës së përftuar është: (log5=0.7)","answers":["0.7","1","1.3","1.5"],"correct":2,"explanation":"HCl e tepërt=0.05mol në 1L ⇒ [H⁺]=0.05M ⇒ pH=2-log5=1.3."},
-{"id":"kimia-ekuilibri-158","question":"Në 1L ndodhen 0.01mol NH4OH (Kb=10⁻⁵) dhe 0.1mol NH4Cl. Vlera e pH e tretësirës është:","answers":["7","8","9","9.5"],"correct":1,"explanation":"Tampon bazik: pOH=pKb+log([NH4⁺]/[NH3])=5+log10=6 ⇒ pH=14-6=8."},
-{"id":"kimia-ekuilibri-159","question":"Masa e KOH (M=56g/mol) e tretur në 500ml tretësirë me pH=10 është:","answers":["0.0028g","0.0038g","0.0048g","0.0058g"],"correct":0,"explanation":"pOH=4 ⇒ [OH⁻]=10⁻⁴M; mol=10⁻⁴×0.5=5×10⁻⁵ ⇒ masa=5×10⁻⁵×56=0.0028g."},
-{"id":"kimia-ekuilibri-160","question":"Vlera e pH e tretësirës së HCN 0.01M me Ka=4×10⁻¹⁰ është: (log2=0.3)","answers":["5.7","5.6","5","4"],"correct":0,"explanation":"[H⁺]=√(Ka·C)=√(4×10⁻¹²)=2×10⁻⁶ ⇒ pH=6-log2=6-0.3=5.7."},
-{"id":"kimia-ekuilibri-161","question":"Kpt bazës M(OH)2 është 4×10⁻¹². Vlera e pH e tretësirës është: (log2=0.3)","answers":["10.3","10.4","11","11.5"],"correct":0,"explanation":"4s³=4×10⁻¹² ⇒ s=10⁻⁴; [OH⁻]=2×10⁻⁴ ⇒ pOH=4-log2=3.7 ⇒ pH=10.3."},
-{"id":"kimia-ekuilibri-162","question":"Në 5L ujë treten 1.12L HCl(g) (K.N.). Vlera e pH dhe pOH janë:","answers":["1 dhe 13","2 dhe 12","3 dhe 11","4 dhe 10"],"correct":1,"explanation":"mol HCl=0.05, [HCl]=0.01M ⇒ pH=2, pOH=12."},
-{"id":"kimia-ekuilibri-163","question":"Në 100ml 0.04M Ca(NO3)2 shtohet 300ml 0.01M (NH4)2SO4 (Kpt CaSO4=5×10⁻⁵). Përqendrimi i SO4²⁻ pas formimit të precipitatit është:","answers":["2×10⁻²","3×10⁻³","4×10⁻⁴","5×10⁻⁵"],"correct":0,"explanation":"Ca²⁺ tepricë (0.001mol/0.4L≈0.0025M) mbetet pas precipitimit të plotë; nga Kpt, [SO4²⁻]=Kpt/[Ca²⁺]≈2×10⁻²M."},
-{"id":"kimia-ekuilibri-164","question":"H2Te ka Ka1=4×10⁻³ dhe Ka2=1×10⁻⁵. Tretësirë 0.1M ka pH dhe [Te²⁻] përkatësisht: (log2=0.3)","answers":["pH=2 dhe [Te²⁻]=10⁻²","pH=1.7 dhe [Te²⁻]=10⁻⁵","pH=2 dhe [Te²⁻]=10⁻⁵","pH=1.3 dhe [Te²⁻]=10⁻²"],"correct":1,"explanation":"[H⁺] llogaritet nga Ka1 (≈0.018M, pH≈1.7); [Te²⁻]≈Ka2=10⁻⁵ (aproksimim tipik për acidet diprotike)."},
-{"id":"kimia-ekuilibri-165","question":"Na vepron me 200ml ujë, tretësira ka 0.2M dhe asnjanësohet me HNO3. Kripa i nënshtrohet shpërbërjes termike, jep kripë të re dhe çliron gaz. Masa e kripës së re dhe vëllimi i gazit janë:","answers":["2.76g dhe 0.448 L","2.78g dhe 0.450 L","2.80g dhe 0.452 L","2.86g dhe 0.455 L"],"correct":0,"explanation":"mol NaOH=0.04 → NaNO3=0.04mol; shpërbërja 2NaNO3→2NaNO2+O2 jep 0.04mol NaNO2 (2.76g) dhe 0.02mol O2 (0.448L)."},
-{"id":"kimia-ekuilibri-166","question":"Përzihen AgNO3 10ml 0.01M me KCl 10ml 0.001M (Kpt AgCl=1.7×10⁻¹⁰). Produkti jonik i tretësirës është:","answers":["2.5×10⁻⁶","3×10⁻⁶","3.5×10⁻⁶","4×10⁻⁶"],"correct":0,"explanation":"Pas përzierjes në 20ml: [Ag⁺]=0.005M, [Cl⁻]=5×10⁻⁴M; PJ=[Ag⁺][Cl⁻]=2.5×10⁻⁶."},
-{"id":"kimia-ekuilibri-167","question":"Përzihen vëllime të barabarta BaCl2 (5×10⁻⁶M) dhe K2SO4 (5×10⁻⁶M). Kpt(BaSO4)=1×10⁻¹⁰. Produkti jonik dhe karakteri i tretësirës janë:","answers":["6.25×10⁻¹²; e pangopur","6.25×10⁻¹²; e ngopur","7.25×10⁻¹²; e tejngopur","7.25×10⁻¹²; e pangopur"],"correct":0,"explanation":"Pas hollimit: [Ba²⁺]=[SO4²⁻]=2.5×10⁻⁶M; PJ=6.25×10⁻¹² < Kpt=1×10⁻¹⁰, pra tretësirë e pangopur."},
-{"id":"kimia-ekuilibri-168","question":"Përziejmë 50g 16% NaOH (M=40g/mol) me 50g 12% H2SO4 (M=98g/mol). Masa e Na2SO4 (M=142g/mol) e përftuar është:","answers":["8.52g","9.52g","10.52g","11.52g"],"correct":0,"explanation":"mol H2SO4 (kufizues)=6/98≈0.061mol; mol Na2SO4=0.061mol; masa≈8.52g."},
-{"id":"kimia-ekuilibri-169","question":"Në 500g ujë tresim 4g NaOH (M=40g/mol), vëllimi mbetet i pandryshuar (0.5L). Përqendrimi në % dhe përqendrimi molar janë:","answers":["0.78% dhe 0.2M","0.79% dhe 0.2M","0.80% dhe 0.3M","0.81% dhe 0.3M"],"correct":1,"explanation":"mol NaOH=0.1 ⇒ M=0.1/0.5=0.2M; %=4/(500+4)×100≈0.79%."},
-{"id":"kimia-ekuilibri-170","question":"Kpt(PbF2)=4×10⁻⁹ në 300K. Tretshmëria molare e PbF2 në 1L 0.02M KF krahasuar me tretshmërinë në ujë të pastër:","answers":["rritet 10000 herë","zvogëlohet 1000 herë","zvogëlohet 100 herë","rritet 2 herë"],"correct":2,"explanation":"s(ujë)=∛(Kpt/4)≈10⁻³; s(me KF)=Kpt/[F⁻]²=1×10⁻⁵; raporti tregon zvogëlim 100 herë."},
-{"id":"kimia-ekuilibri-171","question":"Enë A: 60ml 0.1M CH3COOH (Ka=10⁻⁵). Enë B: 40ml me 0.12g NaOH. pH i tretësirës nga përzierja e tyre është:","answers":["5","7","10","10⁻⁵"],"correct":0,"explanation":"mol CH3COOH=0.006, mol NaOH=0.003; formohet tampon me mole të barabarta acid/kripë (0.003 secili) ⇒ pH=pKa=5."},
-{"id":"kimia-ekuilibri-172","question":"Hidroksidi M(OH)2 ka Kpt=4×10⁻¹². Vlera e pH e tretësirës ujore të tij është: (log2=0.3)","answers":["9.7","10.3","11.3","2"],"correct":1,"explanation":"4s³=4×10⁻¹² ⇒ s=10⁻⁴; [OH⁻]=2×10⁻⁴ ⇒ pOH=3.7 ⇒ pH=10.3."},
-{"id":"kimia-ekuilibri-173","question":"Në 1L ujë treten 2.24L HCl(g) (K.N.). Shtohet 2L 0.1M NH4OH (Kb=10⁻⁵). Vlera e pH e tretësirës nga përzierja është:","answers":["11","9","5","1"],"correct":1,"explanation":"mol HCl=0.1, mol NH4OH=0.2; formohet tampon bazik me mole të barabarta (0.1 secili) ⇒ pOH=pKb=5 ⇒ pH=9."},
-{"id":"kimia-ekuilibri-174","question":"Në 100mL 0.1M NH3 (Kb≈10⁻⁵) treten 0.2mol NH4Cl(ng) (vëllimi nuk ndryshon). Tretësira e formuar e ka pH: (log5=0.7)","answers":["6.7","7.7","9.7","10.3"],"correct":1,"explanation":"Tampon: pOH=pKb+log([NH4⁺]/[NH3])=5+log(0.2/0.01)=5+1.3=6.3 ⇒ pH=14-6.3=7.7."},
-{"id":"kimia-ekuilibri-175","question":"10mL 0.02M AgNO3 përzihet me 10mL 0.004M KCl (Kpt AgCl=1×10⁻¹⁰). Në tretësirën e formuar:","answers":["AgNO3 është substanca kufizuese","PJ<Kpt dhe nuk ndodh reaksion","PJ=Kpt dhe formohet tretësirë e ngopur","PJ>Kpt dhe formohet precipitat"],"correct":3,"explanation":"Pas përzierjes, PJ=[Ag⁺][Cl⁻] llogaritet shumë më i madh se Kpt, prandaj formohet precipitat AgCl."},
-{"id":"kimia-ekuilibri-176","question":"Për H2S 0.1M, K1=10⁻⁷, K2=10⁻¹⁴. Përqendrimi i S²⁻ në tretësirë është:","answers":["10⁻⁴ mol-jon/L","10⁻⁹ mol-jon/L","10⁻¹⁴ mol-jon/L","10⁻¹⁸ mol-jon/L"],"correct":2,"explanation":"Për acid diprotik të dobët, [S²⁻] përafërsisht i barabartë me K2 (pasi [H⁺]≈[HS⁻]), pra [S²⁻]≈10⁻¹⁴."},
-{"id":"kimia-ekuilibri-177","question":"Në 1L 0.2M HCl treten 0.4mol CH3COONa (Ka(CH3COOH)≈10⁻⁵, vëllimi i pandryshuar). Vlera e pH e tretësirës është:","answers":["1.7","4.7","5","6"],"correct":2,"explanation":"HCl reagon me CH3COONa duke formuar 0.2mol CH3COOH dhe duke lënë 0.2mol CH3COONa; mole të barabarta ⇒ pH=pKa=5."},
-{"id":"kimia-ekuilibri-178","question":"Vëllimi i ujit që duhet shtuar në 100mL 0.5M CH3COOH (Ka≈10⁻⁵) për të përftuar tretësirë me pH=3 është:","answers":["200 mL","300 mL","400 mL","500 mL"],"correct":2,"explanation":"Nga [H⁺]=√(Ka·C)=10⁻³ gjendet C=0.1M; volumi final=0.5L, pra shtohen 400mL ujë."},
-{"id":"kimia-ekuilibri-179","question":"pH e tretësirës 0.01M BOH (bazë e dobët) është 10. Vlera e pH e tretësirës 10⁻⁴M të kësaj baze është:","answers":["8","9","10","11"],"correct":1,"explanation":"Kb=[OH⁻]²/C=10⁻⁶; për C=10⁻⁴M, [OH⁻]=√(10⁻⁶×10⁻⁴)=10⁻⁵ ⇒ pOH=5 ⇒ pH=9."},
-{"id":"kimia-ekuilibri-180","question":"Në 100mL 0.1M CH3COOH (Ka≈10⁻⁵), shtohet CH3COONa (M=82g/mol) deri sa pH bëhet 4. Masa e etanoatit të shtuar është:","answers":["0.082g","0.82g","8.2g","82g"],"correct":0,"explanation":"pH=pKa+log([kripa]/[acidi]) ⇒ 4=5+log(x/0.01) ⇒ x=0.001mol ⇒ masa=0.001×82=0.082g."}
+    {
+        "id": "kimia-ekuilibri-001",
+        "question": "Për reaksionin në ekuilibër CaCO3(ng) + nxehtësi ⇌ CaO(ng) + CO2(g), vlera e konstantes së ekuilibrit rritet në qoftë se:",
+        "answers": [
+            "rrisim trysninë",
+            "ulim sasinë e CO2",
+            "rrisim temperaturën",
+            "ulim vëllimin e enës"
+        ],
+        "correct": 2,
+        "explanation": "Reaksioni është endotermik (kërkon nxehtësi); rritja e temperaturës favorizon drejtimin e drejtë dhe rrit K."
+    },
+    {
+        "id": "kimia-ekuilibri-002",
+        "question": "Reaksioni i ekuilibrit midis azotit dhe oksigjenit mund të shkruhet: N2+O2⇌2NO (K1) dhe ½N2+½O2⇌NO (K2). Duke krahasuar vlerat e konstanteve, mund të themi:",
+        "answers": [
+            "K1 = K2",
+            "K1 = 2K2",
+            "K1 = ½K2",
+            "K1 = K2²"
+        ],
+        "correct": 0,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-003",
+        "question": "Ekuilibri: N2O4(g)⇌2NO2(g) zhvendoset djathtas kur:",
+        "answers": [
+            "rrisim trysninë",
+            "ulim temperaturën",
+            "rrisim temperaturën",
+            "shtojmë në enë NO2"
+        ],
+        "correct": 2,
+        "explanation": "Shpërbërja e N2O4 është endotermike dhe rrit numrin e moleve gazi; rritja e temperaturës e zhvendos ekuilibrin djathtas."
+    },
+    {
+        "id": "kimia-ekuilibri-004",
+        "question": "Për reaksionin në ekuilibër: 2A(g)+B(g)⇌3C(g), Ke=4. Përqendrimet e ekuilibrit për A dhe C janë nga 0.2 mol/L. Përqendrimi i ekuilibrit të B është:",
+        "answers": [
+            "0.04 mol/L",
+            "0.05 mol/L",
+            "0.4 mol/L",
+            "0.5 mol/L"
+        ],
+        "correct": 1,
+        "explanation": "Kc=[C]³/([A]²[B]) ⇒ 4=(0.2)³/((0.2)²·[B]) ⇒ [B]=0.008/(0.04·4)=0.05 mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-005",
+        "question": "Në një reaksion të prapësueshëm, çfarë efekti ka shtimi i një katalizatori te k1, k2 dhe Ke?",
+        "answers": [
+            "Rritet, zvogëlohet, nuk ndryshon",
+            "Rritet, zvogëlohet, rritet",
+            "Rritet, rritet, nuk ndryshon",
+            "Rritet, rritet, rritet"
+        ],
+        "correct": 2,
+        "explanation": "Katalizatori rrit njësoj shpejtësinë e reaksionit të drejtë dhe të zhdrejtë, prandaj Ke=k1/k2 mbetet i pandryshuar."
+    },
+    {
+        "id": "kimia-ekuilibri-006",
+        "question": "Në 400°C Ke=50 për H2(g)+I2(g)⇌2HI(g). Një përzierje barazmolare H2 dhe I2 vendoset deri sa arrihet ekuilibri. Në enë do të ketë:",
+        "answers": [
+            "vetëm HI",
+            "vetëm H2 dhe I2",
+            "më pak HI se sa H2 ose I2",
+            "më shumë HI se sa H2 ose I2"
+        ],
+        "correct": 3,
+        "explanation": "Ke=50 >1 tregon se produktet (HI) favorizohen shumë më tepër se reaktantët në gjendjen e ekuilibrit."
+    },
+    {
+        "id": "kimia-ekuilibri-007",
+        "question": "Për 2SO2(g)+O2(g)⇌2SO3(g), [SO2]0=0.9M, [O2]0=0.8M, [SO2]eq=0.3M. Vlera e Kc është:",
+        "answers": [
+            "0.6",
+            "0.8",
+            "3.6",
+            "8"
+        ],
+        "correct": 3,
+        "explanation": "ΔSO2=0.6 ⇒ eq: [SO2]=0.3, [O2]=0.8-0.3=0.5, [SO3]=0.6; Kc=(0.6)²/((0.3)²·0.5)=8."
+    },
+    {
+        "id": "kimia-ekuilibri-008",
+        "question": "Procesi Haber: N2(g)+3H2(g)⇌2NH3(g), ΔH<0. Kur temperatura e sistemit rritet:",
+        "answers": [
+            "vlera e Kp rritet",
+            "vlera e Kp zvogëlohet",
+            "vlera e Kp nuk ndryshon",
+            "vlera e Kp rritet e pastaj zvogëlohet"
+        ],
+        "correct": 1,
+        "explanation": "Reaksioni është ekzotermik; rritja e T favorizon reaksionin e zhdrejtë, prandaj Kp zvogëlohet."
+    },
+    {
+        "id": "kimia-ekuilibri-009",
+        "question": "NH4Cl(ng)⇌NH3(g)+HCl(g). Shprehja e Kp për këtë reaksion është:",
+        "answers": [
+            "Kp = pNH3·pHCl",
+            "Kp = 1/(pNH3·pHCl)",
+            "Kp = pNH3·pHCl/pNH4Cl",
+            "Kp = pNH4Cl/(pNH3·pHCl)"
+        ],
+        "correct": 0,
+        "explanation": "Substancat e ngurta nuk përfshihen në shprehjen e K; mbeten vetëm trysnitë e pjesshme të gazeve produkte."
+    },
+    {
+        "id": "kimia-ekuilibri-010",
+        "question": "Kc=[P]²/([Q][R]³), ΔH<0. Cili faktor rrit vlerën e Kc?",
+        "answers": [
+            "Ulja e temperaturës",
+            "Zvogëlimi i trysnisë",
+            "Rritja e temperaturës",
+            "Rritja e trysnisë"
+        ],
+        "correct": 0,
+        "explanation": "Për reaksion ekzotermik, ulja e temperaturës e zhvendos ekuilibrin drejt produkteve, duke rritur Kc."
+    },
+    {
+        "id": "kimia-ekuilibri-011",
+        "question": "Për ekuilibrin: A(ng)+2B+(uj)⇌A2+(uj)+2B(ng), njësia matëse e konstantes së ekuilibrit është:",
+        "answers": [
+            "mol/dm³",
+            "dm³/mol",
+            "mol²/dm⁶",
+            "nuk ka njësi"
+        ],
+        "correct": 1,
+        "explanation": "K=[A2+]/[B+]²; njësia = (mol/L)/(mol/L)² = L/mol = dm³/mol."
+    },
+    {
+        "id": "kimia-ekuilibri-012",
+        "question": "Cr2O7²⁻(uj)+H2O(l)⇌2CrO4²⁻(uj)+2H⁺(uj), portokalli⇌verdhë. Shtimi i pak NaOH në gjendjen ku mbizotëron ngjyra portokalli:",
+        "answers": [
+            "kthen tretësirën në të gjelbër",
+            "kthen tretësirën në pa ngjyrë",
+            "e zhvendos ekuilibrin majtas",
+            "e zhvendos ekuilibrin djathtas"
+        ],
+        "correct": 3,
+        "explanation": "NaOH konsumon H⁺, ulet [H⁺], ekuilibri zhvendoset djathtas drejt CrO4²⁻ (verdhë)."
+    },
+    {
+        "id": "kimia-ekuilibri-013",
+        "question": "PCl5(g)⇌PCl3(g)+Cl2(g), në 260°C Kp=2 atm, pPCl3=0.5atm, pCl2=0.8atm. Trysnia e pjesshme e PCl5 në ekuilibër është:",
+        "answers": [
+            "0.2 atm",
+            "0.8 atm",
+            "1 atm",
+            "5 atm"
+        ],
+        "correct": 0,
+        "explanation": "Kp=pPCl3·pCl2/pPCl5 ⇒ 2=0.4/pPCl5 ⇒ pPCl5=0.2 atm."
+    },
+    {
+        "id": "kimia-ekuilibri-014",
+        "question": "CO(g)+2H2(g)⇌CH3OH(g), ΔH=-90 kJ/mol. Rendimenti i metanolit favorizohet nga:",
+        "answers": [
+            "temperaturë dhe trysni e ulët",
+            "temperaturë e ulët dhe trysni e lartë",
+            "temperaturë e lartë dhe trysni e ulët",
+            "temperaturë e lartë dhe trysni e lartë"
+        ],
+        "correct": 1,
+        "explanation": "Reaksion ekzotermik me zvogëlim molesh gazi; favorizohet nga T e ulët (Le Chatelier termik) dhe P e lartë (zhvendos drejt më pak moleve)."
+    },
+    {
+        "id": "kimia-ekuilibri-015",
+        "question": "Për CO(g)+2H2(g)⇌CH3OH(g) në 260°C, Kc=3.6. Kjo vlerë do të thotë:",
+        "answers": [
+            "janë formuar 3.6 mol metanol",
+            "janë formuar 3.6 mol metanol nga 1 mol CO",
+            "përqendrimi i metanolit është 3.6 herë më i madh se i H2",
+            "në shprehjen e Kc, numëruesi është 3.6 herë më i madh se emëruesi"
+        ],
+        "correct": 3,
+        "explanation": "Kc është thjesht raporti numerik numërues/emërues i shprehjes së ekuilibrit, jo sasi apo raport përqendrimesh specifike."
+    },
+    {
+        "id": "kimia-ekuilibri-016",
+        "question": "CH3COOH+H2SO4⇌CH3COOH2⁺+HSO4⁻. Cilat janë acide sipas Bronsted-Lauri?",
+        "answers": [
+            "CH3COOH dhe H2SO4",
+            "CH3COOH2⁺ dhe HSO4⁻",
+            "H2SO4 dhe CH3COOH2⁺",
+            "CH3COOH dhe HSO4⁻"
+        ],
+        "correct": 2,
+        "explanation": "H2SO4 dhurin protonin (acid) drejt, ndërsa CH3COOH2⁺ (acidi i konjuguar) dhuron protonin në reaksionin e zhdrejtë."
+    },
+    {
+        "id": "kimia-ekuilibri-017",
+        "question": "Cili është acidi i konjuguar për bazën HAsO4²⁻?",
+        "answers": [
+            "AsO4³⁻",
+            "H2AsO4⁻",
+            "H2AsO3⁻",
+            "H3AsO4"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-018",
+        "question": "X ka pH=2 dhe Y ka pH=4. Cili pohim është i saktë?",
+        "answers": [
+            "X ka [H⁺] 100 herë më të lartë se Y",
+            "Y ka [H⁺] 2 herë më të lartë se X",
+            "X ka [H⁺] 4 herë më të lartë se Y",
+            "Y ka [H⁺] 100 herë më të lartë se X"
+        ],
+        "correct": 0,
+        "explanation": "[H⁺]X=10⁻², [H⁺]Y=10⁻⁴; raporti = 10²=100 herë më i madh te X."
+    },
+    {
+        "id": "kimia-ekuilibri-019",
+        "question": "Barazimi jonik i shkurtuar për hidrolizën e Na2S është:",
+        "answers": [
+            "Na2S⇌2Na⁺+S²⁻",
+            "S²⁻+2H2O⇌2OH⁻+H2S",
+            "Na2S+2H2O⇌2NaOH+H2S",
+            "Na2S+2H2O⇌2NaOH+2H⁺"
+        ],
+        "correct": 1,
+        "explanation": "Barazimi jonik i shkurtuar përfshin vetëm jonin që hidrolizohet (S²⁻) dhe ujin, jo jonet spektatore Na⁺."
+    },
+    {
+        "id": "kimia-ekuilibri-020",
+        "question": "HClO+HNO2⇌H2ClO⁺+NO2⁻. Sipas Bronsted-Lourit, acidi dhe baza e konjuguar e tij janë:",
+        "answers": [
+            "HClO dhe HNO2",
+            "HClO dhe H2ClO⁺",
+            "HNO2 dhe NO2⁻",
+            "H2ClO⁺ dhe NO2⁻"
+        ],
+        "correct": 2,
+        "explanation": "HNO2 dhuron protonin (acid) duke formuar bazën e vet të konjuguar NO2⁻."
+    },
+    {
+        "id": "kimia-ekuilibri-021",
+        "question": "Bazuar në teorinë e Bronshted-Lourit, veti amfotere paraqet:",
+        "answers": [
+            "CO3²⁻",
+            "H2CO3",
+            "HPO4²⁻",
+            "H3PO4"
+        ],
+        "correct": 2,
+        "explanation": "HPO4²⁻ mund të veprojë si acid (duke dhuruar H⁺) ose si bazë (duke pranuar H⁺), pra është amfoter."
+    },
+    {
+        "id": "kimia-ekuilibri-022",
+        "question": "Nga përzierja e Pb(NO3)2 me KI formohet precipitat i verdhë. Barazimi jonik për këtë reaksion është:",
+        "answers": [
+            "Pb⁺+I⁻→PbI(ng)",
+            "Pb²⁺+I²⁻→PbI(ng)",
+            "Pb²⁺+2I⁻→PbI2(ng)",
+            "Pb⁺+2I⁻→PbI2(ng)"
+        ],
+        "correct": 2,
+        "explanation": "Pb²⁺ dhe I⁻ bashkohen sipas ngarkesave dhe stekiometrisë 1:2 për të formuar PbI2 të ngurtë."
+    },
+    {
+        "id": "kimia-ekuilibri-023",
+        "question": "Cila nga këto vepron me ujin për të formuar një oksiacid?",
+        "answers": [
+            "N2",
+            "NH3",
+            "Al2O3",
+            "Cl2O3"
+        ],
+        "correct": 3,
+        "explanation": "Cl2O3 është oksid acid (jometal); reagon me ujë duke formuar acidin përkatës HClO2."
+    },
+    {
+        "id": "kimia-ekuilibri-024",
+        "question": "Vetëm një çift oksidesh, kur hidhet në ujë, NUK formon tretësirë acidi. Cili?",
+        "answers": [
+            "CO dhe NO",
+            "CO dhe CO2",
+            "CO dhe SO2",
+            "NO dhe CO2"
+        ],
+        "correct": 0,
+        "explanation": "CO dhe NO janë oksidе neutrale, nuk reagojnë me ujin për të formuar acide, ndryshe nga CO2, SO2."
+    },
+    {
+        "id": "kimia-ekuilibri-025",
+        "question": "Cila tretësirë pothuajse NUK ndryshon pH kur shtojmë 1 ml 0.01M NaOH?",
+        "answers": [
+            "HCl dhe NaCl",
+            "HCN dhe KCN",
+            "KOH dhe KCN",
+            "KOH dhe KCl"
+        ],
+        "correct": 1,
+        "explanation": "HCN (acid i dobët) me KCN (kripa e tij) formojnë tretësirë tampon, që rezistin ndaj ndryshimeve të pH."
+    },
+    {
+        "id": "kimia-ekuilibri-026",
+        "question": "Një tretësirë me vetëm një substancë të tretur ka pH=9. Cila substancë është?",
+        "answers": [
+            "HCl",
+            "KOH",
+            "NH4Cl",
+            "CH3COOH"
+        ],
+        "correct": 1,
+        "explanation": "Vetëm baza (KOH) mund të japë mjedis bazik (pH>7); acidet dhe kripa NH4Cl japin mjedis acid."
+    },
+    {
+        "id": "kimia-ekuilibri-027",
+        "question": "Kloruri i argjendit AgCl tretet më mirë në:",
+        "answers": [
+            "ujë të distiluar",
+            "tretësirën e HCl",
+            "tretësirën e NaCl",
+            "tretësirën e AgNO3"
+        ],
+        "correct": 0,
+        "explanation": "Në ujë të pastër nuk ka efekt të jonit të përbashkët (Cl⁻ ose Ag⁺), prandaj tretshmëria e AgCl është maksimale."
+    },
+    {
+        "id": "kimia-ekuilibri-028",
+        "question": "Vlera e Ku (Kw) rritet me rritjen e temperaturës. Kur temperatura rritet, uji i pastër:",
+        "answers": [
+            "mbetet neutral",
+            "sillet si acid",
+            "sillet si bazë",
+            "shpërbashkohet më pak"
+        ],
+        "correct": 0,
+        "explanation": "[H⁺]=[OH⁻] mbetet gjithmonë e barabartë në ujë të pastër, pavarësisht temperaturës, prandaj mbetet neutral (edhe pse pH ndryshon)."
+    },
+    {
+        "id": "kimia-ekuilibri-029",
+        "question": "Në 60°C, Ku=9·10⁻¹⁴. Vlera e pH për ujin e pastër në këtë temperaturë është: (log3≈0.5)",
+        "answers": [
+            "6",
+            "6.5",
+            "7",
+            "7.5"
+        ],
+        "correct": 1,
+        "explanation": "[H⁺]=√(9·10⁻¹⁴)=3·10⁻⁷ ⇒ pH=7-log3=7-0.5=6.5."
+    },
+    {
+        "id": "kimia-ekuilibri-030",
+        "question": "Një tretësirë ujore e acidit etanoik hollohet gradualisht. Cili pohim është i saktë?",
+        "answers": [
+            "Vlera e pH rritet",
+            "Vlera e Ka rritet",
+            "Përqendrimi i molekulave të pashpërbashkuara rritet",
+            "Përqindja e molekulave të shpërbashkuara zvogëlohet"
+        ],
+        "correct": 0,
+        "explanation": "Hollimi ul [H⁺], prandaj pH rritet, edhe pse shkalla (%) e shpërbashkimit rritet me hollimin."
+    },
+    {
+        "id": "kimia-ekuilibri-031",
+        "question": "KPT për Zn(OH)2 është 1.2·10⁻¹⁷. Cili pohim është i saktë?",
+        "answers": [
+            "Kpt nuk ndryshon kur ndryshon pH",
+            "Kpt nuk varet nga temperatura",
+            "Kpt ndryshon nëse shtojmë ZnCl2",
+            "Tretshmëria e Zn(OH)2 nuk ndryshon nëse shtojmë ZnCl2"
+        ],
+        "correct": 0,
+        "explanation": "Kpt është konstante vetëm në funksion të temperaturës; nuk ndryshon nga shtimi i joneve të përbashkëta apo nga pH."
+    },
+    {
+        "id": "kimia-ekuilibri-032",
+        "question": "Cili nga acidet e mëposhtme është acid i fortë?",
+        "answers": [
+            "HF",
+            "HCN",
+            "HCl",
+            "H2CO3"
+        ],
+        "correct": 2,
+        "explanation": "HCl shpërbashkohet plotësisht në ujë, ndryshe nga HF, HCN, H2CO3 që janë acide të dobëta."
+    },
+    {
+        "id": "kimia-ekuilibri-033",
+        "question": "Vlera e pH e një tretësire acidi të fortë monoprotik me përqendrim 10⁻³M është:",
+        "answers": [
+            "-3",
+            "3",
+            "11",
+            "10⁻³"
+        ],
+        "correct": 1,
+        "explanation": "Acid i fortë monoprotik: [H⁺]=10⁻³M ⇒ pH=-log(10⁻³)=3."
+    },
+    {
+        "id": "kimia-ekuilibri-034",
+        "question": "Fenolftalina e hedhur në tretësirë ujore KCN merr ngjyrë:",
+        "answers": [
+            "blu",
+            "të verdhë",
+            "të kuqe",
+            "portokalli"
+        ],
+        "correct": 2,
+        "explanation": "KCN hidrolizohet duke dhënë mjedis bazik; fenolftalina merr ngjyrë të kuqe/rozë në mjedis bazik."
+    },
+    {
+        "id": "kimia-ekuilibri-035",
+        "question": "Tretësira ujore e HI me përqendrim 0.01M e ka pH:",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "HI acid i fortë monoprotik: [H⁺]=0.01M ⇒ pH=-log(10⁻²)=2."
+    },
+    {
+        "id": "kimia-ekuilibri-036",
+        "question": "Përqendrimi i OH⁻ është 10⁻⁶M. pH i tretësirës në këtë rast është:",
+        "answers": [
+            "2",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-037",
+        "question": "Cila tretësirë pothuajse NUK ndryshon vlerën e pH kur e hollojmë dy herë?",
+        "answers": [
+            "HCl dhe NaCl",
+            "HCN dhe KCN",
+            "KOH dhe KCN",
+            "KOH dhe KCl"
+        ],
+        "correct": 1,
+        "explanation": "Tretësira tampon HCN/KCN e ruan pH-in praktikisht të pandryshuar edhe pas hollimit."
+    },
+    {
+        "id": "kimia-ekuilibri-038",
+        "question": "Raporti midis pH të HCl 0.1M dhe pH të Ba(OH)2 0.05M është:",
+        "answers": [
+            "1 me 2",
+            "2 me 1",
+            "1 me 10",
+            "1 me 13"
+        ],
+        "correct": 3,
+        "explanation": "pH(HCl)=-log(0.1)=1; Ba(OH)2 0.05M jep [OH⁻]=0.1M ⇒ pOH=1, pH=13; raporti 1:13."
+    },
+    {
+        "id": "kimia-ekuilibri-039",
+        "question": "Duke u nisur nga vlerat e konstanteve të shpërbashkimit të disa acideve, cili është acidi më i fortë?",
+        "answers": [
+            "2×10⁻²⁰",
+            "1.5×10⁻²¹",
+            "1.2×10⁻²²",
+            "2.5×10⁻²³"
+        ],
+        "correct": 0,
+        "explanation": "Sa më e madhe vlera e Ka, aq më i fortë acidi; 2×10⁻²⁰ është vlera më e madhe."
+    },
+    {
+        "id": "kimia-ekuilibri-040",
+        "question": "pH i tretësirës 0.001M të KOH është:",
+        "answers": [
+            "3",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 2,
+        "explanation": "Bazë e fortë: [OH⁻]=10⁻³M ⇒ pOH=3 ⇒ pH=14-3=11."
+    },
+    {
+        "id": "kimia-ekuilibri-041",
+        "question": "Në 5L tretësirë ndodhen 0.5 mole HNO3. Vlera e pH të tretësirës është:",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "[HNO3]=0.5/5=0.1M, acid i fortë ⇒ [H⁺]=0.1M ⇒ pH=1."
+    },
+    {
+        "id": "kimia-ekuilibri-042",
+        "question": "Masa në gram e KOH (M=56g/mol) për të përgatitur 200ml tretësirë 4M është:",
+        "answers": [
+            "44.8g",
+            "45g",
+            "45.8g",
+            "46g"
+        ],
+        "correct": 0,
+        "explanation": "mol=0.2L×4M=0.8mol ⇒ masa=0.8×56=44.8g."
+    },
+    {
+        "id": "kimia-ekuilibri-043",
+        "question": "Si reagon uji në: NH3+H2O⇌NH4⁺+OH⁻, sipas Bronsted-Louer?",
+        "answers": [
+            "si acid, sepse pranon proton",
+            "si bazë, sepse pranon proton",
+            "si acid, sepse liron proton",
+            "si bazë, sepse liron proton"
+        ],
+        "correct": 2,
+        "explanation": "Uji i jep një proton NH3-së duke formuar OH⁻, prandaj vepron si acid (dhurues protoni)."
+    },
+    {
+        "id": "kimia-ekuilibri-044",
+        "question": "Cila kripë, duke reaguar me ujin, jep tretësirë bazike me pH>7?",
+        "answers": [
+            "NaCl",
+            "NH4Cl",
+            "NaHCO3",
+            "NaNO3"
+        ],
+        "correct": 2,
+        "explanation": "NaHCO3 është kripë e acidit të dobët dhe bazës së fortë; hidrolizohet duke dhënë mjedis lehtësisht bazik."
+    },
+    {
+        "id": "kimia-ekuilibri-045",
+        "question": "Në titrimin e HCl me tretësirën ujore të amoniakut, pH në pikën e asnjanësimit është përafërsisht:",
+        "answers": [
+            "1",
+            "5",
+            "7",
+            "8"
+        ],
+        "correct": 1,
+        "explanation": "Kripa e formuar NH4Cl (nga acid i fortë + bazë e dobët) hidrolizohet duke dhënë mjedis acid, pH<7."
+    },
+    {
+        "id": "kimia-ekuilibri-046",
+        "question": "Në një tretësirë me pOH=12, mjedisi i tretësirës është:",
+        "answers": [
+            "acid i dobët",
+            "acid i fortë",
+            "bazë e dobët",
+            "bazë e fortë"
+        ],
+        "correct": 1,
+        "explanation": "pOH=12 ⇒ pH=2, mjedis shumë acid, karakteristik për një acid të fortë."
+    },
+    {
+        "id": "kimia-ekuilibri-047",
+        "question": "Në 100ml BaF2 0.5M shtojmë 50ml K2SO4 0.1M. Numri i moleve BaSO4 të formuar është:",
+        "answers": [
+            "0.01",
+            "0.05",
+            "0.001",
+            "0.005"
+        ],
+        "correct": 3,
+        "explanation": "mol Ba²⁺=0.05 (tepricë), mol SO4²⁻=0.005 (kufizues); formohen 0.005 mol BaSO4."
+    },
+    {
+        "id": "kimia-ekuilibri-048",
+        "question": "Numri i joneve Ca²⁺ në 7.4g Ca(OH)2 (M=74g/mol) është:",
+        "answers": [
+            "0.5×6.02×10²³",
+            "0.4×6.02×10²³",
+            "0.3×6.02×10²³",
+            "0.1×6.02×10²³"
+        ],
+        "correct": 3,
+        "explanation": "mol Ca(OH)2=7.4/74=0.1mol ⇒ jone Ca²⁺=0.1×NA=0.1×6.02×10²³."
+    },
+    {
+        "id": "kimia-ekuilibri-049",
+        "question": "Një tretësirë 3M e K2SO4 me vëllim 1L përmban:",
+        "answers": [
+            "2mol SO4²⁻",
+            "3mol K⁺",
+            "5mol SO4²⁻",
+            "6mol K⁺"
+        ],
+        "correct": 3,
+        "explanation": "3mol K2SO4 japin 3mol SO4²⁻ dhe 2×3=6mol K⁺."
+    },
+    {
+        "id": "kimia-ekuilibri-050",
+        "question": "Përqendrimi molar i tretësirës me 8g NaOH në 0.5L është:",
+        "answers": [
+            "0.4M",
+            "0.6M",
+            "0.65M",
+            "0.7M"
+        ],
+        "correct": 0,
+        "explanation": "mol NaOH=8/40=0.2mol ⇒ M=0.2/0.5=0.4M."
+    },
+    {
+        "id": "kimia-ekuilibri-051",
+        "question": "Barazimi jonik për AgNO3(uj)+HCl(uj)=AgCl(ng)+HNO3(uj) është:",
+        "answers": [
+            "Ag⁺+Cl⁻=AgCl(ng)",
+            "Ag⁺+NO3⁻=Cl⁻+NO3⁻",
+            "Cl⁻+H⁺=Cl⁻+H⁺",
+            "NO3⁻+H⁺=H⁺+NO3⁻"
+        ],
+        "correct": 0,
+        "explanation": "Vetëm jonet që reagojnë dhe formojnë precipitat përfshihen; Ag⁺ dhe Cl⁻ bashkohen duke formuar AgCl(ng)."
+    },
+    {
+        "id": "kimia-ekuilibri-052",
+        "question": "Njëra nga substancat e mëposhtme është elektrolit i dobët:",
+        "answers": [
+            "NaOH",
+            "K2SO4",
+            "HCN",
+            "H2SO4"
+        ],
+        "correct": 2,
+        "explanation": "HCN shpërbashkohet pjesërisht në ujë (acid i dobët), ndryshe nga NaOH, K2SO4, H2SO4 që janë elektrolite të forta."
+    },
+    {
+        "id": "kimia-ekuilibri-053",
+        "question": "Masa e Cl2 (ArCl=35.5) e përftuar nga 73g HCl sipas MnO2+4HCl=MnCl2+Cl2+2H2O është:",
+        "answers": [
+            "35.5g",
+            "36.5g",
+            "37.5g",
+            "38.5g"
+        ],
+        "correct": 0,
+        "explanation": "mol HCl=73/36.5=2mol; sipas stekiometrisë 4HCl→1Cl2, 2mol HCl→0.5mol Cl2=0.5×71=35.5g."
+    },
+    {
+        "id": "kimia-ekuilibri-054",
+        "question": "Shprehja e Kpt për tretësirën e ngopur Ca3(PO4)2 është:",
+        "answers": [
+            "Kpt=[Ca²⁺]·[PO4³⁻]",
+            "Kpt=[Ca²⁺]³·[PO4³⁻]²",
+            "Kpt=[3Ca²⁺]·[2PO4³⁻]",
+            "Kpt=[3Ca²⁺]³·[2PO4³⁻]²"
+        ],
+        "correct": 1,
+        "explanation": "Eksponentët në Kpt janë koeficientët stekiometrikë: Ca3(PO4)2⇌3Ca²⁺+2PO4³⁻ ⇒ Kpt=[Ca²⁺]³[PO4³⁻]²."
+    },
+    {
+        "id": "kimia-ekuilibri-055",
+        "question": "Shprehja e Kpt për tretësirën e ngopur Fe2(SO4)3 është:",
+        "answers": [
+            "Kpt=[Fe³⁺]²·[SO4²⁻]³",
+            "Kpt=[Fe³⁺]·[SO4²⁻]",
+            "Kpt=[2Fe³⁺]·[3SO4²⁻]",
+            "Kpt=[2Fe³⁺]²·[3SO4²⁻]³"
+        ],
+        "correct": 0,
+        "explanation": "Fe2(SO4)3⇌2Fe³⁺+3SO4²⁻ ⇒ Kpt=[Fe³⁺]²[SO4²⁻]³."
+    },
+    {
+        "id": "kimia-ekuilibri-056",
+        "question": "Shprehja e Kpt për tretësirën e ngopur BaF2 është:",
+        "answers": [
+            "Kpt=[Ba²⁺]·[F⁻]²",
+            "Kpt=[Ba²⁺]·[F⁻]",
+            "Kpt=[Ba²⁺]·[2F⁻]²",
+            "Kpt=[Ba²⁺]·[2F⁻]"
+        ],
+        "correct": 0,
+        "explanation": "BaF2⇌Ba²⁺+2F⁻ ⇒ Kpt=[Ba²⁺][F⁻]²."
+    },
+    {
+        "id": "kimia-ekuilibri-057",
+        "question": "Cila nga kripërat e mëposhtme, duke u tretur në ujë, NUK hidrolizon?",
+        "answers": [
+            "CH3COONH4",
+            "Na2SO4",
+            "NH4Cl",
+            "KCN"
+        ],
+        "correct": 1,
+        "explanation": "Na2SO4 është kripë e acidit të fortë dhe bazës së fortë, nuk hidrolizon dhe jep tretësirë neutrale."
+    },
+    {
+        "id": "kimia-ekuilibri-058",
+        "question": "AgI ka Kpt=8.3×10⁻¹⁷, PbI2 ka Kpt=7.1×10⁻⁹. Mund të themi se:",
+        "answers": [
+            "AgI ka tretshmëri më të madhe se PbI2",
+            "PbI2 ka tretshmëri më të madhe se AgI",
+            "produkti jonik i të dyjave është i barabartë",
+            "produkti jonik i AgI është më i madh se ai i PbI2"
+        ],
+        "correct": 1,
+        "explanation": "Duke llogaritur tretshmërinë molare nga formula e secilit tip (1:1 dhe 1:2), PbI2 rezulton me tretshmëri dukshëm më të madhe se AgI."
+    },
+    {
+        "id": "kimia-ekuilibri-059",
+        "question": "Cili nga reaksionet NUK është reaksion acid-bazë (në tretësira ujore)?",
+        "answers": [
+            "2H2O⇌H3O⁺+OH⁻",
+            "NH4⁺+NH2⁻⇌2NH3",
+            "HNO3+HClO4⇌H2NO3⁺+ClO4⁻",
+            "FeCl3+6H2O→Fe(H2O)6³⁺+3Cl⁻"
+        ],
+        "correct": 3,
+        "explanation": "Reaksioni i FeCl3 me ujë është hidratim/dissociim jonik, jo transferim protoni Bronsted-Lauri."
+    },
+    {
+        "id": "kimia-ekuilibri-060",
+        "question": "CuCl ka tretshmëri ~4×10⁻⁴mol/L. Nëse në 1L tretësirë e ngopur shtohen 0.1mol CaCl2, ndodh që:",
+        "answers": [
+            "[Cu⁺] ulet për shkak të efektit të jonit të përbashkët",
+            "[Cu⁺] rritet për shkak të efektit të jonit të përbashkët",
+            "[Cu⁺] ulet nga oksidimi në Cu²⁺",
+            "[Cu⁺] mbetet i pandryshuar"
+        ],
+        "correct": 0,
+        "explanation": "Cl⁻ shtesë nga CaCl2 është jon i përbashkët me CuCl, që zhvendos ekuilibrin e tretjes majtas, duke ulur [Cu⁺]."
+    },
+    {
+        "id": "kimia-ekuilibri-061",
+        "question": "Tretësirë tampon: CH3COOH 0.1M (Ka≈10⁻⁵) dhe CH3COONa 0.05M. pH i saj është: (log2=0.3)",
+        "answers": [
+            "3",
+            "4.3",
+            "4.7",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "pH=pKa+log([kripa]/[acidi])=5+log(0.05/0.1)=5-0.3=4.7."
+    },
+    {
+        "id": "kimia-ekuilibri-062",
+        "question": "Vlera e produktit jonik të tretësirës me Pb²⁺=0.002M dhe I⁻=0.004M është:",
+        "answers": [
+            "4×10⁻⁹",
+            "3.2×10⁻⁸",
+            "1.3×10⁻⁷",
+            "8×10⁻⁶"
+        ],
+        "correct": 1,
+        "explanation": "PJ=[Pb²⁺][I⁻]²=0.002×(0.004)²=3.2×10⁻⁸."
+    },
+    {
+        "id": "kimia-ekuilibri-063",
+        "question": "Tretësirë e ngopur Mg(OH)2 me [Mg²⁺]=10⁻⁴M. Vlera e Kpt është:",
+        "answers": [
+            "1×10⁻⁸",
+            "2×10⁻⁸",
+            "4×10⁻¹²",
+            "8×10⁻¹²"
+        ],
+        "correct": 2,
+        "explanation": "[OH⁻]=2×10⁻⁴M ⇒ Kpt=[Mg²⁺][OH⁻]²=10⁻⁴×(2×10⁻⁴)²=4×10⁻¹²."
+    },
+    {
+        "id": "kimia-ekuilibri-064",
+        "question": "Cila nga tretësirat e mëposhtme është më acide?",
+        "answers": [
+            "3M HCl",
+            "2M HNO3",
+            "2M HCOOH",
+            "3M CH3COOH"
+        ],
+        "correct": 0,
+        "explanation": "HCl dhe HNO3 janë acide të forta (shpërbashkohen plotësisht); HCl 3M ka [H⁺] më të lartë se HNO3 2M."
+    },
+    {
+        "id": "kimia-ekuilibri-065",
+        "question": "Tretësira ujore e HNO2 asnjanësohet plotësisht me NaOH. Vlera e pH e tretësirës së asnjanësuar ka më shumë mundësi të jetë:",
+        "answers": [
+            "5.5",
+            "7",
+            "8.5",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-066",
+        "question": "Cila tretësirë ka pH më të ulët?",
+        "answers": [
+            "0.01M HCl",
+            "0.1M HCl",
+            "0.01M CH3COOH",
+            "0.1M CH3COOH"
+        ],
+        "correct": 1,
+        "explanation": "HCl (acid i fortë) me përqendrim më të lartë (0.1M) jep [H⁺] më të madhe se çdo variant tjetër."
+    },
+    {
+        "id": "kimia-ekuilibri-067",
+        "question": "Cili çift, kur përzihet, formon tretësirë tampon me pH>7?",
+        "answers": [
+            "Acid metanoik dhe metanoat natriumi",
+            "Hidroksid natriumi dhe klorur natriumi",
+            "Klorur amoni dhe etanoat amoni",
+            "Amoniak dhe klorur amoni"
+        ],
+        "correct": 3,
+        "explanation": "Amoniaku (bazë e dobët) me kripën e tij NH4Cl formon tampon bazik me pH>7."
+    },
+    {
+        "id": "kimia-ekuilibri-068",
+        "question": "CH2ClCH2Cl(g)⇌CH2CHCl(g)+HCl(g). Rritja e rendimentit të kloretenit ndodh kur:",
+        "answers": [
+            "rrisim temperaturën",
+            "rrisim trysninë",
+            "rrisim sipërfaqen e katalizatorit",
+            "ndryshojmë katalizatorin"
+        ],
+        "correct": 0,
+        "explanation": "Reaksioni rrit numrin e moleve gazi (endotermik); rritja e temperaturës e zhvendos ekuilibrin drejt produkteve."
+    },
+    {
+        "id": "kimia-ekuilibri-069",
+        "question": "N2(g)+3H2(g)⇌2NH3(g), ΔH=-92kJ/mol. Cili pohim NUK është i saktë?",
+        "answers": [
+            "Kp rritet nëse ulet temperatura",
+            "Kp rritet nëse rritet trysnia e përgjithshme",
+            "Njësia e Kp është atm⁻²",
+            "Kp nuk ndryshon nëse rritet përqendrimi i reaktantëve"
+        ],
+        "correct": 1,
+        "explanation": "Kp varet vetëm nga temperatura, jo nga trysnia; pohimi që trysnia ndryshon Kp është i gabuar."
+    },
+    {
+        "id": "kimia-ekuilibri-070",
+        "question": "Cila është shprehja e saktë për konstanten e parë të aciditetit të H3PO4?",
+        "answers": [
+            "Ka=[H⁺]/[H3PO4]",
+            "Ka=[H⁺][H2PO4⁻]/[H3PO4]",
+            "Ka=[H⁺][HPO4²⁻]/[H3PO4]",
+            "Ka=[H⁺][PO4³⁻]/[H3PO4]"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-071",
+        "question": "Tretësira ujore e NH4Cl ka pH<7 sepse:",
+        "answers": [
+            "jonet NH4⁺ i japin protone ujit duke rritur [H3O⁺]",
+            "jonet Cl⁻ lidhen me H⁺ e ujit duke formuar HCl",
+            "tretësira është e paqëndrueshme dhe shpërbëhet",
+            "NH4Cl vepron me CO2 e atmosferës"
+        ],
+        "correct": 0,
+        "explanation": "NH4⁺ është acid i dobët i konjuguar; hidrolizohet duke dhuruar protone ujit, rritet [H3O⁺]."
+    },
+    {
+        "id": "kimia-ekuilibri-072",
+        "question": "Tretshmëria e Ag2S është 1×10⁻⁴mol/L në 25°C. Vlera e Kpt është:",
+        "answers": [
+            "2×10⁻¹²",
+            "4×10⁻¹²",
+            "3×10⁻⁸",
+            "1×10⁻⁸"
+        ],
+        "correct": 1,
+        "explanation": "Ag2S⇌2Ag⁺+S²⁻; Kpt=(2s)²·s=4s³=4×(10⁻⁴)³=4×10⁻¹²."
+    },
+    {
+        "id": "kimia-ekuilibri-073",
+        "question": "0.1mol H2 me 0.1mol I2 (H2+I2⇌2HI). Kur arrihet ekuilibri, 30% e H2 është harxhuar. Numri i moleve H2, I2, HI (sipas radhës) është:",
+        "answers": [
+            "0.03; 0.03; 0.07",
+            "0.03; 0.03; 0.14",
+            "0.07; 0.07; 0.03",
+            "0.07; 0.07; 0.06"
+        ],
+        "correct": 3,
+        "explanation": "30% e 0.1mol H2 = 0.03mol harxhuar; mbetet H2=I2=0.07mol; HI formuar=2×0.03=0.06mol."
+    },
+    {
+        "id": "kimia-ekuilibri-074",
+        "question": "4HCl(g)+O2(g)⇌2H2O(g)+2Cl2(g). Përqendrimi i të gjitha substancave rritet 2 herë. Ekuilibri:",
+        "answers": [
+            "zhvendoset djathtas, sepse shpejtësia e drejtë rritet më shumë se e zhdrejta",
+            "nuk zhvendoset, shpejtësitë mbeten të barabarta",
+            "zhvendoset majtas, sepse shpejtësia e drejtë rritet më shumë",
+            "zhvendoset djathtas, sepse reaksioni i drejtë është ekzotermik"
+        ],
+        "correct": 0,
+        "explanation": "Shkalla e reaksionit të drejtë (rendi 5) rritet më shumë (2⁵=32) se e zhdrejtit (rendi 4, 2⁴=16), prandaj ekuilibri zhvendoset djathtas."
+    },
+    {
+        "id": "kimia-ekuilibri-075",
+        "question": "2SO2(g)+O2(g)⇌2SO3(g). Në ekuilibër [SO2]=0.2M, [O2]=0.6M, [SO3]=0.4M. Përqendrimi fillestar i O2 është:",
+        "answers": [
+            "0.2 mol/L",
+            "0.4 mol/L",
+            "0.6 mol/L",
+            "0.8 mol/L"
+        ],
+        "correct": 3,
+        "explanation": "SO3 formuar=0.4mol/L ⇒ O2 konsumuar=0.2mol/L (raporti 2SO3:1O2); O2 fillestar=0.6+0.2=0.8mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-076",
+        "question": "Në 1L, ekuilibri 2SO2(g)+O2(g)⇌2SO3(g) ka 0.2mol SO2, 0.1mol O2, 0.2mol SO3. Vëllimi rritet dhe SO2 rritet në 0.3mol. Numri i moleve O2 dhe SO3 pas rritjes së vëllimit është:",
+        "answers": [
+            "0.1 mol O2 dhe 0.2 mol SO3",
+            "0.15 mol O2 dhe 0.1 mol SO3",
+            "0.2 mol O2 dhe 0.1 mol SO3",
+            "0.1 mol O2 dhe 0.15 mol SO3"
+        ],
+        "correct": 1,
+        "explanation": "Rritja e vëllimit zhvendos ekuilibrin drejt anës me më shumë mole gazi (majtas); ΔSO2=+0.1 ⇒ ΔO2=+0.05, ΔSO3=-0.1, duke dhënë O2=0.15mol dhe SO3=0.1mol."
+    },
+    {
+        "id": "kimia-ekuilibri-077",
+        "question": "CO2(g)+H2(g)⇌CO(g)+H2O(g), Kc=0.08 në 400°C dhe 0.41 në 600°C. Kur rritet temperatura:",
+        "answers": [
+            "ekuilibri zhvendoset djathtas, sepse drejti është endotermik",
+            "ekuilibri zhvendoset djathtas, sepse drejti është ekzotermik",
+            "ekuilibri nuk zhvendoset, numri i moleve gazi është i barabartë",
+            "në 600°C reaksioni shkon deri në fund"
+        ],
+        "correct": 0,
+        "explanation": "Rritja e Kc me temperaturën tregon se reaksioni i drejtë favorizohet nga nxehtësia, pra është endotermik."
+    },
+    {
+        "id": "kimia-ekuilibri-078",
+        "question": "2NOCl(g)⇌2NO(g)+Cl2(g), vëllim 1L, formohet 0.1mol Cl2, Kc=5. Përqendrimi në ekuilibër i NOCl është:",
+        "answers": [
+            "8×10⁻⁴ mol/L",
+            "4×10⁻⁴ mol/L",
+            "2.8×10⁻² mol/L",
+            "4.8×10⁻² mol/L"
+        ],
+        "correct": 2,
+        "explanation": "NO=0.2mol, Cl2=0.1mol; Kc=[NO]²[Cl2]/[NOCl]²=5 ⇒ [NOCl]²=(0.04×0.1)/5=8×10⁻⁴ ⇒ [NOCl]≈2.8×10⁻²mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-079",
+        "question": "H2(g)+I2(g)⇌2HI(g), Kc=0.5, [I2]=[HI]=0.5mol/L në ekuilibër. Përqendrimi i ekuilibrit dhe fillestar i H2 janë:",
+        "answers": [
+            "[H2]ek=0.5 dhe [H2]fill=1.5",
+            "[H2]ek=1 dhe [H2]fill=1.5",
+            "[H2]ek=1 dhe [H2]fill=1.25",
+            "[H2]ek=1.5 dhe [H2]fill=1.25"
+        ],
+        "correct": 2,
+        "explanation": "Kc=[HI]²/([H2][I2]) ⇒ [H2]ek=0.25/(0.5×0.5)=1mol/L; H2 konsumuar=0.25mol/L ⇒ fillestar=1+0.25=1.25mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-080",
+        "question": "2NO(g)+O2(g)⇌2NO2(g), Kc=2 L/mol në 400°C, eq [NO]=0.02M, [NO2]=0.04M. Përqendrimi fillestar i O2 është:",
+        "answers": [
+            "0.02 mol/L",
+            "0.04 mol/L",
+            "1.02 mol/L",
+            "2.02 mol/L"
+        ],
+        "correct": 3,
+        "explanation": "Kc=[NO2]²/([NO]²[O2])=2 ⇒ [O2]eq=2mol/L; O2 konsumuar=0.02mol/L ⇒ fillestar=2+0.02=2.02mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-081",
+        "question": "3Fe(ng)+4H2O(g)⇌Fe3O4(ng)+4H2(g), vëllim 1L, 5.6g Fe dhe 3.6g H2O, ekuilibri arrihet me [H2]=0.1mol/L. Konstantja e ekuilibrit është:",
+        "answers": [
+            "1",
+            "2",
+            "10",
+            "20"
+        ],
+        "correct": 0,
+        "explanation": "H2O fillestare=0.2mol; H2 formuar=0.1mol ⇒ H2O konsumuar=0.1mol, mbetet 0.1mol/L; Kc=[H2]⁴/[H2O]⁴=(0.1)⁴/(0.1)⁴=1."
+    },
+    {
+        "id": "kimia-ekuilibri-082",
+        "question": "Përqendrimi i secilit jon në tretësirën e acidit etanoik me gradë shpërbashkimi 0.002 dhe Ka=1.8×10⁻⁵ është:",
+        "answers": [
+            "9×10⁻³",
+            "8×10⁻³",
+            "7×10⁻³",
+            "5×10⁻³"
+        ],
+        "correct": 0,
+        "explanation": "Nga Ka=Cα² gjendet C=Ka/α²≈4.5M; [H⁺]=Cα=4.5×0.002≈9×10⁻³M."
+    },
+    {
+        "id": "kimia-ekuilibri-083",
+        "question": "pH i tretësirës 0.001M HNO3 dhe [OH⁻] janë:",
+        "answers": [
+            "1 dhe [OH⁻]=10⁻³M",
+            "2 dhe [OH⁻]=10⁻¹⁰M",
+            "3 dhe [OH⁻]=10⁻¹¹M",
+            "4 dhe [OH⁻]=10⁻¹²M"
+        ],
+        "correct": 2,
+        "explanation": "HNO3 acid i fortë: [H⁺]=10⁻³ ⇒ pH=3; [OH⁻]=Kw/[H⁺]=10⁻¹⁴/10⁻³=10⁻¹¹M."
+    },
+    {
+        "id": "kimia-ekuilibri-084",
+        "question": "pH i tretësirës 0.1M CH3COOH (Ka=10⁻⁵) është:",
+        "answers": [
+            "0.1",
+            "0.3",
+            "1",
+            "3"
+        ],
+        "correct": 3,
+        "explanation": "[H⁺]=√(Ka·C)=√(10⁻⁵×0.1)=10⁻³ ⇒ pH=3."
+    },
+    {
+        "id": "kimia-ekuilibri-085",
+        "question": "Përzihen 4L tretësirë 1M HCl me 2L tretësirë 1M Ca(OH)2. Vlera e pH-it të përzierjes është:",
+        "answers": [
+            "4",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "mol H⁺=4, mol OH⁻=2×2=4; asnjanësohen plotësisht, formohet kripë neutrale CaCl2, pH=7."
+    },
+    {
+        "id": "kimia-ekuilibri-086",
+        "question": "pH i një tretësire është 3. Përqendrimi i OH⁻ është:",
+        "answers": [
+            "10⁻¹²",
+            "10⁻¹¹",
+            "10⁻¹¹",
+            "10⁻¹²"
+        ],
+        "correct": 1,
+        "explanation": "pOH=14-3=11 ⇒ [OH⁻]=10⁻¹¹M."
+    },
+    {
+        "id": "kimia-ekuilibri-087",
+        "question": "2.3g Na treten në 1L ujë. Vlera e pH e tretësirës së përftuar është:",
+        "answers": [
+            "10",
+            "12",
+            "13",
+            "13.5"
+        ],
+        "correct": 2,
+        "explanation": "mol Na=2.3/23=0.1mol ⇒ formohet 0.1mol NaOH në 1L; [OH⁻]=0.1M ⇒ pOH=1 ⇒ pH=13."
+    },
+    {
+        "id": "kimia-ekuilibri-088",
+        "question": "Tretësira 0.05M e Ba(OH)2 e ka pH:",
+        "answers": [
+            "12",
+            "12.5",
+            "13",
+            "13.5"
+        ],
+        "correct": 2,
+        "explanation": "[OH⁻]=2×0.05=0.1M ⇒ pOH=1 ⇒ pH=13."
+    },
+    {
+        "id": "kimia-ekuilibri-089",
+        "question": "Në 350K, Kpt(MgF2)=4×10⁻⁹. Masa e MgF2 (M=62g/mol) që tretet në 100mL ujë të pastër është:",
+        "answers": [
+            "6.2g",
+            "10⁻³g",
+            "4×10⁻³g",
+            "6.2×10⁻³g"
+        ],
+        "correct": 3,
+        "explanation": "Kpt=4s³ ⇒ s=10⁻³mol/L; në 100mL: mol=10⁻⁴, masa=10⁻⁴×62=6.2×10⁻³g."
+    },
+    {
+        "id": "kimia-ekuilibri-090",
+        "question": "Në 10L tretësirë NaOH (M=40g/mol), ndodhen 4g NaOH. pH i tretësirës është:",
+        "answers": [
+            "8",
+            "10",
+            "12",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "mol NaOH=0.1, [NaOH]=0.01M ⇒ pOH=2 ⇒ pH=12."
+    },
+    {
+        "id": "kimia-ekuilibri-091",
+        "question": "Lëngu gastrik është tretësirë 0.365% e HCl, densitet 1g/ml. Vlera e pH-it të tij është: (MHCl=36.5g/mol)",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 1,
+        "explanation": "Në 1L (1000g): masa HCl=3.65g, mol=0.1mol ⇒ [HCl]=0.1M ⇒ pH=1."
+    },
+    {
+        "id": "kimia-ekuilibri-092",
+        "question": "pH i tretësirës tampone me 0.2mol HA (pKa=4.8) dhe 0.2mol NaA, në 1L, është:",
+        "answers": [
+            "7",
+            "5.8",
+            "4.8",
+            "3.8"
+        ],
+        "correct": 2,
+        "explanation": "Kur mol acid=mol kripë, raporti është 1 ⇒ pH=pKa=4.8 (ekuacioni Henderson-Hasselbalch)."
+    },
+    {
+        "id": "kimia-ekuilibri-093",
+        "question": "Vëllimi i H2 (K.N.) i çliruar nga 5.4g Al (ArAl=27) me HCl është:",
+        "answers": [
+            "5.7L",
+            "5.75L",
+            "6.55L",
+            "6.72L"
+        ],
+        "correct": 3,
+        "explanation": "mol Al=0.2mol; 2Al+6HCl→2AlCl3+3H2 ⇒ mol H2=(3/2)×0.2=0.3mol ⇒ V=0.3×22.4=6.72L."
+    },
+    {
+        "id": "kimia-ekuilibri-094",
+        "question": "Tretësirë KOH 100ml, C%=10%, densitet 1.2g/ml. Masa e KOH (M=56g/mol) dhe përqendrimi molar janë:",
+        "answers": [
+            "12g dhe 2.14M",
+            "11g dhe 2.11M",
+            "10g dhe 2.10M",
+            "9g dhe 2.01M"
+        ],
+        "correct": 0,
+        "explanation": "masa tretësire=120g, masa KOH=12g (10%), mol=12/56=0.214 ⇒ M=0.214/0.1=2.14M."
+    },
+    {
+        "id": "kimia-ekuilibri-095",
+        "question": "[H⁺] në tretësirën 0.01M HCN me gradë shpërbashkimi 0.01 dhe Ka sipas radhës janë:",
+        "answers": [
+            "1×10⁻⁵ dhe 1×10⁻⁶",
+            "1×10⁻⁴ dhe 1×10⁻⁶",
+            "1×10⁻³ dhe 1×10⁻⁵",
+            "1×10⁻² dhe 1×10⁻⁴"
+        ],
+        "correct": 1,
+        "explanation": "[H⁺]=Cα=0.01×0.01=10⁻⁴M; Ka=Cα²=0.01×(0.01)²=10⁻⁶."
+    },
+    {
+        "id": "kimia-ekuilibri-096",
+        "question": "Përzierje K2CO3+MgCO3 (3g) i nënshtrohet shpërbërjes termike, çliron 0.448L gaz. Përqindja në masë e MgCO3 (M=84g/mol) është:",
+        "answers": [
+            "56% MgCO3",
+            "58% MgCO3",
+            "59% MgCO3",
+            "60% MgCO3"
+        ],
+        "correct": 0,
+        "explanation": "Vetëm MgCO3 shpërbëhet termikisht; mol CO2=0.02mol=mol MgCO3, masa=1.68g ⇒ %=1.68/3×100=56%."
+    },
+    {
+        "id": "kimia-ekuilibri-097",
+        "question": "Përqendrimi molar i bazës MOH me Kb=1×10⁻⁵ dhe α=0.01 është:",
+        "answers": [
+            "10⁻¹",
+            "10⁻²",
+            "10⁻³",
+            "10⁻⁴"
+        ],
+        "correct": 0,
+        "explanation": "Kb=Cα² ⇒ C=Kb/α²=10⁻⁵/10⁻⁴=10⁻¹M."
+    },
+    {
+        "id": "kimia-ekuilibri-098",
+        "question": "Kpt për BaSO4 kur në 1L ujë të pastër treten 0.003mol BaSO4 është:",
+        "answers": [
+            "9×10⁻⁶",
+            "8×10⁻⁶",
+            "7×10⁻⁶",
+            "6×10⁻⁶"
+        ],
+        "correct": 0,
+        "explanation": "Kpt=[Ba²⁺][SO4²⁻]=(0.003)²=9×10⁻⁶."
+    },
+    {
+        "id": "kimia-ekuilibri-099",
+        "question": "Masa e H2SO4 (M=98g/mol) që vepron me 0.5L 0.2M KOH është:",
+        "answers": [
+            "4.9g",
+            "5.2g",
+            "5.3g",
+            "5.4g"
+        ],
+        "correct": 0,
+        "explanation": "mol KOH=0.1; H2SO4+2KOH→K2SO4+2H2O ⇒ mol H2SO4=0.05, masa=0.05×98=4.9g."
+    },
+    {
+        "id": "kimia-ekuilibri-100",
+        "question": "Tretësira ujore me 3g CH3COOH në 500ml e ka pH: (Macid=60g/mol, Ka=10⁻⁵)",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "mol=3/60=0.05mol, [CH3COOH]=0.1M; [H⁺]=√(10⁻⁵×0.1)=10⁻³ ⇒ pH=3."
+    },
+    {
+        "id": "kimia-ekuilibri-101",
+        "question": "Ka(HCN)=8×10⁻¹⁰. Grada e shpërbashkimit α për tretësirën 0.5M është:",
+        "answers": [
+            "2×10⁻³",
+            "2×10⁻⁵",
+            "4×10⁻³",
+            "4×10⁻⁵"
+        ],
+        "correct": 3,
+        "explanation": "α=√(Ka/C)=√(8×10⁻¹⁰/0.5)=√(1.6×10⁻⁹)≈4×10⁻⁵."
+    },
+    {
+        "id": "kimia-ekuilibri-102",
+        "question": "Në 2L ujë treten 4.48L NH3(g) (K.N.). Kb(NH3)=10⁻⁵. pH i tretësirës së krijuar është:",
+        "answers": [
+            "9",
+            "11",
+            "13",
+            "14"
+        ],
+        "correct": 1,
+        "explanation": "mol NH3=0.2, [NH3]=0.1M; [OH⁻]=√(Kb×C)=√(10⁻⁵×0.1)=10⁻³ ⇒ pOH=3 ⇒ pH=11."
+    },
+    {
+        "id": "kimia-ekuilibri-103",
+        "question": "Përzihen Ca(OH)2 100ml 0.6M me 300ml 1M (d=1.2g/ml). Përqendrimi në % është: (MCa(OH)2=74g/mol)",
+        "answers": [
+            "5.55%",
+            "5.65%",
+            "6.55%",
+            "6.65%"
+        ],
+        "correct": 0,
+        "explanation": "mol total=0.06+0.3=0.36mol, masa=26.64g; masa tretësire=400ml×1.2=480g; %=26.64/480×100=5.55%."
+    },
+    {
+        "id": "kimia-ekuilibri-104",
+        "question": "pH i tretësirës nga 10mL 0.1M HCl + 10mL 0.4M NaCl është: (log5=0.7)",
+        "answers": [
+            "1",
+            "1.3",
+            "2.3",
+            "3"
+        ],
+        "correct": 1,
+        "explanation": "mol H⁺=0.001 pas hollimit në 20mL ⇒ [H⁺]=0.05M ⇒ pH=2-log5=2-0.7=1.3."
+    },
+    {
+        "id": "kimia-ekuilibri-105",
+        "question": "pH i tretësirës nga tretja e 0.137g Ba (ArBa=137) në 200mL ujë është:",
+        "answers": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "mol Ba=0.001mol → 0.001mol Ba(OH)2 në 0.2L; [OH⁻]=0.01M ⇒ pOH=2 ⇒ pH=12."
+    },
+    {
+        "id": "kimia-ekuilibri-106",
+        "question": "Tretësirë 0.2M HCOOH me α=0.03. Vlera e Ka është:",
+        "answers": [
+            "1.8×10⁻⁴",
+            "1.8×10⁻⁵",
+            "3.6×10⁻⁴",
+            "3.6×10⁻⁵"
+        ],
+        "correct": 0,
+        "explanation": "Ka≈Cα²=0.2×(0.03)²=1.8×10⁻⁴."
+    },
+    {
+        "id": "kimia-ekuilibri-107",
+        "question": "N2O4(g)⇌2NO2(g), Kc=0.4, [NO2]eq=0.2M. Përqendrimi fillestar i N2O4 është:",
+        "answers": [
+            "0.1 mol/L",
+            "0.2 mol/L",
+            "0.3 mol/L",
+            "0.4 mol/L"
+        ],
+        "correct": 1,
+        "explanation": "[N2O4]eq=[NO2]²/Kc=0.04/0.4=0.1M; N2O4 konsumuar=0.1M ⇒ fillestar=0.1+0.1=0.2M."
+    },
+    {
+        "id": "kimia-ekuilibri-108",
+        "question": "CO(g)+H2O(g)⇌CO2(g)+H2(g), [CO]0=[H2O]0=0.1M, [CO2]eq=0.05M. Vlera e Kc është:",
+        "answers": [
+            "0.05",
+            "0.1",
+            "1",
+            "2"
+        ],
+        "correct": 2,
+        "explanation": "Duke konsumuar 0.05M nga secili reaktant, eq: CO=H2O=0.05, CO2=H2=0.05 ⇒ Kc=(0.05×0.05)/(0.05×0.05)=1."
+    },
+    {
+        "id": "kimia-ekuilibri-109",
+        "question": "Në vëllim 3L, 0.36mol NO dhe 0.6mol NO2. Ekuilibri i 2NO+O2⇌2NO2 arrihet kur 40% e njërës substancë ka hyrë në reaksion. Vlera e Kc është:",
+        "answers": [
+            "0.3 L/mol",
+            "0.9 L/mol",
+            "3 L/mol",
+            "9 L/mol"
+        ],
+        "correct": 3,
+        "explanation": "40% e NO2 (0.24mol) shpërbëhet duke dhënë NO dhe O2; llogaritja e përqendrimeve në ekuilibër jep Kc=[NO2]²/([NO]²[O2])=9 L/mol."
+    },
+    {
+        "id": "kimia-ekuilibri-110",
+        "question": "CaSO4 e ngopur ka [CaSO4]=4×10⁻³M. Numri i moleve CaSO4 që treten në 1L 0.02M K2SO4 është:",
+        "answers": [
+            "4×10⁻³ mol",
+            "8×10⁻⁴ mol",
+            "8×10⁻⁶ mol",
+            "16×10⁻⁶ mol"
+        ],
+        "correct": 1,
+        "explanation": "Ksp=(4×10⁻³)²=1.6×10⁻⁵; me jon të përbashkët SO4²⁻=0.02M, tretshmëria e re s=Ksp/0.02=8×10⁻⁴mol."
+    },
+    {
+        "id": "kimia-ekuilibri-111",
+        "question": "Kpt(CaCO3)=1×10⁻¹⁰ në 40°C. Vëllimi i ujit që duhet për tretjen e 1g CaCO3 (M=100g/mol) është:",
+        "answers": [
+            "1 litër",
+            "10 litra",
+            "100 litra",
+            "1000 litra"
+        ],
+        "correct": 3,
+        "explanation": "s=√Kpt=10⁻⁵mol/L; për 0.01mol CaCO3 duhen V=0.01/10⁻⁵=1000L."
+    },
+    {
+        "id": "kimia-ekuilibri-112",
+        "question": "Për të tretur 4.61g PbI2 (M=461g/mol) duhen 10L ujë. Vlera e Kpt për PbI2 është:",
+        "answers": [
+            "4×10⁻⁹",
+            "2×10⁻⁹",
+            "2×10⁻⁶",
+            "4×10⁻⁶"
+        ],
+        "correct": 0,
+        "explanation": "mol PbI2=0.01, s=0.001mol/L ⇒ Kpt=(s)(2s)²=4s³=4×10⁻⁹."
+    },
+    {
+        "id": "kimia-ekuilibri-113",
+        "question": "Kpt(MgF2)=4×10⁻⁹ në 20°C. Tretshmëria e MgF2 në 100mL 0.1M MgCl2 është:",
+        "answers": [
+            "10⁻² mol",
+            "10⁻³ mol",
+            "10⁻⁴ mol",
+            "10⁻⁵ mol"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-114",
+        "question": "Një tretësirë e Mg(OH)2 e ka pH=10. Vlera e Kpt të Mg(OH)2 është:",
+        "answers": [
+            "1×10⁻⁸",
+            "2×10⁻⁸",
+            "5×10⁻¹³",
+            "8×10⁻¹³"
+        ],
+        "correct": 2,
+        "explanation": "[OH⁻]=10⁻⁴ ⇒ [Mg²⁺]=[OH⁻]/2=5×10⁻⁵; Kpt=[Mg²⁺][OH⁻]²=5×10⁻⁵×10⁻⁸=5×10⁻¹³."
+    },
+    {
+        "id": "kimia-ekuilibri-115",
+        "question": "PCl5(g)⇌PCl3(g)+Cl2(g), Kc=10⁻³ në 150°C, eq [PCl5]=10⁻¹mol/L. Përqendrimi fillestar i PCl5 është:",
+        "answers": [
+            "0.1 M",
+            "0.11 M",
+            "0.2 M",
+            "0.22 M"
+        ],
+        "correct": 1,
+        "explanation": "Kc=x²/0.1=10⁻³ ⇒ x=0.01M (PCl3=Cl2); fillestar PCl5=0.1+0.01=0.11M."
+    },
+    {
+        "id": "kimia-ekuilibri-116",
+        "question": "Përqendrimi i OH⁻ në tretësirën 0.1M HOCl (Ka=10⁻³) është:",
+        "answers": [
+            "10⁻² M",
+            "10⁻⁷ M",
+            "10⁻¹⁰ M",
+            "10⁻¹² M"
+        ],
+        "correct": 3,
+        "explanation": "Duke zgjidhur ekuacionin e Ka, [H⁺]≈10⁻²M; [OH⁻]=Kw/[H⁺]≈10⁻¹²M."
+    },
+    {
+        "id": "kimia-ekuilibri-117",
+        "question": "Në tretësirën 0.005M HA me Ka=1.8×10⁻⁵, përqindja e molekulave të shpërbashkuara është:",
+        "answers": [
+            "3%",
+            "6%",
+            "20%",
+            "40%"
+        ],
+        "correct": 1,
+        "explanation": "α=√(Ka/C)=√(1.8×10⁻⁵/0.005)=√(3.6×10⁻³)≈0.06=6%."
+    },
+    {
+        "id": "kimia-ekuilibri-118",
+        "question": "Tretësirë 0.2M HA me 3% shpërbashkuar. Vlera e Ka është përafërsisht:",
+        "answers": [
+            "1.8×10⁻⁴ M",
+            "3.6×10⁻⁵ M",
+            "6×10⁻⁶ M",
+            "4.2×10⁻⁸ M"
+        ],
+        "correct": 0,
+        "explanation": "Ka≈Cα²=0.2×(0.03)²≈1.8×10⁻⁴."
+    },
+    {
+        "id": "kimia-ekuilibri-119",
+        "question": "Tretësira e bazës BOH e ka pH=10, Kb=1×10⁻⁶. Përqendrimi fillestar i bazës është:",
+        "answers": [
+            "1 M",
+            "0.1 M",
+            "0.01 M",
+            "0.001 M"
+        ],
+        "correct": 2,
+        "explanation": "[OH⁻]=10⁻⁴; C=[OH⁻]²/Kb=(10⁻⁴)²/10⁻⁶=0.01M."
+    },
+    {
+        "id": "kimia-ekuilibri-120",
+        "question": "N2O4(g)⇌2NO2(g), Kc=0.3, [NO2]eq=0.3M. Sa përqind e N2O4 është shpërbërë?",
+        "answers": [
+            "30%",
+            "33.3%",
+            "45%",
+            "50.5%"
+        ],
+        "correct": 1,
+        "explanation": "[N2O4]eq=0.3, fillestar=0.45 (0.15 shpërbërë); %=0.15/0.45×100=33.3%."
+    },
+    {
+        "id": "kimia-ekuilibri-121",
+        "question": "Në 1L, 0.3mol N2 dhe 0.5mol H2. N2+3H2⇌2NH3, shpenzohet 60% e H2. Vlera e Kc është:",
+        "answers": [
+            "1 L²/mol²",
+            "1.6 L²/mol²",
+            "12 L²/mol²",
+            "25 L²/mol²"
+        ],
+        "correct": 3,
+        "explanation": "H2 konsumuar=0.3mol, N2 konsumuar=0.1mol; eq: N2=0.2, H2=0.2, NH3=0.2; Kc=(0.2)²/(0.2×(0.2)³)=25."
+    },
+    {
+        "id": "kimia-ekuilibri-122",
+        "question": "Përzihen 400ml 2M Ba(OH)2 me 600ml 3M HNO3. Vlera e pH e tretësirës është: (log2=0.3)",
+        "answers": [
+            "0.7",
+            "1.3",
+            "7",
+            "8.3"
+        ],
+        "correct": 0,
+        "explanation": "mol OH⁻=1.6, mol H⁺=1.8; H⁺ i tepërt=0.2mol në 1L ⇒ [H⁺]=0.2M ⇒ pH=1-log2=0.7."
+    },
+    {
+        "id": "kimia-ekuilibri-123",
+        "question": "5L, 0.5mol HNO3. Nëse ngrohet deri sa vëllimi bëhet 1L, çfarë ndodh me pH-in? (log5=0.7)",
+        "answers": [
+            "Zvogëlohet nga 1 në 0.3",
+            "Zvogëlohet nga 0.3 në 0",
+            "Rritet nga 1 në 1.3",
+            "Nuk ndryshon"
+        ],
+        "correct": 0,
+        "explanation": "[HNO3] rritet nga 0.1M (pH=1) në 0.5M (pH=1-log5=0.3) me tretjen e vëllimit."
+    },
+    {
+        "id": "kimia-ekuilibri-124",
+        "question": "Në 2L ujë treten 2.24L HCl(g) (K.N.). pH i tretësirës është: (log5=0.7)",
+        "answers": [
+            "1",
+            "1.3",
+            "1.7",
+            "2.3"
+        ],
+        "correct": 1,
+        "explanation": "mol HCl=0.1, [HCl]=0.05M ⇒ pH=2-log5=2-0.7=1.3."
+    },
+    {
+        "id": "kimia-ekuilibri-125",
+        "question": "Përzihen 2L 0.1M HNO2 (Ka=10⁻⁴) me 1L 0.1M KOH. pH i përzierjes është:",
+        "answers": [
+            "1",
+            "4",
+            "7",
+            "8"
+        ],
+        "correct": 1,
+        "explanation": "KOH neutralizon pjesë të HNO2, mbetet tampon me mole të barabarta acid-kripë; pH=pKa=4."
+    },
+    {
+        "id": "kimia-ekuilibri-126",
+        "question": "Përzihen 1L 0.1M HCN (Ka=10⁻⁸) me 2L 0.2M KOH. pH i tretësirës së formuar është:",
+        "answers": [
+            "5",
+            "7",
+            "9",
+            "13"
+        ],
+        "correct": 3,
+        "explanation": "KOH në tepricë të madhe neutralizon HCN dhe lë OH⁻ të pareaguar, duke dhënë pH bazik të lartë (13)."
+    },
+    {
+        "id": "kimia-ekuilibri-127",
+        "question": "Tretësira 0.2M HNO2 e ka pH=2. Vlera e Ka të acidit është:",
+        "answers": [
+            "2×10⁻²",
+            "3×10⁻⁴ M",
+            "5×10⁻⁴ M",
+            "6×10⁻² M"
+        ],
+        "correct": 2,
+        "explanation": "[H⁺]=0.01M; Ka=[H⁺]²/(C-[H⁺])=(0.01)²/0.19≈5×10⁻⁴."
+    },
+    {
+        "id": "kimia-ekuilibri-128",
+        "question": "Tretësirë NH3 10% (d=0.99g/mL, Kb=1.8×10⁻⁵, M=17g/mol). Vlera e pH-it është:",
+        "answers": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 3,
+        "explanation": "Përqendrimi molar rezulton ~5.8M; [OH⁻]=√(Kb·C)≈0.01M ⇒ pOH≈2 ⇒ pH≈12."
+    },
+    {
+        "id": "kimia-ekuilibri-129",
+        "question": "1L 0.1M HNO2 + 8g NaOH (M=40g/mol). Vlera e pH e tretësirës së formuar është:",
+        "answers": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "correct": 3,
+        "explanation": "mol NaOH=0.2 tejkalon mol HNO2=0.1; NaOH e tepërt=0.1mol në 1L ⇒ [OH⁻]=0.1M ⇒ pH=13."
+    },
+    {
+        "id": "kimia-ekuilibri-130",
+        "question": "3Fe(ng)+4H2O(g)⇌Fe3O4(ng)+4H2(g) në 950°C, Kc=16. Me 0.6mol H2O dhe tepricë Fe në 1L, sa % e ujit mbetet?",
+        "answers": [
+            "33.3%",
+            "40.7%",
+            "53%",
+            "60.5%"
+        ],
+        "correct": 0,
+        "explanation": "Duke zgjidhur (x/(0.6-x))⁴=16 ⇒ x=0.4mol reaguar; mbetet 0.2mol nga 0.6mol fillestar, pra 33.3%."
+    },
+    {
+        "id": "kimia-ekuilibri-131",
+        "question": "A(g)+2B(g)⇌3C(g)+D(g), vëllim 2L, 1.6mol A dhe 1.6mol B fillimisht. [D]eq=0.2mol/L. Vlera e Kc është:",
+        "answers": [
+            "5.5",
+            "4",
+            "0.5",
+            "0.45"
+        ],
+        "correct": 3,
+        "explanation": "D formuar=0.4mol ⇒ A reaguar=0.4, B reaguar=0.8; llogaritja e përqendrimeve në ekuilibër jep Kc≈0.45."
+    },
+    {
+        "id": "kimia-ekuilibri-132",
+        "question": "H2(g)+Br2(g)⇌2HBr(g), Kc=1, [H2]0=[Br2]0=3mol/L. Sa % e H2 dhe Br2 janë shndërruar në HBr?",
+        "answers": [
+            "20.7%",
+            "25.3%",
+            "33.3%",
+            "40.7%"
+        ],
+        "correct": 2,
+        "explanation": "Nga Kc=1, konvertimi x zgjidh ekuacionin (2x)²=(3-x)² ⇒ x=1mol/L, që korrespondon me 33.3% konvertim."
+    },
+    {
+        "id": "kimia-ekuilibri-133",
+        "question": "2NOCl(g)⇌2NO(g)+Cl2(g), Kc=1×10⁻² mol/L në 600K, eq [NOCl]=0.02mol/L. Përqendrimi fillestar i NOCl është:",
+        "answers": [
+            "0.01 mol/L",
+            "0.02 mol/L",
+            "0.03 mol/L",
+            "0.04 mol/L"
+        ],
+        "correct": 3,
+        "explanation": "Zgjidhja e Kc=4y³/(0.02)²=10⁻² jep y=0.01mol/L (NO=2y, Cl2=y); fillestar NOCl=0.02+2(0.01)=0.04mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-134",
+        "question": "HA (CM=0.2M) shpërbashkohet 0.1%. Vlera e Ka është:",
+        "answers": [
+            "2×10⁻⁷ M",
+            "4×10⁻⁸ M",
+            "4×10⁻⁴ M",
+            "2×10⁻⁴ M"
+        ],
+        "correct": 0,
+        "explanation": "α=0.001; Ka≈Cα²=0.2×(0.001)²=2×10⁻⁷."
+    },
+    {
+        "id": "kimia-ekuilibri-135",
+        "question": "Tretshmëria molare e PbCO3 (Kpt=1×10⁻¹²) është:",
+        "answers": [
+            "1×10⁻⁶",
+            "1×10⁻⁷",
+            "1×10⁻⁸",
+            "1×10⁻⁹"
+        ],
+        "correct": 0,
+        "explanation": "Kpt=s² (tip 1:1) ⇒ s=√(1×10⁻¹²)=1×10⁻⁶mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-136",
+        "question": "Përzihen 0.1L 1M Ca(OH)2 me 400mL 0.5M HCl. Vlera e pH e tretësirës është:",
+        "answers": [
+            "2",
+            "7",
+            "11",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": "mol OH⁻=0.2, mol H⁺=0.2; asnjanësohen plotësisht ⇒ pH=7."
+    },
+    {
+        "id": "kimia-ekuilibri-137",
+        "question": "Përzihen 500mL 0.4M HNO3 me 500mL 0.6M Ca(OH)2. Vlera e pH e tretësirës është: (log2=0.3)",
+        "answers": [
+            "1",
+            "7",
+            "12.7",
+            "13.6"
+        ],
+        "correct": 3,
+        "explanation": "mol H⁺=0.2, mol OH⁻=0.6; OH⁻ i tepërt=0.4mol në 1L ⇒ [OH⁻]=0.4M ⇒ pOH=0.4 ⇒ pH=13.6."
+    },
+    {
+        "id": "kimia-ekuilibri-138",
+        "question": "Sa duhet të jetë përqendrimi i HNO2 (Ka=10⁻⁴) që pH i tij të jetë i barabartë me atë të 0.1M CH3COOH (Ka=10⁻⁵)?",
+        "answers": [
+            "0.01 M",
+            "0.02 M",
+            "0.1 M",
+            "0.3 M"
+        ],
+        "correct": 0,
+        "explanation": "[H⁺] e CH3COOH=10⁻³; nga √(Ka·C)=10⁻³ për HNO2 ⇒ C=10⁻⁶/10⁻⁴=0.01M."
+    },
+    {
+        "id": "kimia-ekuilibri-139",
+        "question": "Kpt(Pb(IO3)2)=4×10⁻¹³. Tretshmëria e tij në 0.1M KIO3 është:",
+        "answers": [
+            "1×10⁻¹¹ M",
+            "4×10⁻¹¹ M",
+            "1×10⁻¹³ M",
+            "4×10⁻¹³ M"
+        ],
+        "correct": 1,
+        "explanation": "Me jon të përbashkët IO3⁻=0.1M: s=Kpt/[IO3⁻]²=4×10⁻¹³/0.01=4×10⁻¹¹M."
+    },
+    {
+        "id": "kimia-ekuilibri-140",
+        "question": "Kpt(CaC2O4)≈10⁻¹⁰. Kur hidhet në 1L 0.01M (NH4)2C2O4, tretshmëria e tij krahasuar me ujin e pastër:",
+        "answers": [
+            "rritet 100 herë",
+            "rritet 1000 herë",
+            "zvogëlohet 100 herë",
+            "zvogëlohet 1000 herë"
+        ],
+        "correct": 3,
+        "explanation": "s(ujë)=√Kpt=10⁻⁵; s(me jon të përbashkët)=Kpt/0.01=10⁻⁸; raporti tregon zvogëlim 1000 herë."
+    },
+    {
+        "id": "kimia-ekuilibri-141",
+        "question": "Kpt(BaSO4)=1×10⁻¹⁰. Tretshmëria e tij (në g/L) në 1×10⁻²M Na2SO4 është:",
+        "answers": [
+            "2.33×10⁻⁷ g/L",
+            "2.33×10⁻⁶ g/L",
+            "2.33×10⁻⁵ g/L",
+            "2.33×10⁻⁴ g/L"
+        ],
+        "correct": 1,
+        "explanation": "s=Kpt/[SO4²⁻]=1×10⁻¹⁰/0.01=1×10⁻⁸mol/L; masa=1×10⁻⁸×233=2.33×10⁻⁶g/L."
+    },
+    {
+        "id": "kimia-ekuilibri-142",
+        "question": "Në 500mL ujë treten 0.0166g Ag2CrO4 (M=332g/mol). Vlera e Kpt në këtë temperaturë është:",
+        "answers": [
+            "1×10⁻⁸",
+            "4×10⁻⁷",
+            "2×10⁻¹⁰",
+            "4×10⁻¹²"
+        ],
+        "correct": 3,
+        "explanation": "mol=5×10⁻⁵ në 0.5L ⇒ s=10⁻⁴mol/L; Kpt=(2s)²(s)=4s³=4×10⁻¹²."
+    },
+    {
+        "id": "kimia-ekuilibri-143",
+        "question": "Sa gram CaF2 (M=78g/mol, Kpt=1×10⁻¹¹) mund të treten në 100mL 0.1M KF?",
+        "answers": [
+            "7.8×10⁻⁹",
+            "7.8×10⁻¹⁰",
+            "4.5×10⁻⁹",
+            "3.9×10⁻⁹"
+        ],
+        "correct": 0,
+        "explanation": "Me jon të përbashkët F⁻=0.1M: s=Kpt/[F⁻]²=1×10⁻⁹mol/L; në 100mL: masa=1×10⁻¹⁰×78=7.8×10⁻⁹g."
+    },
+    {
+        "id": "kimia-ekuilibri-144",
+        "question": "Shkalla e shpërbashkimit të HX në tretësirën 0.1M është 1%. Vlera e Ka është:",
+        "answers": [
+            "10⁻³",
+            "10⁻⁴",
+            "10⁻⁵",
+            "10⁻⁶"
+        ],
+        "correct": 2,
+        "explanation": "Ka≈Cα²=0.1×(0.01)²=10⁻⁵."
+    },
+    {
+        "id": "kimia-ekuilibri-145",
+        "question": "H2(g)+I2(g)⇌2HI(g), Kc=0.25, [H2]0=[I2]0=0.1mol/L. Përqendrimi i ekuilibrit të HI(g) është:",
+        "answers": [
+            "0.01 mol/L",
+            "0.02 mol/L",
+            "0.03 mol/L",
+            "0.04 mol/L"
+        ],
+        "correct": 3,
+        "explanation": "√Kc=0.5=2x/(0.1-x) ⇒ x=0.02M; [HI]eq=2x=0.04mol/L."
+    },
+    {
+        "id": "kimia-ekuilibri-146",
+        "question": "Në 713K, Kc(shpërbërja e HI)=1/64, vëllim 5L, fillimisht 0.5mol HI. Numri i moleve H2 në ekuilibër është:",
+        "answers": [
+            "0.002 mol",
+            "0.001 mol",
+            "0.01 mol",
+            "0.05 mol"
+        ],
+        "correct": 3,
+        "explanation": "Duke zgjidhur x/(0.1-2x)=1/8 gjendet x=0.01mol/L ⇒ moles H2 në 5L = 0.05mol."
+    },
+    {
+        "id": "kimia-ekuilibri-147",
+        "question": "2NH3(g)⇌N2(g)+3H2(g), fillimisht 2mol NH3 në 1L, 40% zbërthehet. Vlera e Kc është:",
+        "answers": [
+            "2.08 mol²/L²",
+            "3.08 mol²/L²",
+            "0.48 mol²/L²",
+            "0.58 mol²/L²"
+        ],
+        "correct": 2,
+        "explanation": "NH3 zbërthyer=0.8mol ⇒ N2=0.4, H2=1.2, NH3 mbetur=1.2; Kc=(0.4×1.2³)/(1.2)²=0.48."
+    },
+    {
+        "id": "kimia-ekuilibri-148",
+        "question": "N2(g)+O2(g)⇌2NO(g), Kc=4, eq [N2]=4, [O2]=1, [NO]=4mol/L. Kur shtohen 3mol O2, Përqendrimi i NO në ekuilibrin e ri është:",
+        "answers": [
+            "2 mol/L",
+            "4 mol/L",
+            "6 mol/L",
+            "8 mol/L"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-149",
+        "question": "2NO(g)+O2(g)⇌2NO2(g), fillimisht [NO]=0.4, [O2]=0.3, eq [NO2]=0.2mol/L. Vlera e Kc është:",
+        "answers": [
+            "0.1 L/mol",
+            "0.5 L/mol",
+            "5 L/mol",
+            "10 L/mol"
+        ],
+        "correct": 2,
+        "explanation": "NO konsumuar=0.2, O2 konsumuar=0.1; eq: NO=0.2, O2=0.2, NO2=0.2; Kc=(0.2)²/((0.2)²×0.2)=5."
+    },
+    {
+        "id": "kimia-ekuilibri-150",
+        "question": "pH i tretësirës nga 1L 0.1M NaOH + 1L 0.2M HCl është (log5=0.7):",
+        "answers": [
+            "1",
+            "1.2",
+            "1.3",
+            "1.7"
+        ],
+        "correct": 2,
+        "explanation": "HCl e tepërt=0.1mol në 2L ⇒ [H⁺]=0.05M ⇒ pH=2-log5=1.3."
+    },
+    {
+        "id": "kimia-ekuilibri-151",
+        "question": "Në 2L ujë treten 4.48L NH3 (K.N.), Kb=10⁻⁵. Vlera e pH e tretësirës është:",
+        "answers": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": "[NH3]=0.1M; [OH⁻]=√(Kb·C)=10⁻³ ⇒ pOH=3 ⇒ pH=11."
+    },
+    {
+        "id": "kimia-ekuilibri-152",
+        "question": "Tretësirë 0.02M HA (acid i fortë), 500ml, i shtohet 500ml ujë. Vlera e pH pas shtimit të ujit është:",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "Hollim 2x: C=0.01M ⇒ [H⁺]=0.01M ⇒ pH=2."
+    },
+    {
+        "id": "kimia-ekuilibri-153",
+        "question": "Përzihen vëllime të barabarta NaI 0.2M dhe Pb(NO3)2 0.1M (Kpt PbI2=4×10⁻⁹). Përqendrimi molar i Pb²⁺ pas precipitimit dhe vendosjes së ekuilibrit është:",
+        "answers": [
+            "1×10⁻³",
+            "2×10⁻³",
+            "8×10⁻⁵",
+            "8×10⁻⁴"
+        ],
+        "correct": 0,
+        "explanation": "Raporti stekiometrik I⁻:Pb²⁺ pas hollimit është 2:1 (pikërisht), duke lënë [I⁻]=2[Pb²⁺]; nga Kpt=4[Pb²⁺]³=4×10⁻⁹ ⇒ [Pb²⁺]=10⁻³M."
+    },
+    {
+        "id": "kimia-ekuilibri-154",
+        "question": "NaOH 40mL asnjanësohet plotësisht nga 25mL 0.4M H2SO4. Përqendrimi në g/L i NaOH (M=40g/mol) është:",
+        "answers": [
+            "0.5 g/L",
+            "5 g/L",
+            "10 g/L",
+            "20 g/L"
+        ],
+        "correct": 3,
+        "explanation": "mol H2SO4=0.01 ⇒ mol H⁺=0.02=mol NaOH; C=0.02/0.04=0.5M ⇒ 0.5×40=20g/L."
+    },
+    {
+        "id": "kimia-ekuilibri-155",
+        "question": "Shtohen 500mL 0.05M H2SO4 në 500mL 0.08M NaOH. Vlera e pH e përzierjes në 25°C është:",
+        "answers": [
+            "2",
+            "3.7",
+            "7",
+            "10.3"
+        ],
+        "correct": 0,
+        "explanation": "mol H⁺=0.05, mol OH⁻=0.04; H⁺ i tepërt=0.01mol në 1L ⇒ [H⁺]=0.01M ⇒ pH=2."
+    },
+    {
+        "id": "kimia-ekuilibri-156",
+        "question": "Përzierje e ngurtë Na dhe Na2O2 hidhet në 1L ujë, çlirohen 1.12L H2 dhe 2.24L O2 (K.N.). Vlera e pH e tretësirës së përftuar është: (log5=0.7)",
+        "answers": [
+            "11.3",
+            "12.7",
+            "13.3",
+            "13.7"
+        ],
+        "correct": 3,
+        "explanation": "mol NaOH nga Na (0.1mol) dhe nga Na2O2 (0.4mol) japin total 0.5mol NaOH në 1L; [OH⁻]=0.5M ⇒ pOH=0.3 ⇒ pH=13.7."
+    },
+    {
+        "id": "kimia-ekuilibri-157",
+        "question": "Përzihen 0.5L 0.1M KOH me 0.5L 0.2M HCl. pH i tretësirës së përftuar është: (log5=0.7)",
+        "answers": [
+            "0.7",
+            "1",
+            "1.3",
+            "1.5"
+        ],
+        "correct": 2,
+        "explanation": "HCl e tepërt=0.05mol në 1L ⇒ [H⁺]=0.05M ⇒ pH=2-log5=1.3."
+    },
+    {
+        "id": "kimia-ekuilibri-158",
+        "question": "Në 1L ndodhen 0.01mol NH4OH (Kb=10⁻⁵) dhe 0.1mol NH4Cl. Vlera e pH e tretësirës është:",
+        "answers": [
+            "7",
+            "8",
+            "9",
+            "9.5"
+        ],
+        "correct": 1,
+        "explanation": "Tampon bazik: pOH=pKb+log([NH4⁺]/[NH3])=5+log10=6 ⇒ pH=14-6=8."
+    },
+    {
+        "id": "kimia-ekuilibri-159",
+        "question": "Masa e KOH (M=56g/mol) e tretur në 500ml tretësirë me pH=10 është:",
+        "answers": [
+            "0.0028g",
+            "0.0038g",
+            "0.0048g",
+            "0.0058g"
+        ],
+        "correct": 0,
+        "explanation": "pOH=4 ⇒ [OH⁻]=10⁻⁴M; mol=10⁻⁴×0.5=5×10⁻⁵ ⇒ masa=5×10⁻⁵×56=0.0028g."
+    },
+    {
+        "id": "kimia-ekuilibri-160",
+        "question": "Vlera e pH e tretësirës së HCN 0.01M me Ka=4×10⁻¹⁰ është: (log2=0.3)",
+        "answers": [
+            "5.7",
+            "5.6",
+            "5",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "[H⁺]=√(Ka·C)=√(4×10⁻¹²)=2×10⁻⁶ ⇒ pH=6-log2=6-0.3=5.7."
+    },
+    {
+        "id": "kimia-ekuilibri-161",
+        "question": "Kpt bazës M(OH)2 është 4×10⁻¹². Vlera e pH e tretësirës është: (log2=0.3)",
+        "answers": [
+            "10.3",
+            "10.4",
+            "11",
+            "11.5"
+        ],
+        "correct": 0,
+        "explanation": "4s³=4×10⁻¹² ⇒ s=10⁻⁴; [OH⁻]=2×10⁻⁴ ⇒ pOH=4-log2=3.7 ⇒ pH=10.3."
+    },
+    {
+        "id": "kimia-ekuilibri-162",
+        "question": "Në 5L ujë treten 1.12L HCl(g) (K.N.). Vlera e pH dhe pOH janë:",
+        "answers": [
+            "1 dhe 13",
+            "2 dhe 12",
+            "3 dhe 11",
+            "4 dhe 10"
+        ],
+        "correct": 1,
+        "explanation": "mol HCl=0.05, [HCl]=0.01M ⇒ pH=2, pOH=12."
+    },
+    {
+        "id": "kimia-ekuilibri-163",
+        "question": "Në 100ml 0.04M Ca(NO3)2 shtohet 300ml 0.01M (NH4)2SO4 (Kpt CaSO4=5×10⁻⁵). Përqendrimi i SO4²⁻ pas formimit të precipitatit është:",
+        "answers": [
+            "2×10⁻²",
+            "3×10⁻³",
+            "4×10⁻⁴",
+            "5×10⁻⁵"
+        ],
+        "correct": 0,
+        "explanation": "Ca²⁺ tepricë (0.001mol/0.4L≈0.0025M) mbetet pas precipitimit të plotë; nga Kpt, [SO4²⁻]=Kpt/[Ca²⁺]≈2×10⁻²M."
+    },
+    {
+        "id": "kimia-ekuilibri-164",
+        "question": "H2Te ka Ka1=4×10⁻³ dhe Ka2=1×10⁻⁵. Tretësirë 0.1M ka pH dhe [Te²⁻] përkatësisht: (log2=0.3)",
+        "answers": [
+            "pH=2 dhe [Te²⁻]=10⁻²",
+            "pH=1.7 dhe [Te²⁻]=10⁻⁵",
+            "pH=2 dhe [Te²⁻]=10⁻⁵",
+            "pH=1.3 dhe [Te²⁻]=10⁻²"
+        ],
+        "correct": 1,
+        "explanation": "[H⁺] llogaritet nga Ka1 (≈0.018M, pH≈1.7); [Te²⁻]≈Ka2=10⁻⁵ (aproksimim tipik për acidet diprotike)."
+    },
+    {
+        "id": "kimia-ekuilibri-165",
+        "question": "Na vepron me 200ml ujë, tretësira ka 0.2M dhe asnjanësohet me HNO3. Kripa i nënshtrohet shpërbërjes termike, jep kripë të re dhe çliron gaz. Masa e kripës së re dhe vëllimi i gazit janë:",
+        "answers": [
+            "2.76g dhe 0.448 L",
+            "2.78g dhe 0.450 L",
+            "2.80g dhe 0.452 L",
+            "2.86g dhe 0.455 L"
+        ],
+        "correct": 0,
+        "explanation": "mol NaOH=0.04 → NaNO3=0.04mol; shpërbërja 2NaNO3→2NaNO2+O2 jep 0.04mol NaNO2 (2.76g) dhe 0.02mol O2 (0.448L)."
+    },
+    {
+        "id": "kimia-ekuilibri-166",
+        "question": "Përzihen AgNO3 10ml 0.01M me KCl 10ml 0.001M (Kpt AgCl=1.7×10⁻¹⁰). Produkti jonik i tretësirës është:",
+        "answers": [
+            "2.5×10⁻⁶",
+            "3×10⁻⁶",
+            "3.5×10⁻⁶",
+            "4×10⁻⁶"
+        ],
+        "correct": 0,
+        "explanation": "Pas përzierjes në 20ml: [Ag⁺]=0.005M, [Cl⁻]=5×10⁻⁴M; PJ=[Ag⁺][Cl⁻]=2.5×10⁻⁶."
+    },
+    {
+        "id": "kimia-ekuilibri-167",
+        "question": "Përzihen vëllime të barabarta BaCl2 (5×10⁻⁶M) dhe K2SO4 (5×10⁻⁶M). Kpt(BaSO4)=1×10⁻¹⁰. Produkti jonik dhe karakteri i tretësirës janë:",
+        "answers": [
+            "6.25×10⁻¹²; e pangopur",
+            "6.25×10⁻¹²; e ngopur",
+            "7.25×10⁻¹²; e tejngopur",
+            "7.25×10⁻¹²; e pangopur"
+        ],
+        "correct": 0,
+        "explanation": "Pas hollimit: [Ba²⁺]=[SO4²⁻]=2.5×10⁻⁶M; PJ=6.25×10⁻¹² < Kpt=1×10⁻¹⁰, pra tretësirë e pangopur."
+    },
+    {
+        "id": "kimia-ekuilibri-168",
+        "question": "Përziejmë 50g 16% NaOH (M=40g/mol) me 50g 12% H2SO4 (M=98g/mol). Masa e Na2SO4 (M=142g/mol) e përftuar është:",
+        "answers": [
+            "8.52g",
+            "9.52g",
+            "10.52g",
+            "11.52g"
+        ],
+        "correct": 0,
+        "explanation": "mol H2SO4 (kufizues)=6/98≈0.061mol; mol Na2SO4=0.061mol; masa≈8.52g."
+    },
+    {
+        "id": "kimia-ekuilibri-169",
+        "question": "Në 500g ujë tresim 4g NaOH (M=40g/mol), vëllimi mbetet i pandryshuar (0.5L). Përqendrimi në % dhe përqendrimi molar janë:",
+        "answers": [
+            "0.78% dhe 0.2M",
+            "0.79% dhe 0.2M",
+            "0.80% dhe 0.3M",
+            "0.81% dhe 0.3M"
+        ],
+        "correct": 1,
+        "explanation": "mol NaOH=0.1 ⇒ M=0.1/0.5=0.2M; %=4/(500+4)×100≈0.79%."
+    },
+    {
+        "id": "kimia-ekuilibri-170",
+        "question": "Kpt(PbF2)=4×10⁻⁹ në 300K. Tretshmëria molare e PbF2 në 1L 0.02M KF krahasuar me tretshmërinë në ujë të pastër:",
+        "answers": [
+            "rritet 10000 herë",
+            "zvogëlohet 1000 herë",
+            "zvogëlohet 100 herë",
+            "rritet 2 herë"
+        ],
+        "correct": 2,
+        "explanation": "s(ujë)=∛(Kpt/4)≈10⁻³; s(me KF)=Kpt/[F⁻]²=1×10⁻⁵; raporti tregon zvogëlim 100 herë."
+    },
+    {
+        "id": "kimia-ekuilibri-171",
+        "question": "Enë A: 60ml 0.1M CH3COOH (Ka=10⁻⁵). Enë B: 40ml me 0.12g NaOH. pH i tretësirës nga përzierja e tyre është:",
+        "answers": [
+            "5",
+            "7",
+            "10",
+            "10⁻⁵"
+        ],
+        "correct": 0,
+        "explanation": "mol CH3COOH=0.006, mol NaOH=0.003; formohet tampon me mole të barabarta acid/kripë (0.003 secili) ⇒ pH=pKa=5."
+    },
+    {
+        "id": "kimia-ekuilibri-172",
+        "question": "Hidroksidi M(OH)2 ka Kpt=4×10⁻¹². Vlera e pH e tretësirës ujore të tij është: (log2=0.3)",
+        "answers": [
+            "9.7",
+            "10.3",
+            "11.3",
+            "2"
+        ],
+        "correct": 1,
+        "explanation": "4s³=4×10⁻¹² ⇒ s=10⁻⁴; [OH⁻]=2×10⁻⁴ ⇒ pOH=3.7 ⇒ pH=10.3."
+    },
+    {
+        "id": "kimia-ekuilibri-173",
+        "question": "Në 1L ujë treten 2.24L HCl(g) (K.N.). Shtohet 2L 0.1M NH4OH (Kb=10⁻⁵). Vlera e pH e tretësirës nga përzierja është:",
+        "answers": [
+            "11",
+            "9",
+            "5",
+            "1"
+        ],
+        "correct": 1,
+        "explanation": "mol HCl=0.1, mol NH4OH=0.2; formohet tampon bazik me mole të barabarta (0.1 secili) ⇒ pOH=pKb=5 ⇒ pH=9."
+    },
+    {
+        "id": "kimia-ekuilibri-174",
+        "question": "Në 100mL 0.1M NH3 (Kb≈10⁻⁵) treten 0.2mol NH4Cl(ng) (vëllimi nuk ndryshon). Tretësira e formuar e ka pH: (log5=0.7)",
+        "answers": [
+            "6.7",
+            "7.7",
+            "9.7",
+            "10.3"
+        ],
+        "correct": 1,
+        "explanation": "Tampon: pOH=pKb+log([NH4⁺]/[NH3])=5+log(0.2/0.01)=5+1.3=6.3 ⇒ pH=14-6.3=7.7."
+    },
+    {
+        "id": "kimia-ekuilibri-175",
+        "question": "10mL 0.02M AgNO3 përzihet me 10mL 0.004M KCl (Kpt AgCl=1×10⁻¹⁰). Në tretësirën e formuar:",
+        "answers": [
+            "AgNO3 është substanca kufizuese",
+            "PJ<Kpt dhe nuk ndodh reaksion",
+            "PJ=Kpt dhe formohet tretësirë e ngopur",
+            "PJ>Kpt dhe formohet precipitat"
+        ],
+        "correct": 3,
+        "explanation": "Pas përzierjes, PJ=[Ag⁺][Cl⁻] llogaritet shumë më i madh se Kpt, prandaj formohet precipitat AgCl."
+    },
+    {
+        "id": "kimia-ekuilibri-176",
+        "question": "Për H2S 0.1M, K1=10⁻⁷, K2=10⁻¹⁴. Përqendrimi i S²⁻ në tretësirë është:",
+        "answers": [
+            "10⁻⁴ mol-jon/L",
+            "10⁻⁹ mol-jon/L",
+            "10⁻¹⁴ mol-jon/L",
+            "10⁻¹⁸ mol-jon/L"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-ekuilibri-177",
+        "question": "Në 1L 0.2M HCl treten 0.4mol CH3COONa (Ka(CH3COOH)≈10⁻⁵, vëllimi i pandryshuar). Vlera e pH e tretësirës është:",
+        "answers": [
+            "1.7",
+            "4.7",
+            "5",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "HCl reagon me CH3COONa duke formuar 0.2mol CH3COOH dhe duke lënë 0.2mol CH3COONa; mole të barabarta ⇒ pH=pKa=5."
+    },
+    {
+        "id": "kimia-ekuilibri-178",
+        "question": "Vëllimi i ujit që duhet shtuar në 100mL 0.5M CH3COOH (Ka≈10⁻⁵) për të përftuar tretësirë me pH=3 është:",
+        "answers": [
+            "200 mL",
+            "300 mL",
+            "400 mL",
+            "500 mL"
+        ],
+        "correct": 2,
+        "explanation": "Nga [H⁺]=√(Ka·C)=10⁻³ gjendet C=0.1M; volumi final=0.5L, pra shtohen 400mL ujë."
+    },
+    {
+        "id": "kimia-ekuilibri-179",
+        "question": "pH e tretësirës 0.01M BOH (bazë e dobët) është 10. Vlera e pH e tretësirës 10⁻⁴M të kësaj baze është:",
+        "answers": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correct": 1,
+        "explanation": "Kb=[OH⁻]²/C=10⁻⁶; për C=10⁻⁴M, [OH⁻]=√(10⁻⁶×10⁻⁴)=10⁻⁵ ⇒ pOH=5 ⇒ pH=9."
+    },
+    {
+        "id": "kimia-ekuilibri-180",
+        "question": "Në 100mL 0.1M CH3COOH (Ka≈10⁻⁵), shtohet CH3COONa (M=82g/mol) deri sa pH bëhet 4. Masa e etanoatit të shtuar është:",
+        "answers": [
+            "0.082g",
+            "0.82g",
+            "8.2g",
+            "82g"
+        ],
+        "correct": 0,
+        "explanation": "pH=pKa+log([kripa]/[acidi]) ⇒ 4=5+log(x/0.01) ⇒ x=0.001mol ⇒ masa=0.001×82=0.082g."
+    }
 ]

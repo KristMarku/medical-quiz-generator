@@ -226,8 +226,8 @@
       "tolueni",
       "ksileni"
     ],
-    "correct": 1,
-    "explanation": "Gjashtëkëndëshi me tre lidhje dyfishe alternative pa asnjë zëvendësues është simboli standard i benzenit.",
+    "correct": 2,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-019.png",
     "imageAlt": "Unaza aromatike e benzenit"
   },
@@ -408,8 +408,8 @@
       "Vetëm I dhe II",
       "Vetëm II dhe III"
     ],
-    "correct": 1,
-    "explanation": "Të dyja janë ketone C5H10O (pentanon-2 dhe pentanon-3) — izomere mes tyre (II e vërtetë), por jo izomere të metil-3-pentanal (C6H12O, formulë tjetër — I e gabuar). Ketonet e thjeshtë nuk polimerizohen me kondensim (III e gabuar)."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-035",
@@ -420,8 +420,8 @@
       "Vetëm I dhe II",
       "I, II dhe III"
     ],
-    "correct": 2,
-    "explanation": "Pjesa C=C i nënshtrohet adicionit elektrofilik (I), pjesa C=O i nënshtrohet adicionit nukleofilik (II). Molekula e vetme nuk polimerizohet pa kushte të veçanta (III jo e sigurt/gabuar).",
+    "correct": 3,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-035.png",
     "imageAlt": "Struktura e buten-2-al: CH3-CH=CH-CHO"
   },
@@ -434,8 +434,8 @@
       "Vetëm I dhe III",
       "I, II dhe III"
     ],
-    "correct": 2,
-    "explanation": "Naftaleni (I) është plotësisht aromatik. Indeni (III) përmban unazë benzenike aromatike të fuzionuar. Ciklobutadieni (II) ka 4 elektrone π dhe NUK respekton rregullin e Hückel-it — nuk është aromatik.",
+    "correct": 0,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-036.png",
     "imageAlt": "Tre struktura: naftalen, ciklobutadien, inden"
   },
@@ -606,8 +606,8 @@
       "sipas IUPAC emërtohet: metil-5-hepten-3",
       "sipas IUPAC emërtohet: metil-3-hepten-4"
     ],
-    "correct": 0,
-    "explanation": "Sipas rregullit të lokanteve më të ulëta për zëvendësuesin etil në raport me lidhjen dyfishe, emërtimi i saktë numëron nga skaji që jep lokant më të vogël: etil-2-hekzen-3.",
+    "correct": 2,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-050.png",
     "imageAlt": "Formula skematike e alkenit të zëvendësuar me etil"
   },
@@ -620,8 +620,8 @@
       "C2H5CH=CHCH3",
       "CH3CH=C(CH3)2"
     ],
-    "correct": 2,
-    "explanation": "Te C2H5CH=CHCH3 (hekzen me zinxhir të drejtë të shkurtuar): karboni CH2 i etilit është sekondar, karbonet e lidhjes dyfishe (CH=CH) janë secili të lidhur me nga 2 karbone (jo tretësorë këtu) — struktura plotëson kushtin me nga një karbon dytësor dhe tretësor në kontekstin e alkeneve të dhëna."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-052",
@@ -794,8 +794,8 @@
       "Ketonet kanë grup funksionor një grup karbonil dytësor.",
       "Ketonet mund të hyjnë në reaksione me mekanizëm adicioni nukleofilik."
     ],
-    "correct": 0,
-    "explanation": "Ketonet reduktohen lehtë (në alkool), por REZISTOJNË ndaj oksidimit të zakonshëm (nuk kanë H në karbonin karbonilik për t'u hequr) — pohimi që 'oksidohen' është i pasaktë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-066",
@@ -892,8 +892,8 @@
       "Vetëm II dhe III",
       "I, II dhe III"
     ],
-    "correct": 0,
-    "explanation": "X dhe Y kanë formula të ndryshme molekulare, prandaj nuk janë izomere mes tyre (I e gabuar). Vetëm një prej tyre është keton metilik që jep provën e jodoformës (II jo për të dyja). Të dyja megjithatë janë izomere me metil-2-butanal (III).",
+    "correct": 1,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-073.png",
     "imageAlt": "Struktura e përbërjeve X dhe Y"
   },
@@ -930,8 +930,8 @@
       "Etil-3-metil-3-hekzani",
       "Trimetil-2,2,5-hekzani"
     ],
-    "correct": 0,
-    "explanation": "Kur ka degëzim izopropil, duhet zgjedhur vargu më i gjatë i mundshëm si strukturë kryesore; emërtimi me 'izopropil' si zëvendësues në një pentan nuk përfaqëson zgjedhjen e preferuar IUPAC të vargut kryesor."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-077",
@@ -1050,8 +1050,8 @@
       "I dhe II",
       "II dhe III"
     ],
-    "correct": 0,
-    "explanation": "Hidrogjenimi i alkenit (I) është reaksion reduktimi (redoks). Hidratimi i alkenit (II) dhe zëvendësimi nukleofilik (III) nuk ndryshojnë gjendjen e oksidimit të karbonit."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-087",
@@ -1160,8 +1160,8 @@
       "HCOOH",
       "(COOH)2"
     ],
-    "correct": 2,
-    "explanation": "Acidi metanoik ka atom H të lidhur direkt me karbonin karbonilik, që mund t'i nënshtrohet zëvendësimit radikalar nën UV; acidi oksalik nuk ka atome H në karbone për t'u zëvendësuar."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-096",
@@ -1198,8 +1198,8 @@
       "3",
       "4"
     ],
-    "correct": 3,
-    "explanation": "Për propanin dibromo-zëvendësuar: 1,1-; 1,2-; 1,3-; 2,2-dibromopropan — gjithsej katër izomerë pozicionalë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-099",
@@ -1234,8 +1234,8 @@
       "(CH3)2C=CHCH3",
       "CH2=CH(CH2)2CH3"
     ],
-    "correct": 0,
-    "explanation": "M=70 g/mol përputhet me formulën C5H10. Vetëm penten-2 (CH3CH=CHCH2CH3), me zëvendësues të ndryshëm në të dy karbonet e lidhjes dyfishe, ka izomeri cis-trans."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-102",
@@ -1378,8 +1378,8 @@
       "6",
       "4"
     ],
-    "correct": 2,
-    "explanation": "Përbërja përshkruar (p.sh. (CH3)3C-CO-CH3, C6H12O) përcakton formulën molekulare C6H12O. Ketonet me këtë formulë (duke ndarë 5 karbone rreth karbonilit): hekzanon-2, hekzanon-3, metil-4-pentanon-2, metil-3-pentanon-2, dimetil-3,3-butanon-2 — gjithsej 6."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-114",
@@ -1438,8 +1438,8 @@
       "Propanoat natriumi",
       "Butanoat natriumi"
     ],
-    "correct": 0,
-    "explanation": "Zgjidhja e ekuacionit %H=25% për CnH2n+2 jep n=1 (metan, %H=4/16=25%). Alkani metan formohet vetëm nga dekarboksilimi i metanoatit të natriumit (HCOONa)."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-119",
@@ -1582,8 +1582,8 @@
       "5",
       "4"
     ],
-    "correct": 1,
-    "explanation": "M=70, %C=85.71% → C5H10. Izomerët totalë: penten-1, penten-2(cis), penten-2(trans), metil-2-buten-1, metil-3-buten-1, metil-2-buten-2 — gjithsej 6."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-131",
@@ -1606,8 +1606,8 @@
       "7",
       "8"
     ],
-    "correct": 2,
-    "explanation": "Duke numëruar penten-oik acidet me COOH në C1: penten-2-oik, penten-3-oik, penten-4-oik, metil-2-buten-2-oik, metil-2-buten-3-oik, metil-3-buten-2-oik, metil-3-buten-3-oik — gjithsej 7."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-133",
@@ -1666,8 +1666,8 @@
       "4",
       "6"
     ],
-    "correct": 0,
-    "explanation": "n(H2)=0.1mol=n(diol) (1 diol→1 H2). M(diol)=7.6/0.1=76 → C3H8O2 (propandiol). Izomerët pozicionalë: propandiol-1,2 dhe propandiol-1,3 — gjithsej 2."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-138",
@@ -1678,8 +1678,8 @@
       "X (alkool parësor) oksidohet me KMnO4 acid në acid butanoik.",
       "Nëse X dehidratohet me H2SO4 formohet Y."
     ],
-    "correct": 0,
-    "explanation": "Është e kundërta: X (nga NaOH ujor, zëvendësim) është butanol-1, ndërsa Y (nga NaOH alkoolik, eliminim) është buten-1 — pohimi ka ndërruar rolet e X dhe Y."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-139",
@@ -1690,8 +1690,8 @@
       "5",
       "4"
     ],
-    "correct": 2,
-    "explanation": "n(H2)=0.1mol=n(keton). M=11.4/0.1=114 → C7H14O, me 5 karbone në vargun kryesor (2 degëzime metil). Kombinimet e mundshme: 3 nga pentanon-2 (3,3-; 4,4-; 3,4-dimetil) + 2 nga pentanon-3 (2,2-; 2,4-dimetil, simetrik) = 5."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-140",
@@ -1934,8 +1934,8 @@
       "Emërtohet sipas IUPAC: brom-2-metil-3-pentan",
       "Përftohet vetëm nëpërmjet një reaksioni homolitik."
     ],
-    "correct": 0,
-    "explanation": "Bromi ndodhet në një karbon terciar (i lidhur me tre karbone), prandaj zëvendësimi me OH- jep alkool TERCIAR, jo sekondar.",
+    "correct": 3,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-159.png",
     "imageAlt": "Struktura e bromalkanit të degëzuar"
   },
@@ -2288,8 +2288,8 @@
       "Vetëm III",
       "I dhe III"
     ],
-    "correct": 0,
-    "explanation": "Përbërja NUK është ester (ka grup -COOH dhe -OH mbi unazë, jo lidhje esterike) — pohimi I ('Është një ester') është i pasaktë; II dhe III janë të sakta.",
+    "correct": 3,
+    "explanation": "",
     "image": "/question-images/kimi/organike/organike-188.png",
     "imageAlt": "Struktura e acidit hidroksibenzoik"
   },
@@ -2688,8 +2688,8 @@
       "Metil-4-hekzen-1",
       "Metil-3-hekzen-1"
     ],
-    "correct": 1,
-    "explanation": "Copëtimi oksidativ i lidhjes dyfishe në metil-2-hekzen-2 mund të prodhojë fragment 3-karbonesh (keton, nga ana e degëzuar) dhe fragment 4-karbonesh (acid), duke reflektuar strukturën e kërkuar pas izomerizimit HCl/KOH."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-222",
@@ -2844,8 +2844,8 @@
       "4",
       "5"
     ],
-    "correct": 0,
-    "explanation": "n(H2)=0.5mol=n(diol). M(diol)=76 → C3H8O2. Izomerët pozicionalë: propandiol-1,2 dhe propandiol-1,3 — gjithsej 2."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "kimi-organike-235",

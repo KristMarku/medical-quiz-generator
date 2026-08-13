@@ -1,2282 +1,2282 @@
 [
- {
-  "id": "kimia-struktura-001",
-  "question": "Në një atom, numri i elektroneve është:",
-  "answers": [
-   "më i madh se numri i protoneve",
-   "më i vogël se numri i neutroneve",
-   "i barabartë me numrin e protoneve",
-   "i barabartë me numrin e neutroneve"
-  ],
-  "correct": 2,
-  "explanation": "Në atomin neutral numri i elektroneve është gjithmonë i barabartë me numrin e protoneve."
- },
- {
-  "id": "kimia-struktura-002",
-  "question": "Numri atomik përcakton numrin e:",
-  "answers": [
-   "neutroneve në një atom",
-   "protoneve në bërthamë",
-   "neutroneve dhe protoneve",
-   "elektroneve dhe neutroneve"
-  ],
-  "correct": 1,
-  "explanation": "Numri atomik (Z) tregon numrin e protoneve në bërthamë."
- },
- {
-  "id": "kimia-struktura-003",
-  "question": "Numri i nukloneve që gjenden në atomin e elementit 127I është:",
-  "answers": [
-   "53",
-   "74",
-   "127",
-   "180"
-  ],
-  "correct": 2,
-  "explanation": "Numri i nukloneve (protone+neutrone) është vetë numri i masës, pra 127."
- },
- {
-  "id": "kimia-struktura-004",
-  "question": "Numri i masës së një atomi me 15 protone, 16 neutrone dhe 15 elektrone është:",
-  "answers": [
-   "16",
-   "30",
-   "31",
-   "46"
-  ],
-  "correct": 2,
-  "explanation": "Numri i masës = protone+neutrone = 15+16 = 31."
- },
- {
-  "id": "kimia-struktura-005",
-  "question": "Numri i elektroneve, protoneve dhe neutroneve në atomin e bromit 80Br (Z=35) është:",
-  "answers": [
-   "35 protone, 80 elektrone, 35 neutrone",
-   "35 protone, 35 elektrone, 45 neutrone",
-   "80 protone, 35 elektrone, 80 neutrone",
-   "80 protone, 35 elektrone, 80 neutrone"
-  ],
-  "correct": 1,
-  "explanation": "Br ka Z=35 (35 protone=35 elektrone); neutrone=80-35=45."
- },
- {
-  "id": "kimia-struktura-006",
-  "question": "Atomet 37X dhe 35Y (Z=17) janë izotope. Numri i neutroneve të atomit X është:",
-  "answers": [
-   "17",
-   "18",
-   "19",
-   "20"
-  ],
-  "correct": 3,
-  "explanation": "X ka Z=17, mass=37; neutrone=37-17=20."
- },
- {
-  "id": "kimia-struktura-007",
-  "question": "Kaliumi ka izotope 39K (93%) dhe 41K (7%). Masa atomike e krahasuar (Ar) është:",
-  "answers": [
-   "39,14",
-   "40,1",
-   "41,14",
-   "42"
-  ],
-  "correct": 0,
-  "explanation": "Ar=39×0,93+41×0,07=36,27+2,87=39,14."
- },
- {
-  "id": "kimia-struktura-008",
-  "question": "Bërthama e vanadit ka ngarkesë +23 dhe masë atomike 51. Numri i neutroneve është:",
-  "answers": [
-   "23",
-   "28",
-   "30",
-   "51"
-  ],
-  "correct": 1,
-  "explanation": "Neutrone=51-23=28."
- },
- {
-  "id": "kimia-struktura-009",
-  "question": "Në atomin e kriptonit 84Kr, ngarkesa elektrike e bërthamës është:",
-  "answers": [
-   "0",
-   "-36",
-   "+36",
-   "+84"
-  ],
-  "correct": 2,
-  "explanation": "Kr ka Z=36, pra ngarkesa e bërthamës është +36."
- },
- {
-  "id": "kimia-struktura-010",
-  "question": "Atomi 207Pb ka 82 elektrone. Numri i neutroneve është:",
-  "answers": [
-   "125",
-   "157",
-   "207",
-   "289"
-  ],
-  "correct": 0,
-  "explanation": "Neutrone=207-82=125."
- },
- {
-  "id": "kimia-struktura-011",
-  "question": "Cili nga atomet/jonet ka strukturë elektronike të njëjtë me gaz të plogët? (ZCa=20;ZNa=11;ZF=9;ZCl=17)",
-  "answers": [
-   "Ca2+",
-   "Na",
-   "F",
-   "Cl"
-  ],
-  "correct": 0,
-  "explanation": "Ca2+ humbet 2 elektrone (18e-), duke marrë konfigurimin e Ar (gaz i plogët)."
- },
- {
-  "id": "kimia-struktura-012",
-  "question": "Në një atom (neutral) ndodhen:",
-  "answers": [
-   "11p+, 10e-",
-   "12p+, 12e-",
-   "17p+, 18e-",
-   "19p+, 18e-"
-  ],
-  "correct": 1,
-  "explanation": "Në atom neutral protonet=elektronet; vetëm 12p+,12e- plotëson kushtin."
- },
- {
-  "id": "kimia-struktura-013",
-  "question": "Atomi i squfurit ka 16 protone dhe 16 neutrone. Cili pohim NUK është i saktë?",
-  "answers": [
-   "Joni S2- ka 18 elektrone",
-   "Numri atomik është 32",
-   "Numri i masës është 32",
-   "Ngarkesa e bërthamës është +16"
-  ],
-  "correct": 1,
-  "explanation": "Numri atomik i S është 16 (protonet), jo 32; numri i masës është 32."
- },
- {
-  "id": "kimia-struktura-014",
-  "question": "Joni që ka ngarkesën 3- është:",
-  "answers": [
-   "7p+; 7n0; 10e-",
-   "9p+; 10n0; 10e-",
-   "12p+; 12n0; 10e-",
-   "13p+; 14n0; 10e-"
-  ],
-  "correct": 0,
-  "explanation": "Ngarkesa=protone-elektrone=7-10=-3, pra vetëm 7p+/10e- jep -3."
- },
- {
-  "id": "kimia-struktura-015",
-  "question": "Izotopet e një elementi dallohen nga njëri-tjetri nga numri:",
-  "answers": [
-   "atomik Z",
-   "protoneve",
-   "neutroneve",
-   "elektroneve"
-  ],
-  "correct": 2,
-  "explanation": "Izotopet kanë të njëjtin Z (protone) por numër të ndryshëm neutronesh."
- },
- {
-  "id": "kimia-struktura-016",
-  "question": "Numri kuantik sekondar (l) përfaqëson:",
-  "answers": [
-   "nivelin energjetik",
-   "gjendjen energjetike",
-   "nënnivelin energjetik",
-   "kahun e lëvizjes së elektronit"
-  ],
-  "correct": 2,
-  "explanation": "Numri kuantik sekondar l përcakton nënnivelin energjetik (s,p,d,f)."
- },
- {
-  "id": "kimia-struktura-017",
-  "question": "Orbitalet atomike px, py, pz ndryshojnë nga njëri-tjetri nga:",
-  "answers": [
-   "forma",
-   "madhësia",
-   "kapaciteti",
-   "orientimi"
-  ],
-  "correct": 3,
-  "explanation": "px,py,pz kanë të njëjtën formë dhe madhësi, por orientim të ndryshëm hapësinor."
- },
- {
-  "id": "kimia-struktura-018",
-  "question": "Numri i gjendjeve energjetike në një atom përcaktohet nga numri kuantik:",
-  "answers": [
-   "spin (s)",
-   "magnetik (m)",
-   "sekondar (l)",
-   "themelor (n)"
-  ],
-  "correct": 3,
-  "explanation": "Numri themelor n përcakton nivelet/gjendjet energjetike kryesore."
- },
- {
-  "id": "kimia-struktura-019",
-  "question": "Numri kuantik themelor NUK merr vlerën:",
-  "answers": [
-   "0",
-   "1",
-   "2",
-   "3"
-  ],
-  "correct": 0,
-  "explanation": "Numri themelor n fillon nga 1, kurrë nuk merr vlerën 0."
- },
- {
-  "id": "kimia-struktura-020",
-  "question": "Numri maksimal i elektroneve të një nënniveli gjendet me formulën:",
-  "answers": [
-   "x=2l+1",
-   "x=2n²",
-   "x=2(2l+1)",
-   "x=+1/2"
-  ],
-  "correct": 2,
-  "explanation": "Numri maksimal i elektroneve në një nënnivel jepet nga 2(2l+1)."
- },
- {
-  "id": "kimia-struktura-021",
-  "question": "Cili atom ka numrin më të madh të neutroneve? 1H, 4He, 5He, 7Li",
-  "answers": [
-   "1H",
-   "4He",
-   "5He",
-   "7Li"
-  ],
-  "correct": 3,
-  "explanation": "7Li (Z=3) ka 4 neutrone, më shumë se 1H(0), 4He(2), 5He(3)."
- },
- {
-  "id": "kimia-struktura-022",
-  "question": "Numri i gjendjeve energjetike (orbitaleve) për l=2 është:",
-  "answers": [
-   "1",
-   "3",
-   "5",
-   "7"
-  ],
-  "correct": 2,
-  "explanation": "Numri i orbitaleve=2l+1=2(2)+1=5, për nënnivelin d."
- },
- {
-  "id": "kimia-struktura-023",
-  "question": "Dy elektrone në të njëjtin orbital atomik kanë:",
-  "answers": [
-   "n, l, m, ms të njëjtë",
-   "n, l, ms të njëjtë dhe m të ndryshme",
-   "n, l, m të njëjtë dhe ms të ndryshme",
-   "n, l të njëjtë dhe m, ms të ndryshme"
-  ],
-  "correct": 2,
-  "explanation": "Sipas parimit të Paulit, dy elektrone në të njëjtin orbital kanë n,l,m të njëjtë dhe ms të kundërt."
- },
- {
-  "id": "kimia-struktura-024",
-  "question": "Në nivelin energjetik K gjenden:",
-  "answers": [
-   "orbitali s",
-   "orbitalet s dhe p",
-   "orbitalet s, p dhe d",
-   "orbitalet s, p, d dhe f"
-  ],
-  "correct": 0,
-  "explanation": "Niveli K (n=1) përmban vetëm orbitalin 1s."
- },
- {
-  "id": "kimia-struktura-025",
-  "question": "Për elementin në periodën e katërt, grupin VB, pjesa fundore e konfigurimit elektronik është:",
-  "answers": [
-   "4s2p3",
-   "3d34s2",
-   "4s2p5",
-   "3d14s2"
-  ],
-  "correct": 1,
-  "explanation": "Grupi VB (periodë 4) korrespondon me 3d34s2 (p.sh. vanadi)."
- },
- {
-  "id": "kimia-struktura-026",
-  "question": "Vlerat e numrave kuantikë që mund të karakterizojnë një orbital 2p janë:",
-  "answers": [
-   "n=2, l=2, m=1",
-   "n=2, l=1, m=1",
-   "n=2, l=1, m=-2",
-   "n=2, l=-1, m=+2"
-  ],
-  "correct": 1,
-  "explanation": "Për orbital 2p: n=2, l=1 (jo 2 ose -1), m∈{-1,0,+1}."
- },
- {
-  "id": "kimia-struktura-027",
-  "question": "Kombinimi i katër numrave kuantikë të dy elektroneve 2s janë:",
-  "answers": [
-   "n=2,l=0,m=0,ms=+1/2 dhe n=2,l=0,m=0,ms=-1/2",
-   "n=2,l=1,m=-1,ms=+1/2 dhe n=2,l=1,m=-1,ms=-1/2",
-   "n=2,l=1,m=0,ms=+1/2 dhe n=2,l=1,m=0,ms=-1/2",
-   "n=3,l=0,m=0,ms=+1/2 dhe n=3,l=0,m=0,ms=-1/2"
-  ],
-  "correct": 0,
-  "explanation": "Orbitali 2s ka n=2,l=0,m=0; dy elektronet kanë spin të kundërt."
- },
- {
-  "id": "kimia-struktura-028",
-  "question": "Nënniveli energjetik të cilit i përkojnë n=3 dhe l=2 është:",
-  "answers": [
-   "3d",
-   "3f",
-   "3p",
-   "3s"
-  ],
-  "correct": 0,
-  "explanation": "n=3,l=2 korrespondon me nënnivelin 3d."
- },
- {
-  "id": "kimia-struktura-029",
-  "question": "Elektroni me n=3, l=0, m=0, ms=+1/2 ndodhet në orbitalin:",
-  "answers": [
-   "2s",
-   "3s",
-   "3p",
-   "3d"
-  ],
-  "correct": 1,
-  "explanation": "n=3,l=0 korrespondon me orbitalin 3s."
- },
- {
-  "id": "kimia-struktura-030",
-  "question": "Në atomin e kalciumit (Z=20), numri i elektroneve me n=4, l=1, m=+1 është:",
-  "answers": [
-   "0 elektrone",
-   "1 elektron",
-   "2 elektrone",
-   "3 elektrone"
-  ],
-  "correct": 0,
-  "explanation": "Ca ka konfigurim [...]4s2, pa elektrone në 4p (n=4,l=1)."
- },
- {
-  "id": "kimia-struktura-031",
-  "question": "Elektroni i fundit me n=4, l=1, m=0, ms=-1/2 i përket formulës:",
-  "answers": [
-   "4p2",
-   "4p4",
-   "4p5",
-   "4p6"
-  ],
-  "correct": 2,
-  "explanation": "Sipas rregullit të Hundit, elektroni i 5-të në 3 orbitalet p (parë) çiftëzohet te m=0 me ms=-1/2, pra 4p5."
- },
- {
-  "id": "kimia-struktura-032",
-  "question": "Formula elektronike e atomit të kalciumit (Z=20) është:",
-  "answers": [
-   "1s22s2p5 3s2p6 4s2",
-   "1s22s2p6 3s2p6d0 4s2",
-   "1s22s2p5 3s2p4d0 4s2",
-   "1s22s2p6 3s2p6d0 4s1"
-  ],
-  "correct": 1,
-  "explanation": "Ca (Z=20): 1s2 2s2p6 3s2p6d0 4s2."
- },
- {
-  "id": "kimia-struktura-033",
-  "question": "Numri i elektroneve valentore të atomit me formulë 1s22s2p6 3s2p4 është:",
-  "answers": [
-   "2",
-   "4",
-   "6",
-   "8"
-  ],
-  "correct": 2,
-  "explanation": "Elektronet valentore janë ato të shtresës së jashtme (n=3): 3s2+3p4=6."
- },
- {
-  "id": "kimia-struktura-034",
-  "question": "Formula elektronike e atomit të kromit (Z=24) është:",
-  "answers": [
-   "1s22s2p5 3s2p6d4 4s2",
-   "1s22s2p6 3s2p6d5 4s1",
-   "1s22s2p6 3s2p6d4 4s2",
-   "1s22s2p6 3s2p6 4s2p4"
-  ],
-  "correct": 1,
-  "explanation": "Kromi shfaq përjashtim: [Ar]3d5 4s1, jo 3d4 4s2, për stabilitetin e gjysmëmbushjes d."
- },
- {
-  "id": "kimia-struktura-035",
-  "question": "Atomi me formulë 1s22s2p6 3s2p6d7 4s2 është:",
-  "answers": [
-   "Mn (Z=25)",
-   "Fe (Z=26)",
-   "Co (Z=27)",
-   "Ni (Z=28)"
-  ],
-  "correct": 2,
-  "explanation": "Numërimi i elektroneve: 2+2+6+2+6+7+2=27, pra Co."
- },
- {
-  "id": "kimia-struktura-036",
-  "question": "Atomi me formulë [Ar]3d104s24p3 (ZAr=18) është:",
-  "answers": [
-   "P (Z=15)",
-   "Ge (Z=32)",
-   "As (Z=33)",
-   "Se (Z=34)"
-  ],
-  "correct": 2,
-  "explanation": "Z=18+10+2+3=33, pra As."
- },
- {
-  "id": "kimia-struktura-037",
-  "question": "Cili grup elementesh ka konfigurim të shtresës së jashtme ns2np5?",
-  "answers": [
-   "Halogjenet",
-   "Gazet e plogëta",
-   "Metalet alkalin",
-   "Metalet alkalino-tokësore"
-  ],
-  "correct": 0,
-  "explanation": "ns2np5 është konfigurimi karakteristik i halogjeneve (grupi VIIA)."
- },
- {
-  "id": "kimia-struktura-038",
-  "question": "Cilët elementë janë metale alkaline? (ZA=34;ZB=37;ZC=31;ZD=3;ZE=11;ZX=16;ZQ=19;ZZ=21)",
-  "answers": [
-   "B, C, D, Z",
-   "A, E, X, Q",
-   "B, D, E, Q",
-   "C, D, Q, Z"
-  ],
-  "correct": 2,
-  "explanation": "Metale alkaline kanë Z=3(Li),11(Na),19(K),37(Rb): pra D,E,Q,B."
- },
- {
-  "id": "kimia-struktura-039",
-  "question": "Të gjitha gazet e plogëta gjenden në atmosferë, PËRVEÇ:",
-  "answers": [
-   "Ne",
-   "Ar",
-   "Kr",
-   "Rn"
-  ],
-  "correct": 3,
-  "explanation": "Rn është radioaktiv, në sasi shumë të vogla/të papërhershme, ndryshe nga Ne,Ar,Kr."
- },
- {
-  "id": "kimia-struktura-040",
-  "question": "Agjenti oksidues më i fuqishëm ndër halogjenet është:",
-  "answers": [
-   "jodi",
-   "klori",
-   "fluori",
-   "bromi"
-  ],
-  "correct": 2,
-  "explanation": "Fluori ka elektronegativitetin dhe fuqinë oksiduese më të lartë ndër halogjenet."
- },
- {
-  "id": "kimia-struktura-041",
-  "question": "Metalet alkalino-tokësore karakterizohen nga:",
-  "answers": [
-   "rreze atomike e vogël",
-   "energji jonizimi e ulët",
-   "elektonegativitet i lartë",
-   "afinitet elektronik i lartë"
-  ],
-  "correct": 1,
-  "explanation": "Si metale, kanë energji jonizimi relativisht të ulët krahasuar me jometalet."
- },
- {
-  "id": "kimia-struktura-042",
-  "question": "Elementet e një periode kanë të njëjtin numër:",
-  "answers": [
-   "nukloneve",
-   "elektroneve valentore",
-   "niveleve energjetike",
-   "gjendjeve energjetike"
-  ],
-  "correct": 2,
-  "explanation": "Elementet e së njëjtës periodë kanë të njëjtin numër shtresash elektronike (n)."
- },
- {
-  "id": "kimia-struktura-043",
-  "question": "Elementi me rrezen atomike më të madhe (Ar,Mg,Cl,Na) është:",
-  "answers": [
-   "Ar (Z=18)",
-   "Mg (Z=12)",
-   "Cl (Z=17)",
-   "Na (Z=11)"
-  ],
-  "correct": 3,
-  "explanation": "Na ndodhet më majtas në periodën 3, pra ka rrezen atomike më të madhe."
- },
- {
-  "id": "kimia-struktura-044",
-  "question": "Elementi që ndodhet në bllokun \"d\" është:",
-  "answers": [
-   "Gallium (Z=31)",
-   "Ytrium (Z=39)",
-   "Germanium (Z=37)",
-   "Rubidium (Z=38)"
-  ],
-  "correct": 1,
-  "explanation": "Ytriumi ka konfigurim d, pra bën pjesë në bllokun d; të tjerët janë bllok s/p."
- },
- {
-  "id": "kimia-struktura-045",
-  "question": "Veti oksiduese më të fuqishme ka joni: (ZCa=20;ZFe=26;ZCu=29;ZZn=30)",
-  "answers": [
-   "Ca2+",
-   "Cu2+",
-   "Fe2+",
-   "Zn2+"
-  ],
-  "correct": 1,
-  "explanation": "Cu2+ reduktohet më lehtë (potencial reduktimi më i lartë), pra ka veti oksiduese më të forta."
- },
- {
-  "id": "kimia-struktura-046",
-  "question": "Perioda e gjashtë e sistemit periodik përmban:",
-  "answers": [
-   "8 elemente",
-   "10 elemente",
-   "18 elemente",
-   "32 elemente"
-  ],
-  "correct": 3,
-  "explanation": "Perioda 6 përfshin edhe lantanidet, gjithsej 32 elemente."
- },
- {
-  "id": "kimia-struktura-047",
-  "question": "Elementi X formon karbonat XCO3. Formula elektronike e X është: (ZNe=10)",
-  "answers": [
-   "[Ne]3s1",
-   "[Ne]3s2",
-   "[Ne]3s2p1",
-   "[Ne]3s2p2"
-  ],
-  "correct": 1,
-  "explanation": "XCO3 kërkon X me valencë 2 (si Ca,Mg): [Ne]3s2 (Mg)."
- },
- {
-  "id": "kimia-struktura-048",
-  "question": "Jometalet karakterizohen nga:",
-  "answers": [
-   "energji e ulët jonizimi dhe elektronegativitet i ulët",
-   "energji jonizimi e lartë dhe elektronegativitet i ulët",
-   "afinitet elektronik i lartë dhe elektronegativitet i lartë",
-   "afinitet elektronik i lartë dhe energji jonizimi e ulët"
-  ],
-  "correct": 2,
-  "explanation": "Jometalet karakterizohen nga afinitet elektronik dhe elektronegativitet të lartë."
- },
- {
-  "id": "kimia-struktura-049",
-  "question": "Metali alkalino-tokësor më aktiv (Be,Ba,Mg,Ca) është:",
-  "answers": [
-   "barium",
-   "berilium",
-   "kalcium",
-   "magnez"
-  ],
-  "correct": 0,
-  "explanation": "Bariumi, poshtë grupit, është metali alkalino-tokësor më aktiv ndër këta."
- },
- {
-  "id": "kimia-struktura-050",
-  "question": "Metali alkalin më pak aktiv (Li,Cs,Na,K) është:",
-  "answers": [
-   "Cs",
-   "K",
-   "Li",
-   "Na"
-  ],
-  "correct": 2,
-  "explanation": "Litiumi, në krye të grupit, është metali alkalin më pak aktiv."
- },
- {
-  "id": "kimia-struktura-051",
-  "question": "Elementi më elektronegativ (C,N,P,Si) është:",
-  "answers": [
-   "C",
-   "N",
-   "P",
-   "Si"
-  ],
-  "correct": 1,
-  "explanation": "Azoti (N), djathtas-lart në këtë grup, ka elektronegativitetin më të lartë."
- },
- {
-  "id": "kimia-struktura-052",
-  "question": "Litiumi shfaq ngjashmëri diagonale me atomin e:",
-  "answers": [
-   "bor",
-   "silic",
-   "magnez",
-   "alumin"
-  ],
-  "correct": 2,
-  "explanation": "Litiumi shfaq ngjashmëri diagonale klasike me magnezin."
- },
- {
-  "id": "kimia-struktura-053",
-  "question": "Gazet e plogëta janë pasive sepse kanë:",
-  "answers": [
-   "densitet të lartë",
-   "energji jonizimi të ulët",
-   "afinitet të lartë për elektronin",
-   "shtresë elektronike të plotësuar"
-  ],
-  "correct": 3,
-  "explanation": "Shtresa elektronike e plotësuar i bën gazet fisnike shumë të qëndrueshme dhe pasive."
- },
- {
-  "id": "kimia-struktura-054",
-  "question": "Vlerën më të ulët të elektronegativitetit (B,O,F,C) e ka atomi:",
-  "answers": [
-   "B",
-   "F",
-   "O",
-   "C"
-  ],
-  "correct": 0,
-  "explanation": "Bori, majtas në periodën 2, ka elektronegativitetin më të ulët ndër këta."
- },
- {
-  "id": "kimia-struktura-055",
-  "question": "Rrezja jonike e grupit IA sipas rendit në rritje: (ZNa=11;ZRb=37;ZK=19;ZLi=3)",
-  "answers": [
-   "Na+; Li+; K+; Rb+",
-   "Rb+; K+; Na+; Li+",
-   "Li+; Na+; K+; Rb+",
-   "K+; Rb+; Li+; Na+"
-  ],
-  "correct": 2,
-  "explanation": "Rrezja jonike rritet poshtë grupit: Li+<Na+<K+<Rb+."
- },
- {
-  "id": "kimia-struktura-056",
-  "question": "Elementi me lehtësinë më të madhe për të lëshuar elektronet: (ZBe=4;ZLi=3;ZF=9;ZN=7)",
-  "answers": [
-   "azoti",
-   "fluori",
-   "litiumi",
-   "beriliumi"
-  ],
-  "correct": 2,
-  "explanation": "Litiumi (metal alkalin) ka energjinë e jonizimit më të ulët, lëshon elektrone më lehtë."
- },
- {
-  "id": "kimia-struktura-057",
-  "question": "Kur kalojmë në grup nga lart-poshtë:",
-  "answers": [
-   "Rrezja atomike e elementeve rritet",
-   "Energjia e afërisë për elektronin rritet",
-   "Potenciali i jonizimit rritet",
-   "Vetitë reduktuese zvogëlohen"
-  ],
-  "correct": 0,
-  "explanation": "Poshtë grupit shtohen shtresa elektronike, kështu rrezja atomike rritet."
- },
- {
-  "id": "kimia-struktura-058",
-  "question": "Pse energjia e parë e jonizimit tek metalet alkaline zvogëlohet poshtë grupit?",
-  "answers": [
-   "Numri i niveleve energjetike rritet",
-   "Ngarkesa e bërthamës rritet",
-   "Elektronet valentore gjenden në orbitalin s",
-   "Forcat shtytëse mes elektroneve rriten"
-  ],
-  "correct": 0,
-  "explanation": "Poshtë grupit rritet numri i shtresave, elektroni valent largohet nga bërthama, IE ulet."
- },
- {
-  "id": "kimia-struktura-059",
-  "question": "Brenda periodës majtas-djathtas:",
-  "answers": [
-   "rritja e rrezes rrit vetinë oksiduese",
-   "rritja e rrezes rrit afrinë për elektronin",
-   "zvogëlimi i rrezes rrit afrinë për elektronin",
-   "zvogëlimi i rrezes zvogëlon potencialin e jonizimit"
-  ],
-  "correct": 2,
-  "explanation": "Majtas-djathtas rrezja zvogëlohet dhe kjo rrit afrinë për elektronin."
- },
- {
-  "id": "kimia-struktura-060",
-  "question": "Parametrat që përcaktojnë rrezen atomike janë:",
-  "answers": [
-   "numri kuantik magnetik dhe themelor",
-   "numri kuantik sekondar dhe magnetik",
-   "numri kuantik sekondar dhe numri atomik",
-   "numri kuantik themelor dhe numri atomik"
-  ],
-  "correct": 3,
-  "explanation": "Rrezja atomike varet nga numri i shtresave (n) dhe ngarkesa bërthamore (Z)."
- },
- {
-  "id": "kimia-struktura-061",
-  "question": "Elementi me afri të madhe për elektronin: K(Z=19);Se(Z=34);Br(Z=35);Ca(Z=20)",
-  "answers": [
-   "bromi",
-   "seleni",
-   "kalciumi",
-   "kaliumi"
-  ],
-  "correct": 0,
-  "explanation": "Halogjenet kanë afinitet elektronik shumë të lartë; bromi ndër këta e ka më të lartë."
- },
- {
-  "id": "kimia-struktura-062",
-  "question": "Përbërja kimike që vepron edhe me acidet edhe me bazat është:",
-  "answers": [
-   "MgO",
-   "Na2O",
-   "H2SO4",
-   "Al(OH)3"
-  ],
-  "correct": 3,
-  "explanation": "Al(OH)3 është hidroksid amfoter, reagon si me acide ashtu edhe me baza."
- },
- {
-  "id": "kimia-struktura-063",
-  "question": "Elementi që NUK vepron me HCl të holluar: Zn(30);Fe(26);Cu(29);Al(13)",
-  "answers": [
-   "Al",
-   "Cu",
-   "Fe",
-   "Zn"
-  ],
-  "correct": 1,
-  "explanation": "Cu ndodhet pas hidrogjenit në serinë e aktivitetit, nuk vepron me acide të holluara."
- },
- {
-  "id": "kimia-struktura-064",
-  "question": "Brenda grupeve A, rritja e rrezes atomike rrit:",
-  "answers": [
-   "vetitë oksiduese",
-   "vetitë reduktuese",
-   "afrinë për elektronin",
-   "potencialin e jonizimit"
-  ],
-  "correct": 1,
-  "explanation": "Rritja e rrezes (poshtë grupit) e bën elementin më metalik/reduktues."
- },
- {
-  "id": "kimia-struktura-065",
-  "question": "Elementi me energjinë e parë të jonizimit më të lartë: (ZNa=11;ZAl=13;ZCl=17;ZSi=14)",
-  "answers": [
-   "Al",
-   "Si",
-   "Cl",
-   "Na"
-  ],
-  "correct": 2,
-  "explanation": "Klori, djathtas në periodë, ka energjinë e jonizimit më të lartë ndër këta."
- },
- {
-  "id": "kimia-struktura-066",
-  "question": "Cila formulë paraqet element me veti oksiduese të forta?",
-  "answers": [
-   "1s22s2p6 3s2p6d10 4s2",
-   "1s22s2p6 3s2p6d10 4s2p2",
-   "1s22s2p6 3s2p6d10 4s2p5",
-   "1s22s2p6 3s2p6d10 4s2p6"
-  ],
-  "correct": 2,
-  "explanation": "Konfigurimi 4s2p5 (ns2np5) i përket halogjenit Br, me veti oksiduese të forta."
- },
- {
-  "id": "kimia-struktura-067",
-  "question": "Oksidi i kaliumit është:",
-  "answers": [
-   "acid",
-   "bazik",
-   "amfoter",
-   "asnjanës"
-  ],
-  "correct": 1,
-  "explanation": "K2O, si oksid i metalit alkalin, është bazik."
- },
- {
-  "id": "kimia-struktura-068",
-  "question": "Renditja sipas aktivitetit në rritje: Na,Cu,Fe",
-  "answers": [
-   "Cu<Fe<Na",
-   "Na<Fe<Cu",
-   "Fe<Na<Cu",
-   "Cu<Na<Fe"
-  ],
-  "correct": 0,
-  "explanation": "Serioja e aktivitetit: Cu më pak aktiv, pastaj Fe, pastaj Na më aktiv."
- },
- {
-  "id": "kimia-struktura-069",
-  "question": "Renditja e rritjes së vetive bazike të oksideve grupit IIA: (Be,Mg,Ca,Ba)",
-  "answers": [
-   "MgO; BeO; CaO; BaO",
-   "BeO; MgO; CaO; BaO",
-   "BaO; CaO; MgO; BeO",
-   "CaO; MgO; BaO; BeO"
-  ],
-  "correct": 1,
-  "explanation": "Karakteri bazik rritet poshtë grupit: BeO<MgO<CaO<BaO."
- },
- {
-  "id": "kimia-struktura-070",
-  "question": "Halogjeni me pikën e shkrirjes më të lartë (I,Cl,Br,F) është:",
-  "answers": [
-   "jodi",
-   "klori",
-   "bromi",
-   "fluori"
-  ],
-  "correct": 0,
-  "explanation": "Jodi (molekulë më e madhe, forcat Van der Waals më të forta) ka pikën e shkrirjes më të lartë."
- },
- {
-  "id": "kimia-struktura-071",
-  "question": "Oksid amfoter: Be(4);Sr(38);Mg(12);Ca(20)",
-  "answers": [
-   "BeO",
-   "CaO",
-   "MgO",
-   "SrO"
-  ],
-  "correct": 0,
-  "explanation": "BeO është amfoter, ndryshe nga oksidet e tjera bazike të grupit IIA."
- },
- {
-  "id": "kimia-struktura-072",
-  "question": "Cili metal alkalin NUK vepron vrullshëm me ujin?",
-  "answers": [
-   "Cs",
-   "K",
-   "Li",
-   "Na"
-  ],
-  "correct": 2,
-  "explanation": "Litiumi reagon më ngadalë/më pak vrullshëm me ujin krahasuar me Na,K,Cs."
- },
- {
-  "id": "kimia-struktura-073",
-  "question": "Hidroksidi më pak bazik: Ba(56);Sr(38);Mg(12);Ca(20)",
-  "answers": [
-   "Ba(OH)2",
-   "Ca(OH)2",
-   "Mg(OH)2",
-   "Sr(OH)2"
-  ],
-  "correct": 2,
-  "explanation": "Mg(OH)2, në krye të grupit, është më pak bazik ndër këta."
- },
- {
-  "id": "kimia-struktura-074",
-  "question": "Oksidi me karakter acid më të theksuar:",
-  "answers": [
-   "Oksid fosfori (V)",
-   "Oksid jodi (III)",
-   "Oksid klori (VII)",
-   "Oksid squfuri (VI)"
-  ],
-  "correct": 2,
-  "explanation": "Cl2O7, me numrin e oksidimit +7, ka karakterin acid më të theksuar."
- },
- {
-  "id": "kimia-struktura-075",
-  "question": "Cili çift elementesh është në gjendje të lëngët në temperaturën e dhomës?",
-  "answers": [
-   "Jodi dhe klori",
-   "Hekuri dhe natriumi",
-   "Bromi dhe mërkuri",
-   "Kalciumi dhe fosfori"
-  ],
-  "correct": 2,
-  "explanation": "Br2 dhe Hg janë të dy të lëngshëm në temperaturën e dhomës."
- },
- {
-  "id": "kimia-struktura-076",
-  "question": "Cila formulë i përket elementit me veti reduktuese më të forta?",
-  "answers": [
-   "1s22s2p6",
-   "1s22s2p6 3s2",
-   "1s22s2p6 3s2p5",
-   "1s22s2p6 3s2p6 4s2"
-  ],
-  "correct": 3,
-  "explanation": "Ca (formula D), atom më i madh me energji jonizimi më të ulët, ka veti reduktuese më të forta."
- },
- {
-  "id": "kimia-struktura-077",
-  "question": "Numri maksimal i elektroneve me n=3, l=1, m=-1 është:",
-  "answers": [
-   "2",
-   "4",
-   "6",
-   "10"
-  ],
-  "correct": 0,
-  "explanation": "Kjo specifikon një orbital të vetëm (3p, m=-1), maksimumi 2 elektrone."
- },
- {
-  "id": "kimia-struktura-078",
-  "question": "Numrat kuantikë për elektronin valent të rubidiumit (Z=37) janë:",
-  "answers": [
-   "n=5,l=0,m=0,ms=+1/2",
-   "n=5,l=0,m=0,ms=-1/2",
-   "n=5,l=1,m=1,ms=+1/2",
-   "n=5,l=1,m=0,ms=-1/2"
-  ],
-  "correct": 0,
-  "explanation": "Rb ka konfigurim [Kr]5s1; elektroni valent karakterizohet nga n=5,l=0,m=0,ms=+1/2."
- },
- {
-  "id": "kimia-struktura-079",
-  "question": "Cili çift atomesh/jonesh ka konfigurim elektronik të njëjtë? (ZCl=17;ZF=9;ZK=19;ZS=16;ZNe=10)",
-  "answers": [
-   "Cl- dhe K+",
-   "Cl- dhe Ne",
-   "Cl- dhe S2-",
-   "Cl- dhe F-"
-  ],
-  "correct": 0,
-  "explanation": "Cl- (18e-) dhe K+ (18e-) janë izoelektronikë, të dy me konfigurimin e Ar."
- },
- {
-  "id": "kimia-struktura-080",
-  "question": "Në atomin e fosforit (Z=15), elektroni i fundit sipas radhës së mbushjes ka vlerat:",
-  "answers": [
-   "n=3,l=1,m=+1,ms=+1/2",
-   "n=3,l=1,m=-1,ms=+1/2",
-   "n=3,l=1,m=0,ms=-1/2",
-   "n=3,l=0,m=0,ms=-1/2"
-  ],
-  "correct": 0,
-  "explanation": "P ka 3p3; sipas rregullit të Hundit, tre elektronet mbushin njëherazi m=-1,0,+1; i treti (i fundit) është te m=+1,ms=+1/2."
- },
- {
-  "id": "kimia-struktura-081",
-  "question": "Numri i elektroneve që kanë m=-1, në atomin me Z=40 (Zr), është:",
-  "answers": [
-   "8",
-   "9",
-   "10",
-   "11"
-  ],
-  "correct": 1,
-  "explanation": "Duke numëruar elektronet me m=-1 nëpër nënnivelet p dhe d të plotësuara ose të pjesshme, gjejmë 9 elektrone."
- },
- {
-  "id": "kimia-struktura-082",
-  "question": "Formula elektronike për jonin 24Cr2+ është: (ZAr=18)",
-  "answers": [
-   "[Ar]3d54s1",
-   "[Ar]3d4",
-   "[Ar]3d44s1",
-   "[Ar]3d34s2"
-  ],
-  "correct": 1,
-  "explanation": "Cr neutral=[Ar]3d54s1; duke humbur 2e- (së pari 4s1, pastaj 1 nga 3d), mbetet [Ar]3d4."
- },
- {
-  "id": "kimia-struktura-083",
-  "question": "Joni X2+ ka 28 elektrone dhe 35 neutrone. Numri i masës i X është:",
-  "answers": [
-   "28",
-   "35",
-   "63",
-   "65"
-  ],
-  "correct": 3,
-  "explanation": "X neutral ka 30e- (Zn); masa=30+35=65."
- },
- {
-  "id": "kimia-struktura-084",
-  "question": "Joni X3+ ka 23 elektrone dhe 30 neutrone. Numri atomik i X është:",
-  "answers": [
-   "20",
-   "26",
-   "53",
-   "56"
-  ],
-  "correct": 1,
-  "explanation": "X neutral ka 23+3=26 elektrone/protone (Fe)."
- },
- {
-  "id": "kimia-struktura-085",
-  "question": "Numri atomik i elementit me 7 elektrone në nënnivelin \"d\" të nivelit të tretë është:",
-  "answers": [
-   "24",
-   "25",
-   "27",
-   "28"
-  ],
-  "correct": 2,
-  "explanation": "Konfigurimi 3d7 i përket kobaltit (Co, Z=27)."
- },
- {
-  "id": "kimia-struktura-086",
-  "question": "Cili atom ka elektrone të paçiftëzuara në nivelin e jashtëm, gjendje normale? Be(4);Ca(20);Ge(32);Zn(30)",
-  "answers": [
-   "Be (Z=4)",
-   "Ca (Z=20)",
-   "Ge (Z=32)",
-   "Zn (Z=30)"
-  ],
-  "correct": 2,
-  "explanation": "Ge ka konfigurim 4p2, me 2 elektrone të paçiftëzuara; të tjerët janë tërësisht të çiftëzuar."
- },
- {
-  "id": "kimia-struktura-087",
-  "question": "Joni X3+ ka formulë të pjesshme 2p6. Numri atomik i X është:",
-  "answers": [
-   "10",
-   "13",
-   "18",
-   "21"
-  ],
-  "correct": 1,
-  "explanation": "X3+ me 10 elektrone (si Ne) do të thotë X neutral ka 13 elektrone (Al)."
- },
- {
-  "id": "kimia-struktura-088",
-  "question": "Cili pohim NUK është i saktë për numrat kuantikë?",
-  "answers": [
-   "Numri maksimal i elektroneve për l=0 është 2",
-   "Numri maksimal i elektroneve për l=2 është 14",
-   "Numri maksimal i elektroneve për n=3 është 18",
-   "Numri maksimal i gjendjeve energjetike për l=3 është 7"
-  ],
-  "correct": 1,
-  "explanation": "Për l=2 (d), numri maksimal i elektroneve është 10, jo 14 (14 i përket f, l=3)."
- },
- {
-  "id": "kimia-struktura-089",
-  "question": "Cili pohim është i vërtetë për numrat kuantikë?",
-  "answers": [
-   "Një orbital s ka numrin kuantik themelor 0",
-   "Një orbital d ka numrin kuantik sekondar 3",
-   "Një orbital f ka numrin kuantik sekondar 3",
-   "Një orbital p ka numrin kuantik magnetik -3"
-  ],
-  "correct": 2,
-  "explanation": "Orbitali f ka l=3; s ka l=0 (jo n=0), d ka l=2, p ka m∈{-1,0,1} jo -3."
- },
- {
-  "id": "kimia-struktura-090",
-  "question": "Elektroni i fundit, në 4p4, ka kombinimin e numrave kuantikë:",
-  "answers": [
-   "n=4,l=1,m=-1,ms=+1/2",
-   "n=4,l=1,m=-1,ms=-1/2",
-   "n=4,l=1,m=0,ms=+1/2",
-   "n=4,l=1,m=+1,ms=-1/2"
-  ],
-  "correct": 1,
-  "explanation": "Sipas Hundit, elektroni i 4-t (4p4) çiftëzohet te m=-1 me ms=-1/2."
- },
- {
-  "id": "kimia-struktura-091",
-  "question": "Formula elektronike për jonin 29Cu2+ është: (ZAr=18)",
-  "answers": [
-   "[Ar]3d10",
-   "[Ar]3d9",
-   "[Ar]3d94s2",
-   "[Ar]3d104s1"
-  ],
-  "correct": 1,
-  "explanation": "Cu neutral=[Ar]3d104s1; duke humbur 2e- (4s1 pastaj 1 nga 3d), mbetet [Ar]3d9."
- },
- {
-  "id": "kimia-struktura-092",
-  "question": "Cili nga atomet/jonet ka konfigurim elektronik të ndryshëm? Ar(18);Cl-(17);K+(19);Kr(36)",
-  "answers": [
-   "Ar",
-   "Cl-",
-   "K+",
-   "Kr"
-  ],
-  "correct": 3,
-  "explanation": "Ar,Cl-,K+ kanë të gjithë 18 elektrone; Kr(36e-) ndryshon."
- },
- {
-  "id": "kimia-struktura-093",
-  "question": "Numri i protoneve, neutroneve dhe elektroneve në jonin 52Cr3+ është:",
-  "answers": [
-   "protone 27; neutrone 25; elektrone 21",
-   "protone 27; neutrone 25; elektrone 24",
-   "protone 24; neutrone 28; elektrone 21",
-   "protone 24; neutrone 24; elektrone 21"
-  ],
-  "correct": 2,
-  "explanation": "Cr(Z=24), mass=52→neutrone=28; Cr3+ ka 24-3=21 elektrone."
- },
- {
-  "id": "kimia-struktura-094",
-  "question": "Në atomin me Z=31 (Ga), elektroni i fundit ka vlerat:",
-  "answers": [
-   "n=4,l=0,m=0,ms=+1/2",
-   "n=4,l=1,m=-1,ms=+1/2",
-   "n=4,l=1,m=+1,ms=-1/2",
-   "n=4,l=1,m=-1,ms=-1/2"
-  ],
-  "correct": 1,
-  "explanation": "Ga ka konfigurim [Ar]3d104s24p1; elektroni i vetëm në 4p është te m=-1,ms=+1/2."
- },
- {
-  "id": "kimia-struktura-095",
-  "question": "Formula elektronike që tregon një metal kalimtar është: (ZAr=18)",
-  "answers": [
-   "[Ar]4s2d0",
-   "[Ar]3d84s2",
-   "[Ar]3d104s24p1",
-   "[Ar]3d104s24p3"
-  ],
-  "correct": 1,
-  "explanation": "[Ar]3d84s2 (Ni) ka nënnivelin d të pjesshëm të mbushur, karakteristikë e metaleve kalimtare."
- },
- {
-  "id": "kimia-struktura-096",
-  "question": "Numri i protoneve, neutroneve dhe elektroneve në jonin 41K+ është:",
-  "answers": [
-   "19 protone; 20 neutrone; 19 elektrone",
-   "20 protone; 21 neutrone; 18 elektrone",
-   "19 protone; 22 neutrone; 18 elektrone",
-   "18 protone; 23 neutrone; 19 elektrone"
-  ],
-  "correct": 2,
-  "explanation": "K(Z=19), mass=41→neutrone=22; K+ ka 19-1=18 elektrone."
- },
- {
-  "id": "kimia-struktura-097",
-  "question": "Joni X2- (Z=34, Se) ka elektronin e fundit me vlerat:",
-  "answers": [
-   "n=4,l=1,m=0,ms=+1/2",
-   "n=4,l=1,m=+1,ms=+1/2",
-   "n=4,l=1,m=-1,ms=-1/2",
-   "n=4,l=1,m=+1,ms=-1/2"
-  ],
-  "correct": 3,
-  "explanation": "Se2- ka 4p6 (të plotë); elektroni i 6-të çiftëzohet te m=+1 me ms=-1/2."
- },
- {
-  "id": "kimia-struktura-098",
-  "question": "Numri i gjendjeve energjetike të ngopura (orbitaleve të plota) në atomin e 35Cl është:",
-  "answers": [
-   "7",
-   "8",
-   "16",
-   "17"
-  ],
-  "correct": 1,
-  "explanation": "Cl (1s22s2p63s2p5) ka 8 orbitale plotësisht të mbushura me 2 elektrone secili."
- },
- {
-  "id": "kimia-struktura-099",
-  "question": "Numri maksimal i elektroneve me n=3, m=+1 është:",
-  "answers": [
-   "1",
-   "4",
-   "6",
-   "9"
-  ],
-  "correct": 1,
-  "explanation": "m=+1 gjendet te 3p (1 orbital) dhe 3d (1 orbital); total 2 orbitale × 2e- = 4."
- },
- {
-  "id": "kimia-struktura-100",
-  "question": "Numri i elektroneve për l=0 (orbitale s) në atomin e kaliumit (Z=19) është:",
-  "answers": [
-   "1",
-   "3",
-   "5",
-   "7"
-  ],
-  "correct": 3,
-  "explanation": "K: 1s2+2s2+3s2+4s1=7 elektrone s."
- },
- {
-  "id": "kimia-struktura-101",
-  "question": "Numri i elektroneve për l=1 (orbitale p) në atomin e squfurit (Z=16) është:",
-  "answers": [
-   "6",
-   "9",
-   "10",
-   "12"
-  ],
-  "correct": 2,
-  "explanation": "S: 2p6+3p4=10 elektrone p."
- },
- {
-  "id": "kimia-struktura-102",
-  "question": "Numri maksimal i elektroneve me n=3, m=0 është:",
-  "answers": [
-   "2",
-   "4",
-   "6",
-   "8"
-  ],
-  "correct": 2,
-  "explanation": "m=0 gjendet te 3s,3p,3d (3 orbitale) × 2e- = 6."
- },
- {
-  "id": "kimia-struktura-103",
-  "question": "Cila formulë i përket atomit në gjendje të ngacmuar?",
-  "answers": [
-   "1s22s1",
-   "1s22s2p4",
-   "1s22s1p3",
-   "1s22s2p6 3s1"
-  ],
-  "correct": 2,
-  "explanation": "1s22s1p3 (Z=6) shkel rregullin Aufbau (2s duhet të mbushet plotësisht para 2p)."
- },
- {
-  "id": "kimia-struktura-104",
-  "question": "Numri i orbitaleve për n=5 dhe l=1 (5p) është:",
-  "answers": [
-   "1",
-   "3",
-   "5",
-   "7"
-  ],
-  "correct": 1,
-  "explanation": "Nënniveli p ka gjithmonë 3 orbitale, pavarësisht n."
- },
- {
-  "id": "kimia-struktura-105",
-  "question": "Vlerat e katër numrave kuantikë për elektronin 3d4 janë:",
-  "answers": [
-   "n=3,l=2,m=+1,ms=+1/2",
-   "n=3,l=2,m=+1,ms=-1/2",
-   "n=3,l=2,m=-1,ms=+1/2",
-   "n=3,l=2,m=-2,ms=+1/2"
-  ],
-  "correct": 0,
-  "explanation": "Sipas Hundit, elektroni i 4-t në 3d mbush m=+1 me spin +1/2 (ende pa çiftëzim)."
- },
- {
-  "id": "kimia-struktura-106",
-  "question": "Jonet 15P3- dhe Ca2+ kanë të njëjtin numër elektronesh. Nëse neutronet e Ca janë sa protonet, numri i masës së Ca është:",
-  "answers": [
-   "15",
-   "18",
-   "36",
-   "40"
-  ],
-  "correct": 3,
-  "explanation": "Ca ka Z=20; nëse neutrone=protone=20, masa=20+20=40."
- },
- {
-  "id": "kimia-struktura-107",
-  "question": "Jonet X2-, Y- dhe Z2+ kanë të njëjtin numër elektronesh me atomin e Ne (Z=10). Numri i protoneve për X, Y, Z është:",
-  "answers": [
-   "8; 9; 12",
-   "7; 8; 13",
-   "8; 9; 14",
-   "7; 8; 15"
-  ],
-  "correct": 0,
-  "explanation": "X2-(Z=8,O), Y-(Z=9,F), Z2+(Z=12,Mg) — të gjithë izoelektronikë me Ne."
- },
- {
-  "id": "kimia-struktura-108",
-  "question": "Joni Y- ka 74 neutrone dhe 54 elektrone. Numri i masës së Y është:",
-  "answers": [
-   "54",
-   "55",
-   "127",
-   "129"
-  ],
-  "correct": 2,
-  "explanation": "Y neutral ka 53 protone (I); masa=53+74=127."
- },
- {
-  "id": "kimia-struktura-109",
-  "question": "Cili kombinim numrash kuantikë paraqet energjinë më të lartë të elektronit?",
-  "answers": [
-   "n=3,l=0,m=0,ms=+1/2",
-   "n=3,l=1,m=1,ms=+1/2",
-   "n=3,l=2,m=1,ms=+1/2",
-   "n=4,l=0,m=0,ms=+1/2"
-  ],
-  "correct": 2,
-  "explanation": "Sipas rregullit n+l, kombinimi me n+l më të madh (3+2=5) ka energjinë më të lartë."
- },
- {
-  "id": "kimia-struktura-110",
-  "question": "Elementi me konfigurim 3p5 të shtresës së jashtme ka një neutron më shumë se elektron. Numri i masës është:",
-  "answers": [
-   "18",
-   "31",
-   "35",
-   "36"
-  ],
-  "correct": 2,
-  "explanation": "3p5 i përket Cl (Z=17,17e-); neutrone=17+1=18; masa=17+18=35."
- },
- {
-  "id": "kimia-struktura-111",
-  "question": "Elementi X ka elektrone në 6 gjendje energjetike dhe shuma e spineve 0. Formula elektronike e X: (ZNe=10)",
-  "answers": [
-   "[Ne]3s1",
-   "[Ne]3s2",
-   "[Ne]3s2p1",
-   "[Ne]3s2p2"
-  ],
-  "correct": 1,
-  "explanation": "[Ne]3s2 (Mg) ka 6 orbitale të mbushura (1s,2s,2px,2py,2pz,3s), të gjitha të çiftëzuara (spin=0)."
- },
- {
-  "id": "kimia-struktura-112",
-  "question": "Elementi me elektrone në 8 gjendje energjetike dhe shumën e spineve 1 ka formulën:",
-  "answers": [
-   "1s22s2p6 3s2p5",
-   "1s22s2p6 3s2p1",
-   "1s22s2p6 3s2p3",
-   "1s22s2p6 3s2p2"
-  ],
-  "correct": 3,
-  "explanation": "3s2p2 (Si) ka 8 orbitale të zëna, me 2 elektrone të paçiftëzuara në 3p (shuma spin=1)."
- },
- {
-  "id": "kimia-struktura-113",
-  "question": "Cilët elementë ndodhen në të njëjtin grup? (ZP=15;ZAl=13;ZGa=31;ZLi=3;ZB=5;ZBe=4;ZO=8;ZS=16)",
-  "answers": [
-   "Li, Be, B",
-   "Al, Ga, B",
-   "O, S, Be",
-   "B, O, P"
-  ],
-  "correct": 1,
-  "explanation": "Al, Ga dhe B janë të gjithë të grupit IIIA."
- },
- {
-  "id": "kimia-struktura-114",
-  "question": "Cilët elementë ndodhen në të njëjtën periodë? (ZSe=34;ZSi=14;ZGa=31;ZAl=13;ZB=5;ZS=16;ZO=8;ZSc=21)",
-  "answers": [
-   "B, Al, Ga",
-   "S, O, Se",
-   "Ga, Se, Sc",
-   "Si, S, Sc"
-  ],
-  "correct": 2,
-  "explanation": "Ga, Se dhe Sc janë të gjithë të periodës 4."
- },
- {
-  "id": "kimia-struktura-115",
-  "question": "Cili oksid NUK tretet në ujë? Be(4);Sr(38);Ba(56);Ca(20)",
-  "answers": [
-   "BeO",
-   "CaO",
-   "BaO",
-   "SrO"
-  ],
-  "correct": 0,
-  "explanation": "BeO, ndryshe nga oksidet e tjera bazike të grupit IIA, praktikisht nuk tretet në ujë."
- },
- {
-  "id": "kimia-struktura-116",
-  "question": "Renditja sipas zvogëlimit të elektronegativitetit: K,F,Ca,Cl",
-  "answers": [
-   "K, F, Ca, Cl",
-   "F, K, Cl, Ca",
-   "F, Cl, Ca, K",
-   "Cl, Ca, F, K"
-  ],
-  "correct": 2,
-  "explanation": "Elektronegativiteti zvogëlohet: F(më lartë)>Cl>Ca>K(më ulët)."
- },
- {
-  "id": "kimia-struktura-117",
-  "question": "Na dhe S formojnë Na2S. Si ndryshojnë rrezet atomike dhe jonike të tyre?",
-  "answers": [
-   "rNa>rS atomike dhe rNa+>rS2- jonike",
-   "rNa>rS atomike dhe rNa+<rS2- jonike",
-   "rNa<rS atomike dhe rNa+>rS2- jonike",
-   "rNa<rS atomike dhe rNa+<rS2- jonike"
-  ],
-  "correct": 1,
-  "explanation": "Na (metal) ka rreze atomike më të madhe se S; por si jon, Na+ (kation i vogël) < S2- (anion i madh)."
- },
- {
-  "id": "kimia-struktura-118",
-  "question": "Energjia e dytë e jonizimit të kalciumit është 1150kJ/mol. Cili barazim e tregon këtë?",
-  "answers": [
-   "Ca(g)→Ca2+(g)+2e-; ∆Hi2=+1150kJ/mol",
-   "Ca+(g)→Ca2+(g)+e-; ∆Hi2=+1150kJ/mol",
-   "Ca+(g)→Ca2+(g)+e-; ∆Hi2=-1150kJ/mol",
-   "Ca(g)→Ca2+(g)+2e-; ∆Hi2=-1150kJ/mol"
-  ],
-  "correct": 1,
-  "explanation": "Energjia e dytë e jonizimit është për heqjen e elektronit të 2-të nga joni Ca+ (jo nga atomi neutral), me vlerë pozitive (proces endotermik)."
- },
- {
-  "id": "kimia-struktura-119",
-  "question": "Renditja sipas rritjes së energjisë së parë të jonizimit: Fe,Si,Ba,O,He",
-  "answers": [
-   "Fe, O, He, Si, Ba",
-   "Ba, Fe, Si, O, He",
-   "Si, O, He, Fe, Ba",
-   "Ba, He, Si, Fe, O"
-  ],
-  "correct": 1,
-  "explanation": "IE rritet: Ba(më e ulët)<Fe<Si<O<He(më e lartë)."
- },
- {
-  "id": "kimia-struktura-120",
-  "question": "Renditja sipas vetive reduktuese në rritje: Ca,Al,Zn,K",
-  "answers": [
-   "Zn, Al, Ca, K",
-   "K, Zn, Ca, Al",
-   "Zn, Ca, K, Al",
-   "Zn, Al, K, Ca"
-  ],
-  "correct": 0,
-  "explanation": "Sipas serisë së aktivitetit, vetitë reduktuese rriten: Zn<Al<Ca<K."
- },
- {
-  "id": "kimia-struktura-121",
-  "question": "Cili atom/jon ka rrezen më të madhe? Al3+(13);Br-(35);Ca(20);K+(19)",
-  "answers": [
-   "Al3+",
-   "Br-",
-   "Ca",
-   "K+"
-  ],
-  "correct": 2,
-  "explanation": "Ca (atom neutral, me shtresë shtesë krahasuar me jonet e listuara) ka rrezen më të madhe."
- },
- {
-  "id": "kimia-struktura-122",
-  "question": "Renditja sipas rritjes së rrezes atomike: Sn(50);Ne(10);Cs(55);Cl(17);Se(34)",
-  "answers": [
-   "Sn, Ne, Cs, Cl, Se",
-   "Cs, Sn, Se, Cl, Ne",
-   "Ne, Cl, Se, Sn, Cs",
-   "Sn, Cs, Se, Cl, Ne"
-  ],
-  "correct": 2,
-  "explanation": "Rrezja rritet: Ne(më e vogël)<Cl<Se<Sn<Cs(më e madhe)."
- },
- {
-  "id": "kimia-struktura-123",
-  "question": "Metali që bashkëvepron me acide të holluara, por NUK vepron me ujin e ftohtë: Cu(29);Zn(30);Ca(20);Na(11)",
-  "answers": [
-   "Cu",
-   "Ca",
-   "Na",
-   "Zn"
-  ],
-  "correct": 3,
-  "explanation": "Zn reagon me acide të holluara, por jo me ujë të ftohtë (vetëm me avuj/ujë të ngrohtë)."
- },
- {
-  "id": "kimia-struktura-124",
-  "question": "Renditja e hidroksideve sipas zvogëlimit të tretshmërisë: Ba(56);Mg(12);Ca(20);Sr(38)",
-  "answers": [
-   "Sr(OH)2, Ba(OH)2, Ca(OH)2, Mg(OH)2",
-   "Ba(OH)2, Sr(OH)2, Ca(OH)2, Mg(OH)2",
-   "Mg(OH)2, Ba(OH)2, Sr(OH)2, Ca(OH)2",
-   "Ca(OH)2, Sr(OH)2, Mg(OH)2, Ba(OH)2"
-  ],
-  "correct": 1,
-  "explanation": "Tretshmëria rritet poshtë grupit IIA, kështu zvogëlohet: Ba(OH)2>Sr(OH)2>Ca(OH)2>Mg(OH)2."
- },
- {
-  "id": "kimia-struktura-125",
-  "question": "Elementi X formon jonin X2- dhe ka Z=34. Vendi i tij në sistemin periodik është:",
-  "answers": [
-   "perioda 3 grupi IIIA",
-   "perioda 4 grupi IVA",
-   "perioda 4 grupi VIA",
-   "perioda 5 grupi IIA"
-  ],
-  "correct": 2,
-  "explanation": "Z=34 (Se) ndodhet në periodën 4, grupin VIA."
- },
- {
-  "id": "kimia-struktura-126",
-  "question": "Renditja sipas rritjes së elektronegativitetit: Si(14),Mg(12),Na(11),S(16),Cl(17)",
-  "answers": [
-   "Mg, Na, Si, S, Cl",
-   "Cl, S, Si, Na, Mg",
-   "Na, Mg, Si, S, Cl",
-   "S, Cl, Si, Mg, Na"
-  ],
-  "correct": 2,
-  "explanation": "Elektronegativiteti rritet majtas-djathtas në periodë: Na<Mg<Si<S<Cl."
- },
- {
-  "id": "kimia-struktura-127",
-  "question": "Cili reaksion NUK ndodh?",
-  "answers": [
-   "2F2+2H2O→4HF+O2",
-   "2Na+F2→2NaF",
-   "2NaF+Cl2→2NaCl+F2",
-   "2NaBr+Cl2→2NaCl+Br2"
-  ],
-  "correct": 2,
-  "explanation": "Fluori është më aktiv se klori; Cl2 nuk mund ta zhvendosë F nga NaF."
- },
- {
-  "id": "kimia-struktura-128",
-  "question": "Gurgullimi i Cl2 (gaz) në tretësirën ujore të NaBr jep:",
-  "answers": [
-   "NaBr(uj)+Cl2(g)",
-   "NaCl(uj)+HBr(uj)",
-   "Br2(l)+2NaCl(uj)",
-   "NaClO3(uj)+Br2(l)"
-  ],
-  "correct": 2,
-  "explanation": "Klori (më aktiv) zhvendos bromin nga NaBr: Br2+2NaCl."
- },
- {
-  "id": "kimia-struktura-129",
-  "question": "Fluori (Z=9) ka vetëm valencën I sepse:",
-  "answers": [
-   "është një halogjen",
-   "nuk ka orbital \"s\"",
-   "nuk ka orbital \"p\"",
-   "nuk ka orbital \"d\""
-  ],
-  "correct": 3,
-  "explanation": "Mungesa e orbitalit d në nivelin 2 e pengon F të zgjerojë oktetin, kufizuar në valencën I."
- },
- {
-  "id": "kimia-struktura-130",
-  "question": "Nga veprimi i CaO me ujin përftohet:",
-  "answers": [
-   "CaOH+H2",
-   "CaO+H2",
-   "Ca(OH)2",
-   "CaH2+O2"
-  ],
-  "correct": 2,
-  "explanation": "CaO+H2O→Ca(OH)2."
- },
- {
-  "id": "kimia-struktura-131",
-  "question": "Produktet e bashkëveprimit të kaliumit me ujin janë:",
-  "answers": [
-   "hidrur kaliumi dhe oksigjen",
-   "hidroksid kaliumi dhe hidrogjen",
-   "oksid kaliumi dhe hidrogjen",
-   "hidroksid kaliumi dhe oksigjen"
-  ],
-  "correct": 1,
-  "explanation": "2K+2H2O→2KOH+H2."
- },
- {
-  "id": "kimia-struktura-132",
-  "question": "Bromi mund të formohet nga bashkëveprimi i KBr me:",
-  "answers": [
-   "tretësirën e jodit",
-   "tretësirën e klorit",
-   "tretësirën e klorurit të natriumit",
-   "tretësirën e jodurit të kaliumit"
-  ],
-  "correct": 1,
-  "explanation": "Klori (më aktiv se bromi) zhvendos bromin nga KBr."
- },
- {
-  "id": "kimia-struktura-133",
-  "question": "Nga bashkëveprimi i MgO me HCl të holluar përftohet:",
-  "answers": [
-   "MgCl2(uj)+H2O(l)",
-   "MgO(ng)+H2O(l)",
-   "MgCl2(uj)+H2(g)",
-   "MgO(ng)+H2(g)"
-  ],
-  "correct": 0,
-  "explanation": "MgO+2HCl→MgCl2+H2O."
- },
- {
-  "id": "kimia-struktura-134",
-  "question": "Cili reaksion NUK ndodh?",
-  "answers": [
-   "NaCl+F2",
-   "KBr+Cl2",
-   "KI+Br2",
-   "KBr+I2"
-  ],
-  "correct": 3,
-  "explanation": "Jodi është më pak aktiv se bromi, nuk mund ta zhvendosë Br nga KBr."
- },
- {
-  "id": "kimia-struktura-135",
-  "question": "Oksidi me karakter acid më të theksuar: (ZP=15;ZSi=14;ZCl=17;ZS=16)",
-  "answers": [
-   "Cl2O7",
-   "P2O5",
-   "SO3",
-   "SiO2"
-  ],
-  "correct": 0,
-  "explanation": "Cl2O7 (numër oksidimi +7) ka karakterin acid më të theksuar."
- },
- {
-  "id": "kimia-struktura-136",
-  "question": "X+2HCl→XCl2+H2 dhe XO+2NaOH→Na2XO2+H2O. Çfarë është elementi X?",
-  "answers": [
-   "Një metal alkalin",
-   "Një metal (Gr IIA)",
-   "Halogjen",
-   "Një metal (Gr IIIA)"
-  ],
-  "correct": 1,
-  "explanation": "Formimi i XCl2 (divalent) dhe oksidi amfoter tregojnë një metal të grupit IIA me sjellje amfoterike (si Be)."
- },
- {
-  "id": "kimia-struktura-137",
-  "question": "X2O është oksid bazik: I.X është metal; II.X2O+HCl→kripë+ujë; III.X2O+NaOH→kripë+ujë. Cilat janë të sakta?",
-  "answers": [
-   "Vetëm I",
-   "Vetëm II",
-   "I dhe II",
-   "II dhe III"
-  ],
-  "correct": 2,
-  "explanation": "Oksid bazik reagon me acide (jo baza), pra I dhe II janë të sakta, III jo."
- },
- {
-  "id": "kimia-struktura-138",
-  "question": "Oksidi me karakter bazik më të theksuar: Zn(30);Cr(24);Mg(12);Be(4)",
-  "answers": [
-   "oksid berili",
-   "oksid magnezi",
-   "oksid kromi (III)",
-   "oksid zinku"
-  ],
-  "correct": 1,
-  "explanation": "MgO ka karakterin bazik më të theksuar; BeO amfoter, ZnO/Cr2O3 gjithashtu amfoter/më pak bazik."
- },
- {
-  "id": "kimia-struktura-139",
-  "question": "Renditja e joneve sipas rritjes së rrezes jonike: Al3+(13),O2-(8),N3-(7),Mg2+(12)",
-  "answers": [
-   "Al3+, O2-, N3-, Mg2+",
-   "Al3+, Mg2+, O2-, N3-",
-   "Mg2+, O2-, N3-, Al3+",
-   "O2-, N3-, Mg2+, Al3+"
-  ],
-  "correct": 1,
-  "explanation": "Të gjithë izoelektronikë me Ne; rrezja rritet me zvogëlimin e Z: Al3+<Mg2+<O2-<N3-."
- },
- {
-  "id": "kimia-struktura-140",
-  "question": "Elementi që zhvendos tre halogjenet e tjera nga përbërjet e tyre është:",
-  "answers": [
-   "jodi",
-   "klori",
-   "fluori",
-   "bromi"
-  ],
-  "correct": 2,
-  "explanation": "Fluori, halogjeni më aktiv, mund të zhvendosë Cl,Br,I nga kripërat e tyre."
- },
- {
-  "id": "kimia-struktura-141",
-  "question": "Prirja e aktivitetit tё grupit IA dhe VIIA kur kalojmë nё grup nga lart-poshtë:",
-  "answers": [
-   "Aktiviteti rritet në IA dhe VIIA",
-   "Aktiviteti zvogëlohet në IA dhe VIIA",
-   "Aktiviteti zvogëlohet në IA, por rritet në VIIA",
-   "Aktiviteti rritet në IA, por zvogëlohet në VIIA"
-  ],
-  "correct": 3,
-  "explanation": "Poshtë grupit, metalet alkaline bëhen më aktive, ndërsa halogjenet bëhen më pak aktive."
- },
- {
-  "id": "kimia-struktura-142",
-  "question": "Renditja e oksideve (Cr,S,C,Al) sipas karakterit acid, asnjanës, amfoter, bazik:",
-  "answers": [
-   "SO2 CO CrO Al2O3",
-   "CO SO2 CrO Al2O3",
-   "CO SO2 Al2O3 CrO",
-   "SO2 CO Al2O3 CrO"
-  ],
-  "correct": 3,
-  "explanation": "Acid=SO2, Asnjanës=CO, Amfoter=Al2O3, Bazik=CrO."
- },
- {
-  "id": "kimia-struktura-143",
-  "question": "Cili pohim është i saktë për halogjenet?",
-  "answers": [
-   "Bromi është më aktiv se klori",
-   "Klori nuk është i tretshëm në ujë",
-   "Fluori është agjenti oksidues më i fuqishëm",
-   "Jodi në temperaturën e dhomës është i lëngët"
-  ],
-  "correct": 2,
-  "explanation": "Fluori ka fuqinë oksiduese më të lartë ndër halogjenet."
- },
- {
-  "id": "kimia-struktura-144",
-  "question": "He(VIIIA), Cs(IA), F dhe Cl(VIIA). Cila alternativë është e saktë?",
-  "answers": [
-   "Elementi më elektronegativ është ceziumi",
-   "Elementi më elektropozitiv është fluori",
-   "Elementi me veti oksiduese më të forta është klori",
-   "Elementi me energjinë e jonizimit më të lartë është helium"
-  ],
-  "correct": 3,
-  "explanation": "Heliumi ka energjinë e jonizimit më të lartë ndër të gjithë elementet."
- },
- {
-  "id": "kimia-struktura-145",
-  "question": "Renditja e metaleve sipas zvogëlimit të shpejtësisë me ujin: Al(13),Mg(12),K(19),Ca(20)",
-  "answers": [
-   "Mg, Al, K, Ca",
-   "Mg, Al, Ca, K",
-   "K, Ca, Mg, Al",
-   "K, Ca, Al, Mg"
-  ],
-  "correct": 2,
-  "explanation": "Serioja e aktivitetit: K reagon më shpejt, pastaj Ca, Mg, Al më ngadalë."
- },
- {
-  "id": "kimia-struktura-146",
-  "question": "Cili pohim është i saktë për atomet 23Na dhe 40Ca?",
-  "answers": [
-   "Nuk veprojnë vrullshëm me ujin",
-   "Kanë veti reduktuese të forta",
-   "Kanë të njëjtë numrin e periodës",
-   "Kanë numër të njëjtë të elektroneve valentore"
-  ],
-  "correct": 1,
-  "explanation": "Të dy janë metale reaktivë (alkalin/alkalino-tokësor) me veti reduktuese të forta."
- },
- {
-  "id": "kimia-struktura-147",
-  "question": "Produktet e bashkëveprimit të CaCO3 me HNO3 të holluar janë:",
-  "answers": [
-   "nitrat kalciumi dhe ujë",
-   "oksid kalciumi dhe dioksid azoti",
-   "acid karbonik, dioksid azoti dhe ujë",
-   "nitrat kalciumi, ujë dhe dioksid karboni"
-  ],
-  "correct": 3,
-  "explanation": "CaCO3+2HNO3→Ca(NO3)2+H2O+CO2."
- },
- {
-  "id": "kimia-struktura-148",
-  "question": "Cili metal vepron vrullshëm me avujt e ujit, por ngadalë me ujin e ftohtë? Mg(12);Cu(29);Ca(20);K(19)",
-  "answers": [
-   "K",
-   "Ca",
-   "Mg",
-   "Cu"
-  ],
-  "correct": 2,
-  "explanation": "Magnezi është shembulli klasik: ngadalë me ujë të ftohtë, vrullshëm me avuj/ujë të nxehtë."
- },
- {
-  "id": "kimia-struktura-149",
-  "question": "Karbonatet sipas rritjes së qëndrueshmërisë ndaj nxehtësisë: Mg(12),Be(4),Ca(20),K(19)",
-  "answers": [
-   "BeCO3; MgCO3; CaCO3; K2CO3",
-   "MgCO3; CaCO3; BeCO3; K2CO3",
-   "K2CO3; MgCO3; CaCO3; BeCO3",
-   "CaCO3; K2CO3; BeCO3; MgCO3"
-  ],
-  "correct": 0,
-  "explanation": "Qëndrueshmëria termike rritet me rritjen e rrezes kationike; K2CO3 (alkalin) më e qëndrueshme."
- },
- {
-  "id": "kimia-struktura-150",
-  "question": "Cili çift metalesh NUK oksidohet kur shtojmë ujë? Cu(29);Ag(47);Ca(20);K(19)",
-  "answers": [
-   "Ca dhe Ag",
-   "Cu dhe K",
-   "Cu dhe Ag",
-   "Ca dhe K"
-  ],
-  "correct": 2,
-  "explanation": "Cu dhe Ag janë metale të pa-aktivë, nuk reagojnë/oksidohen me ujë."
- },
- {
-  "id": "kimia-struktura-151",
-  "question": "Oksidi i manganit që shfaq veti bazike është:",
-  "answers": [
-   "MnO",
-   "MnO2",
-   "MnO3",
-   "Mn2O7"
-  ],
-  "correct": 0,
-  "explanation": "MnO (numër oksidimi më i ulët, +2) është më bazik ndër oksidet e Mn."
- },
- {
-  "id": "kimia-struktura-152",
-  "question": "Cila substancë vepron me ujin dhe formon një përbërje të tretshme dhe një gaz?",
-  "answers": [
-   "Bakri",
-   "Ceziumi",
-   "Karbonati i kalciumit",
-   "Karbonati i bariumit"
-  ],
-  "correct": 1,
-  "explanation": "Ceziumi+ujë→CsOH (i tretshëm)+H2 (gaz)."
- },
- {
-  "id": "kimia-struktura-153",
-  "question": "Numri maksimal i elektroneve me n=4, m=0 dhe ms=+1/2 është:",
-  "answers": [
-   "2",
-   "3",
-   "4",
-   "6"
-  ],
-  "correct": 2,
-  "explanation": "m=0 gjendet te 4s,4p,4d,4f (4 orbitale); me ms fiks (+1/2), max 1 elektron/orbital = 4."
- },
- {
-  "id": "kimia-struktura-154",
-  "question": "Numri i elektroneve të paçiftëzuara në atomin e kromit (Z=24) është:",
-  "answers": [
-   "3",
-   "4",
-   "5",
-   "6"
-  ],
-  "correct": 3,
-  "explanation": "Cr=[Ar]3d54s1: 5 elektrone të paçiftëzuar në 3d + 1 në 4s = 6."
- },
- {
-  "id": "kimia-struktura-155",
-  "question": "Joni M+ ka 18 elektrone dhe 20 neutrone. Izotopi i M është:",
-  "answers": [
-   "38/18M",
-   "39/19M",
-   "39/18M",
-   "40/19M"
-  ],
-  "correct": 1,
-  "explanation": "M neutral ka 19 protone (K); masa=19+20=39, pra 39/19K."
- },
- {
-  "id": "kimia-struktura-156",
-  "question": "Numri i elektroneve me l=0 në atomin e elementit me Z=35 (Br) është:",
-  "answers": [
-   "4",
-   "6",
-   "8",
-   "10"
-  ],
-  "correct": 2,
-  "explanation": "Br: 1s2+2s2+3s2+4s2=8 elektrone s."
- },
- {
-  "id": "kimia-struktura-157",
-  "question": "Joni XO3^n- (me 16O) ka 48 neutrone dhe 50 elektrone. Numri i masës për X është:",
-  "answers": [
-   "15",
-   "16",
-   "31",
-   "50"
-  ],
-  "correct": 2,
-  "explanation": "Duke zbritur kontributin e oksigjenit (protone/neutrone/elektrone), rezulton X me Z=15 dhe masë 31 (fosfor-31)."
- },
- {
-  "id": "kimia-struktura-158",
-  "question": "Për elementin 1s22s2p6 3s2p6d3 4s2, cili pohim është i vërtetë?",
-  "answers": [
-   "Elementi është element s",
-   "Ka 12 elektrone për l=1",
-   "Pas 3p6 mbushet 3d3 pastaj 4s2",
-   "Ka 6 elektrone për n=4,l=0"
-  ],
-  "correct": 1,
-  "explanation": "Numri i elektroneve p: 2p6+3p6=12; të tjerat janë të pasakta (është d-elment, 4s mbushet para 3d, 4s ka vetëm 2e-)."
- },
- {
-  "id": "kimia-struktura-159",
-  "question": "Joni X3+ ka 24 neutrone dhe konfigurim që përfundon me 3p6. Cili element është izotop i X?",
-  "answers": [
-   "42X",
-   "45X",
-   "45X",
-   "47X"
-  ],
-  "correct": 1,
-  "explanation": "X3+ me konfigurim [Ar] do të thotë X neutral ka Z=21 (Sc); masa=21+24=45."
- },
- {
-  "id": "kimia-struktura-160",
-  "question": "Elektroni i fundit i atomit X ka n=4,l=2,m=-1,ms=+1/2. Vendndodhja e X është:",
-  "answers": [
-   "perioda 4, grupi IIIB",
-   "perioda 4, grupi IVB",
-   "perioda 5, grupi IVA",
-   "perioda 5, grupi IVB"
-  ],
-  "correct": 3,
-  "explanation": "Konfigurimi 4d2 (elektron i 2-të në d) i përket periodës 5, grupit IVB (si Zr)."
- },
- {
-  "id": "kimia-struktura-161",
-  "question": "Për elementin X me konfigurim të pjesshëm 4d1 5s2, cili pohim NUK është i vërtetë?",
-  "answers": [
-   "Numri i elektroneve për l=1 është 18",
-   "Numri i elektroneve për l=2 është 11",
-   "Ka 5 elektrone për n=4 dhe m=0",
-   "Në gjendje normale elektronet shpërndahen në 20 gjendje energjetike"
-  ],
-  "correct": 2,
-  "explanation": "Për n=4,m=0: 4s2+4p6(m=0 orbital)+4d(elektroni nuk është te m=0)=4, jo 5."
- },
- {
-  "id": "kimia-struktura-162",
-  "question": "Joni X3+ është izoelektronik me Y2- (ZY=16). Neutronet e X janë 24. Masa atomike e krahasuar e X është:",
-  "answers": [
-   "37",
-   "39",
-   "42",
-   "45"
-  ],
-  "correct": 3,
-  "explanation": "Y2- ka 18e-; X3+ ka gjithashtu 18e-, pra X ka Z=21; masa=21+24=45."
- },
- {
-  "id": "kimia-struktura-163",
-  "question": "Klori ka izotope 35Cl dhe 37Cl; Ar=35,5. Përqindjet e izotopeve janë:",
-  "answers": [
-   "35Cl 25% dhe 37Cl 75%",
-   "35Cl 35% dhe 37Cl 65%",
-   "35Cl 65% dhe 37Cl 35%",
-   "35Cl 75% dhe 37Cl 25%"
-  ],
-  "correct": 3,
-  "explanation": "35x+37(1-x)=35,5 → x=0,75, pra 35Cl=75% dhe 37Cl=25%."
- },
- {
-  "id": "kimia-struktura-164",
-  "question": "Elementi me elektrone në 9 gjendje energjetike dhe shumën e spineve +3/2. Vendndodhja e tij:",
-  "answers": [
-   "perioda 3, grupi IVA",
-   "perioda 3, grupi VA",
-   "perioda 4, grupi IVA",
-   "perioda 4, grupi IVB"
-  ],
-  "correct": 1,
-  "explanation": "Konfigurimi [Ne]3s2p3 (P) ka 9 orbitale të zëna dhe 3 elektrone të paçiftëzuara (spin=3/2); P është periodë 3, grup VA."
- },
- {
-  "id": "kimia-struktura-165",
-  "question": "Elektroni i fundit i atomit të stronciumit (Z=38) ndodhet në:",
-  "answers": [
-   "orbitalin s",
-   "orbitalin px",
-   "orbitalin py",
-   "orbitalin pz"
-  ],
-  "correct": 0,
-  "explanation": "Sr ka konfigurim [Kr]5s2, elektroni i fundit është në orbitalin s."
- },
- {
-  "id": "kimia-struktura-166",
-  "question": "Forma e orbitalit ku ndodhet elektroni i fundit të rubidiumit (Z=37) është:",
-  "answers": [
-   "rrethore",
-   "sferike",
-   "fjongo",
-   "eliptike"
-  ],
-  "correct": 1,
-  "explanation": "Rb ka elektronin e fundit në 5s, orbital me formë sferike."
- },
- {
-  "id": "kimia-struktura-167",
-  "question": "Për elementin me Z=40 (Zr), cili pohim është i vërtetë?",
-  "answers": [
-   "Element që bën pjesë në bllokun s",
-   "Ka 12 elektrone për l=2",
-   "Ka 20 elektrone për l=1",
-   "Ka 12 elektrone për l=0"
-  ],
-  "correct": 1,
-  "explanation": "Zr: 3d10+4d2=12 elektrone d (l=2)."
- },
- {
-  "id": "kimia-struktura-168",
-  "question": "Izotopet: 35E(Z=17); 40X(Z=18); 35Y(Z=16, si Y2-); 40Z(Z=17). Cili pohim NUK është i saktë?",
-  "answers": [
-   "E dhe Z janë izotope të të njëjtit element",
-   "Numrin më të vogël të elektroneve e ka joni Y2-",
-   "Numrin më të madh të neutroneve e ka Z",
-   "Numrin më të madh të protoneve e ka X"
-  ],
-  "correct": 1,
-  "explanation": "E dhe Z(Cl,17e- si atome) kanë më pak elektrone se Y2-(18e-); pohimi B është i pasaktë."
- },
- {
-  "id": "kimia-struktura-169",
-  "question": "Joni X3+ ka 5 elektrone në nënnivelin \"d\" të nivelit të tretë. Vendndodhja e X është:",
-  "answers": [
-   "perioda e tretë, grupi VIA",
-   "perioda e tretë, grupi VIB",
-   "perioda e katërt, grupi VIB",
-   "perioda e katërt, grupi VIIIB"
-  ],
-  "correct": 3,
-  "explanation": "X3+=[Ar]3d5 përkon me Fe3+ (nga Fe, [Ar]3d64s2); Fe është periodë 4, grup VIIIB."
- },
- {
-  "id": "kimia-struktura-170",
-  "question": "Numrat kuantikë për elektronet e larguara nga 29Cu për të formuar Cu2+ janë:",
-  "answers": [
-   "4s(ms=+1/2) dhe 3d,m=+2(ms=-1/2)",
-   "4s(ms=-1/2) dhe 3d,m=+2(ms=+1/2)",
-   "4s,m=1(ms=-1/2) dhe 3d,m=-2(ms=+1/2)",
-   "4s(ms=-1/2) dhe 4s,m=0(ms=+1/2)"
-  ],
-  "correct": 1,
-  "explanation": "Cu=[Ar]3d104s1; largohen elektroni 4s (n=4,l=0,m=0,ms=-1/2) dhe një 3d (m=+2,ms=+1/2)."
- },
- {
-  "id": "kimia-struktura-171",
-  "question": "Jonet X2+, Y3+ dhe Z3- janë izoelektronikë me 36Kr. Vendndodhja e X,Y,Z është:",
-  "answers": [
-   "X4,IIB; Y4,IIIB; Z4,VIA",
-   "X5,IIA; Y5,IIIB; Z4,VA",
-   "X4,IIA; Y4,IIIA; Z5,VA",
-   "X5,IIB; Y4,IIIA; Z5,IIIA"
-  ],
-  "correct": 1,
-  "explanation": "X2+=Sr(Z=38,per.5,IIA); Y3+=Y(Z=39,per.5,IIIB); Z3-=As(Z=33,per.4,VA)."
- },
- {
-  "id": "kimia-struktura-172",
-  "question": "Metali i grupit IA (Li,Na,K) me dendësinë më të lartë vepron me elementin e grupit VIIA (Cl,Br,I) me dendësinë më të ulët. Cila përbërje formohet?",
-  "answers": [
-   "Klorur litiumi",
-   "Klorur kaliumi",
-   "Jodur kaliumi",
-   "Jodur litiumi"
-  ],
-  "correct": 1,
-  "explanation": "Sipas prirjes së pritshme (dendësia rritet poshtë grupit), K ka dendësinë më të lartë dhe Cl më të ulëtën; formohet KCl."
- },
- {
-  "id": "kimia-struktura-173",
-  "question": "Elementet Z=4,20,38 (grupi IIA). Vetitë që identifikojnë Z=38 (Sr) krahasuar me të tjerët janë:",
-  "answers": [
-   "alternativa A",
-   "alternativa B",
-   "alternativa C",
-   "alternativa D"
-  ],
-  "correct": 1,
-  "explanation": "Sr përcjell rrymën si i ngurtë (√), ka pikë shkrirjeje relativisht të ulët (√), nuk ka dendësi të ulët (X), dhe jep flakë të kuqe."
- },
- {
-  "id": "kimia-struktura-174",
-  "question": "Nga bashkëveprimi i NaOH të nxehtë (70°C) me klorin përftohet:",
-  "answers": [
-   "HClO",
-   "Ca(OCl)2",
-   "NaClO",
-   "NaClO3"
-  ],
-  "correct": 3,
-  "explanation": "NaOH e nxehtë e përqendruar me Cl2 jep klorat natriumi (NaClO3)."
- },
- {
-  "id": "kimia-struktura-175",
-  "question": "Katër metale: E(vepron vetëm me avuj uji); X(nuk vepron me ujë/acide, por oksidi reduktohet nga C); Y(vepron vrullshëm me ujë të ftohtë); Z(oksidi nuk vepron/tretet në ujë, por Z vepron me acide). Renditja nga më aktivi:",
-  "answers": [
-   "X, E, Z, Y",
-   "X, Z, E, Y",
-   "Y, E, Z, X",
-   "Y, Z, E, X"
-  ],
-  "correct": 2,
-  "explanation": "Y (vepron me ujë të ftohtë) më aktiv, pastaj E (vepron me avuj), pastaj Z (vepron me acide), më pak aktiv X."
- },
- {
-  "id": "kimia-struktura-176",
-  "question": "Brenda periodave djathtas-majtas, cilat pohime janë të sakta? I.afria rritet II.rrezja zvogëlohet III.jonizimi zvogëlohet IV.oksiduese forcohen V.bazik theksohet",
-  "answers": [
-   "I dhe II",
-   "II dhe IV",
-   "III dhe V",
-   "I dhe IV"
-  ],
-  "correct": 2,
-  "explanation": "Djathtas-majtas (drejtim i kundërt me normalen), potenciali i jonizimit zvogëlohet dhe karakteri bazik theksohet."
- },
- {
-  "id": "kimia-struktura-177",
-  "question": "Në grupet A dhe IIIB, poshtë-lart, cilat pohime NUK janë të sakta? I.afria zvogëlohet II.EN rritet III.rrezja zvogëlohet IV.jonizimi rritet V.reduktuese forcohen",
-  "answers": [
-   "II dhe IV",
-   "II dhe III",
-   "I dhe V",
-   "II, III dhe IV"
-  ],
-  "correct": 2,
-  "explanation": "Poshtë-lart, afria për elektronin përgjithësisht nuk zvogëlohet në mënyrë të thjeshtë (I e pasaktë), dhe vetitë reduktuese dobësohen, jo forcohen (V e pasaktë)."
- },
- {
-  "id": "kimia-struktura-178",
-  "question": "Renditja e energjive të para të jonizimit për Mg,Al,Si,P,S (kJ/mol) është:",
-  "answers": [
-   "577; 786; 1060; 1000; 1260",
-   "736; 577; 786; 1060; 1000",
-   "786; 1060; 1000; 1260; 1520",
-   "1060; 1000; 1260; 1520; 418"
-  ],
-  "correct": 1,
-  "explanation": "Ka rënie te Al (krahasuar me Mg) dhe te S (krahasuar me P), për shkak të stabilitetit të nënshtresave gjysmë/plotësisht të mbushura."
- },
- {
-  "id": "kimia-struktura-179",
-  "question": "Cili bashkëveprim çliron hidrogjen të gaztë?",
-  "answers": [
-   "Oksid kaliumi me ujë",
-   "Bakër me avujt e ujit",
-   "Magnez me avujt e ujit",
-   "Bakër me acid sulfurik të holluar"
-  ],
-  "correct": 2,
-  "explanation": "Mg+avuj uji→MgO+H2; K2O nuk çliron H2 (reagon vetëm si oksid bazik), Cu nuk reagon fare."
- },
- {
-  "id": "kimia-struktura-180",
-  "question": "Sasia e hipokloritit të kalciumit nga gurgullimi i klorit në ujë gëlqereje me 14,8g Ca(OH)2 është:",
-  "answers": [
-   "14,3 g",
-   "17,5 g",
-   "35,1 g",
-   "71,5 g"
-  ],
-  "correct": 0,
-  "explanation": "0,2mol Ca(OH)2 jep 0,1mol Ca(OCl)2 (M=143g/mol): 0,1×143=14,3g."
- },
- {
-  "id": "kimia-struktura-181",
-  "question": "Cili metal, kur vepron me ujin e ngrohtë, çliron hidrogjen të gaztë? Cu,Zn,Ag,Pb",
-  "answers": [
-   "Cu",
-   "Zn",
-   "Ag",
-   "Pb"
-  ],
-  "correct": 1,
-  "explanation": "Zn reagon me ujë të ngrohtë duke çliruar H2; Cu dhe Ag janë inertë, Pb reagon shumë ngadalë."
- },
- {
-  "id": "kimia-struktura-182",
-  "question": "Krahasimi Mg-Ba: energjia e katërt e jonizimit dhe veprimi me ujë të ftohtë:",
-  "answers": [
-   "Alternativa A",
-   "Alternativa B",
-   "Alternativa C",
-   "Alternativa D"
-  ],
-  "correct": 1,
-  "explanation": "IE4 e Mg është e lartë (atom më i vogël), e Ba e ulët; Mg reagon ngadalë me ujë të ftohtë, Ba shpejt."
- },
- {
-  "id": "kimia-struktura-183",
-  "question": "4 metale: A(nuk vepron me HCl); B(vepron me ujë të ngrohtë); C(nuk vepron me ujë, zhvendos A); D(vepron me ujë të ftohtë). Renditja nga më aktivi:",
-  "answers": [
-   "D>B>C>A",
-   "A>C>D>B",
-   "B>D>A>C",
-   "C>A>D>B"
-  ],
-  "correct": 0,
-  "explanation": "D (reagon me ujë të ftohtë) më aktiv, pastaj B (ujë të ngrohtë), C (zhvendos A por s'reagon me ujë), më pak aktiv A."
- },
- {
-  "id": "kimia-struktura-184",
-  "question": "Gjatë bashkëveprimit të Cl2 me NaOH të nxehtë (mbi 70°C) dhe të përqendruar, n.o. i klorit ndryshon nga:",
-  "answers": [
-   "0 në +1 dhe 0 në -3",
-   "0 në -1 dhe 0 në +3",
-   "0 në +1 dhe 0 në -5",
-   "0 në -1 dhe 0 në +5"
-  ],
-  "correct": 3,
-  "explanation": "Në kushte të nxehta/të përqendruara formohet NaCl (Cl:0→-1) dhe NaClO3 (Cl:0→+5)."
- },
- {
-  "id": "kimia-struktura-185",
-  "question": "Dy acidet që formohen gjatë tretjes së Cl2 në ujë janë:",
-  "answers": [
-   "HCl, HClO2",
-   "HCl, HClO3",
-   "HCl, HClO",
-   "HCl, HClO4"
-  ],
-  "correct": 2,
-  "explanation": "Cl2+H2O→HCl+HClO (acid hipoklorik)."
- },
- {
-  "id": "kimia-struktura-186",
-  "question": "Cili element vepron me oksigjenin dhe formon përbërje me pikë shkrirje të lartë dhe të tretshme në ujë? C,Fe,Ca,Si",
-  "answers": [
-   "karboni",
-   "hekuri",
-   "silici",
-   "kalcium"
-  ],
-  "correct": 3,
-  "explanation": "CaO→Ca(OH)2, i tretshëm, jonik, pikë shkrirjeje e lartë; oksidet e C,Si janë kovalente/të patretshme mirë."
- },
- {
-  "id": "kimia-struktura-187",
-  "question": "Metali alkalino-tokësor që në 500-600°C formon peroksid me oksigjenin është:",
-  "answers": [
-   "magnez",
-   "kalcium",
-   "barium",
-   "berilium"
-  ],
-  "correct": 2,
-  "explanation": "Bariumi formon peroksidin BaO2 në temperatura të larta."
- },
- {
-  "id": "kimia-struktura-188",
-  "question": "Bromuri i elementit A nuk ndryshon letrën e lakmuesit; oksidi i tij i ngurtë e bën blu letrën në ujë. Elementi A është:",
-  "answers": [
-   "C",
-   "Ba",
-   "Si",
-   "Al"
-  ],
-  "correct": 1,
-  "explanation": "BaBr2 është kripë neutrale (pa ndryshim ngjyre); BaO+H2O→Ba(OH)2, bazë e fortë (blu)."
- },
- {
-  "id": "kimia-struktura-189",
-  "question": "Kalciumi (Z=20) dhe stronciumi (Z=38) janë të dy grupit IIA. Cili pohim është i saktë?",
-  "answers": [
-   "Stronciumi është më elektronegativ se kalciumi",
-   "Stronciumi ka rreze atomike më të vogël se kalciumi",
-   "Të dy metalet formojnë okside bazike me oksigjenin",
-   "Energjia e parë e jonizimit tё Ca është më e ulët se ajo e Sr"
-  ],
-  "correct": 2,
-  "explanation": "Si metale alkalino-tokësore, të dy formojnë okside bazike (CaO, SrO) me oksigjenin."
- },
- {
-  "id": "kimia-struktura-190",
-  "question": "Cili pohim është i saktë lidhur me vetitë e halogjeneve?",
-  "answers": [
-   "Pika e vlimit: F2>Br2>Cl2>I2",
-   "Aciditeti: Cl2O>Cl2O3>Cl2O5>Cl2O7",
-   "Afiniteti elektronik: F2>Cl2>Br2>I2",
-   "Dendësia: Cl2>Br2>I2>F2"
-  ],
-  "correct": 2,
-  "explanation": "Prirja e përgjithshme e afinitetit elektronik zvogëlohet poshtë grupit të halogjeneve, duke filluar nga F."
- }
+    {
+        "id": "kimia-struktura-001",
+        "question": "Në një atom, numri i elektroneve është:",
+        "answers": [
+            "më i madh se numri i protoneve",
+            "më i vogël se numri i neutroneve",
+            "i barabartë me numrin e protoneve",
+            "i barabartë me numrin e neutroneve"
+        ],
+        "correct": 2,
+        "explanation": "Në atomin neutral numri i elektroneve është gjithmonë i barabartë me numrin e protoneve."
+    },
+    {
+        "id": "kimia-struktura-002",
+        "question": "Numri atomik përcakton numrin e:",
+        "answers": [
+            "neutroneve në një atom",
+            "protoneve në bërthamë",
+            "neutroneve dhe protoneve",
+            "elektroneve dhe neutroneve"
+        ],
+        "correct": 1,
+        "explanation": "Numri atomik (Z) tregon numrin e protoneve në bërthamë."
+    },
+    {
+        "id": "kimia-struktura-003",
+        "question": "Numri i nukloneve që gjenden në atomin e elementit 127I është:",
+        "answers": [
+            "53",
+            "74",
+            "127",
+            "180"
+        ],
+        "correct": 2,
+        "explanation": "Numri i nukloneve (protone+neutrone) është vetë numri i masës, pra 127."
+    },
+    {
+        "id": "kimia-struktura-004",
+        "question": "Numri i masës së një atomi me 15 protone, 16 neutrone dhe 15 elektrone është:",
+        "answers": [
+            "16",
+            "30",
+            "31",
+            "46"
+        ],
+        "correct": 2,
+        "explanation": "Numri i masës = protone+neutrone = 15+16 = 31."
+    },
+    {
+        "id": "kimia-struktura-005",
+        "question": "Numri i elektroneve, protoneve dhe neutroneve në atomin e bromit 80Br (Z=35) është:",
+        "answers": [
+            "35 protone, 80 elektrone, 35 neutrone",
+            "35 protone, 35 elektrone, 45 neutrone",
+            "80 protone, 35 elektrone, 80 neutrone",
+            "80 protone, 35 elektrone, 80 neutrone"
+        ],
+        "correct": 1,
+        "explanation": "Br ka Z=35 (35 protone=35 elektrone); neutrone=80-35=45."
+    },
+    {
+        "id": "kimia-struktura-006",
+        "question": "Atomet 37X dhe 35Y (Z=17) janë izotope. Numri i neutroneve të atomit X është:",
+        "answers": [
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "correct": 3,
+        "explanation": "X ka Z=17, mass=37; neutrone=37-17=20."
+    },
+    {
+        "id": "kimia-struktura-007",
+        "question": "Kaliumi ka izotope 39K (93%) dhe 41K (7%). Masa atomike e krahasuar (Ar) është:",
+        "answers": [
+            "39,14",
+            "40,1",
+            "41,14",
+            "42"
+        ],
+        "correct": 0,
+        "explanation": "Ar=39×0,93+41×0,07=36,27+2,87=39,14."
+    },
+    {
+        "id": "kimia-struktura-008",
+        "question": "Bërthama e vanadit ka ngarkesë +23 dhe masë atomike 51. Numri i neutroneve është:",
+        "answers": [
+            "23",
+            "28",
+            "30",
+            "51"
+        ],
+        "correct": 1,
+        "explanation": "Neutrone=51-23=28."
+    },
+    {
+        "id": "kimia-struktura-009",
+        "question": "Në atomin e kriptonit 84Kr, ngarkesa elektrike e bërthamës është:",
+        "answers": [
+            "0",
+            "-36",
+            "+36",
+            "+84"
+        ],
+        "correct": 2,
+        "explanation": "Kr ka Z=36, pra ngarkesa e bërthamës është +36."
+    },
+    {
+        "id": "kimia-struktura-010",
+        "question": "Atomi 207Pb ka 82 elektrone. Numri i neutroneve është:",
+        "answers": [
+            "125",
+            "157",
+            "207",
+            "289"
+        ],
+        "correct": 0,
+        "explanation": "Neutrone=207-82=125."
+    },
+    {
+        "id": "kimia-struktura-011",
+        "question": "Cili nga atomet/jonet ka strukturë elektronike të njëjtë me gaz të plogët? (ZCa=20;ZNa=11;ZF=9;ZCl=17)",
+        "answers": [
+            "Ca2+",
+            "Na",
+            "F",
+            "Cl"
+        ],
+        "correct": 0,
+        "explanation": "Ca2+ humbet 2 elektrone (18e-), duke marrë konfigurimin e Ar (gaz i plogët)."
+    },
+    {
+        "id": "kimia-struktura-012",
+        "question": "Në një atom (neutral) ndodhen:",
+        "answers": [
+            "11p+, 10e-",
+            "12p+, 12e-",
+            "17p+, 18e-",
+            "19p+, 18e-"
+        ],
+        "correct": 1,
+        "explanation": "Në atom neutral protonet=elektronet; vetëm 12p+,12e- plotëson kushtin."
+    },
+    {
+        "id": "kimia-struktura-013",
+        "question": "Atomi i squfurit ka 16 protone dhe 16 neutrone. Cili pohim NUK është i saktë?",
+        "answers": [
+            "Joni S2- ka 18 elektrone",
+            "Numri atomik është 32",
+            "Numri i masës është 32",
+            "Ngarkesa e bërthamës është +16"
+        ],
+        "correct": 1,
+        "explanation": "Numri atomik i S është 16 (protonet), jo 32; numri i masës është 32."
+    },
+    {
+        "id": "kimia-struktura-014",
+        "question": "Joni që ka ngarkesën 3- është:",
+        "answers": [
+            "7p+; 7n0; 10e-",
+            "9p+; 10n0; 10e-",
+            "12p+; 12n0; 10e-",
+            "13p+; 14n0; 10e-"
+        ],
+        "correct": 0,
+        "explanation": "Ngarkesa=protone-elektrone=7-10=-3, pra vetëm 7p+/10e- jep -3."
+    },
+    {
+        "id": "kimia-struktura-015",
+        "question": "Izotopet e një elementi dallohen nga njëri-tjetri nga numri:",
+        "answers": [
+            "atomik Z",
+            "protoneve",
+            "neutroneve",
+            "elektroneve"
+        ],
+        "correct": 2,
+        "explanation": "Izotopet kanë të njëjtin Z (protone) por numër të ndryshëm neutronesh."
+    },
+    {
+        "id": "kimia-struktura-016",
+        "question": "Numri kuantik sekondar (l) përfaqëson:",
+        "answers": [
+            "nivelin energjetik",
+            "gjendjen energjetike",
+            "nënnivelin energjetik",
+            "kahun e lëvizjes së elektronit"
+        ],
+        "correct": 2,
+        "explanation": "Numri kuantik sekondar l përcakton nënnivelin energjetik (s,p,d,f)."
+    },
+    {
+        "id": "kimia-struktura-017",
+        "question": "Orbitalet atomike px, py, pz ndryshojnë nga njëri-tjetri nga:",
+        "answers": [
+            "forma",
+            "madhësia",
+            "kapaciteti",
+            "orientimi"
+        ],
+        "correct": 3,
+        "explanation": "px,py,pz kanë të njëjtën formë dhe madhësi, por orientim të ndryshëm hapësinor."
+    },
+    {
+        "id": "kimia-struktura-018",
+        "question": "Numri i gjendjeve energjetike në një atom përcaktohet nga numri kuantik:",
+        "answers": [
+            "spin (s)",
+            "magnetik (m)",
+            "sekondar (l)",
+            "themelor (n)"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-019",
+        "question": "Numri kuantik themelor NUK merr vlerën:",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "Numri themelor n fillon nga 1, kurrë nuk merr vlerën 0."
+    },
+    {
+        "id": "kimia-struktura-020",
+        "question": "Numri maksimal i elektroneve të një nënniveli gjendet me formulën:",
+        "answers": [
+            "x=2l+1",
+            "x=2n²",
+            "x=2(2l+1)",
+            "x=+1/2"
+        ],
+        "correct": 2,
+        "explanation": "Numri maksimal i elektroneve në një nënnivel jepet nga 2(2l+1)."
+    },
+    {
+        "id": "kimia-struktura-021",
+        "question": "Cili atom ka numrin më të madh të neutroneve? 1H, 4He, 5He, 7Li",
+        "answers": [
+            "1H",
+            "4He",
+            "5He",
+            "7Li"
+        ],
+        "correct": 3,
+        "explanation": "7Li (Z=3) ka 4 neutrone, më shumë se 1H(0), 4He(2), 5He(3)."
+    },
+    {
+        "id": "kimia-struktura-022",
+        "question": "Numri i gjendjeve energjetike (orbitaleve) për l=2 është:",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 2,
+        "explanation": "Numri i orbitaleve=2l+1=2(2)+1=5, për nënnivelin d."
+    },
+    {
+        "id": "kimia-struktura-023",
+        "question": "Dy elektrone në të njëjtin orbital atomik kanë:",
+        "answers": [
+            "n, l, m, ms të njëjtë",
+            "n, l, ms të njëjtë dhe m të ndryshme",
+            "n, l, m të njëjtë dhe ms të ndryshme",
+            "n, l të njëjtë dhe m, ms të ndryshme"
+        ],
+        "correct": 2,
+        "explanation": "Sipas parimit të Paulit, dy elektrone në të njëjtin orbital kanë n,l,m të njëjtë dhe ms të kundërt."
+    },
+    {
+        "id": "kimia-struktura-024",
+        "question": "Në nivelin energjetik K gjenden:",
+        "answers": [
+            "orbitali s",
+            "orbitalet s dhe p",
+            "orbitalet s, p dhe d",
+            "orbitalet s, p, d dhe f"
+        ],
+        "correct": 0,
+        "explanation": "Niveli K (n=1) përmban vetëm orbitalin 1s."
+    },
+    {
+        "id": "kimia-struktura-025",
+        "question": "Për elementin në periodën e katërt, grupin VB, pjesa fundore e konfigurimit elektronik është:",
+        "answers": [
+            "4s2p3",
+            "3d34s2",
+            "4s2p5",
+            "3d14s2"
+        ],
+        "correct": 1,
+        "explanation": "Grupi VB (periodë 4) korrespondon me 3d34s2 (p.sh. vanadi)."
+    },
+    {
+        "id": "kimia-struktura-026",
+        "question": "Vlerat e numrave kuantikë që mund të karakterizojnë një orbital 2p janë:",
+        "answers": [
+            "n=2, l=2, m=1",
+            "n=2, l=1, m=1",
+            "n=2, l=1, m=-2",
+            "n=2, l=-1, m=+2"
+        ],
+        "correct": 1,
+        "explanation": "Për orbital 2p: n=2, l=1 (jo 2 ose -1), m∈{-1,0,+1}."
+    },
+    {
+        "id": "kimia-struktura-027",
+        "question": "Kombinimi i katër numrave kuantikë të dy elektroneve 2s janë:",
+        "answers": [
+            "n=2,l=0,m=0,ms=+1/2 dhe n=2,l=0,m=0,ms=-1/2",
+            "n=2,l=1,m=-1,ms=+1/2 dhe n=2,l=1,m=-1,ms=-1/2",
+            "n=2,l=1,m=0,ms=+1/2 dhe n=2,l=1,m=0,ms=-1/2",
+            "n=3,l=0,m=0,ms=+1/2 dhe n=3,l=0,m=0,ms=-1/2"
+        ],
+        "correct": 0,
+        "explanation": "Orbitali 2s ka n=2,l=0,m=0; dy elektronet kanë spin të kundërt."
+    },
+    {
+        "id": "kimia-struktura-028",
+        "question": "Nënniveli energjetik të cilit i përkojnë n=3 dhe l=2 është:",
+        "answers": [
+            "3d",
+            "3f",
+            "3p",
+            "3s"
+        ],
+        "correct": 0,
+        "explanation": "n=3,l=2 korrespondon me nënnivelin 3d."
+    },
+    {
+        "id": "kimia-struktura-029",
+        "question": "Elektroni me n=3, l=0, m=0, ms=+1/2 ndodhet në orbitalin:",
+        "answers": [
+            "2s",
+            "3s",
+            "3p",
+            "3d"
+        ],
+        "correct": 1,
+        "explanation": "n=3,l=0 korrespondon me orbitalin 3s."
+    },
+    {
+        "id": "kimia-struktura-030",
+        "question": "Në atomin e kalciumit (Z=20), numri i elektroneve me n=4, l=1, m=+1 është:",
+        "answers": [
+            "0 elektrone",
+            "1 elektron",
+            "2 elektrone",
+            "3 elektrone"
+        ],
+        "correct": 0,
+        "explanation": "Ca ka konfigurim [...]4s2, pa elektrone në 4p (n=4,l=1)."
+    },
+    {
+        "id": "kimia-struktura-031",
+        "question": "Elektroni i fundit me n=4, l=1, m=0, ms=-1/2 i përket formulës:",
+        "answers": [
+            "4p2",
+            "4p4",
+            "4p5",
+            "4p6"
+        ],
+        "correct": 2,
+        "explanation": "Sipas rregullit të Hundit, elektroni i 5-të në 3 orbitalet p (parë) çiftëzohet te m=0 me ms=-1/2, pra 4p5."
+    },
+    {
+        "id": "kimia-struktura-032",
+        "question": "Formula elektronike e atomit të kalciumit (Z=20) është:",
+        "answers": [
+            "1s22s2p5 3s2p6 4s2",
+            "1s22s2p6 3s2p6d0 4s2",
+            "1s22s2p5 3s2p4d0 4s2",
+            "1s22s2p6 3s2p6d0 4s1"
+        ],
+        "correct": 1,
+        "explanation": "Ca (Z=20): 1s2 2s2p6 3s2p6d0 4s2."
+    },
+    {
+        "id": "kimia-struktura-033",
+        "question": "Numri i elektroneve valentore të atomit me formulë 1s22s2p6 3s2p4 është:",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "Elektronet valentore janë ato të shtresës së jashtme (n=3): 3s2+3p4=6."
+    },
+    {
+        "id": "kimia-struktura-034",
+        "question": "Formula elektronike e atomit të kromit (Z=24) është:",
+        "answers": [
+            "1s22s2p5 3s2p6d4 4s2",
+            "1s22s2p6 3s2p6d5 4s1",
+            "1s22s2p6 3s2p6d4 4s2",
+            "1s22s2p6 3s2p6 4s2p4"
+        ],
+        "correct": 1,
+        "explanation": "Kromi shfaq përjashtim: [Ar]3d5 4s1, jo 3d4 4s2, për stabilitetin e gjysmëmbushjes d."
+    },
+    {
+        "id": "kimia-struktura-035",
+        "question": "Atomi me formulë 1s22s2p6 3s2p6d7 4s2 është:",
+        "answers": [
+            "Mn (Z=25)",
+            "Fe (Z=26)",
+            "Co (Z=27)",
+            "Ni (Z=28)"
+        ],
+        "correct": 2,
+        "explanation": "Numërimi i elektroneve: 2+2+6+2+6+7+2=27, pra Co."
+    },
+    {
+        "id": "kimia-struktura-036",
+        "question": "Atomi me formulë [Ar]3d104s24p3 (ZAr=18) është:",
+        "answers": [
+            "P (Z=15)",
+            "Ge (Z=32)",
+            "As (Z=33)",
+            "Se (Z=34)"
+        ],
+        "correct": 2,
+        "explanation": "Z=18+10+2+3=33, pra As."
+    },
+    {
+        "id": "kimia-struktura-037",
+        "question": "Cili grup elementesh ka konfigurim të shtresës së jashtme ns2np5?",
+        "answers": [
+            "Halogjenet",
+            "Gazet e plogëta",
+            "Metalet alkalin",
+            "Metalet alkalino-tokësore"
+        ],
+        "correct": 0,
+        "explanation": "ns2np5 është konfigurimi karakteristik i halogjeneve (grupi VIIA)."
+    },
+    {
+        "id": "kimia-struktura-038",
+        "question": "Cilët elementë janë metale alkaline? (ZA=34;ZB=37;ZC=31;ZD=3;ZE=11;ZX=16;ZQ=19;ZZ=21)",
+        "answers": [
+            "B, C, D, Z",
+            "A, E, X, Q",
+            "B, D, E, Q",
+            "C, D, Q, Z"
+        ],
+        "correct": 2,
+        "explanation": "Metale alkaline kanë Z=3(Li),11(Na),19(K),37(Rb): pra D,E,Q,B."
+    },
+    {
+        "id": "kimia-struktura-039",
+        "question": "Të gjitha gazet e plogëta gjenden në atmosferë, PËRVEÇ:",
+        "answers": [
+            "Ne",
+            "Ar",
+            "Kr",
+            "Rn"
+        ],
+        "correct": 3,
+        "explanation": "Rn është radioaktiv, në sasi shumë të vogla/të papërhershme, ndryshe nga Ne,Ar,Kr."
+    },
+    {
+        "id": "kimia-struktura-040",
+        "question": "Agjenti oksidues më i fuqishëm ndër halogjenet është:",
+        "answers": [
+            "jodi",
+            "klori",
+            "fluori",
+            "bromi"
+        ],
+        "correct": 2,
+        "explanation": "Fluori ka elektronegativitetin dhe fuqinë oksiduese më të lartë ndër halogjenet."
+    },
+    {
+        "id": "kimia-struktura-041",
+        "question": "Metalet alkalino-tokësore karakterizohen nga:",
+        "answers": [
+            "rreze atomike e vogël",
+            "energji jonizimi e ulët",
+            "elektonegativitet i lartë",
+            "afinitet elektronik i lartë"
+        ],
+        "correct": 1,
+        "explanation": "Si metale, kanë energji jonizimi relativisht të ulët krahasuar me jometalet."
+    },
+    {
+        "id": "kimia-struktura-042",
+        "question": "Elementet e një periode kanë të njëjtin numër:",
+        "answers": [
+            "nukloneve",
+            "elektroneve valentore",
+            "niveleve energjetike",
+            "gjendjeve energjetike"
+        ],
+        "correct": 2,
+        "explanation": "Elementet e së njëjtës periodë kanë të njëjtin numër shtresash elektronike (n)."
+    },
+    {
+        "id": "kimia-struktura-043",
+        "question": "Elementi me rrezen atomike më të madhe (Ar,Mg,Cl,Na) është:",
+        "answers": [
+            "Ar (Z=18)",
+            "Mg (Z=12)",
+            "Cl (Z=17)",
+            "Na (Z=11)"
+        ],
+        "correct": 3,
+        "explanation": "Na ndodhet më majtas në periodën 3, pra ka rrezen atomike më të madhe."
+    },
+    {
+        "id": "kimia-struktura-044",
+        "question": "Elementi që ndodhet në bllokun \"d\" është:",
+        "answers": [
+            "Gallium (Z=31)",
+            "Ytrium (Z=39)",
+            "Germanium (Z=37)",
+            "Rubidium (Z=38)"
+        ],
+        "correct": 1,
+        "explanation": "Ytriumi ka konfigurim d, pra bën pjesë në bllokun d; të tjerët janë bllok s/p."
+    },
+    {
+        "id": "kimia-struktura-045",
+        "question": "Veti oksiduese më të fuqishme ka joni: (ZCa=20;ZFe=26;ZCu=29;ZZn=30)",
+        "answers": [
+            "Ca2+",
+            "Cu2+",
+            "Fe2+",
+            "Zn2+"
+        ],
+        "correct": 0,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-046",
+        "question": "Perioda e gjashtë e sistemit periodik përmban:",
+        "answers": [
+            "8 elemente",
+            "10 elemente",
+            "18 elemente",
+            "32 elemente"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-047",
+        "question": "Elementi X formon karbonat XCO3. Formula elektronike e X është: (ZNe=10)",
+        "answers": [
+            "[Ne]3s1",
+            "[Ne]3s2",
+            "[Ne]3s2p1",
+            "[Ne]3s2p2"
+        ],
+        "correct": 1,
+        "explanation": "XCO3 kërkon X me valencë 2 (si Ca,Mg): [Ne]3s2 (Mg)."
+    },
+    {
+        "id": "kimia-struktura-048",
+        "question": "Jometalet karakterizohen nga:",
+        "answers": [
+            "energji e ulët jonizimi dhe elektronegativitet i ulët",
+            "energji jonizimi e lartë dhe elektronegativitet i ulët",
+            "afinitet elektronik i lartë dhe elektronegativitet i lartë",
+            "afinitet elektronik i lartë dhe energji jonizimi e ulët"
+        ],
+        "correct": 2,
+        "explanation": "Jometalet karakterizohen nga afinitet elektronik dhe elektronegativitet të lartë."
+    },
+    {
+        "id": "kimia-struktura-049",
+        "question": "Metali alkalino-tokësor më aktiv (Be,Ba,Mg,Ca) është:",
+        "answers": [
+            "barium",
+            "berilium",
+            "kalcium",
+            "magnez"
+        ],
+        "correct": 0,
+        "explanation": "Bariumi, poshtë grupit, është metali alkalino-tokësor më aktiv ndër këta."
+    },
+    {
+        "id": "kimia-struktura-050",
+        "question": "Metali alkalin më pak aktiv (Li,Cs,Na,K) është:",
+        "answers": [
+            "Cs",
+            "K",
+            "Li",
+            "Na"
+        ],
+        "correct": 2,
+        "explanation": "Litiumi, në krye të grupit, është metali alkalin më pak aktiv."
+    },
+    {
+        "id": "kimia-struktura-051",
+        "question": "Elementi më elektronegativ (C,N,P,Si) është:",
+        "answers": [
+            "C",
+            "N",
+            "P",
+            "Si"
+        ],
+        "correct": 1,
+        "explanation": "Azoti (N), djathtas-lart në këtë grup, ka elektronegativitetin më të lartë."
+    },
+    {
+        "id": "kimia-struktura-052",
+        "question": "Litiumi shfaq ngjashmëri diagonale me atomin e:",
+        "answers": [
+            "bor",
+            "silic",
+            "magnez",
+            "alumin"
+        ],
+        "correct": 2,
+        "explanation": "Litiumi shfaq ngjashmëri diagonale klasike me magnezin."
+    },
+    {
+        "id": "kimia-struktura-053",
+        "question": "Gazet e plogëta janë pasive sepse kanë:",
+        "answers": [
+            "densitet të lartë",
+            "energji jonizimi të ulët",
+            "afinitet të lartë për elektronin",
+            "shtresë elektronike të plotësuar"
+        ],
+        "correct": 3,
+        "explanation": "Shtresa elektronike e plotësuar i bën gazet fisnike shumë të qëndrueshme dhe pasive."
+    },
+    {
+        "id": "kimia-struktura-054",
+        "question": "Vlerën më të ulët të elektronegativitetit (B,O,F,C) e ka atomi:",
+        "answers": [
+            "B",
+            "F",
+            "O",
+            "C"
+        ],
+        "correct": 0,
+        "explanation": "Bori, majtas në periodën 2, ka elektronegativitetin më të ulët ndër këta."
+    },
+    {
+        "id": "kimia-struktura-055",
+        "question": "Rrezja jonike e grupit IA sipas rendit në rritje: (ZNa=11;ZRb=37;ZK=19;ZLi=3)",
+        "answers": [
+            "Na+; Li+; K+; Rb+",
+            "Rb+; K+; Na+; Li+",
+            "Li+; Na+; K+; Rb+",
+            "K+; Rb+; Li+; Na+"
+        ],
+        "correct": 2,
+        "explanation": "Rrezja jonike rritet poshtë grupit: Li+<Na+<K+<Rb+."
+    },
+    {
+        "id": "kimia-struktura-056",
+        "question": "Elementi me lehtësinë më të madhe për të lëshuar elektronet: (ZBe=4;ZLi=3;ZF=9;ZN=7)",
+        "answers": [
+            "azoti",
+            "fluori",
+            "litiumi",
+            "beriliumi"
+        ],
+        "correct": 2,
+        "explanation": "Litiumi (metal alkalin) ka energjinë e jonizimit më të ulët, lëshon elektrone më lehtë."
+    },
+    {
+        "id": "kimia-struktura-057",
+        "question": "Kur kalojmë në grup nga lart-poshtë:",
+        "answers": [
+            "Rrezja atomike e elementeve rritet",
+            "Energjia e afërisë për elektronin rritet",
+            "Potenciali i jonizimit rritet",
+            "Vetitë reduktuese zvogëlohen"
+        ],
+        "correct": 0,
+        "explanation": "Poshtë grupit shtohen shtresa elektronike, kështu rrezja atomike rritet."
+    },
+    {
+        "id": "kimia-struktura-058",
+        "question": "Pse energjia e parë e jonizimit tek metalet alkaline zvogëlohet poshtë grupit?",
+        "answers": [
+            "Numri i niveleve energjetike rritet",
+            "Ngarkesa e bërthamës rritet",
+            "Elektronet valentore gjenden në orbitalin s",
+            "Forcat shtytëse mes elektroneve rriten"
+        ],
+        "correct": 0,
+        "explanation": "Poshtë grupit rritet numri i shtresave, elektroni valent largohet nga bërthama, IE ulet."
+    },
+    {
+        "id": "kimia-struktura-059",
+        "question": "Brenda periodës majtas-djathtas:",
+        "answers": [
+            "rritja e rrezes rrit vetinë oksiduese",
+            "rritja e rrezes rrit afrinë për elektronin",
+            "zvogëlimi i rrezes rrit afrinë për elektronin",
+            "zvogëlimi i rrezes zvogëlon potencialin e jonizimit"
+        ],
+        "correct": 2,
+        "explanation": "Majtas-djathtas rrezja zvogëlohet dhe kjo rrit afrinë për elektronin."
+    },
+    {
+        "id": "kimia-struktura-060",
+        "question": "Parametrat që përcaktojnë rrezen atomike janë:",
+        "answers": [
+            "numri kuantik magnetik dhe themelor",
+            "numri kuantik sekondar dhe magnetik",
+            "numri kuantik sekondar dhe numri atomik",
+            "numri kuantik themelor dhe numri atomik"
+        ],
+        "correct": 3,
+        "explanation": "Rrezja atomike varet nga numri i shtresave (n) dhe ngarkesa bërthamore (Z)."
+    },
+    {
+        "id": "kimia-struktura-061",
+        "question": "Elementi me afri të madhe për elektronin: K(Z=19);Se(Z=34);Br(Z=35);Ca(Z=20)",
+        "answers": [
+            "bromi",
+            "seleni",
+            "kalciumi",
+            "kaliumi"
+        ],
+        "correct": 0,
+        "explanation": "Halogjenet kanë afinitet elektronik shumë të lartë; bromi ndër këta e ka më të lartë."
+    },
+    {
+        "id": "kimia-struktura-062",
+        "question": "Përbërja kimike që vepron edhe me acidet edhe me bazat është:",
+        "answers": [
+            "MgO",
+            "Na2O",
+            "H2SO4",
+            "Al(OH)3"
+        ],
+        "correct": 3,
+        "explanation": "Al(OH)3 është hidroksid amfoter, reagon si me acide ashtu edhe me baza."
+    },
+    {
+        "id": "kimia-struktura-063",
+        "question": "Elementi që NUK vepron me HCl të holluar: Zn(30);Fe(26);Cu(29);Al(13)",
+        "answers": [
+            "Al",
+            "Cu",
+            "Fe",
+            "Zn"
+        ],
+        "correct": 1,
+        "explanation": "Cu ndodhet pas hidrogjenit në serinë e aktivitetit, nuk vepron me acide të holluara."
+    },
+    {
+        "id": "kimia-struktura-064",
+        "question": "Brenda grupeve A, rritja e rrezes atomike rrit:",
+        "answers": [
+            "vetitë oksiduese",
+            "vetitë reduktuese",
+            "afrinë për elektronin",
+            "potencialin e jonizimit"
+        ],
+        "correct": 1,
+        "explanation": "Rritja e rrezes (poshtë grupit) e bën elementin më metalik/reduktues."
+    },
+    {
+        "id": "kimia-struktura-065",
+        "question": "Elementi me energjinë e parë të jonizimit më të lartë: (ZNa=11;ZAl=13;ZCl=17;ZSi=14)",
+        "answers": [
+            "Al",
+            "Si",
+            "Cl",
+            "Na"
+        ],
+        "correct": 2,
+        "explanation": "Klori, djathtas në periodë, ka energjinë e jonizimit më të lartë ndër këta."
+    },
+    {
+        "id": "kimia-struktura-066",
+        "question": "Cila formulë paraqet element me veti oksiduese të forta?",
+        "answers": [
+            "1s22s2p6 3s2p6d10 4s2",
+            "1s22s2p6 3s2p6d10 4s2p2",
+            "1s22s2p6 3s2p6d10 4s2p5",
+            "1s22s2p6 3s2p6d10 4s2p6"
+        ],
+        "correct": 2,
+        "explanation": "Konfigurimi 4s2p5 (ns2np5) i përket halogjenit Br, me veti oksiduese të forta."
+    },
+    {
+        "id": "kimia-struktura-067",
+        "question": "Oksidi i kaliumit është:",
+        "answers": [
+            "acid",
+            "bazik",
+            "amfoter",
+            "asnjanës"
+        ],
+        "correct": 1,
+        "explanation": "K2O, si oksid i metalit alkalin, është bazik."
+    },
+    {
+        "id": "kimia-struktura-068",
+        "question": "Renditja sipas aktivitetit në rritje: Na,Cu,Fe",
+        "answers": [
+            "Cu<Fe<Na",
+            "Na<Fe<Cu",
+            "Fe<Na<Cu",
+            "Cu<Na<Fe"
+        ],
+        "correct": 0,
+        "explanation": "Serioja e aktivitetit: Cu më pak aktiv, pastaj Fe, pastaj Na më aktiv."
+    },
+    {
+        "id": "kimia-struktura-069",
+        "question": "Renditja e rritjes së vetive bazike të oksideve grupit IIA: (Be,Mg,Ca,Ba)",
+        "answers": [
+            "MgO; BeO; CaO; BaO",
+            "BeO; MgO; CaO; BaO",
+            "BaO; CaO; MgO; BeO",
+            "CaO; MgO; BaO; BeO"
+        ],
+        "correct": 1,
+        "explanation": "Karakteri bazik rritet poshtë grupit: BeO<MgO<CaO<BaO."
+    },
+    {
+        "id": "kimia-struktura-070",
+        "question": "Halogjeni me pikën e shkrirjes më të lartë (I,Cl,Br,F) është:",
+        "answers": [
+            "jodi",
+            "klori",
+            "bromi",
+            "fluori"
+        ],
+        "correct": 0,
+        "explanation": "Jodi (molekulë më e madhe, forcat Van der Waals më të forta) ka pikën e shkrirjes më të lartë."
+    },
+    {
+        "id": "kimia-struktura-071",
+        "question": "Oksid amfoter: Be(4);Sr(38);Mg(12);Ca(20)",
+        "answers": [
+            "BeO",
+            "CaO",
+            "MgO",
+            "SrO"
+        ],
+        "correct": 0,
+        "explanation": "BeO është amfoter, ndryshe nga oksidet e tjera bazike të grupit IIA."
+    },
+    {
+        "id": "kimia-struktura-072",
+        "question": "Cili metal alkalin NUK vepron vrullshëm me ujin?",
+        "answers": [
+            "Cs",
+            "K",
+            "Li",
+            "Na"
+        ],
+        "correct": 2,
+        "explanation": "Litiumi reagon më ngadalë/më pak vrullshëm me ujin krahasuar me Na,K,Cs."
+    },
+    {
+        "id": "kimia-struktura-073",
+        "question": "Hidroksidi më pak bazik: Ba(56);Sr(38);Mg(12);Ca(20)",
+        "answers": [
+            "Ba(OH)2",
+            "Ca(OH)2",
+            "Mg(OH)2",
+            "Sr(OH)2"
+        ],
+        "correct": 2,
+        "explanation": "Mg(OH)2, në krye të grupit, është më pak bazik ndër këta."
+    },
+    {
+        "id": "kimia-struktura-074",
+        "question": "Oksidi me karakter acid më të theksuar:",
+        "answers": [
+            "Oksid fosfori (V)",
+            "Oksid jodi (III)",
+            "Oksid klori (VII)",
+            "Oksid squfuri (VI)"
+        ],
+        "correct": 2,
+        "explanation": "Cl2O7, me numrin e oksidimit +7, ka karakterin acid më të theksuar."
+    },
+    {
+        "id": "kimia-struktura-075",
+        "question": "Cili çift elementesh është në gjendje të lëngët në temperaturën e dhomës?",
+        "answers": [
+            "Jodi dhe klori",
+            "Hekuri dhe natriumi",
+            "Bromi dhe mërkuri",
+            "Kalciumi dhe fosfori"
+        ],
+        "correct": 2,
+        "explanation": "Br2 dhe Hg janë të dy të lëngshëm në temperaturën e dhomës."
+    },
+    {
+        "id": "kimia-struktura-076",
+        "question": "Cila formulë i përket elementit me veti reduktuese më të forta?",
+        "answers": [
+            "1s22s2p6",
+            "1s22s2p6 3s2",
+            "1s22s2p6 3s2p5",
+            "1s22s2p6 3s2p6 4s2"
+        ],
+        "correct": 3,
+        "explanation": "Ca (formula D), atom më i madh me energji jonizimi më të ulët, ka veti reduktuese më të forta."
+    },
+    {
+        "id": "kimia-struktura-077",
+        "question": "Numri maksimal i elektroneve me n=3, l=1, m=-1 është:",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "Kjo specifikon një orbital të vetëm (3p, m=-1), maksimumi 2 elektrone."
+    },
+    {
+        "id": "kimia-struktura-078",
+        "question": "Numrat kuantikë për elektronin valent të rubidiumit (Z=37) janë:",
+        "answers": [
+            "n=5,l=0,m=0,ms=+1/2",
+            "n=5,l=0,m=0,ms=-1/2",
+            "n=5,l=1,m=1,ms=+1/2",
+            "n=5,l=1,m=0,ms=-1/2"
+        ],
+        "correct": 0,
+        "explanation": "Rb ka konfigurim [Kr]5s1; elektroni valent karakterizohet nga n=5,l=0,m=0,ms=+1/2."
+    },
+    {
+        "id": "kimia-struktura-079",
+        "question": "Cili çift atomesh/jonesh ka konfigurim elektronik të njëjtë? (ZCl=17;ZF=9;ZK=19;ZS=16;ZNe=10)",
+        "answers": [
+            "Cl- dhe K+",
+            "Cl- dhe Ne",
+            "Cl- dhe S2-",
+            "Cl- dhe F-"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-080",
+        "question": "Në atomin e fosforit (Z=15), elektroni i fundit sipas radhës së mbushjes ka vlerat:",
+        "answers": [
+            "n=3,l=1,m=+1,ms=+1/2",
+            "n=3,l=1,m=-1,ms=+1/2",
+            "n=3,l=1,m=0,ms=-1/2",
+            "n=3,l=0,m=0,ms=-1/2"
+        ],
+        "correct": 0,
+        "explanation": "P ka 3p3; sipas rregullit të Hundit, tre elektronet mbushin njëherazi m=-1,0,+1; i treti (i fundit) është te m=+1,ms=+1/2."
+    },
+    {
+        "id": "kimia-struktura-081",
+        "question": "Numri i elektroneve që kanë m=-1, në atomin me Z=40 (Zr), është:",
+        "answers": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correct": 1,
+        "explanation": "Duke numëruar elektronet me m=-1 nëpër nënnivelet p dhe d të plotësuara ose të pjesshme, gjejmë 9 elektrone."
+    },
+    {
+        "id": "kimia-struktura-082",
+        "question": "Formula elektronike për jonin 24Cr2+ është: (ZAr=18)",
+        "answers": [
+            "[Ar]3d54s1",
+            "[Ar]3d4",
+            "[Ar]3d44s1",
+            "[Ar]3d34s2"
+        ],
+        "correct": 1,
+        "explanation": "Cr neutral=[Ar]3d54s1; duke humbur 2e- (së pari 4s1, pastaj 1 nga 3d), mbetet [Ar]3d4."
+    },
+    {
+        "id": "kimia-struktura-083",
+        "question": "Joni X2+ ka 28 elektrone dhe 35 neutrone. Numri i masës i X është:",
+        "answers": [
+            "28",
+            "35",
+            "63",
+            "65"
+        ],
+        "correct": 3,
+        "explanation": "X neutral ka 30e- (Zn); masa=30+35=65."
+    },
+    {
+        "id": "kimia-struktura-084",
+        "question": "Joni X3+ ka 23 elektrone dhe 30 neutrone. Numri atomik i X është:",
+        "answers": [
+            "20",
+            "26",
+            "53",
+            "56"
+        ],
+        "correct": 1,
+        "explanation": "X neutral ka 23+3=26 elektrone/protone (Fe)."
+    },
+    {
+        "id": "kimia-struktura-085",
+        "question": "Numri atomik i elementit me 7 elektrone në nënnivelin \"d\" të nivelit të tretë është:",
+        "answers": [
+            "24",
+            "25",
+            "27",
+            "28"
+        ],
+        "correct": 2,
+        "explanation": "Konfigurimi 3d7 i përket kobaltit (Co, Z=27)."
+    },
+    {
+        "id": "kimia-struktura-086",
+        "question": "Cili atom ka elektrone të paçiftëzuara në nivelin e jashtëm, gjendje normale? Be(4);Ca(20);Ge(32);Zn(30)",
+        "answers": [
+            "Be (Z=4)",
+            "Ca (Z=20)",
+            "Ge (Z=32)",
+            "Zn (Z=30)"
+        ],
+        "correct": 2,
+        "explanation": "Ge ka konfigurim 4p2, me 2 elektrone të paçiftëzuara; të tjerët janë tërësisht të çiftëzuar."
+    },
+    {
+        "id": "kimia-struktura-087",
+        "question": "Joni X3+ ka formulë të pjesshme 2p6. Numri atomik i X është:",
+        "answers": [
+            "10",
+            "13",
+            "18",
+            "21"
+        ],
+        "correct": 1,
+        "explanation": "X3+ me 10 elektrone (si Ne) do të thotë X neutral ka 13 elektrone (Al)."
+    },
+    {
+        "id": "kimia-struktura-088",
+        "question": "Cili pohim NUK është i saktë për numrat kuantikë?",
+        "answers": [
+            "Numri maksimal i elektroneve për l=0 është 2",
+            "Numri maksimal i elektroneve për l=2 është 14",
+            "Numri maksimal i elektroneve për n=3 është 18",
+            "Numri maksimal i gjendjeve energjetike për l=3 është 7"
+        ],
+        "correct": 1,
+        "explanation": "Për l=2 (d), numri maksimal i elektroneve është 10, jo 14 (14 i përket f, l=3)."
+    },
+    {
+        "id": "kimia-struktura-089",
+        "question": "Cili pohim është i vërtetë për numrat kuantikë?",
+        "answers": [
+            "Një orbital s ka numrin kuantik themelor 0",
+            "Një orbital d ka numrin kuantik sekondar 3",
+            "Një orbital f ka numrin kuantik sekondar 3",
+            "Një orbital p ka numrin kuantik magnetik -3"
+        ],
+        "correct": 2,
+        "explanation": "Orbitali f ka l=3; s ka l=0 (jo n=0), d ka l=2, p ka m∈{-1,0,1} jo -3."
+    },
+    {
+        "id": "kimia-struktura-090",
+        "question": "Elektroni i fundit, në 4p4, ka kombinimin e numrave kuantikë:",
+        "answers": [
+            "n=4,l=1,m=-1,ms=+1/2",
+            "n=4,l=1,m=-1,ms=-1/2",
+            "n=4,l=1,m=0,ms=+1/2",
+            "n=4,l=1,m=+1,ms=-1/2"
+        ],
+        "correct": 1,
+        "explanation": "Sipas Hundit, elektroni i 4-t (4p4) çiftëzohet te m=-1 me ms=-1/2."
+    },
+    {
+        "id": "kimia-struktura-091",
+        "question": "Formula elektronike për jonin 29Cu2+ është: (ZAr=18)",
+        "answers": [
+            "[Ar]3d10",
+            "[Ar]3d9",
+            "[Ar]3d94s2",
+            "[Ar]3d104s1"
+        ],
+        "correct": 1,
+        "explanation": "Cu neutral=[Ar]3d104s1; duke humbur 2e- (4s1 pastaj 1 nga 3d), mbetet [Ar]3d9."
+    },
+    {
+        "id": "kimia-struktura-092",
+        "question": "Cili nga atomet/jonet ka konfigurim elektronik të ndryshëm? Ar(18);Cl-(17);K+(19);Kr(36)",
+        "answers": [
+            "Ar",
+            "Cl-",
+            "K+",
+            "Kr"
+        ],
+        "correct": 3,
+        "explanation": "Ar,Cl-,K+ kanë të gjithë 18 elektrone; Kr(36e-) ndryshon."
+    },
+    {
+        "id": "kimia-struktura-093",
+        "question": "Numri i protoneve, neutroneve dhe elektroneve në jonin 52Cr3+ është:",
+        "answers": [
+            "protone 27; neutrone 25; elektrone 21",
+            "protone 27; neutrone 25; elektrone 24",
+            "protone 24; neutrone 28; elektrone 21",
+            "protone 24; neutrone 24; elektrone 21"
+        ],
+        "correct": 2,
+        "explanation": "Cr(Z=24), mass=52→neutrone=28; Cr3+ ka 24-3=21 elektrone."
+    },
+    {
+        "id": "kimia-struktura-094",
+        "question": "Në atomin me Z=31 (Ga), elektroni i fundit ka vlerat:",
+        "answers": [
+            "n=4,l=0,m=0,ms=+1/2",
+            "n=4,l=1,m=-1,ms=+1/2",
+            "n=4,l=1,m=+1,ms=-1/2",
+            "n=4,l=1,m=-1,ms=-1/2"
+        ],
+        "correct": 1,
+        "explanation": "Ga ka konfigurim [Ar]3d104s24p1; elektroni i vetëm në 4p është te m=-1,ms=+1/2."
+    },
+    {
+        "id": "kimia-struktura-095",
+        "question": "Formula elektronike që tregon një metal kalimtar është: (ZAr=18)",
+        "answers": [
+            "[Ar]4s2d0",
+            "[Ar]3d84s2",
+            "[Ar]3d104s24p1",
+            "[Ar]3d104s24p3"
+        ],
+        "correct": 1,
+        "explanation": "[Ar]3d84s2 (Ni) ka nënnivelin d të pjesshëm të mbushur, karakteristikë e metaleve kalimtare."
+    },
+    {
+        "id": "kimia-struktura-096",
+        "question": "Numri i protoneve, neutroneve dhe elektroneve në jonin 41K+ është:",
+        "answers": [
+            "19 protone; 20 neutrone; 19 elektrone",
+            "20 protone; 21 neutrone; 18 elektrone",
+            "19 protone; 22 neutrone; 18 elektrone",
+            "18 protone; 23 neutrone; 19 elektrone"
+        ],
+        "correct": 2,
+        "explanation": "K(Z=19), mass=41→neutrone=22; K+ ka 19-1=18 elektrone."
+    },
+    {
+        "id": "kimia-struktura-097",
+        "question": "Joni X2- (Z=34, Se) ka elektronin e fundit me vlerat:",
+        "answers": [
+            "n=4,l=1,m=0,ms=+1/2",
+            "n=4,l=1,m=+1,ms=+1/2",
+            "n=4,l=1,m=-1,ms=-1/2",
+            "n=4,l=1,m=+1,ms=-1/2"
+        ],
+        "correct": 3,
+        "explanation": "Se2- ka 4p6 (të plotë); elektroni i 6-të çiftëzohet te m=+1 me ms=-1/2."
+    },
+    {
+        "id": "kimia-struktura-098",
+        "question": "Numri i gjendjeve energjetike të ngopura (orbitaleve të plota) në atomin e 35Cl është:",
+        "answers": [
+            "7",
+            "8",
+            "16",
+            "17"
+        ],
+        "correct": 1,
+        "explanation": "Cl (1s22s2p63s2p5) ka 8 orbitale plotësisht të mbushura me 2 elektrone secili."
+    },
+    {
+        "id": "kimia-struktura-099",
+        "question": "Numri maksimal i elektroneve me n=3, m=+1 është:",
+        "answers": [
+            "1",
+            "4",
+            "6",
+            "9"
+        ],
+        "correct": 1,
+        "explanation": "m=+1 gjendet te 3p (1 orbital) dhe 3d (1 orbital); total 2 orbitale × 2e- = 4."
+    },
+    {
+        "id": "kimia-struktura-100",
+        "question": "Numri i elektroneve për l=0 (orbitale s) në atomin e kaliumit (Z=19) është:",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 3,
+        "explanation": "K: 1s2+2s2+3s2+4s1=7 elektrone s."
+    },
+    {
+        "id": "kimia-struktura-101",
+        "question": "Numri i elektroneve për l=1 (orbitale p) në atomin e squfurit (Z=16) është:",
+        "answers": [
+            "6",
+            "9",
+            "10",
+            "12"
+        ],
+        "correct": 2,
+        "explanation": "S: 2p6+3p4=10 elektrone p."
+    },
+    {
+        "id": "kimia-struktura-102",
+        "question": "Numri maksimal i elektroneve me n=3, m=0 është:",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "m=0 gjendet te 3s,3p,3d (3 orbitale) × 2e- = 6."
+    },
+    {
+        "id": "kimia-struktura-103",
+        "question": "Cila formulë i përket atomit në gjendje të ngacmuar?",
+        "answers": [
+            "1s22s1",
+            "1s22s2p4",
+            "1s22s1p3",
+            "1s22s2p6 3s1"
+        ],
+        "correct": 2,
+        "explanation": "1s22s1p3 (Z=6) shkel rregullin Aufbau (2s duhet të mbushet plotësisht para 2p)."
+    },
+    {
+        "id": "kimia-struktura-104",
+        "question": "Numri i orbitaleve për n=5 dhe l=1 (5p) është:",
+        "answers": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "Nënniveli p ka gjithmonë 3 orbitale, pavarësisht n."
+    },
+    {
+        "id": "kimia-struktura-105",
+        "question": "Vlerat e katër numrave kuantikë për elektronin 3d4 janë:",
+        "answers": [
+            "n=3,l=2,m=+1,ms=+1/2",
+            "n=3,l=2,m=+1,ms=-1/2",
+            "n=3,l=2,m=-1,ms=+1/2",
+            "n=3,l=2,m=-2,ms=+1/2"
+        ],
+        "correct": 0,
+        "explanation": "Sipas Hundit, elektroni i 4-t në 3d mbush m=+1 me spin +1/2 (ende pa çiftëzim)."
+    },
+    {
+        "id": "kimia-struktura-106",
+        "question": "Jonet 15P3- dhe Ca2+ kanë të njëjtin numër elektronesh. Nëse neutronet e Ca janë sa protonet, numri i masës së Ca është:",
+        "answers": [
+            "15",
+            "18",
+            "36",
+            "40"
+        ],
+        "correct": 3,
+        "explanation": "Ca ka Z=20; nëse neutrone=protone=20, masa=20+20=40."
+    },
+    {
+        "id": "kimia-struktura-107",
+        "question": "Jonet X2-, Y- dhe Z2+ kanë të njëjtin numër elektronesh me atomin e Ne (Z=10). Numri i protoneve për X, Y, Z është:",
+        "answers": [
+            "8; 9; 12",
+            "7; 8; 13",
+            "8; 9; 14",
+            "7; 8; 15"
+        ],
+        "correct": 0,
+        "explanation": "X2-(Z=8,O), Y-(Z=9,F), Z2+(Z=12,Mg) — të gjithë izoelektronikë me Ne."
+    },
+    {
+        "id": "kimia-struktura-108",
+        "question": "Joni Y- ka 74 neutrone dhe 54 elektrone. Numri i masës së Y është:",
+        "answers": [
+            "54",
+            "55",
+            "127",
+            "129"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-109",
+        "question": "Cili kombinim numrash kuantikë paraqet energjinë më të lartë të elektronit?",
+        "answers": [
+            "n=3,l=0,m=0,ms=+1/2",
+            "n=3,l=1,m=1,ms=+1/2",
+            "n=3,l=2,m=1,ms=+1/2",
+            "n=4,l=0,m=0,ms=+1/2"
+        ],
+        "correct": 2,
+        "explanation": "Sipas rregullit n+l, kombinimi me n+l më të madh (3+2=5) ka energjinë më të lartë."
+    },
+    {
+        "id": "kimia-struktura-110",
+        "question": "Elementi me konfigurim 3p5 të shtresës së jashtme ka një neutron më shumë se elektron. Numri i masës është:",
+        "answers": [
+            "18",
+            "31",
+            "35",
+            "36"
+        ],
+        "correct": 2,
+        "explanation": "3p5 i përket Cl (Z=17,17e-); neutrone=17+1=18; masa=17+18=35."
+    },
+    {
+        "id": "kimia-struktura-111",
+        "question": "Elementi X ka elektrone në 6 gjendje energjetike dhe shuma e spineve 0. Formula elektronike e X: (ZNe=10)",
+        "answers": [
+            "[Ne]3s1",
+            "[Ne]3s2",
+            "[Ne]3s2p1",
+            "[Ne]3s2p2"
+        ],
+        "correct": 1,
+        "explanation": "[Ne]3s2 (Mg) ka 6 orbitale të mbushura (1s,2s,2px,2py,2pz,3s), të gjitha të çiftëzuara (spin=0)."
+    },
+    {
+        "id": "kimia-struktura-112",
+        "question": "Elementi me elektrone në 8 gjendje energjetike dhe shumën e spineve 1 ka formulën:",
+        "answers": [
+            "1s22s2p6 3s2p5",
+            "1s22s2p6 3s2p1",
+            "1s22s2p6 3s2p3",
+            "1s22s2p6 3s2p2"
+        ],
+        "correct": 3,
+        "explanation": "3s2p2 (Si) ka 8 orbitale të zëna, me 2 elektrone të paçiftëzuara në 3p (shuma spin=1)."
+    },
+    {
+        "id": "kimia-struktura-113",
+        "question": "Cilët elementë ndodhen në të njëjtin grup? (ZP=15;ZAl=13;ZGa=31;ZLi=3;ZB=5;ZBe=4;ZO=8;ZS=16)",
+        "answers": [
+            "Li, Be, B",
+            "Al, Ga, B",
+            "O, S, Be",
+            "B, O, P"
+        ],
+        "correct": 1,
+        "explanation": "Al, Ga dhe B janë të gjithë të grupit IIIA."
+    },
+    {
+        "id": "kimia-struktura-114",
+        "question": "Cilët elementë ndodhen në të njëjtën periodë? (ZSe=34;ZSi=14;ZGa=31;ZAl=13;ZB=5;ZS=16;ZO=8;ZSc=21)",
+        "answers": [
+            "B, Al, Ga",
+            "S, O, Se",
+            "Ga, Se, Sc",
+            "Si, S, Sc"
+        ],
+        "correct": 2,
+        "explanation": "Ga, Se dhe Sc janë të gjithë të periodës 4."
+    },
+    {
+        "id": "kimia-struktura-115",
+        "question": "Cili oksid NUK tretet në ujë? Be(4);Sr(38);Ba(56);Ca(20)",
+        "answers": [
+            "BeO",
+            "CaO",
+            "BaO",
+            "SrO"
+        ],
+        "correct": 0,
+        "explanation": "BeO, ndryshe nga oksidet e tjera bazike të grupit IIA, praktikisht nuk tretet në ujë."
+    },
+    {
+        "id": "kimia-struktura-116",
+        "question": "Renditja sipas zvogëlimit të elektronegativitetit: K,F,Ca,Cl",
+        "answers": [
+            "K, F, Ca, Cl",
+            "F, K, Cl, Ca",
+            "F, Cl, Ca, K",
+            "Cl, Ca, F, K"
+        ],
+        "correct": 2,
+        "explanation": "Elektronegativiteti zvogëlohet: F(më lartë)>Cl>Ca>K(më ulët)."
+    },
+    {
+        "id": "kimia-struktura-117",
+        "question": "Na dhe S formojnë Na2S. Si ndryshojnë rrezet atomike dhe jonike të tyre?",
+        "answers": [
+            "rNa>rS atomike dhe rNa+>rS2- jonike",
+            "rNa>rS atomike dhe rNa+<rS2- jonike",
+            "rNa<rS atomike dhe rNa+>rS2- jonike",
+            "rNa<rS atomike dhe rNa+<rS2- jonike"
+        ],
+        "correct": 1,
+        "explanation": "Na (metal) ka rreze atomike më të madhe se S; por si jon, Na+ (kation i vogël) < S2- (anion i madh)."
+    },
+    {
+        "id": "kimia-struktura-118",
+        "question": "Energjia e dytë e jonizimit të kalciumit është 1150kJ/mol. Cili barazim e tregon këtë?",
+        "answers": [
+            "Ca(g)→Ca2+(g)+2e-; ∆Hi2=+1150kJ/mol",
+            "Ca+(g)→Ca2+(g)+e-; ∆Hi2=+1150kJ/mol",
+            "Ca+(g)→Ca2+(g)+e-; ∆Hi2=-1150kJ/mol",
+            "Ca(g)→Ca2+(g)+2e-; ∆Hi2=-1150kJ/mol"
+        ],
+        "correct": 1,
+        "explanation": "Energjia e dytë e jonizimit është për heqjen e elektronit të 2-të nga joni Ca+ (jo nga atomi neutral), me vlerë pozitive (proces endotermik)."
+    },
+    {
+        "id": "kimia-struktura-119",
+        "question": "Renditja sipas rritjes së energjisë së parë të jonizimit: Fe,Si,Ba,O,He",
+        "answers": [
+            "Fe, O, He, Si, Ba",
+            "Ba, Fe, Si, O, He",
+            "Si, O, He, Fe, Ba",
+            "Ba, He, Si, Fe, O"
+        ],
+        "correct": 1,
+        "explanation": "IE rritet: Ba(më e ulët)<Fe<Si<O<He(më e lartë)."
+    },
+    {
+        "id": "kimia-struktura-120",
+        "question": "Renditja sipas vetive reduktuese në rritje: Ca,Al,Zn,K",
+        "answers": [
+            "Zn, Al, Ca, K",
+            "K, Zn, Ca, Al",
+            "Zn, Ca, K, Al",
+            "Zn, Al, K, Ca"
+        ],
+        "correct": 0,
+        "explanation": "Sipas serisë së aktivitetit, vetitë reduktuese rriten: Zn<Al<Ca<K."
+    },
+    {
+        "id": "kimia-struktura-121",
+        "question": "Cili atom/jon ka rrezen më të madhe? Al3+(13);Br-(35);Ca(20);K+(19)",
+        "answers": [
+            "Al3+",
+            "Br-",
+            "Ca",
+            "K+"
+        ],
+        "correct": 2,
+        "explanation": "Ca (atom neutral, me shtresë shtesë krahasuar me jonet e listuara) ka rrezen më të madhe."
+    },
+    {
+        "id": "kimia-struktura-122",
+        "question": "Renditja sipas rritjes së rrezes atomike: Sn(50);Ne(10);Cs(55);Cl(17);Se(34)",
+        "answers": [
+            "Sn, Ne, Cs, Cl, Se",
+            "Cs, Sn, Se, Cl, Ne",
+            "Ne, Cl, Se, Sn, Cs",
+            "Sn, Cs, Se, Cl, Ne"
+        ],
+        "correct": 2,
+        "explanation": "Rrezja rritet: Ne(më e vogël)<Cl<Se<Sn<Cs(më e madhe)."
+    },
+    {
+        "id": "kimia-struktura-123",
+        "question": "Metali që bashkëvepron me acide të holluara, por NUK vepron me ujin e ftohtë: Cu(29);Zn(30);Ca(20);Na(11)",
+        "answers": [
+            "Cu",
+            "Ca",
+            "Na",
+            "Zn"
+        ],
+        "correct": 3,
+        "explanation": "Zn reagon me acide të holluara, por jo me ujë të ftohtë (vetëm me avuj/ujë të ngrohtë)."
+    },
+    {
+        "id": "kimia-struktura-124",
+        "question": "Renditja e hidroksideve sipas zvogëlimit të tretshmërisë: Ba(56);Mg(12);Ca(20);Sr(38)",
+        "answers": [
+            "Sr(OH)2, Ba(OH)2, Ca(OH)2, Mg(OH)2",
+            "Ba(OH)2, Sr(OH)2, Ca(OH)2, Mg(OH)2",
+            "Mg(OH)2, Ba(OH)2, Sr(OH)2, Ca(OH)2",
+            "Ca(OH)2, Sr(OH)2, Mg(OH)2, Ba(OH)2"
+        ],
+        "correct": 1,
+        "explanation": "Tretshmëria rritet poshtë grupit IIA, kështu zvogëlohet: Ba(OH)2>Sr(OH)2>Ca(OH)2>Mg(OH)2."
+    },
+    {
+        "id": "kimia-struktura-125",
+        "question": "Elementi X formon jonin X2- dhe ka Z=34. Vendi i tij në sistemin periodik është:",
+        "answers": [
+            "perioda 3 grupi IIIA",
+            "perioda 4 grupi IVA",
+            "perioda 4 grupi VIA",
+            "perioda 5 grupi IIA"
+        ],
+        "correct": 2,
+        "explanation": "Z=34 (Se) ndodhet në periodën 4, grupin VIA."
+    },
+    {
+        "id": "kimia-struktura-126",
+        "question": "Renditja sipas rritjes së elektronegativitetit: Si(14),Mg(12),Na(11),S(16),Cl(17)",
+        "answers": [
+            "Mg, Na, Si, S, Cl",
+            "Cl, S, Si, Na, Mg",
+            "Na, Mg, Si, S, Cl",
+            "S, Cl, Si, Mg, Na"
+        ],
+        "correct": 2,
+        "explanation": "Elektronegativiteti rritet majtas-djathtas në periodë: Na<Mg<Si<S<Cl."
+    },
+    {
+        "id": "kimia-struktura-127",
+        "question": "Cili reaksion NUK ndodh?",
+        "answers": [
+            "2F2+2H2O→4HF+O2",
+            "2Na+F2→2NaF",
+            "2NaF+Cl2→2NaCl+F2",
+            "2NaBr+Cl2→2NaCl+Br2"
+        ],
+        "correct": 2,
+        "explanation": "Fluori është më aktiv se klori; Cl2 nuk mund ta zhvendosë F nga NaF."
+    },
+    {
+        "id": "kimia-struktura-128",
+        "question": "Gurgullimi i Cl2 (gaz) në tretësirën ujore të NaBr jep:",
+        "answers": [
+            "NaBr(uj)+Cl2(g)",
+            "NaCl(uj)+HBr(uj)",
+            "Br2(l)+2NaCl(uj)",
+            "NaClO3(uj)+Br2(l)"
+        ],
+        "correct": 2,
+        "explanation": "Klori (më aktiv) zhvendos bromin nga NaBr: Br2+2NaCl."
+    },
+    {
+        "id": "kimia-struktura-129",
+        "question": "Fluori (Z=9) ka vetëm valencën I sepse:",
+        "answers": [
+            "është një halogjen",
+            "nuk ka orbital \"s\"",
+            "nuk ka orbital \"p\"",
+            "nuk ka orbital \"d\""
+        ],
+        "correct": 3,
+        "explanation": "Mungesa e orbitalit d në nivelin 2 e pengon F të zgjerojë oktetin, kufizuar në valencën I."
+    },
+    {
+        "id": "kimia-struktura-130",
+        "question": "Nga veprimi i CaO me ujin përftohet:",
+        "answers": [
+            "CaOH+H2",
+            "CaO+H2",
+            "Ca(OH)2",
+            "CaH2+O2"
+        ],
+        "correct": 2,
+        "explanation": "CaO+H2O→Ca(OH)2."
+    },
+    {
+        "id": "kimia-struktura-131",
+        "question": "Produktet e bashkëveprimit të kaliumit me ujin janë:",
+        "answers": [
+            "hidrur kaliumi dhe oksigjen",
+            "hidroksid kaliumi dhe hidrogjen",
+            "oksid kaliumi dhe hidrogjen",
+            "hidroksid kaliumi dhe oksigjen"
+        ],
+        "correct": 1,
+        "explanation": "2K+2H2O→2KOH+H2."
+    },
+    {
+        "id": "kimia-struktura-132",
+        "question": "Bromi mund të formohet nga bashkëveprimi i KBr me:",
+        "answers": [
+            "tretësirën e jodit",
+            "tretësirën e klorit",
+            "tretësirën e klorurit të natriumit",
+            "tretësirën e jodurit të kaliumit"
+        ],
+        "correct": 1,
+        "explanation": "Klori (më aktiv se bromi) zhvendos bromin nga KBr."
+    },
+    {
+        "id": "kimia-struktura-133",
+        "question": "Nga bashkëveprimi i MgO me HCl të holluar përftohet:",
+        "answers": [
+            "MgCl2(uj)+H2O(l)",
+            "MgO(ng)+H2O(l)",
+            "MgCl2(uj)+H2(g)",
+            "MgO(ng)+H2(g)"
+        ],
+        "correct": 0,
+        "explanation": "MgO+2HCl→MgCl2+H2O."
+    },
+    {
+        "id": "kimia-struktura-134",
+        "question": "Cili reaksion NUK ndodh?",
+        "answers": [
+            "NaCl+F2",
+            "KBr+Cl2",
+            "KI+Br2",
+            "KBr+I2"
+        ],
+        "correct": 3,
+        "explanation": "Jodi është më pak aktiv se bromi, nuk mund ta zhvendosë Br nga KBr."
+    },
+    {
+        "id": "kimia-struktura-135",
+        "question": "Oksidi me karakter acid më të theksuar: (ZP=15;ZSi=14;ZCl=17;ZS=16)",
+        "answers": [
+            "Cl2O7",
+            "P2O5",
+            "SO3",
+            "SiO2"
+        ],
+        "correct": 0,
+        "explanation": "Cl2O7 (numër oksidimi +7) ka karakterin acid më të theksuar."
+    },
+    {
+        "id": "kimia-struktura-136",
+        "question": "X+2HCl→XCl2+H2 dhe XO+2NaOH→Na2XO2+H2O. Çfarë është elementi X?",
+        "answers": [
+            "Një metal alkalin",
+            "Një metal (Gr IIA)",
+            "Halogjen",
+            "Një metal (Gr IIIA)"
+        ],
+        "correct": 1,
+        "explanation": "Formimi i XCl2 (divalent) dhe oksidi amfoter tregojnë një metal të grupit IIA me sjellje amfoterike (si Be)."
+    },
+    {
+        "id": "kimia-struktura-137",
+        "question": "X2O është oksid bazik: I.X është metal; II.X2O+HCl→kripë+ujë; III.X2O+NaOH→kripë+ujë. Cilat janë të sakta?",
+        "answers": [
+            "Vetëm I",
+            "Vetëm II",
+            "I dhe II",
+            "II dhe III"
+        ],
+        "correct": 2,
+        "explanation": "Oksid bazik reagon me acide (jo baza), pra I dhe II janë të sakta, III jo."
+    },
+    {
+        "id": "kimia-struktura-138",
+        "question": "Oksidi me karakter bazik më të theksuar: Zn(30);Cr(24);Mg(12);Be(4)",
+        "answers": [
+            "oksid berili",
+            "oksid magnezi",
+            "oksid kromi (III)",
+            "oksid zinku"
+        ],
+        "correct": 1,
+        "explanation": "MgO ka karakterin bazik më të theksuar; BeO amfoter, ZnO/Cr2O3 gjithashtu amfoter/më pak bazik."
+    },
+    {
+        "id": "kimia-struktura-139",
+        "question": "Renditja e joneve sipas rritjes së rrezes jonike: Al3+(13),O2-(8),N3-(7),Mg2+(12)",
+        "answers": [
+            "Al3+, O2-, N3-, Mg2+",
+            "Al3+, Mg2+, O2-, N3-",
+            "Mg2+, O2-, N3-, Al3+",
+            "O2-, N3-, Mg2+, Al3+"
+        ],
+        "correct": 1,
+        "explanation": "Të gjithë izoelektronikë me Ne; rrezja rritet me zvogëlimin e Z: Al3+<Mg2+<O2-<N3-."
+    },
+    {
+        "id": "kimia-struktura-140",
+        "question": "Elementi që zhvendos tre halogjenet e tjera nga përbërjet e tyre është:",
+        "answers": [
+            "jodi",
+            "klori",
+            "fluori",
+            "bromi"
+        ],
+        "correct": 2,
+        "explanation": "Fluori, halogjeni më aktiv, mund të zhvendosë Cl,Br,I nga kripërat e tyre."
+    },
+    {
+        "id": "kimia-struktura-141",
+        "question": "Prirja e aktivitetit tё grupit IA dhe VIIA kur kalojmë nё grup nga lart-poshtë:",
+        "answers": [
+            "Aktiviteti rritet në IA dhe VIIA",
+            "Aktiviteti zvogëlohet në IA dhe VIIA",
+            "Aktiviteti zvogëlohet në IA, por rritet në VIIA",
+            "Aktiviteti rritet në IA, por zvogëlohet në VIIA"
+        ],
+        "correct": 3,
+        "explanation": "Poshtë grupit, metalet alkaline bëhen më aktive, ndërsa halogjenet bëhen më pak aktive."
+    },
+    {
+        "id": "kimia-struktura-142",
+        "question": "Renditja e oksideve (Cr,S,C,Al) sipas karakterit acid, asnjanës, amfoter, bazik:",
+        "answers": [
+            "SO2 CO CrO Al2O3",
+            "CO SO2 CrO Al2O3",
+            "CO SO2 Al2O3 CrO",
+            "SO2 CO Al2O3 CrO"
+        ],
+        "correct": 3,
+        "explanation": "Acid=SO2, Asnjanës=CO, Amfoter=Al2O3, Bazik=CrO."
+    },
+    {
+        "id": "kimia-struktura-143",
+        "question": "Cili pohim është i saktë për halogjenet?",
+        "answers": [
+            "Bromi është më aktiv se klori",
+            "Klori nuk është i tretshëm në ujë",
+            "Fluori është agjenti oksidues më i fuqishëm",
+            "Jodi në temperaturën e dhomës është i lëngët"
+        ],
+        "correct": 2,
+        "explanation": "Fluori ka fuqinë oksiduese më të lartë ndër halogjenet."
+    },
+    {
+        "id": "kimia-struktura-144",
+        "question": "He(VIIIA), Cs(IA), F dhe Cl(VIIA). Cila alternativë është e saktë?",
+        "answers": [
+            "Elementi më elektronegativ është ceziumi",
+            "Elementi më elektropozitiv është fluori",
+            "Elementi me veti oksiduese më të forta është klori",
+            "Elementi me energjinë e jonizimit më të lartë është helium"
+        ],
+        "correct": 3,
+        "explanation": "Heliumi ka energjinë e jonizimit më të lartë ndër të gjithë elementet."
+    },
+    {
+        "id": "kimia-struktura-145",
+        "question": "Renditja e metaleve sipas zvogëlimit të shpejtësisë me ujin: Al(13),Mg(12),K(19),Ca(20)",
+        "answers": [
+            "Mg, Al, K, Ca",
+            "Mg, Al, Ca, K",
+            "K, Ca, Mg, Al",
+            "K, Ca, Al, Mg"
+        ],
+        "correct": 2,
+        "explanation": "Serioja e aktivitetit: K reagon më shpejt, pastaj Ca, Mg, Al më ngadalë."
+    },
+    {
+        "id": "kimia-struktura-146",
+        "question": "Cili pohim është i saktë për atomet 23Na dhe 40Ca?",
+        "answers": [
+            "Nuk veprojnë vrullshëm me ujin",
+            "Kanë veti reduktuese të forta",
+            "Kanë të njëjtë numrin e periodës",
+            "Kanë numër të njëjtë të elektroneve valentore"
+        ],
+        "correct": 1,
+        "explanation": "Të dy janë metale reaktivë (alkalin/alkalino-tokësor) me veti reduktuese të forta."
+    },
+    {
+        "id": "kimia-struktura-147",
+        "question": "Produktet e bashkëveprimit të CaCO3 me HNO3 të holluar janë:",
+        "answers": [
+            "nitrat kalciumi dhe ujë",
+            "oksid kalciumi dhe dioksid azoti",
+            "acid karbonik, dioksid azoti dhe ujë",
+            "nitrat kalciumi, ujë dhe dioksid karboni"
+        ],
+        "correct": 3,
+        "explanation": "CaCO3+2HNO3→Ca(NO3)2+H2O+CO2."
+    },
+    {
+        "id": "kimia-struktura-148",
+        "question": "Cili metal vepron vrullshëm me avujt e ujit, por ngadalë me ujin e ftohtë? Mg(12);Cu(29);Ca(20);K(19)",
+        "answers": [
+            "K",
+            "Ca",
+            "Mg",
+            "Cu"
+        ],
+        "correct": 2,
+        "explanation": "Magnezi është shembulli klasik: ngadalë me ujë të ftohtë, vrullshëm me avuj/ujë të nxehtë."
+    },
+    {
+        "id": "kimia-struktura-149",
+        "question": "Karbonatet sipas rritjes së qëndrueshmërisë ndaj nxehtësisë: Mg(12),Be(4),Ca(20),K(19)",
+        "answers": [
+            "BeCO3; MgCO3; CaCO3; K2CO3",
+            "MgCO3; CaCO3; BeCO3; K2CO3",
+            "K2CO3; MgCO3; CaCO3; BeCO3",
+            "CaCO3; K2CO3; BeCO3; MgCO3"
+        ],
+        "correct": 0,
+        "explanation": "Qëndrueshmëria termike rritet me rritjen e rrezes kationike; K2CO3 (alkalin) më e qëndrueshme."
+    },
+    {
+        "id": "kimia-struktura-150",
+        "question": "Cili çift metalesh NUK oksidohet kur shtojmë ujë? Cu(29);Ag(47);Ca(20);K(19)",
+        "answers": [
+            "Ca dhe Ag",
+            "Cu dhe K",
+            "Cu dhe Ag",
+            "Ca dhe K"
+        ],
+        "correct": 2,
+        "explanation": "Cu dhe Ag janë metale të pa-aktivë, nuk reagojnë/oksidohen me ujë."
+    },
+    {
+        "id": "kimia-struktura-151",
+        "question": "Oksidi i manganit që shfaq veti bazike është:",
+        "answers": [
+            "MnO",
+            "MnO2",
+            "MnO3",
+            "Mn2O7"
+        ],
+        "correct": 0,
+        "explanation": "MnO (numër oksidimi më i ulët, +2) është më bazik ndër oksidet e Mn."
+    },
+    {
+        "id": "kimia-struktura-152",
+        "question": "Cila substancë vepron me ujin dhe formon një përbërje të tretshme dhe një gaz?",
+        "answers": [
+            "Bakri",
+            "Ceziumi",
+            "Karbonati i kalciumit",
+            "Karbonati i bariumit"
+        ],
+        "correct": 1,
+        "explanation": "Ceziumi+ujë→CsOH (i tretshëm)+H2 (gaz)."
+    },
+    {
+        "id": "kimia-struktura-153",
+        "question": "Numri maksimal i elektroneve me n=4, m=0 dhe ms=+1/2 është:",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "m=0 gjendet te 4s,4p,4d,4f (4 orbitale); me ms fiks (+1/2), max 1 elektron/orbital = 4."
+    },
+    {
+        "id": "kimia-struktura-154",
+        "question": "Numri i elektroneve të paçiftëzuara në atomin e kromit (Z=24) është:",
+        "answers": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 3,
+        "explanation": "Cr=[Ar]3d54s1: 5 elektrone të paçiftëzuar në 3d + 1 në 4s = 6."
+    },
+    {
+        "id": "kimia-struktura-155",
+        "question": "Joni M+ ka 18 elektrone dhe 20 neutrone. Izotopi i M është:",
+        "answers": [
+            "38/18M",
+            "39/19M",
+            "39/18M",
+            "40/19M"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-156",
+        "question": "Numri i elektroneve me l=0 në atomin e elementit me Z=35 (Br) është:",
+        "answers": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "correct": 2,
+        "explanation": "Br: 1s2+2s2+3s2+4s2=8 elektrone s."
+    },
+    {
+        "id": "kimia-struktura-157",
+        "question": "Joni XO3^n- (me 16O) ka 48 neutrone dhe 50 elektrone. Numri i masës për X është:",
+        "answers": [
+            "15",
+            "16",
+            "31",
+            "50"
+        ],
+        "correct": 2,
+        "explanation": "Duke zbritur kontributin e oksigjenit (protone/neutrone/elektrone), rezulton X me Z=15 dhe masë 31 (fosfor-31)."
+    },
+    {
+        "id": "kimia-struktura-158",
+        "question": "Për elementin 1s22s2p6 3s2p6d3 4s2, cili pohim është i vërtetë?",
+        "answers": [
+            "Elementi është element s",
+            "Ka 12 elektrone për l=1",
+            "Pas 3p6 mbushet 3d3 pastaj 4s2",
+            "Ka 6 elektrone për n=4,l=0"
+        ],
+        "correct": 1,
+        "explanation": "Numri i elektroneve p: 2p6+3p6=12; të tjerat janë të pasakta (është d-elment, 4s mbushet para 3d, 4s ka vetëm 2e-)."
+    },
+    {
+        "id": "kimia-struktura-159",
+        "question": "Joni X3+ ka 24 neutrone dhe konfigurim që përfundon me 3p6. Cili element është izotop i X?",
+        "answers": [
+            "42X",
+            "45X",
+            "45X",
+            "47X"
+        ],
+        "correct": 3,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-160",
+        "question": "Elektroni i fundit i atomit X ka n=4,l=2,m=-1,ms=+1/2. Vendndodhja e X është:",
+        "answers": [
+            "perioda 4, grupi IIIB",
+            "perioda 4, grupi IVB",
+            "perioda 5, grupi IVA",
+            "perioda 5, grupi IVB"
+        ],
+        "correct": 3,
+        "explanation": "Konfigurimi 4d2 (elektron i 2-të në d) i përket periodës 5, grupit IVB (si Zr)."
+    },
+    {
+        "id": "kimia-struktura-161",
+        "question": "Për elementin X me konfigurim të pjesshëm 4d1 5s2, cili pohim NUK është i vërtetë?",
+        "answers": [
+            "Numri i elektroneve për l=1 është 18",
+            "Numri i elektroneve për l=2 është 11",
+            "Ka 5 elektrone për n=4 dhe m=0",
+            "Në gjendje normale elektronet shpërndahen në 20 gjendje energjetike"
+        ],
+        "correct": 2,
+        "explanation": "Për n=4,m=0: 4s2+4p6(m=0 orbital)+4d(elektroni nuk është te m=0)=4, jo 5."
+    },
+    {
+        "id": "kimia-struktura-162",
+        "question": "Joni X3+ është izoelektronik me Y2- (ZY=16). Neutronet e X janë 24. Masa atomike e krahasuar e X është:",
+        "answers": [
+            "37",
+            "39",
+            "42",
+            "45"
+        ],
+        "correct": 3,
+        "explanation": "Y2- ka 18e-; X3+ ka gjithashtu 18e-, pra X ka Z=21; masa=21+24=45."
+    },
+    {
+        "id": "kimia-struktura-163",
+        "question": "Klori ka izotope 35Cl dhe 37Cl; Ar=35,5. Përqindjet e izotopeve janë:",
+        "answers": [
+            "35Cl 25% dhe 37Cl 75%",
+            "35Cl 35% dhe 37Cl 65%",
+            "35Cl 65% dhe 37Cl 35%",
+            "35Cl 75% dhe 37Cl 25%"
+        ],
+        "correct": 3,
+        "explanation": "35x+37(1-x)=35,5 → x=0,75, pra 35Cl=75% dhe 37Cl=25%."
+    },
+    {
+        "id": "kimia-struktura-164",
+        "question": "Elementi me elektrone në 9 gjendje energjetike dhe shumën e spineve +3/2. Vendndodhja e tij:",
+        "answers": [
+            "perioda 3, grupi IVA",
+            "perioda 3, grupi VA",
+            "perioda 4, grupi IVA",
+            "perioda 4, grupi IVB"
+        ],
+        "correct": 1,
+        "explanation": "Konfigurimi [Ne]3s2p3 (P) ka 9 orbitale të zëna dhe 3 elektrone të paçiftëzuara (spin=3/2); P është periodë 3, grup VA."
+    },
+    {
+        "id": "kimia-struktura-165",
+        "question": "Elektroni i fundit i atomit të stronciumit (Z=38) ndodhet në:",
+        "answers": [
+            "orbitalin s",
+            "orbitalin px",
+            "orbitalin py",
+            "orbitalin pz"
+        ],
+        "correct": 0,
+        "explanation": "Sr ka konfigurim [Kr]5s2, elektroni i fundit është në orbitalin s."
+    },
+    {
+        "id": "kimia-struktura-166",
+        "question": "Forma e orbitalit ku ndodhet elektroni i fundit të rubidiumit (Z=37) është:",
+        "answers": [
+            "rrethore",
+            "sferike",
+            "fjongo",
+            "eliptike"
+        ],
+        "correct": 1,
+        "explanation": "Rb ka elektronin e fundit në 5s, orbital me formë sferike."
+    },
+    {
+        "id": "kimia-struktura-167",
+        "question": "Për elementin me Z=40 (Zr), cili pohim është i vërtetë?",
+        "answers": [
+            "Element që bën pjesë në bllokun s",
+            "Ka 12 elektrone për l=2",
+            "Ka 20 elektrone për l=1",
+            "Ka 12 elektrone për l=0"
+        ],
+        "correct": 1,
+        "explanation": "Zr: 3d10+4d2=12 elektrone d (l=2)."
+    },
+    {
+        "id": "kimia-struktura-168",
+        "question": "Izotopet: 35E(Z=17); 40X(Z=18); 35Y(Z=16, si Y2-); 40Z(Z=17). Cili pohim NUK është i saktë?",
+        "answers": [
+            "E dhe Z janë izotope të të njëjtit element",
+            "Numrin më të vogël të elektroneve e ka joni Y2-",
+            "Numrin më të madh të neutroneve e ka Z",
+            "Numrin më të madh të protoneve e ka X"
+        ],
+        "correct": 1,
+        "explanation": "E dhe Z(Cl,17e- si atome) kanë më pak elektrone se Y2-(18e-); pohimi B është i pasaktë."
+    },
+    {
+        "id": "kimia-struktura-169",
+        "question": "Joni X3+ ka 5 elektrone në nënnivelin \"d\" të nivelit të tretë. Vendndodhja e X është:",
+        "answers": [
+            "perioda e tretë, grupi VIA",
+            "perioda e tretë, grupi VIB",
+            "perioda e katërt, grupi VIB",
+            "perioda e katërt, grupi VIIIB"
+        ],
+        "correct": 3,
+        "explanation": "X3+=[Ar]3d5 përkon me Fe3+ (nga Fe, [Ar]3d64s2); Fe është periodë 4, grup VIIIB."
+    },
+    {
+        "id": "kimia-struktura-170",
+        "question": "Numrat kuantikë për elektronet e larguara nga 29Cu për të formuar Cu2+ janë:",
+        "answers": [
+            "4s(ms=+1/2) dhe 3d,m=+2(ms=-1/2)",
+            "4s(ms=-1/2) dhe 3d,m=+2(ms=+1/2)",
+            "4s,m=1(ms=-1/2) dhe 3d,m=-2(ms=+1/2)",
+            "4s(ms=-1/2) dhe 4s,m=0(ms=+1/2)"
+        ],
+        "correct": 0,
+        "explanation": ""
+    },
+    {
+        "id": "kimia-struktura-171",
+        "question": "Jonet X2+, Y3+ dhe Z3- janë izoelektronikë me 36Kr. Vendndodhja e X,Y,Z është:",
+        "answers": [
+            "X4,IIB; Y4,IIIB; Z4,VIA",
+            "X5,IIA; Y5,IIIB; Z4,VA",
+            "X4,IIA; Y4,IIIA; Z5,VA",
+            "X5,IIB; Y4,IIIA; Z5,IIIA"
+        ],
+        "correct": 1,
+        "explanation": "X2+=Sr(Z=38,per.5,IIA); Y3+=Y(Z=39,per.5,IIIB); Z3-=As(Z=33,per.4,VA)."
+    },
+    {
+        "id": "kimia-struktura-172",
+        "question": "Metali i grupit IA (Li,Na,K) me dendësinë më të lartë vepron me elementin e grupit VIIA (Cl,Br,I) me dendësinë më të ulët. Cila përbërje formohet?",
+        "answers": [
+            "Klorur litiumi",
+            "Klorur kaliumi",
+            "Jodur kaliumi",
+            "Jodur litiumi"
+        ],
+        "correct": 1,
+        "explanation": "Sipas prirjes së pritshme (dendësia rritet poshtë grupit), K ka dendësinë më të lartë dhe Cl më të ulëtën; formohet KCl."
+    },
+    {
+        "id": "kimia-struktura-173",
+        "question": "Elementet Z=4,20,38 (grupi IIA). Vetitë që identifikojnë Z=38 (Sr) krahasuar me të tjerët janë:",
+        "answers": [
+            "alternativa A",
+            "alternativa B",
+            "alternativa C",
+            "alternativa D"
+        ],
+        "correct": 1,
+        "explanation": "Sr përcjell rrymën si i ngurtë (√), ka pikë shkrirjeje relativisht të ulët (√), nuk ka dendësi të ulët (X), dhe jep flakë të kuqe."
+    },
+    {
+        "id": "kimia-struktura-174",
+        "question": "Nga bashkëveprimi i NaOH të nxehtë (70°C) me klorin përftohet:",
+        "answers": [
+            "HClO",
+            "Ca(OCl)2",
+            "NaClO",
+            "NaClO3"
+        ],
+        "correct": 3,
+        "explanation": "NaOH e nxehtë e përqendruar me Cl2 jep klorat natriumi (NaClO3)."
+    },
+    {
+        "id": "kimia-struktura-175",
+        "question": "Katër metale: E(vepron vetëm me avuj uji); X(nuk vepron me ujë/acide, por oksidi reduktohet nga C); Y(vepron vrullshëm me ujë të ftohtë); Z(oksidi nuk vepron/tretet në ujë, por Z vepron me acide). Renditja nga më aktivi:",
+        "answers": [
+            "X, E, Z, Y",
+            "X, Z, E, Y",
+            "Y, E, Z, X",
+            "Y, Z, E, X"
+        ],
+        "correct": 2,
+        "explanation": "Y (vepron me ujë të ftohtë) më aktiv, pastaj E (vepron me avuj), pastaj Z (vepron me acide), më pak aktiv X."
+    },
+    {
+        "id": "kimia-struktura-176",
+        "question": "Brenda periodave djathtas-majtas, cilat pohime janë të sakta? I.afria rritet II.rrezja zvogëlohet III.jonizimi zvogëlohet IV.oksiduese forcohen V.bazik theksohet",
+        "answers": [
+            "I dhe II",
+            "II dhe IV",
+            "III dhe V",
+            "I dhe IV"
+        ],
+        "correct": 2,
+        "explanation": "Djathtas-majtas (drejtim i kundërt me normalen), potenciali i jonizimit zvogëlohet dhe karakteri bazik theksohet."
+    },
+    {
+        "id": "kimia-struktura-177",
+        "question": "Në grupet A dhe IIIB, poshtë-lart, cilat pohime NUK janë të sakta? I.afria zvogëlohet II.EN rritet III.rrezja zvogëlohet IV.jonizimi rritet V.reduktuese forcohen",
+        "answers": [
+            "II dhe IV",
+            "II dhe III",
+            "I dhe V",
+            "II, III dhe IV"
+        ],
+        "correct": 2,
+        "explanation": "Poshtë-lart, afria për elektronin përgjithësisht nuk zvogëlohet në mënyrë të thjeshtë (I e pasaktë), dhe vetitë reduktuese dobësohen, jo forcohen (V e pasaktë)."
+    },
+    {
+        "id": "kimia-struktura-178",
+        "question": "Renditja e energjive të para të jonizimit për Mg,Al,Si,P,S (kJ/mol) është:",
+        "answers": [
+            "577; 786; 1060; 1000; 1260",
+            "736; 577; 786; 1060; 1000",
+            "786; 1060; 1000; 1260; 1520",
+            "1060; 1000; 1260; 1520; 418"
+        ],
+        "correct": 1,
+        "explanation": "Ka rënie te Al (krahasuar me Mg) dhe te S (krahasuar me P), për shkak të stabilitetit të nënshtresave gjysmë/plotësisht të mbushura."
+    },
+    {
+        "id": "kimia-struktura-179",
+        "question": "Cili bashkëveprim çliron hidrogjen të gaztë?",
+        "answers": [
+            "Oksid kaliumi me ujë",
+            "Bakër me avujt e ujit",
+            "Magnez me avujt e ujit",
+            "Bakër me acid sulfurik të holluar"
+        ],
+        "correct": 2,
+        "explanation": "Mg+avuj uji→MgO+H2; K2O nuk çliron H2 (reagon vetëm si oksid bazik), Cu nuk reagon fare."
+    },
+    {
+        "id": "kimia-struktura-180",
+        "question": "Sasia e hipokloritit të kalciumit nga gurgullimi i klorit në ujë gëlqereje me 14,8g Ca(OH)2 është:",
+        "answers": [
+            "14,3 g",
+            "17,5 g",
+            "35,1 g",
+            "71,5 g"
+        ],
+        "correct": 0,
+        "explanation": "0,2mol Ca(OH)2 jep 0,1mol Ca(OCl)2 (M=143g/mol): 0,1×143=14,3g."
+    },
+    {
+        "id": "kimia-struktura-181",
+        "question": "Cili metal, kur vepron me ujin e ngrohtë, çliron hidrogjen të gaztë? Cu,Zn,Ag,Pb",
+        "answers": [
+            "Cu",
+            "Zn",
+            "Ag",
+            "Pb"
+        ],
+        "correct": 1,
+        "explanation": "Zn reagon me ujë të ngrohtë duke çliruar H2; Cu dhe Ag janë inertë, Pb reagon shumë ngadalë."
+    },
+    {
+        "id": "kimia-struktura-182",
+        "question": "Krahasimi Mg-Ba: energjia e katërt e jonizimit dhe veprimi me ujë të ftohtë:",
+        "answers": [
+            "Alternativa A",
+            "Alternativa B",
+            "Alternativa C",
+            "Alternativa D"
+        ],
+        "correct": 1,
+        "explanation": "IE4 e Mg është e lartë (atom më i vogël), e Ba e ulët; Mg reagon ngadalë me ujë të ftohtë, Ba shpejt."
+    },
+    {
+        "id": "kimia-struktura-183",
+        "question": "4 metale: A(nuk vepron me HCl); B(vepron me ujë të ngrohtë); C(nuk vepron me ujë, zhvendos A); D(vepron me ujë të ftohtë). Renditja nga më aktivi:",
+        "answers": [
+            "D>B>C>A",
+            "A>C>D>B",
+            "B>D>A>C",
+            "C>A>D>B"
+        ],
+        "correct": 0,
+        "explanation": "D (reagon me ujë të ftohtë) më aktiv, pastaj B (ujë të ngrohtë), C (zhvendos A por s'reagon me ujë), më pak aktiv A."
+    },
+    {
+        "id": "kimia-struktura-184",
+        "question": "Gjatë bashkëveprimit të Cl2 me NaOH të nxehtë (mbi 70°C) dhe të përqendruar, n.o. i klorit ndryshon nga:",
+        "answers": [
+            "0 në +1 dhe 0 në -3",
+            "0 në -1 dhe 0 në +3",
+            "0 në +1 dhe 0 në -5",
+            "0 në -1 dhe 0 në +5"
+        ],
+        "correct": 3,
+        "explanation": "Në kushte të nxehta/të përqendruara formohet NaCl (Cl:0→-1) dhe NaClO3 (Cl:0→+5)."
+    },
+    {
+        "id": "kimia-struktura-185",
+        "question": "Dy acidet që formohen gjatë tretjes së Cl2 në ujë janë:",
+        "answers": [
+            "HCl, HClO2",
+            "HCl, HClO3",
+            "HCl, HClO",
+            "HCl, HClO4"
+        ],
+        "correct": 2,
+        "explanation": "Cl2+H2O→HCl+HClO (acid hipoklorik)."
+    },
+    {
+        "id": "kimia-struktura-186",
+        "question": "Cili element vepron me oksigjenin dhe formon përbërje me pikë shkrirje të lartë dhe të tretshme në ujë? C,Fe,Ca,Si",
+        "answers": [
+            "karboni",
+            "hekuri",
+            "silici",
+            "kalcium"
+        ],
+        "correct": 3,
+        "explanation": "CaO→Ca(OH)2, i tretshëm, jonik, pikë shkrirjeje e lartë; oksidet e C,Si janë kovalente/të patretshme mirë."
+    },
+    {
+        "id": "kimia-struktura-187",
+        "question": "Metali alkalino-tokësor që në 500-600°C formon peroksid me oksigjenin është:",
+        "answers": [
+            "magnez",
+            "kalcium",
+            "barium",
+            "berilium"
+        ],
+        "correct": 2,
+        "explanation": "Bariumi formon peroksidin BaO2 në temperatura të larta."
+    },
+    {
+        "id": "kimia-struktura-188",
+        "question": "Bromuri i elementit A nuk ndryshon letrën e lakmuesit; oksidi i tij i ngurtë e bën blu letrën në ujë. Elementi A është:",
+        "answers": [
+            "C",
+            "Ba",
+            "Si",
+            "Al"
+        ],
+        "correct": 1,
+        "explanation": "BaBr2 është kripë neutrale (pa ndryshim ngjyre); BaO+H2O→Ba(OH)2, bazë e fortë (blu)."
+    },
+    {
+        "id": "kimia-struktura-189",
+        "question": "Kalciumi (Z=20) dhe stronciumi (Z=38) janë të dy grupit IIA. Cili pohim është i saktë?",
+        "answers": [
+            "Stronciumi është më elektronegativ se kalciumi",
+            "Stronciumi ka rreze atomike më të vogël se kalciumi",
+            "Të dy metalet formojnë okside bazike me oksigjenin",
+            "Energjia e parë e jonizimit tё Ca është më e ulët se ajo e Sr"
+        ],
+        "correct": 2,
+        "explanation": "Si metale alkalino-tokësore, të dy formojnë okside bazike (CaO, SrO) me oksigjenin."
+    },
+    {
+        "id": "kimia-struktura-190",
+        "question": "Cili pohim është i saktë lidhur me vetitë e halogjeneve?",
+        "answers": [
+            "Pika e vlimit: F2>Br2>Cl2>I2",
+            "Aciditeti: Cl2O>Cl2O3>Cl2O5>Cl2O7",
+            "Afiniteti elektronik: F2>Cl2>Br2>I2",
+            "Dendësia: Cl2>Br2>I2>F2"
+        ],
+        "correct": 2,
+        "explanation": "Prirja e përgjithshme e afinitetit elektronik zvogëlohet poshtë grupit të halogjeneve, duke filluar nga F."
+    }
 ]
