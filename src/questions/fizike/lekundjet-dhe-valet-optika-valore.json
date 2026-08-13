@@ -4,14 +4,24 @@
     "question": "Figura tregon një pjesë të një suste që lëkundet duke përhapur valë me gjatësi 0.5m dhe frekuencë 1.2Hz. Sa kohë do t'i duhej kësaj vale për të arritur 3m larg burimit?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-001.png",
     "imageAlt": "Sustë që lëkundet duke përhapur një valë gjatësore",
-    "answers": ["0.2s", "0.5s", "2s", "5s"],
+    "answers": [
+      "0.2s",
+      "0.5s",
+      "2s",
+      "5s"
+    ],
     "correct": 3,
     "explanation": "Fillimisht v=λ·f=0,5·1,2=0,6m/s. Pastaj t=s/v=3/0,6=5s."
   },
   {
     "id": "fizika-lekundjet-valet-002",
     "question": "Cilët nga komponentët e mëposhtëm të spektrit elektromagnetik janë vendosur në rend rritës të frekuencës?",
-    "answers": ["Mikrovalët, rrezet infra të kuqe, rrezet X", "Rrezet ultraviolet, rrezet infra të kuqe, radiovalët", "Rrezet gama, mikrovalët, drita e dukshme", "Radiovalët, rrezet X, rrezet ultraviolet"],
+    "answers": [
+      "Mikrovalët, rrezet infra të kuqe, rrezet X",
+      "Rrezet ultraviolet, rrezet infra të kuqe, radiovalët",
+      "Rrezet gama, mikrovalët, drita e dukshme",
+      "Radiovalët, rrezet X, rrezet ultraviolet"
+    ],
     "correct": 0,
     "explanation": "Rendi i frekuencës në rritje është: radiovalë, mikrovalë, infra të kuqe, dritë e dukshme, ultraviolet, rreze X, gama. Vetëm alternativa e parë e ndjek këtë rend."
   },
@@ -20,14 +30,24 @@
     "question": "Në figurë janë paraqitur një seri ngjeshjesh dhe rrallimesh të një vale zanore me frekuencë 1600 Hz dhe shpejtësi 320m/s. Sa është distanca midis dy pikave X dhe Y?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-003.png",
     "imageAlt": "Seri ngjeshjesh dhe rrallimesh të një vale zanore me pikat X dhe Y të shënuara",
-    "answers": ["0.2m", "0.4m", "0.6m", "1.2m"],
+    "answers": [
+      "0.2m",
+      "0.4m",
+      "0.6m",
+      "1.2m"
+    ],
     "correct": 2,
     "explanation": "Gjatësia e valës është λ=v/f=320/1600=0,2m. Midis X dhe Y ndodhen tri ngjeshje të njëpasnjëshme, pra 3λ=0,6m."
   },
   {
     "id": "fizika-lekundjet-valet-004",
     "question": "Vala në mjedisin e parë ka shpejtësi 12cm/s. Kur kalon nga ky mjedis në një tjetër, largësia midis kreshtave ndryshon nga 3cm në 1.5cm. Sa është shpejtësia e valës në mjedisin e dytë?",
-    "answers": ["3cm/s", "6cm/s", "12cm/s", "24cm/s"],
+    "answers": [
+      "3cm/s",
+      "6cm/s",
+      "12cm/s",
+      "24cm/s"
+    ],
     "correct": 1,
     "explanation": "Frekuenca nuk ndryshon kur vala kalon mjedisin: f=12/3=4Hz. Pra v₂=f·λ₂=4·1,5=6cm/s."
   },
@@ -36,14 +56,24 @@
     "question": "Cila është frekuenca e valës së treguar në grafikun e dhënë?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-005.png",
     "imageAlt": "Grafik i zhvendosjes në funksion të kohës me shkallë deri në 0.4s",
-    "answers": ["0,2Hz", "0,5Hz", "5Hz", "10Hz"],
+    "answers": [
+      "0,2Hz",
+      "0,5Hz",
+      "5Hz",
+      "10Hz"
+    ],
     "correct": 2,
     "explanation": "Nga grafiku një lëkundje e plotë zgjat 0,2s, pra T=0,2s. Atëherë f=1/T=5Hz."
   },
   {
     "id": "fizika-lekundjet-valet-006",
     "question": "Cili nga variantet e dhëna më poshtë jep saktë renditjen në spektrin e valëve elektromagnetike sipas drejtimit rritës të gjatësisë së valës?",
-    "answers": ["Rrezet ultraviolet, rrezet infra të kuqe, mikrovalë", "Dritë e dukshme, rreze gama, radiovalë", "Rrezet gama, mikrovalë, dritë e dukshme", "Radiovalë, rrezet ultraviolet, rrezet X"],
+    "answers": [
+      "Rrezet ultraviolet, rrezet infra të kuqe, mikrovalë",
+      "Dritë e dukshme, rreze gama, radiovalë",
+      "Rrezet gama, mikrovalë, dritë e dukshme",
+      "Radiovalë, rrezet ultraviolet, rrezet X"
+    ],
     "correct": 0,
     "explanation": "Gjatësia e valës rritet në kahun e kundërt me frekuencën: ultraviolet < infra të kuqe < mikrovalë. Vetëm alternativa e parë e respekton këtë."
   },
@@ -52,44 +82,74 @@
     "question": "Në pikën Q me largësi 2r nga burimi S, molekulat e ajrit lëkunden me amplitudë 6µm. Pika P është në distancë r nga burimi S. Cila është amplituda e lëkundjeve të molekulave të ajrit në pikën P?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-007.png",
     "imageAlt": "Burimi i tingullit S me pikat P në distancë r dhe Q në distancë 2r",
-    "answers": ["0.75µm", "1.5µm", "3µm", "12µm"],
+    "answers": [
+      "0.75µm",
+      "1.5µm",
+      "3µm",
+      "12µm"
+    ],
     "correct": 3,
     "explanation": "Për një burim pikësor amplituda është në përpjesëtim të zhdrejtë me largësinë (A∝1/r). Meqë P është dy herë më afër, amplituda është dy herë më e madhe: 12µm."
   },
   {
     "id": "fizika-lekundjet-valet-008",
     "question": "Lavjerrësi i orës së murit mat saktësisht kohën në Tokë. Që ky lavjerrës të tregojë të njëjtën kohë edhe në Hënë duhet që:",
-    "answers": ["të rrisim gjatësinë e tij", "të rrisim masën e tij", "të zvogëlojmë gjatësinë e tij", "të zvogëlojmë masën e tij"],
+    "answers": [
+      "të rrisim gjatësinë e tij",
+      "të rrisim masën e tij",
+      "të zvogëlojmë gjatësinë e tij",
+      "të zvogëlojmë masën e tij"
+    ],
     "correct": 2,
     "explanation": "T=2π√(l/g): në Hënë g është më e vogël, pra perioda do të zgjatej. Për ta mbajtur T të njëjtë duhet zvogëluar gjatësia; masa nuk ndikon fare."
   },
   {
     "id": "fizika-lekundjet-valet-009",
     "question": "Gjatë ekzaminimit mjekësor rutinë të një gruaje shtatzënë, një skaner përdoret për të monitoruar zhvillimin e foshnjës. Çfarë përdorin skanerë të tillë për të zbuluar foshnjën?",
-    "answers": ["Rreze gama", "Valë infra te kuqe", "Valë ultratinguj", "Rreze X"],
+    "answers": [
+      "Rreze gama",
+      "Valë infra te kuqe",
+      "Valë ultratinguj",
+      "Rreze X"
+    ],
     "correct": 2,
     "explanation": "Ekografia përdor ultratinguj, sepse ata pasqyrohen nga kufijtë e indeve dhe nuk janë jonizues. Rrezet X dhe gama do të ishin të rrezikshme për foshnjën."
   },
   {
     "id": "fizika-lekundjet-valet-010",
     "question": "Në cilin prej mjediseve të mëposhtëm tingulli udhëton më shpejt?",
-    "answers": ["Në mjedis të ngurtë", "Në mjedis të gaztë", "Në mjedis të lëngët", "Në vakum"],
+    "answers": [
+      "Në mjedis të ngurtë",
+      "Në mjedis të gaztë",
+      "Në mjedis të lëngët",
+      "Në vakum"
+    ],
     "correct": 0,
     "explanation": "Tingulli përhapet nëpërmjet lidhjeve midis grimcave, të cilat janë më të forta te trupat e ngurtë. Në vakum ai nuk përhapet fare."
   },
   {
     "id": "fizika-lekundjet-valet-011",
     "question": "Cili nga pohimet e mëposhtme për valët elektromagnetike është i vërtetë?",
-    "answers": ["Rrezet X përdoren në skanerët e bagazheve.", "Mikrovalët kanë gjatësinë më të madhe të valës.", "Të gjitha valët elektromagnetike udhëtojnë me shpejtësi 3∙10⁸m/s.", "Rrezatimi infra i kuq përdoret në shtretërit e diellit (solarët)."],
-    "correct": 0,
-    "explanation": "Rrezet X depërtojnë materialet dhe përdoren pikërisht për kontrollin e bagazheve. Gjatësinë më të madhe e kanë radiovalët, shpejtësia 3·10⁸m/s vlen vetëm në zbrazëti, ndërsa solarët përdorin rrezatim ultraviolet."
+    "answers": [
+      "Rrezet X përdoren në skanerët e bagazheve.",
+      "Mikrovalët kanë gjatësinë më të madhe të valës.",
+      "Të gjitha valët elektromagnetike udhëtojnë me shpejtësi 3∙10⁸m/s.",
+      "Rrezatimi infra i kuq përdoret në shtretërit e diellit (solarët)."
+    ],
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-012",
     "question": "Figura e mëposhtme paraqet grafikët e zhvendosjes nga koha për katër nota muzikore te luajtura në flaut. Cili nga grafikët tregon notën me lartësinë më të madhe?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-012.png",
     "imageAlt": "Katër grafikë zhvendosje-kohë A, B, C dhe D për nota muzikore",
-    "answers": ["Grafiku A", "Grafiku B", "Grafiku C", "Grafiku D"],
+    "answers": [
+      "Grafiku A",
+      "Grafiku B",
+      "Grafiku C",
+      "Grafiku D"
+    ],
     "correct": 3,
     "explanation": "Lartësia e notës përcaktohet nga frekuenca, pra nga numri i lëkundjeve në të njëjtën kohë – jo nga amplituda. Grafiku D ka periodën më të shkurtër, pra frekuencën më të lartë."
   },
@@ -98,14 +158,24 @@
     "question": "Grafiku më poshtë tregon profilin e një vale tërthore në një moment të caktuar kohe. Drejtimi i përhapjes së valës është nga e majta në të djathtë. Grimcat P, Q, R dhe S lëkunden të gjitha me amplitudë të njëjtë. Cili nga pohimet e mëposhtme është i saktë?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-013.png",
     "imageAlt": "Profil i valës tërthore me grimcat P, Q, R dhe S të shënuara",
-    "answers": ["Grimcat P dhe R kanë energji kinetike zero.", "Grimcat P dhe R janë në anti-fazë me njëra-tjetrën.", "Grimca S ka energjinë totale më të lartë.", "Grimca P do të lëvizë në të djathtë pas një kohë."],
+    "answers": [
+      "Grimcat P dhe R kanë energji kinetike zero.",
+      "Grimcat P dhe R janë në anti-fazë me njëra-tjetrën.",
+      "Grimca S ka energjinë totale më të lartë.",
+      "Grimca P do të lëvizë në të djathtë pas një kohë."
+    ],
     "correct": 1,
     "explanation": "P dhe R ndodhen në largësinë λ/2 nga njëra-tjetra, pra lëvizin gjithmonë në kahe të kundërta – janë në antifazë. Në një valë tërthore grimcat lëkunden vetëm pingul me përhapjen dhe të gjitha kanë të njëjtën energji totale."
   },
   {
     "id": "fizika-lekundjet-valet-014",
     "question": "Një sirenë në majë të një shtylle të lartë merret si burim pikësor dhe lëshon valë zanore në mënyrë të njëtrajtshme në të gjitha drejtimet. Në distancën 4d amplituda e valës është A. Sa është distanca nga sirena për pikën ku amplituda e valës është 2A?",
-    "answers": ["8d", "4d", "2d", "d"],
+    "answers": [
+      "8d",
+      "4d",
+      "2d",
+      "d"
+    ],
     "correct": 2,
     "explanation": "Amplituda është në përpjesëtim të zhdrejtë me largësinë. Për ta dyfishuar amplitudën, largësia duhet përgjysmuar: 4d/2=2d."
   },
@@ -114,16 +184,26 @@
     "question": "S₁ dhe S₂ janë dy burime koherente. Pozicionet e njëpasnjëshme të dy kreshtave të valëve nga secili burim tregohen në figurë. Cili nga pohimet e mëposhtme është i saktë:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-015.png",
     "imageAlt": "Dy burime koherente S1 dhe S2 me kreshtat e valëve dhe pikat X, Y, Z, K",
-    "answers": ["X është një pikë e mbivendosjes konstruktive.", "K është një pikë e mbivendosjes destruktive.", "S₁Y-S₂Y=nλ, ku n numër i plotë.", "S₁Z-S₂Z=(2n-1)λ/2, ku n numër i plotë."],
-    "correct": 0,
-    "explanation": "Aty ku dy kreshta priten, valët mblidhen dhe japin mbivendosje konstruktive – pikërisht rasti i pikës X. Kushti nλ i takon interferencës konstruktive, ndërsa (2n-1)λ/2 asaj destruktive."
+    "answers": [
+      "X është një pikë e mbivendosjes konstruktive.",
+      "K është një pikë e mbivendosjes destruktive.",
+      "S₁Y-S₂Y=nλ, ku n numër i plotë.",
+      "S₁Z-S₂Z=(2n-1)λ/2, ku n numër i plotë."
+    ],
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-016",
     "question": "Frontet e valëve plane në një rezervuar kalojnë përmes një çarjeje si në figurë. Cila karakteristikë e valës do të jetë e ndryshme në Q krahasuar me P?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-016.png",
     "imageAlt": "Fronte valësh plane që kalojnë përmes një çarjeje dhe përhapen rrethore, me pikat P dhe Q",
-    "answers": ["Amplituda", "Frekuenca", "Shpejtësia", "Gjatësia"],
+    "answers": [
+      "Amplituda",
+      "Frekuenca",
+      "Shpejtësia",
+      "Gjatësia"
+    ],
     "correct": 0,
     "explanation": "Pas çarjes vala difraktohet dhe energjia shpërndahet mbi një front më të gjerë, prandaj amplituda zvogëlohet. Mjedisi mbetet i njëjti, pra frekuenca, shpejtësia dhe gjatësia e valës nuk ndryshojnë."
   },
@@ -132,21 +212,36 @@
     "question": "Gjeneratorët e valëve në pikat X dhe Y prodhojnë valë me të njëjtën gjatësi. Në pikën Z, valët nga X kanë të njëjtën amplitudë si valët nga Y. Distancat XZ dhe YZ janë si në figurë. Kur gjeneratorët e valëve veprojnë me fazë të njëjtë, amplituda e lëkundjes në Z është zero. Sa është gjatësia e valëve?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-017.png",
     "imageAlt": "Dy gjeneratorë valësh X dhe Y me distancat XZ=24cm dhe YZ=34cm deri te pika Z",
-    "answers": ["2cm", "3cm", "4cm", "6cm"],
+    "answers": [
+      "2cm",
+      "3cm",
+      "4cm",
+      "6cm"
+    ],
     "correct": 2,
     "explanation": "Diferenca e rrugëve është 34-24=10cm. Për interferencë destruktive duhet 10=(2n-1)λ/2; me λ=4cm del 10=2,5λ, pra një numër tek gjysmash valësh."
   },
   {
     "id": "fizika-lekundjet-valet-018",
     "question": "Cili pohim për një valë drite dhe një valë zanore është i saktë?",
-    "answers": ["Të dyja përhapen me shpejtësi të njëjtë në ujë", "Të dyja përhapen në zbrazëti.", "Të dyja kanë frekuencë në përpjesëtim të zhdrejtë me gjatësinë e valës së tyre.", "Të dyja kanë një intensitet proporcional me amplitudat e tyre."],
+    "answers": [
+      "Të dyja përhapen me shpejtësi të njëjtë në ujë",
+      "Të dyja përhapen në zbrazëti.",
+      "Të dyja kanë frekuencë në përpjesëtim të zhdrejtë me gjatësinë e valës së tyre.",
+      "Të dyja kanë një intensitet proporcional me amplitudat e tyre."
+    ],
     "correct": 2,
     "explanation": "Për çdo valë vlen v=λ·f, pra në një mjedis të dhënë f dhe λ janë në përpjesëtim të zhdrejtë. Zëri nuk përhapet në zbrazëti, shpejtësitë e tyre ndryshojnë shumë dhe intensiteti varet nga katrori i amplitudës."
   },
   {
     "id": "fizika-lekundjet-valet-019",
     "question": "Cili nga pohimet e mëposhtëm është i vërtetë për lëkundjet e thjeshta harmonike që kryen lavjerrësi sustë?",
-    "answers": ["Shpejtësia dhe nxitimi kanë gjithmonë drejtime pingule.", "Nxitimi dhe shpejtësia janë gjithmonë me diferencë faze 180⁰.", "Shpejtësia dhe zhvendosja janë gjithmonë në të njëjtin drejtim.", "Nxitimi dhe zhvendosja janë gjithmonë me diferencë faze 180⁰."],
+    "answers": [
+      "Shpejtësia dhe nxitimi kanë gjithmonë drejtime pingule.",
+      "Nxitimi dhe shpejtësia janë gjithmonë me diferencë faze 180⁰.",
+      "Shpejtësia dhe zhvendosja janë gjithmonë në të njëjtin drejtim.",
+      "Nxitimi dhe zhvendosja janë gjithmonë me diferencë faze 180⁰."
+    ],
     "correct": 3,
     "explanation": "Kushti themelor i LTH-së është a=-ω²x, pra nxitimi është gjithmonë i kundërt me zhvendosjen – diferencë faze 180°. Shpejtësia ka diferencë faze 90° me zhvendosjen."
   },
@@ -155,42 +250,72 @@
     "question": "Figura tregon formën në një çast të dhënë të një vale tërthore, e cila përhapet nga e majta në të djathtë, përgjatë një korde. Cili pohim në lidhje me lëvizjen e grimcave të kordës në këtë çast, është e saktë?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-020.png",
     "imageAlt": "Valë tërthore në kordë me grimcat P, Q, R dhe S të shënuara",
-    "answers": ["Shpejtësia e Q është më e madhe se e S.", "Si Q, ashtu edhe S po lëvizin lart.", "Energjia e P dhe S është tërësisht kinetike.", "Nxitimi i P dhe R është maksimal."],
+    "answers": [
+      "Shpejtësia e Q është më e madhe se e S.",
+      "Si Q, ashtu edhe S po lëvizin lart.",
+      "Energjia e P dhe S është tërësisht kinetike.",
+      "Nxitimi i P dhe R është maksimal."
+    ],
     "correct": 3,
     "explanation": "P dhe R ndodhen në pozicionet ekstreme (kreshtë dhe gropë), ku zhvendosja është maksimale. Meqë a=-ω²x, pikërisht atje nxitimi është maksimal, ndërsa shpejtësia zero."
   },
   {
     "id": "fizika-lekundjet-valet-021",
     "question": "Teatrot shpesh përdorin perde të rënda për të zvogëluar jehonën gjatë shfaqjeve. Funksioni i perdeve është që tingujt të:",
-    "answers": ["përthyhen", "pasqyrohen", "difraktohen", "përthithen"],
+    "answers": [
+      "përthyhen",
+      "pasqyrohen",
+      "difraktohen",
+      "përthithen"
+    ],
     "correct": 3,
     "explanation": "Jehona lind nga pasqyrimi i tingullit. Materialet e buta dhe poroze e përthithin energjinë e valës zanore duke e kthyer në nxehtësi, prandaj jehona zvogëlohet."
   },
   {
     "id": "fizika-lekundjet-valet-022",
     "question": "Ju dëgjoni tingujt që vijnë nga një dhomë kur dera është e hapur vetëm pak, për shkak se tingujt:",
-    "answers": ["reflektohen", "përthyhen", "difraktohen", "përthithen"],
+    "answers": [
+      "reflektohen",
+      "përthyhen",
+      "difraktohen",
+      "përthithen"
+    ],
     "correct": 2,
     "explanation": "Gjatësia e valës së zërit është e krahasueshme me hapësirën e ngushtë të derës, prandaj vala përkulet rreth saj – difraktohet – dhe përhapet edhe atje ku nuk ka rrugë të drejtë."
   },
   {
     "id": "fizika-lekundjet-valet-023",
     "question": "Sfera me masë 4 kg e fiksuar në një sustë horizontale, lëkundet para-mbrapa me një frekuencë 4Hz dhe një amplitudë 3 m. Sa do të jetë frekuenca, nëse sfera zëvendësohet me një sferë më masë 4 herë më të vogël?",
-    "answers": ["4Hz", "8HZ", "12HZ", "14HZ"],
+    "answers": [
+      "4Hz",
+      "8HZ",
+      "12HZ",
+      "14HZ"
+    ],
     "correct": 1,
     "explanation": "f=(1/2π)√(k/m) varet nga 1/√m. Kur masa bëhet 4 herë më e vogël, frekuenca dyfishohet: 8Hz."
   },
   {
     "id": "fizika-lekundjet-valet-024",
     "question": "Një valë zanore stacionare ka një seri nyjesh. Distanca midis nyjes së parë dhe nyjes së katërt është 15 cm. Sa është gjatësia e valës së zërit?",
-    "answers": ["4 cm", "5 cm", "10 cm", "13.3 cm"],
+    "answers": [
+      "4 cm",
+      "5 cm",
+      "10 cm",
+      "13.3 cm"
+    ],
     "correct": 2,
     "explanation": "Midis dy nyjeve fqinje ka λ/2. Nga nyja 1 te nyja 4 ka 3 intervale: 3·λ/2=15 → λ=10cm."
   },
   {
     "id": "fizika-lekundjet-valet-025",
     "question": "Një grimcë kryen lëvizje të thjeshtë harmonike sipas x = 2cos(50t), ku x është në metra dhe t është në sekonda. Shpejtësia maksimale e tij në m/s është:",
-    "answers": ["100sin(50t)", "100cos(50t)", "100", "200"],
+    "answers": [
+      "100sin(50t)",
+      "100cos(50t)",
+      "100",
+      "200"
+    ],
     "correct": 2,
     "explanation": "Nga ekuacioni A=2m dhe ω=50rad/s. Shpejtësia maksimale është vmax=A·ω=100m/s – një numër, jo funksion i kohës."
   },
@@ -199,7 +324,12 @@
     "question": "Sistemi lëkundës ka frekuencë vetjake 0.25Hz. Ai i nënshtrohet një force detyruese harmonike F, e cila ndryshon me kohën sipas grafikut. Cila është frekuenca e lëkundjeve të sistemit?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-026.png",
     "imageAlt": "Grafik i forcës detyruese në funksion të kohës me pika në 2.5s dhe 7.5s",
-    "answers": ["0.2Hz", "0.25Hz", "1Hz", "5Hz"],
+    "answers": [
+      "0.2Hz",
+      "0.25Hz",
+      "1Hz",
+      "5Hz"
+    ],
     "correct": 0,
     "explanation": "Në lëkundjet e detyruara sistemi lëkundet me frekuencën e forcës, jo me atë vetjake. Nga grafiku perioda e forcës është 5s, pra f=0,2Hz."
   },
@@ -208,42 +338,72 @@
     "question": "Një guralec hidhet në ujë të qetë, në mënyrë që frontet e valëve rrethore përhapen me shpejtësi v. Nëse gjatësia e valës është λ, koha që i duhet ngacmimit nga M të arrijë në N është?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-027.png",
     "imageAlt": "Fronte valësh rrethore në ujë me pikat M dhe N të shënuara",
-    "answers": ["λ / v", "λ / 2v", "3λ / 2v", "2λ / v"],
-    "correct": 1,
-    "explanation": "Nga figura largësia MN është sa gjysma e distancës midis dy kreshtave, pra λ/2. Atëherë t=s/v=λ/2v."
+    "answers": [
+      "λ / v",
+      "λ / 2v",
+      "3λ / 2v",
+      "2λ / v"
+    ],
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-028",
     "question": "Cili nga pohimet e mëposhtëm përshkruan saktë karakteristikat e lëkundjeve të dy antinyjeve të njëpasnjëshme në një valë të qëndrueshme?",
-    "answers": ["Lëkundjet e tyre janë në fazë me njëra-tjetrën", "Të dyja do të kalojnë pozicionet e tyre të ekuilibrit me shpejtësi të kundërt", "Të dyja kanë energji minimale, pasi amplituda e lëkundjeve është minimale", "Kur njëra ka energji maksimale kinetike, tjetra ka energji maksimale potenciale"],
+    "answers": [
+      "Lëkundjet e tyre janë në fazë me njëra-tjetrën",
+      "Të dyja do të kalojnë pozicionet e tyre të ekuilibrit me shpejtësi të kundërt",
+      "Të dyja kanë energji minimale, pasi amplituda e lëkundjeve është minimale",
+      "Kur njëra ka energji maksimale kinetike, tjetra ka energji maksimale potenciale"
+    ],
     "correct": 1,
     "explanation": "Dy antinyje fqinje janë në antifazë: kalojnë njëkohësisht pozicionin e ekuilibrit, por duke lëvizur në kahe të kundërta. Amplituda te antinyjet është maksimale, jo minimale."
   },
   {
     "id": "fizika-lekundjet-valet-029",
     "question": "Sistem lëkundës trup-sustë kryen lëkundje harmonike me amplitudë maksimale A. Nëse amplituda dyfishohet, energjia mekanike e sistemit:",
-    "answers": ["rritet katër herë", "rritet dy herë", "zvogëlohet dy herë", "zvogëlohet katër herë"],
+    "answers": [
+      "rritet katër herë",
+      "rritet dy herë",
+      "zvogëlohet dy herë",
+      "zvogëlohet katër herë"
+    ],
     "correct": 0,
     "explanation": "E=kA²/2 varet nga katrori i amplitudës. Duke e dyfishuar A, energjia bëhet 4 herë më e madhe."
   },
   {
     "id": "fizika-lekundjet-valet-030",
     "question": "Trupi me masë M është i varur në një sustë me konstante elastike k. Trupi lëkundet me periodë T në sipërfaqen e Tokës. Nëse sistemi lëkundës zhvendoset në sipërfaqen e Hënës, (g në Hënë është 6 herë më e vogël se g në Tokë), perioda e lëkundjeve të tij:",
-    "answers": ["behet zero", "zvogëlohet 6 herë", "nuk ndryshon", "rritet 6 herë"],
+    "answers": [
+      "behet zero",
+      "zvogëlohet 6 herë",
+      "nuk ndryshon",
+      "rritet 6 herë"
+    ],
     "correct": 2,
     "explanation": "Për lavjerrësin sustë T=2π√(m/k) – në formulë nuk hyn fare g. Prandaj perioda është e njëjtë kudo, ndryshe nga lavjerrësi matematik."
   },
   {
     "id": "fizika-lekundjet-valet-031",
     "question": "Një lavjerrës matematik zhvendoset nga Toka në Hënë. Si ndryshon perioda e lëkundjeve të këtij lavjerrësi? (g në Hënë është 6 herë më e vogël se g në Tokë)",
-    "answers": ["Perioda është rritur 6 herë", "Perioda është rritur √6 herë", "Perioda është zvogëluar √6 herë", "Perioda është zvogëluar 6 herë"],
+    "answers": [
+      "Perioda është rritur 6 herë",
+      "Perioda është rritur √6 herë",
+      "Perioda është zvogëluar √6 herë",
+      "Perioda është zvogëluar 6 herë"
+    ],
     "correct": 1,
     "explanation": "T=2π√(l/g) varet nga 1/√g. Kur g zvogëlohet 6 herë, perioda rritet √6 herë."
   },
   {
     "id": "fizika-lekundjet-valet-032",
     "question": "Sistemi trup-sustë kryen lëkundje harmonike me frekuencë f₁, pasi i jepet një zhvendosje fillestare. Për një zhvendosje fillestare më të madhe se në rastin e parë, frekuenca f₂ e lëkundjeve të të njëjtit sistem plotëson kushtin:",
-    "answers": ["f₂ = f₁", "f₂ > f₁", "f₂ < f₁", "f₂ nuk mund të krahasohet me f₁"],
+    "answers": [
+      "f₂ = f₁",
+      "f₂ > f₁",
+      "f₂ < f₁",
+      "f₂ nuk mund të krahasohet me f₁"
+    ],
     "correct": 0,
     "explanation": "Frekuenca vetjake varet vetëm nga k dhe m, jo nga amplituda. Kjo pavarësi është veti themelore e lëkundjeve harmonike (izokronizmi)."
   },
@@ -252,7 +412,12 @@
     "question": "Figura tregon dy klounë cirku (secili me një masë prej 50 kg) që lëkunden në dy litarë me masa të papërfillshme dhe gjatësi 25 m. Në kulmin e lëkundjes, njëri kap tjetrin dhe të dy lëvizin përsëri, por në njërin litar. Koha për lëvizjen përpara dhe kthim është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-033.png",
     "imageAlt": "Dy klounë që lëkunden në litarë me gjatësi 25m",
-    "answers": ["10s", "15s", "20s", "25s"],
+    "answers": [
+      "10s",
+      "15s",
+      "20s",
+      "25s"
+    ],
     "correct": 0,
     "explanation": "T=2π√(l/g)=2π√2,5≈10s. Vajtja zgjat T/2 dhe kthimi po T/2, pra gjithsej rreth 10s; masa nuk ndikon te perioda."
   },
@@ -261,105 +426,180 @@
     "question": "Në figurë paraqitet grafiku i varësisë së zhvendosjes në funksion të kohës për lëkundjet e lavjerrësit mekanik. Pika në të cilën trupi ka shpejtësi zero dhe nxitim pozitiv është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-034.png",
     "imageAlt": "Grafik x(m) - t(s) me pikat A, B, C dhe D të shënuara",
-    "answers": ["pika A", "pika B", "pika C", "pika D"],
+    "answers": [
+      "pika A",
+      "pika B",
+      "pika C",
+      "pika D"
+    ],
     "correct": 3,
     "explanation": "Shpejtësia zero ndodh në ekstremumet e grafikut. Meqë a=-ω²x, nxitimi është pozitiv kur x është negative, pra te pika më e ulët – pika D."
   },
   {
     "id": "fizika-lekundjet-valet-035",
     "question": "Sirena e një ambulance lëshon tingull me frekuence f. Kur ambulanca lëviz nëpër një rrethrrotullim trafiku, polici në qendër të rrethit, kap tingullin e sirenës me frekuencë:",
-    "answers": ["më të madhe", "të njëjtë", "më të vogël", "varet nga shpejtësia e ambulancës"],
+    "answers": [
+      "më të madhe",
+      "të njëjtë",
+      "më të vogël",
+      "varet nga shpejtësia e ambulancës"
+    ],
     "correct": 1,
     "explanation": "Efekti Dopler varet nga përbërësja e shpejtësisë përgjatë vijës burim–vëzhgues. Në lëvizje rrethore largësia deri te qendra nuk ndryshon, prandaj frekuenca mbetet f."
   },
   {
     "id": "fizika-lekundjet-valet-036",
     "question": "Kur vala kalon në kufirin ndarës të dy mjediseve, madhësitë karakteristike të valës që ndryshojnë janë:",
-    "answers": ["Frekuenca dhe shpejtësia", "Gjatësia dhe frekuenca", "Shpejtësia dhe gjatësia", "Shpejtësia, frekuenca dhe gjatësia"],
+    "answers": [
+      "Frekuenca dhe shpejtësia",
+      "Gjatësia dhe frekuenca",
+      "Shpejtësia dhe gjatësia",
+      "Shpejtësia, frekuenca dhe gjatësia"
+    ],
     "correct": 2,
     "explanation": "Frekuenca përcaktohet nga burimi dhe nuk ndryshon kurrë me mjedisin. Meqë v=λf, kur ndryshon shpejtësia, detyrimisht ndryshon edhe gjatësia e valës."
   },
   {
     "id": "fizika-lekundjet-valet-037",
     "question": "Cila nga valët e mëposhtme nuk është valë mekanike?",
-    "answers": ["Valët zanore", "Valët në ujë", "Valët në një sustë", "Valët e radios"],
+    "answers": [
+      "Valët zanore",
+      "Valët në ujë",
+      "Valët në një sustë",
+      "Valët e radios"
+    ],
     "correct": 3,
     "explanation": "Valët mekanike kërkojnë mjedis material për t'u përhapur. Valët e radios janë elektromagnetike dhe përhapen edhe në zbrazëti."
   },
   {
     "id": "fizika-lekundjet-valet-038",
     "question": "Në ç'marrëdhënie është fusha elektrike dhe ajo magnetike për një vale elektromagnetike?",
-    "answers": ["Në fazë të kundërt dhe pingule me njëra-tjetrën", "Në fazë të kundërt dhe paralele me njëra-tjetrën", "Në fazë të njëjtë dhe pingule me njëra-tjetrën", "Në fazë të njëjtë dhe paralele me njëra-tjetrën"],
+    "answers": [
+      "Në fazë të kundërt dhe pingule me njëra-tjetrën",
+      "Në fazë të kundërt dhe paralele me njëra-tjetrën",
+      "Në fazë të njëjtë dhe pingule me njëra-tjetrën",
+      "Në fazë të njëjtë dhe paralele me njëra-tjetrën"
+    ],
     "correct": 2,
     "explanation": "Në valën elektromagnetike E dhe B lëkunden njëkohësisht (në fazë) dhe në plane pingule me njëri-tjetrin e me drejtimin e përhapjes."
   },
   {
     "id": "fizika-lekundjet-valet-039",
     "question": "Një burim tingulli me frekuencë 600Hz ndodhet brenda në ujë. Shpejtësia e zërit në ujë është 1500m/s, ndërsa në ajër 300m/s. Frekuenca e tingullit, e regjistruar nga një vëzhgues në ajër, është:",
-    "answers": ["120Hz", "200Hz", "600Hz", "3000Hz"],
+    "answers": [
+      "120Hz",
+      "200Hz",
+      "600Hz",
+      "3000Hz"
+    ],
     "correct": 2,
     "explanation": "Frekuenca përcaktohet nga burimi dhe nuk ndryshon me kalimin nga një mjedis në tjetrin. Ndryshon vetëm gjatësia e valës, sepse ndryshon shpejtësia."
   },
   {
     "id": "fizika-lekundjet-valet-040",
     "question": "Në cilin mjedis nuk mund të përhapet vala zanore?",
-    "answers": ["Në mjedis të ngurtë", "Në mjedis të gaztë", "Në mjedis të lëngët", "Në vakum"],
+    "answers": [
+      "Në mjedis të ngurtë",
+      "Në mjedis të gaztë",
+      "Në mjedis të lëngët",
+      "Në vakum"
+    ],
     "correct": 3,
     "explanation": "Zëri është valë mekanike dhe përhapet vetëm nëpërmjet lëkundjes së grimcave. Në vakum nuk ka grimca, prandaj nuk ka as tingull."
   },
   {
     "id": "fizika-lekundjet-valet-041",
     "question": "Natyra e dritës është:",
-    "answers": ["valore", "grimcore dhe elektrike", "grimcore dhe valore", "magnetike dhe grimcore"],
+    "answers": [
+      "valore",
+      "grimcore dhe elektrike",
+      "grimcore dhe valore",
+      "magnetike dhe grimcore"
+    ],
     "correct": 2,
     "explanation": "Drita ka natyrë të dyfishtë: interferenca dhe difraksioni e tregojnë si valë, ndërsa efekti fotoelektrik si rrymë fotonesh."
   },
   {
     "id": "fizika-lekundjet-valet-042",
     "question": "Gjeni pohimin e vërtetë në lidhje me difraksionin.",
-    "answers": ["Dukuria e difraksionit shpjegon praninë e dritës atje ku është e mundur të jetë zonë hije", "Difraksioni mund të shpjegohet nëpërmjet cilësive gjeometrike të një rrezeje drite që përhapet në vijë të drejtë", "Difraksioni shfaqet si në prani të çarjeve, ashtu dhe të pengesave me përmasa të krahasueshme me gjatësinë e valës rënëse", "Difraksioni shfaqet si në prani të çarjeve, ashtu dhe të pengesave me përmasa shumë më të mëdha se gjatësia e valës rënëse"],
+    "answers": [
+      "Dukuria e difraksionit shpjegon praninë e dritës atje ku është e mundur të jetë zonë hije",
+      "Difraksioni mund të shpjegohet nëpërmjet cilësive gjeometrike të një rrezeje drite që përhapet në vijë të drejtë",
+      "Difraksioni shfaqet si në prani të çarjeve, ashtu dhe të pengesave me përmasa të krahasueshme me gjatësinë e valës rënëse",
+      "Difraksioni shfaqet si në prani të çarjeve, ashtu dhe të pengesave me përmasa shumë më të mëdha se gjatësia e valës rënëse"
+    ],
     "correct": 2,
     "explanation": "Difraksioni bëhet i dukshëm vetëm kur pengesa apo çarja ka përmasa të krahasueshme me gjatësinë e valës. Ai nuk shpjegohet dot me optikën gjeometrike, sepse pikërisht atë e kundërshton."
   },
   {
     "id": "fizika-lekundjet-valet-043",
     "question": "Dy burime koherente lëshojnë dritë me gjatësi vale 8·10⁻⁷m. Pika P ndodhet 120·10⁻⁷m larg burimit të parë dhe 364·10⁻⁷m nga burimi i dytë. Gjendja e pikës P gjatë interferencës është:",
-    "answers": ["maksimale", "minimale", "e ndërmjetme", "e pandryshueshme"],
+    "answers": [
+      "maksimale",
+      "minimale",
+      "e ndërmjetme",
+      "e pandryshueshme"
+    ],
     "correct": 1,
     "explanation": "Diferenca e rrugëve është 244·10⁻⁷m, pra 244/8=30,5 gjatësi vale. Një numër gjysmë i plotë valësh do të thotë interferencë destruktive – minimum."
   },
   {
     "id": "fizika-lekundjet-valet-044",
     "question": "Në difraksionin e përftuar nga një çarje e vetme:",
-    "answers": ["shiritat e ndritshëm kanë të njëjtin intensitet drite", "shiritat e interferencës kanë të njëjtën largësi njëri nga tjetri", "shiriti qendror ka një intensitet drite më të vogël se çdo shirit anësor", "shiriti qendror ka një intensitet drite më të madh se çdo shirit anësor"],
+    "answers": [
+      "shiritat e ndritshëm kanë të njëjtin intensitet drite",
+      "shiritat e interferencës kanë të njëjtën largësi njëri nga tjetri",
+      "shiriti qendror ka një intensitet drite më të vogël se çdo shirit anësor",
+      "shiriti qendror ka një intensitet drite më të madh se çdo shirit anësor"
+    ],
     "correct": 3,
     "explanation": "Te çarja e vetme maksimumi qendror është edhe më i gjerë edhe shumë më i ndritshëm, ndërsa shiritat anësorë zbehen shpejt duke u larguar prej tij."
   },
   {
     "id": "fizika-lekundjet-valet-045",
     "question": "Largësia midis dy çarjeve të një eksperimenti të Jungut zvogëlohet. Presim që largësia midis dy maksimumeve në tablonë e interferencës:",
-    "answers": ["të mbetet e njëjtë", "të rritet", "të zvogëlohet", "të bëhet zero"],
-    "correct": 1,
-    "explanation": "Ndërbrezi jepet nga Δy=λL/d, pra është në përpjesëtim të zhdrejtë me largësinë d midis çarjeve. Duke zvogëluar d, brezat largohen nga njëri-tjetri."
+    "answers": [
+      "të mbetet e njëjtë",
+      "të rritet",
+      "të zvogëlohet",
+      "të bëhet zero"
+    ],
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-046",
     "question": "Sa më e vogël të jetë frekuenca e një vale:",
-    "answers": ["aq më e madhe është gjatësia e saj", "aq më e madhe është shpejtësia e saj", "aq më e vogël është amplituda e saj", "aq më e vogël është perioda e saj"],
+    "answers": [
+      "aq më e madhe është gjatësia e saj",
+      "aq më e madhe është shpejtësia e saj",
+      "aq më e vogël është amplituda e saj",
+      "aq më e vogël është perioda e saj"
+    ],
     "correct": 0,
     "explanation": "Nga v=λf, në një mjedis të dhënë shpejtësia është konstante, prandaj λ dhe f janë në përpjesëtim të zhdrejtë. Amplituda nuk lidhet fare me frekuencën."
   },
   {
     "id": "fizika-lekundjet-valet-047",
     "question": "Një rreze e rrafshët mikrovalësh bie mbi një çarje të gjerë 6cm. Shiritat e parë të errët të difraksionit vrojtohen përkatësisht nën këndin 30°. Gjatësia e valës së rrezatimit të përdorur është:",
-    "answers": ["6cm", "5cm", "4cm", "3cm"],
+    "answers": [
+      "6cm",
+      "5cm",
+      "4cm",
+      "3cm"
+    ],
     "correct": 3,
     "explanation": "Kushti i minimumit të parë te çarja e vetme është a·sinθ=λ. Pra λ=6·sin30°=6·0,5=3cm."
   },
   {
     "id": "fizika-lekundjet-valet-048",
     "question": "Cili prej pohimeve të mëposhtme është i vërtetë, duke u nisur nga modeli valor i dritës?",
-    "answers": ["Valët e dritës janë gjatësore", "Valët e dritës janë tërthore", "Valët e dritës përhapen me shpejtësi më të madhe se valët e radios", "Valët e dritës përhapen me shpejtësi më të vogël se valët e radios"],
+    "answers": [
+      "Valët e dritës janë gjatësore",
+      "Valët e dritës janë tërthore",
+      "Valët e dritës përhapen me shpejtësi më të madhe se valët e radios",
+      "Valët e dritës përhapen me shpejtësi më të vogël se valët e radios"
+    ],
     "correct": 1,
     "explanation": "Drita është valë elektromagnetike, ku E dhe B lëkunden pingul me drejtimin e përhapjes – pra tërthore. Në zbrazëti të gjitha valët elektromagnetike kanë të njëjtën shpejtësi."
   },
@@ -368,7 +608,12 @@
     "question": "Qitësi i parë qëllon me armë 150m larg një shkëmbi. Qitësi i dytë, i cili ndodhet 300m më larg të parit, dëgjon krismën 1s pasi sheh dritën. Qitësi i dytë dëgjon jehonën:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-049.png",
     "imageAlt": "Shkëmbi, qitësi i parë 150m larg tij dhe qitësi i dytë 300m më larg",
-    "answers": ["1s pasi ka parë dritën", "2s pasi ka dëgjuar krismën", "2s pasi ka parë dritën", "3s pasi ka dëgjuar krismën"],
+    "answers": [
+      "1s pasi ka parë dritën",
+      "2s pasi ka dëgjuar krismën",
+      "2s pasi ka parë dritën",
+      "3s pasi ka dëgjuar krismën"
+    ],
     "correct": 2,
     "explanation": "Tingulli direkt përshkon 300m, ndërsa jehona 150m deri te shkëmbi plus 450m kthim, pra 600m – dyfishin e rrugës. Meqë tingulli direkt mbërrin pas 1s, jehona vjen pas 2s nga çasti i dritës."
   },
@@ -377,14 +622,24 @@
     "question": "Një transmetues nënujor dërgon një impuls tingulli nga fundi i një varke. Një kohëmatës elektronik mat kohën ndërmjet impulsit që lëshohet dhe jehonës. Kur thellësia e ujit është 28m, kohëmatësi regjistron 0.04s. Sa është shpejtësia e zërit në ujë?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-050.png",
     "imageAlt": "Varkë me transmetues tingulli që mat thellësinë 28m të ujit",
-    "answers": ["28 · 0.04 m/s", "28/0.04 m/s", "2 · 28 · 0.04 m/s", "2·28/0.04 m/s"],
+    "answers": [
+      "28 · 0.04 m/s",
+      "28/0.04 m/s",
+      "2 · 28 · 0.04 m/s",
+      "2·28/0.04 m/s"
+    ],
     "correct": 3,
     "explanation": "Tingulli përshkon thellësinë dy herë – vajtje dhe kthim – pra rrugën 2·28m. Prandaj v=2·28/0,04."
   },
   {
     "id": "fizika-lekundjet-valet-051",
     "question": "Një valë drite me amplitudë A bie pingul mbi një sipërfaqe S. Fuqia për njësi të sipërfaqes është P. Nëse amplituda e valës së dritës rritet në 2A dhe fokusohet në një sipërfaqe S/3. Sa do të jetë fuqia për njësi të sipërfaqes?",
-    "answers": ["6P", "12P", "18P", "36P"],
+    "answers": [
+      "6P",
+      "12P",
+      "18P",
+      "36P"
+    ],
     "correct": 1,
     "explanation": "Intensiteti është në përpjesëtim me katrorin e amplitudës, pra dyfishimi i A e rrit fuqinë 4 herë. Duke e përqendruar në sipërfaqe 3 herë më të vogël, intensiteti bëhet 4·3=12P."
   },
@@ -393,7 +648,12 @@
     "question": "Dy gjeneratorë valësh S₁ dhe S₂ prodhojnë valë uji me gjatësi 4 m. Ata janë të vendosur 4 m larg njëri-tjetrit në një depozitë uji. Një detektor P vendoset në sipërfaqen e ujit 3m nga S₁, si në figurë. Secili gjenerator prodhon një valë në P me amplitudë A. Kur gjeneratorët veprojnë së bashku dhe me të njëjtën fazë, cila është amplituda që rezulton në P?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-052.png",
     "imageAlt": "Dy gjeneratorë S1 dhe S2 në largësi 4m dhe detektori P në 3m nga S1, pingul me S1S2",
-    "answers": ["0", "A/2", "2A", "4A"],
+    "answers": [
+      "0",
+      "A/2",
+      "2A",
+      "4A"
+    ],
     "correct": 0,
     "explanation": "Nga trekëndëshi kënddrejtë S₂P=√(3²+4²)=5m, pra diferenca e rrugëve është 5-3=2m=λ/2. Kjo është kusht i interferencës destruktive, prandaj amplituda del zero."
   },
@@ -402,7 +662,12 @@
     "question": "Qitësi i parë qëndron 99m përpara një shkëmbi. Qitësi i dytë qëndron 198m larg të parit, si në figurë. Qitësi i dytë bën një gjuajtje dhe i pari dëgjon një të shtënë dhe jehonën e saj. Duke supozuar se shpejtësia e zërit në ajër është 330m/s, cili është intervali kohor ndërmjet dy tingujve të dëgjuar nga qitësi i parë?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-053.png",
     "imageAlt": "Shkëmbi me qitësin e parë 99m para tij dhe qitësin e dytë 198m më larg",
-    "answers": ["0.3s", "0.6s", "1.2s", "1.5s"],
+    "answers": [
+      "0.3s",
+      "0.6s",
+      "1.2s",
+      "1.5s"
+    ],
     "correct": 1,
     "explanation": "Tingulli direkt përshkon 198m (0,6s), ndërsa jehona 198+99+99=396m (1,2s). Diferenca e tyre është 0,6s."
   },
@@ -411,77 +676,132 @@
     "question": "Diagrami tregon dy valë R dhe S. Vala R ka amplitudë 8cm dhe periodë 30ms. Cila është amplituda dhe perioda e valës S?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-054.png",
     "imageAlt": "Grafik me dy valë R dhe S të mbivendosura në të njëjtin bosht kohe",
-    "answers": ["Amplituda 2cm dhe perioda 10ms", "Amplituda 2cm dhe perioda 90ms", "Amplituda 4cm dhe perioda 10ms", "Amplituda 4cm dhe perioda 90ms"],
-    "correct": 3,
-    "explanation": "Nga grafiku vala S ka gjysmën e lartësisë së R, pra 4cm, dhe kryen një lëkundje ndërkohë që R kryen tri – pra 3·30=90ms."
+    "answers": [
+      "Amplituda 2cm dhe perioda 10ms",
+      "Amplituda 2cm dhe perioda 90ms",
+      "Amplituda 4cm dhe perioda 10ms",
+      "Amplituda 4cm dhe perioda 90ms"
+    ],
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-055",
     "question": "Në eksperimentin e interferencës nga dy çarje, një çarje transmeton valë me dyfishin e amplitudës krahasuar me valën në çarjen tjetër. Nëse intensiteti maksimal i përftuar është I₀, cili është intensiteti minimal?",
-    "answers": ["0", "I₀/2", "I₀/4", "I₀/9"],
+    "answers": [
+      "0",
+      "I₀/2",
+      "I₀/4",
+      "I₀/9"
+    ],
     "correct": 3,
     "explanation": "Me amplituda A dhe 2A: maksimumi i përgjigjet (3A)² dhe minimumi (A)². Raporti është 1:9, pra Imin=I₀/9 – dhe nuk bëhet kurrë zero sepse amplitudat nuk janë të barabarta."
   },
   {
     "id": "fizika-lekundjet-valet-056",
     "question": "Lavjerrësi sustë, me masë m=3kg dhe koeficient elasticiteti k=1200N/m, mund të lëkundet në pozicion horizontal. Fillimisht sustën e ngjeshim me 4cm dhe pastaj e lemë të lirë të lëkundet pa shpejtësi fillestare. Shpejtësia e sferës kur kalon nëpër pozicionin e ekuilibrit është:",
-    "answers": ["16m/s", "2m/s", "0,8m/s", "0,4 m/s"],
+    "answers": [
+      "16m/s",
+      "2m/s",
+      "0,8m/s",
+      "0,4 m/s"
+    ],
     "correct": 2,
     "explanation": "Në ekuilibër e gjithë energjia elastike bëhet kinetike: v=A√(k/m)=0,04·√400=0,04·20=0,8m/s."
   },
   {
     "id": "fizika-lekundjet-valet-057",
     "question": "Lavjerrësi sustë, me masë m=3kg dhe koeficient elasticiteti k=1200N/m, mund të lëkundet në pozicion horizontal. Fillimisht sustën e ngjeshim me 4cm dhe pastaj e lemë të lirë të lëkundet pa shpejtësi fillestare. Ekuacioni i lëkundjeve për zhvendosjen e sferës është:",
-    "answers": ["X(t)=-4cos(20t+π/2), në mm.", "X(t)=4cos(20t), në mm.", "X(t)= -4cos(20t), në cm.", "X(t)= 4cos(20t), në cm"],
+    "answers": [
+      "X(t)=-4cos(20t+π/2), në mm.",
+      "X(t)=4cos(20t), në mm.",
+      "X(t)= -4cos(20t), në cm.",
+      "X(t)= 4cos(20t), në cm"
+    ],
     "correct": 2,
     "explanation": "ω=√(k/m)=20rad/s dhe A=4cm. Meqë në t=0 susta është e ngjeshur (zhvendosje negative maksimale), ekuacioni merr shenjën minus: x=-4cos(20t) cm."
   },
   {
     "id": "fizika-lekundjet-valet-058",
     "question": "Një trup kryen lëvizje të thjeshtë harmonike me amplitudë 100 mm me qendër në O. Kur kalon nëpër O trupi ka energji kinetike 50J. Kur është në një pikë 40 mm larg nga O, ai ka energji kinetike Ek dhe energji potenciale Ep përkatësisht:",
-    "answers": ["42J; 8J", "30J; 20J", "20J; 30J", "18J; 32J"],
+    "answers": [
+      "42J; 8J",
+      "30J; 20J",
+      "20J; 30J",
+      "18J; 32J"
+    ],
     "correct": 0,
     "explanation": "Energjia e plotë është 50J. Ep=E·(x/A)²=50·(40/100)²=8J, prandaj Ek=50-8=42J."
   },
   {
     "id": "fizika-lekundjet-valet-059",
     "question": "Një valë tërthore përhapet në një kordë me shpejtësi 0.5m/s. Zhvendosja nga koha e pikave të kordës nga pozicioni i ekuilibrit jepet me ekuacionin: x=30cos0.1πt. Nëse x është në metra dhe t në sekonda, gjatësia e valës është:",
-    "answers": ["2m", "5m", "10m", "12m"],
+    "answers": [
+      "2m",
+      "5m",
+      "10m",
+      "12m"
+    ],
     "correct": 2,
     "explanation": "Nga ω=0,1π del T=2π/ω=20s. Pastaj λ=v·T=0,5·20=10m."
   },
   {
     "id": "fizika-lekundjet-valet-060",
     "question": "Blloku me masë 20kg i ngjitur në një sustë me konstante elastike k = 50N/m, kryen lëkundje harmonike. Sa është vlera më e madhe e nxitimit të bllokut, nëse zhvendosja më e madhe nga pozicioni i tij ekuilibrit, është 4m?",
-    "answers": ["4m/s²", "6m/s²", "8m/s²", "10m/s²"],
+    "answers": [
+      "4m/s²",
+      "6m/s²",
+      "8m/s²",
+      "10m/s²"
+    ],
     "correct": 3,
     "explanation": "amax=ω²A=(k/m)·A=(50/20)·4=10m/s². Në mënyrë të barasvlershme amax=kA/m."
   },
   {
     "id": "fizika-lekundjet-valet-061",
     "question": "Një valë tërthore kalon nga një mjedis A në një mjedis B. Në mjedisin A, shpejtësia e valës tërthore është 500m/s dhe gjatësia e valës është 5m. Frekuenca dhe gjatësia valore e valës në mjedisin B, ku shpejtësia e saj është 600 m/s, janë përkatësisht:",
-    "answers": ["120 Hz dhe 5 m", "100 Hz dhe 5 m", "120 Hz dhe 6 m", "100 Hz dhe 6 m"],
+    "answers": [
+      "120 Hz dhe 5 m",
+      "100 Hz dhe 5 m",
+      "120 Hz dhe 6 m",
+      "100 Hz dhe 6 m"
+    ],
     "correct": 3,
     "explanation": "f=v/λ=500/5=100Hz dhe frekuenca nuk ndryshon me mjedisin. Pra në B: λ=600/100=6m."
   },
   {
     "id": "fizika-lekundjet-valet-062",
     "question": "Një trup me masë 36g kryen lëkundje harmonike me amplitudë A=13cm dhe periodë T=12s. Nëse t=0 ka x=A, ekuacioni i lëkundjeve për shpejtësinë e trupit shprehet:",
-    "answers": ["v = 13 cos(πt/6) (cm/s)", "v = 13 sin(πt/6) (cm/s)", "v = 6.8 cos(πt/6) (cm/s)", "v = 6.8 sin(πt/6) (cm/s)"],
+    "answers": [
+      "v = 13 cos(πt/6) (cm/s)",
+      "v = 13 sin(πt/6) (cm/s)",
+      "v = 6.8 cos(πt/6) (cm/s)",
+      "v = 6.8 sin(πt/6) (cm/s)"
+    ],
     "correct": 3,
     "explanation": "ω=2π/12=π/6 dhe vmax=Aω=13·π/6≈6,8cm/s. Meqë në t=0 trupi është në amplitudë, zhvendosja ndjek kosinusin dhe shpejtësia sinusin."
   },
   {
     "id": "fizika-lekundjet-valet-063",
     "question": "Një impuls zanor P₁ dërgohet në drejtim të fundit të detit. Koha që impulsi të godasë fundin e detit dhe të kthehet përsëri në anije si impuls P₂ është 0.3s. Shpejtësia e zërit në ujë është 1500m/s. Cila nga alternativat e mëposhtme shpreh saktë distancën midis anijes dhe fundit të detit si dhe amplitudën e impulsit P₂ në krahasim me atë të impulsin P₁?",
-    "answers": ["Distanca 225m dhe amplituda e impulsit P₂ më e vogël se e P₁", "Distanca 225m dhe amplituda e impulsit P₂ e njëjtë me atë të P₁", "Distanca 450m dhe amplituda e impulsit P₂ më e vogël se e P₁", "Distanca 450m dhe amplituda e impulsit P₂ e njëjtë me atë të P₁"],
+    "answers": [
+      "Distanca 225m dhe amplituda e impulsit P₂ më e vogël se e P₁",
+      "Distanca 225m dhe amplituda e impulsit P₂ e njëjtë me atë të P₁",
+      "Distanca 450m dhe amplituda e impulsit P₂ më e vogël se e P₁",
+      "Distanca 450m dhe amplituda e impulsit P₂ e njëjtë me atë të P₁"
+    ],
     "correct": 0,
     "explanation": "Rruga e plotë është 1500·0,3=450m, pra thellësia është gjysma: 225m. Gjatë udhëtimit energjia shpërndahet dhe përthithet, prandaj jehona vjen me amplitudë më të vogël."
   },
   {
     "id": "fizika-lekundjet-valet-064",
     "question": "Një trup me masë të vogël i nënshtrohet lëvizjes së thjeshtë harmonike rreth një pike O me amplitudë x₀ dhe periodë T. Nëse në t=0 ndodhet në O, zhvendosja e saj x nga pika O në kohën T/6 është:",
-    "answers": ["x₀/6", "x₀/2√3", "x₀/2", "√3x₀/2"],
+    "answers": [
+      "x₀/6",
+      "x₀/2√3",
+      "x₀/2",
+      "√3x₀/2"
+    ],
     "correct": 3,
     "explanation": "Meqë niset nga qendra, x=x₀sin(2πt/T). Për t=T/6: sin(60°)=√3/2, pra x=√3x₀/2."
   },
@@ -490,49 +810,84 @@
     "question": "Koha që lavjerrësi të lëkundet nga pozicioni X në pozicionin Y është 0.5s. Të dy pozicionet janë zhvendosje maksimale. Lavjerrësi modifikohet dhe bën 80 lëkundje të plota në një minutë. Cili është modifikimi i mundshëm?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-065.png",
     "imageAlt": "Lavjerrës që lëkundet midis pozicioneve ekstreme X dhe Y",
-    "answers": ["Duke zvogëluar gjatësinë", "Duke rritur gjatësinë", "Duke zvogëluar masën", "Duke rritur masën"],
+    "answers": [
+      "Duke zvogëluar gjatësinë",
+      "Duke rritur gjatësinë",
+      "Duke zvogëluar masën",
+      "Duke rritur masën"
+    ],
     "correct": 0,
     "explanation": "Fillimisht T=2·0,5=1s; pas modifikimit T=60/80=0,75s. Meqë T=2π√(l/g), zvogëlimi i periodës kërkon zvogëlim të gjatësisë – masa nuk ndikon."
   },
   {
     "id": "fizika-lekundjet-valet-066",
     "question": "Dy valë koherente me frekuencë 300Hz mbivendosen për të prodhuar një valë të qëndrueshme. Distanca midis nyjes së parë dhe nyjes së gjashtë është 7.5cm. Sa është shpejtësia e valëve?",
-    "answers": ["375cm/s", "450cm/s", "750cm/s", "900cm/s"],
+    "answers": [
+      "375cm/s",
+      "450cm/s",
+      "750cm/s",
+      "900cm/s"
+    ],
     "correct": 3,
     "explanation": "Nga nyja 1 te nyja 6 ka 5 intervale nga λ/2: 5λ/2=7,5cm → λ=3cm. Pastaj v=f·λ=300·3=900cm/s."
   },
   {
     "id": "fizika-lekundjet-valet-067",
     "question": "Një vegël muzikore prodhon nota duke fryrë ajrin në një grup tubash që janë të hapur në njërin skaj dhe të mbyllur në skajin tjetër. Cila është frekuenca më e ulët e tingullit të prodhuar nga një tub me gjatësi 2 m? (Shpejtësia e zërit në tub është 320 m/s)",
-    "answers": ["20 Hz", "40 Hz", "80 Hz", "160Hz"],
+    "answers": [
+      "20 Hz",
+      "40 Hz",
+      "80 Hz",
+      "160Hz"
+    ],
     "correct": 1,
     "explanation": "Te tubi i mbyllur në një skaj, harmonika themelore ka λ=4L=8m. Pra f=v/λ=320/8=40Hz."
   },
   {
     "id": "fizika-lekundjet-valet-068",
     "question": "Një tel është vendosur për të vibruar midis dy skajeve të fiksuar. Për një frekuencë 225Hz midis dy skajeve të fiksuar vërehet vetëm një antinyje. Nëse teli vibrohet me frekuencë 900 Hz, atëherë në të:",
-    "answers": ["ka 3 nyje", "ka 3 nyje më shumë se vala origjinale", "formohen valë me gjatësi 4 herë më të madhe", "vala përhapet me shpejtësi 4 herë më të madhe"],
-    "correct": 0,
-    "explanation": "900Hz është harmonika e katërt e 225Hz, pra në tel formohen 4 antinyje dhe 3 nyje ndërmjet skajeve. Shpejtësia varet nga teli dhe nuk ndryshon, ndërsa gjatësia e valës bëhet 4 herë më e vogël."
+    "answers": [
+      "ka 3 nyje",
+      "ka 3 nyje më shumë se vala origjinale",
+      "formohen valë me gjatësi 4 herë më të madhe",
+      "vala përhapet me shpejtësi 4 herë më të madhe"
+    ],
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-069",
     "question": "Një trup kryen lëkundje harmonike me zhvendosje maksimale nga pozicioni i ekuilibrit 20cm dhe kryen 100 lëkundje të plota gjatë 3 minuta e 20 sekondave. Cili nga ekuacionet e mëposhtme shpreh ekuacionin e lëkundjeve harmonike të trupit?",
-    "answers": ["x = 0.2 sin(πt/2)", "x = 0.2 sin πt", "x = 0.4 sin πt", "x = 0.4 sin 2πt"],
+    "answers": [
+      "x = 0.2 sin(πt/2)",
+      "x = 0.2 sin πt",
+      "x = 0.4 sin πt",
+      "x = 0.4 sin 2πt"
+    ],
     "correct": 1,
     "explanation": "Koha totale është 200s, pra T=2s dhe ω=2π/2=π. Amplituda është 0,2m, prandaj x=0,2sin(πt)."
   },
   {
     "id": "fizika-lekundjet-valet-070",
     "question": "Lavjerrësi matematik me gjatësi 81cm kryen 100 lëkundje në 3 minuta. Sa është nxitimi i rënies së lirë në këtë rast? (π=3.14)",
-    "answers": ["10.2m/s²", "9.8m/s²", "9.2m/s²", "8.9m/s²"],
+    "answers": [
+      "10.2m/s²",
+      "9.8m/s²",
+      "9.2m/s²",
+      "8.9m/s²"
+    ],
     "correct": 1,
     "explanation": "T=180/100=1,8s. Nga T=2π√(l/g) → g=4π²l/T²=39,44·0,81/3,24≈9,8m/s²."
   },
   {
     "id": "fizika-lekundjet-valet-071",
     "question": "Një stacion sizmik regjistron valën tërthore të një tërmeti 2s më vonë se valën gjatësore. Shpejtësitë e përhapjes së këtyre valëve janë vt=5km/s dhe vgj=9km/s. Sa larg stacionit ndodhet epiqendra e tërmetit?",
-    "answers": ["22.5km", "18km", "10km", "8km"],
+    "answers": [
+      "22.5km",
+      "18km",
+      "10km",
+      "8km"
+    ],
     "correct": 0,
     "explanation": "Nga d/5-d/9=2 del d·(4/45)=2, pra d=22,5km."
   },
@@ -541,28 +896,48 @@
     "question": "Një marinar mati se kreshtat e valëve përshkojnë largësinë nga bashi tek kici i anijes për 5s, ndërsa tek kici ato kalojnë çdo 6s. Sa është largësia ndërmjet dy kreshtave?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-072.png",
     "imageAlt": "Anije me gjatësi 30m nga bashi te kici, me valë që kalojnë përgjatë saj",
-    "answers": ["5m", "6m", "30m", "36m"],
+    "answers": [
+      "5m",
+      "6m",
+      "30m",
+      "36m"
+    ],
     "correct": 3,
     "explanation": "Shpejtësia është v=30/5=6m/s dhe perioda T=6s. Pra λ=v·T=36m."
   },
   {
     "id": "fizika-lekundjet-valet-073",
     "question": "Një punëtor godet me çekan tubacionin prej çeliku të naftësjellësit, kurse një punëtor tjetër, i ndodhur 500m larg, dëgjon tingujt e ndarë në një interval kohe nga njëri - tjetri. Sa është ky interval kohor, nëse shpejtësitë e përhapjes së tingullit në metal dhe në ajër janë përkatësisht 5000m/s dhe 330m/s?",
-    "answers": ["0.1s", "1.5s", "1.4s", "1.6s"],
+    "answers": [
+      "0.1s",
+      "1.5s",
+      "1.4s",
+      "1.6s"
+    ],
     "correct": 2,
     "explanation": "t=500/330-500/5000=1,515-0,1≈1,4s. Tingulli nëpër çelik mbërrin i pari."
   },
   {
     "id": "fizika-lekundjet-valet-074",
     "question": "Në një tel të tendosur janë formuar valë të qëndrueshme me frekuencë 760Hz. Sa do të jetë largësia ndërmjet dy nyjeve të njëpasnjëshme, nëse shpejtësia e përhapjes së kësaj vale është 500m/s?",
-    "answers": ["0.33m", "0.66m", "0.99m", "1.32m"],
+    "answers": [
+      "0.33m",
+      "0.66m",
+      "0.99m",
+      "1.32m"
+    ],
     "correct": 0,
     "explanation": "λ=v/f=500/760≈0,66m. Largësia midis dy nyjeve fqinje është gjysma e saj: rreth 0,33m."
   },
   {
     "id": "fizika-lekundjet-valet-075",
     "question": "Dy vrojtues do të përcaktojnë shpejtësinë e përhapjes së tingullit në çelik. Njëri godet shinën prej çeliku të hekurudhës dhe tjetri që ndodhet 1000m larg dëgjon dy tinguj të ndarë nga njëri tjetri. Njëri tingull vjen nëpërmjet shinës dhe tjetri 2.74s më vonë nëpërmjet ajrit. Duke marrë shpejtësinë e tingullit në ajër 340m/s, shpejtësia e tingullit në çelik është:",
-    "answers": ["920m/s", "2700m/s", "4150m/s", "5000m/s"],
+    "answers": [
+      "920m/s",
+      "2700m/s",
+      "4150m/s",
+      "5000m/s"
+    ],
     "correct": 3,
     "explanation": "Koha nëpër ajër është 1000/340≈2,94s, pra nëpër çelik 2,94-2,74=0,20s. Atëherë v=1000/0,20≈5000m/s."
   },
@@ -571,35 +946,60 @@
     "question": "Një sferë me masë m është fiksuar në dy susta si në figurë. Sfera kryen lëkundje të thjeshtë harmonike me amplitudë A dhe periodë T. Energjia e plotë e lëkundjes është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-076.png",
     "imageAlt": "Sferë me masë m e fiksuar midis dy sustave horizontale",
-    "answers": ["2π mA²/T²", "2π² mA²/T²", "π² mA²/T²", "2π m²A²/T"],
-    "correct": 1,
-    "explanation": "E=½mω²A² dhe ω=2π/T. Duke zëvendësuar del E=½m(4π²/T²)A²=2π²mA²/T²."
+    "answers": [
+      "2π mA²/T²",
+      "2π² mA²/T²",
+      "π² mA²/T²",
+      "2π m²A²/T"
+    ],
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-077",
     "question": "Një valë përhapet në një mjedis elastik me shpejtësi 100m/s. Largësia më e vogël e pikave të mjedisit që lëkunden me faza të kundërta është 1m. Sa është frekuenca e lëkundjeve?",
-    "answers": ["200Hz", "100Hz", "50Hz", "25Hz"],
+    "answers": [
+      "200Hz",
+      "100Hz",
+      "50Hz",
+      "25Hz"
+    ],
     "correct": 2,
     "explanation": "Pikat në antifazë më të afërta ndahen me λ/2, pra λ=2m. Atëherë f=v/λ=100/2=50Hz."
   },
   {
     "id": "fizika-lekundjet-valet-078",
     "question": "Nga një pikatore lëshohen 80 pika uji në minutë mbi sipërfaqen e ujit të qetë, që ndodhet në një enë të gjerë. Pikat bien në intervale kohe të barabarta. Rreth vendit ku bien pikat, përhapen valë tërthore. Largësia ndërmjet dy kreshtave fqinje të këtyre valëve është 0.45m. Sa është shpejtësia e përhapjes së valëve tërthore në sipërfaqen e ujit?",
-    "answers": ["0.6m/s", "0.34m/s", "6cm/s", "3.4cm/s"],
+    "answers": [
+      "0.6m/s",
+      "0.34m/s",
+      "6cm/s",
+      "3.4cm/s"
+    ],
     "correct": 0,
     "explanation": "f=80/60≈1,33Hz dhe λ=0,45m. Pra v=f·λ=1,33·0,45≈0,6m/s."
   },
   {
     "id": "fizika-lekundjet-valet-079",
     "question": "Një valë tingulli përshkon distancën 990m për 3s. Nëse frekuenca e lëkundjeve është 660Hz, gjatësia e valës është:",
-    "answers": ["0.5m", "1m/s", "1.5m/s", "2m/s"],
+    "answers": [
+      "0.5m",
+      "1m/s",
+      "1.5m/s",
+      "2m/s"
+    ],
     "correct": 0,
     "explanation": "v=990/3=330m/s. Pastaj λ=v/f=330/660=0,5m."
   },
   {
     "id": "fizika-lekundjet-valet-080",
     "question": "Një burim lëkundjesh kryen 3 lëkundje në 2s dhe shpejtësia e valës që ai përhap është 300m/s. Sa është gjatësia e valës së përhapur prej tij?",
-    "answers": ["900m", "600m", "300m", "200m"],
+    "answers": [
+      "900m",
+      "600m",
+      "300m",
+      "200m"
+    ],
     "correct": 3,
     "explanation": "f=3/2=1,5Hz, pra λ=v/f=300/1,5=200m."
   },
@@ -608,77 +1008,132 @@
     "question": "Në figurën 1 jepet fotografia e sipërfaqes së ujit, ku rrathët përfaqësojnë kreshtat e valës harmonike që përhapen. Largësia midis pikave M dhe N të treguar në figurë është 8m. Në figurën 2 tregohet grafiku i lëkundjeve të burimit të valës. Shpejtësia e valës është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-081.png",
     "imageAlt": "Figura 1 me kreshta rrethore dhe pikat M, N; figura 2 me grafikun y(cm)-t(s) të burimit",
-    "answers": ["1m/s", "2m/s", "4m/s", "8m"],
-    "correct": 2,
-    "explanation": "M dhe N ndodhen në dy kreshta fqinje, pra λ=8m. Nga grafiku T=2s, prandaj v=λ/T=4m/s."
+    "answers": [
+      "1m/s",
+      "2m/s",
+      "4m/s",
+      "8m"
+    ],
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-082",
     "question": "Largësia midis kreshtës së parë dhe asaj të shtatë është 30cm. Sa është shpejtësia e valës, nëse perioda e lëkundjeve është 0.02s?",
-    "answers": ["6m/s", "3.6m/s", "3m/s", "2.5m/s"],
+    "answers": [
+      "6m/s",
+      "3.6m/s",
+      "3m/s",
+      "2.5m/s"
+    ],
     "correct": 3,
     "explanation": "Nga kreshta 1 te kreshta 7 ka 6 gjatësi vale: 6λ=0,3m → λ=0,05m. Pra v=λ/T=0,05/0,02=2,5m/s."
   },
   {
     "id": "fizika-lekundjet-valet-083",
     "question": "Një trup, i cili kryen lëkundje harmonike, i duhen 2s për të bërë një lëkundje të plotë. Pas sa sekondash nga fillimi i lëkundjes ai ka një zhvendosje nga pozicioni i ekuilibrit sa 1/2 e amplitudës? (në t=0, x=A)",
-    "answers": ["1s", "1/2s", "1/3s", "1/6s"],
+    "answers": [
+      "1s",
+      "1/2s",
+      "1/3s",
+      "1/6s"
+    ],
     "correct": 2,
     "explanation": "Meqë niset nga amplituda, x=A·cos(2πt/T). Nga cos(πt)=0,5 del πt=π/3, pra t=1/3s."
   },
   {
     "id": "fizika-lekundjet-valet-084",
     "question": "Shpejtësia maksimale e një grimce që kryen lëkundje harmonike është 6.28cm/s. Nëse zhvendosja maksimale nga pozicioni i ekuilibrit është 4cm, sa është perioda e lëkundjeve?",
-    "answers": ["1s", "2s", "4s", "6s"],
+    "answers": [
+      "1s",
+      "2s",
+      "4s",
+      "6s"
+    ],
     "correct": 2,
     "explanation": "Nga vmax=Aω → ω=6,28/4=1,57rad/s. Pastaj T=2π/ω=6,28/1,57=4s."
   },
   {
     "id": "fizika-lekundjet-valet-085",
     "question": "Sa është perioda e lëkundjeve të një grimcë, e cila kryen lëkundje harmonike me amplitudë 3cm? Nxitimi i saj në pozicionin ekstrem është 27cm/s².",
-    "answers": ["6.8s", "3.4s", "2.1s", "1.4s"],
+    "answers": [
+      "6.8s",
+      "3.4s",
+      "2.1s",
+      "1.4s"
+    ],
     "correct": 2,
     "explanation": "Nga amax=ω²A → ω²=27/3=9, pra ω=3rad/s. Atëherë T=2π/3≈2,1s."
   },
   {
     "id": "fizika-lekundjet-valet-086",
     "question": "Një grimcë kryen lëkundje harmonike me shpejtësi maksimale 0.16cm/s dhe nxitim maksimal 0.64cm/s². Perioda e lëkundjeve është:",
-    "answers": ["1.57s", "3.14s", "4s", "4.7s"],
+    "answers": [
+      "1.57s",
+      "3.14s",
+      "4s",
+      "4.7s"
+    ],
     "correct": 0,
     "explanation": "Meqë vmax=Aω dhe amax=Aω², raporti jep ω=0,64/0,16=4rad/s. Pra T=2π/4≈1,57s."
   },
   {
     "id": "fizika-lekundjet-valet-087",
     "question": "Një masë 50g lidhet me një sustë, skaji tjetër i së cilës është i fiksuar. Masa tërhiqet poshtë dhe pastaj lihet e lirë, gjë që bën që ajo të lëkundet me periodë 1.57s. Koeficienti i elasticitetit të sustës është:",
-    "answers": ["8N/m", "2N/m", "0.8N/m", "0.2N/m"],
+    "answers": [
+      "8N/m",
+      "2N/m",
+      "0.8N/m",
+      "0.2N/m"
+    ],
     "correct": 2,
     "explanation": "ω=2π/T=4rad/s. Nga k=mω²=0,05·16=0,8N/m."
   },
   {
     "id": "fizika-lekundjet-valet-088",
     "question": "Një valë tërmeti që na lëkund sa majtas djathtas çdo 50ms, arrin në një qytet tjetër 84km larg, në 12 s? Sa është gjatësia e valës së tërmetit?",
-    "answers": ["7m", "70 m", "700m", "70km"],
+    "answers": [
+      "7m",
+      "70 m",
+      "700m",
+      "70km"
+    ],
     "correct": 2,
     "explanation": "Shpejtësia është v=84000/12=7000m/s. Lëkundja majtas-djathtas kryhet për gjysmë periode, pra T=0,1s dhe λ=v·T=700m."
   },
   {
     "id": "fizika-lekundjet-valet-089",
     "question": "Gjatësia e valës së De Brojlit për elektronin me masë 9,1×10⁻³¹ kg që lëviz me shpejtësi 6×10⁶ m/s është: (h=6.62∙10⁻³⁴Js)",
-    "answers": ["λ = 1×10⁻¹⁰ m", "λ = 1,2×10⁻¹⁰ m", "λ = 2,1×10⁻¹⁰ m", "λ = 2,5×10⁻¹⁰ m"],
+    "answers": [
+      "λ = 1×10⁻¹⁰ m",
+      "λ = 1,2×10⁻¹⁰ m",
+      "λ = 2,1×10⁻¹⁰ m",
+      "λ = 2,5×10⁻¹⁰ m"
+    ],
     "correct": 1,
     "explanation": "λ=h/(mv)=6,62·10⁻³⁴/(9,1·10⁻³¹·6·10⁶)≈1,2·10⁻¹⁰m."
   },
   {
     "id": "fizika-lekundjet-valet-090",
     "question": "Një thërrmijë që lëviz me shpejtësi 1,4×10⁶ m/s e ka gjatësinë e valës λ = 7,5×10⁻¹⁴ m. Masa e kësaj thërrmije është: (h=6.62∙10⁻³⁴Js)",
-    "answers": ["0,35×10⁻²⁶ kg", "0,36×10⁻²⁶ kg", "0,53×10⁻²⁶ kg", "0,63×10⁻²⁶ kg"],
+    "answers": [
+      "0,35×10⁻²⁶ kg",
+      "0,36×10⁻²⁶ kg",
+      "0,53×10⁻²⁶ kg",
+      "0,63×10⁻²⁶ kg"
+    ],
     "correct": 3,
     "explanation": "Nga λ=h/(mv) → m=h/(λv)=6,62·10⁻³⁴/(7,5·10⁻¹⁴·1,4·10⁶)≈0,63·10⁻²⁶kg."
   },
   {
     "id": "fizika-lekundjet-valet-091",
     "question": "Nga tarraca e një godine të lartë lëshohet një gur. Gjatësia e valës së De Brojlit gjatë rënies së tij do të:",
-    "answers": ["rritet.", "zvogëlohet.", "mbetet konstante.", "bëhet zero."],
+    "answers": [
+      "rritet.",
+      "zvogëlohet.",
+      "mbetet konstante.",
+      "bëhet zero."
+    ],
     "correct": 1,
     "explanation": "Gjatë rënies shpejtësia dhe impulsi rriten. Meqë λ=h/(mv), rritja e impulsit e zvogëlon gjatësinë e valës."
   },
@@ -687,35 +1142,60 @@
     "question": "Një rreze drite njëngjyrëshe kalon një çarje, gjerësia e së cilës është 0,56mm dhe jep një tablo difraksioni mbi një ekran 4m larg si në figurë. Largësia midis qendrës së shiritit të ndritshëm qendror dhe shiritit të parë të errët është 3,4mm. Gjatësia e valës së kësaj drite është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-092.png",
     "imageAlt": "Tablo difraksioni nga një çarje e vetme mbi ekran në largësi L",
-    "answers": ["456nm", "476nm", "496nm", "506nm"],
+    "answers": [
+      "456nm",
+      "476nm",
+      "496nm",
+      "506nm"
+    ],
     "correct": 1,
     "explanation": "Për minimumin e parë a·y/L=λ, pra λ=0,56·10⁻³·3,4·10⁻³/4≈4,76·10⁻⁷m=476nm."
   },
   {
     "id": "fizika-lekundjet-valet-093",
     "question": "Një çarje me gjerësi 1.3 µm, ndriçohet me dritë njëngjyrëshe, me gjatësi vale 0.65 µm. Sinusi i këndit, në të cilin vrojtohet minimumi i parë i errët është:",
-    "answers": ["0.5", "0.6", "0.7", "0.8"],
+    "answers": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8"
+    ],
     "correct": 0,
     "explanation": "Nga a·sinθ=λ → sinθ=0,65/1,3=0,5."
   },
   {
     "id": "fizika-lekundjet-valet-094",
     "question": "Në tablonë e interferencës së përftuar nga dy çarjet e Jungut, brezi i katërt i ndritshëm i një drite njëngjyrëshe me gjatësi vale 650nm përftohet nën këndin 21° (sin 21° = 0,36). Largësia midis dy çarjeve është:",
-    "answers": ["7,2μm", "5,7 μm", "5,2 μm", "2,7 μm"],
+    "answers": [
+      "7,2μm",
+      "5,7 μm",
+      "5,2 μm",
+      "2,7 μm"
+    ],
     "correct": 0,
     "explanation": "Nga d·sinθ=kλ → d=4·650·10⁻⁹/0,36≈7,2·10⁻⁶m=7,2μm."
   },
   {
     "id": "fizika-lekundjet-valet-095",
     "question": "Cila nga madhësitë e mëposhtme ndryshojnë, kur një rreze drite kalon nga ajri në ujë?",
-    "answers": ["(gjatësia e valës dhe shpejtësia)", "(gjatësia e valës dhe frekuenca)", "(shpejtësia, drejtimi dhe frekuenca)", "(gjatësia e valës, shpejtësia dhe drejtimi)"],
+    "answers": [
+      "(gjatësia e valës dhe shpejtësia)",
+      "(gjatësia e valës dhe frekuenca)",
+      "(shpejtësia, drejtimi dhe frekuenca)",
+      "(gjatësia e valës, shpejtësia dhe drejtimi)"
+    ],
     "correct": 3,
     "explanation": "Frekuenca përcaktohet nga burimi dhe mbetet e njëjtë. Ndryshojnë shpejtësia, e bashkë me të gjatësia e valës, si dhe drejtimi për shkak të përthyerjes."
   },
   {
     "id": "fizika-lekundjet-valet-096",
     "question": "Dy çarje ndodhen në largësinë d nga njëra-tjetra. Pareti ku ndodhen ato, ka largësinë L nga ekrani. Shënojmë me y largësinë midis maksimumit qendror dhe maksimumit të parë anësor të një tabloje interference, e cila përftohet nga një tufë drite që bie mbi çarje. Si shprehet, në varësi të këtyre madhësive lidhja që lejon të llogaritet gjatësia e valës së dritës që jep këtë tablo?",
-    "answers": ["λ = dy/L", "λ = dL/y", "λ = y/(dL)", "λ = yL/d"],
+    "answers": [
+      "λ = dy/L",
+      "λ = dL/y",
+      "λ = y/(dL)",
+      "λ = yL/d"
+    ],
     "correct": 0,
     "explanation": "Nga formula e ndërbrezit y=λL/d, duke e zgjidhur për λ del λ=d·y/L."
   },
@@ -724,7 +1204,12 @@
     "question": "Drita njëngjyrëshe me gjatësi 589nm bie pingul mbi dy çarje që ndodhen në largësi 0,2mm nga njëra-tjetra. Tabloja e interferencës përftohet në ekranin që ndodhet 1,8m larg çarjeve. Diferenca e rrugëve nga secila çarje deri në pikën P të ekranit, e cila ndodhet 2,65cm larg nga qendra e ekranit, është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-097.png",
     "imageAlt": "Skemë e eksperimentit të Jungut me dy çarje dhe pikën P në ekran",
-    "answers": ["2944nm", "2500nm", "2445nm", "2095nm"],
+    "answers": [
+      "2944nm",
+      "2500nm",
+      "2445nm",
+      "2095nm"
+    ],
     "correct": 0,
     "explanation": "Diferenca e rrugëve jepet nga Δ=d·y/L=0,2·10⁻³·2,65·10⁻²/1,8≈2,944·10⁻⁶m=2944nm."
   },
@@ -733,7 +1218,12 @@
     "question": "Drita njëngjyrëshe bie mbi dy çarje që ndodhen 0,6mm larg njëra-tjetrës. Tabloja e interferencës përftohet në ekranin që ndodhet 3m larg çarjeve. Brezi i dytë i ndritshëm ndodhet 5,8mm larg qendrës së ekranit. Gjatësia e valës njëngjyrëshe është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-098.png",
     "imageAlt": "Skemë e interferencës nga dy çarje me brezin e dytë të ndritshëm në ekran",
-    "answers": ["540nm", "560nm", "580nm", "600nm"],
+    "answers": [
+      "540nm",
+      "560nm",
+      "580nm",
+      "600nm"
+    ],
     "correct": 2,
     "explanation": "Nga d·y=kλL → λ=0,6·10⁻³·5,8·10⁻³/(2·3)=5,8·10⁻⁷m=580nm."
   },
@@ -742,7 +1232,12 @@
     "question": "Drita njëngjyrëshe bie mbi dy çarje që ndodhen 0,6mm larg njëra-tjetrës. Tabloja e interferencës përftohet në ekranin që ndodhet 3m larg çarjeve. Brezi i dytë i ndritshëm ndodhet 5,8mm larg qendrës së ekranit. Ndërbrezi i tablosë së interferencës ka vlerën:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-099.png",
     "imageAlt": "Tablo interference me ndërbrezin Δy të shënuar",
-    "answers": ["2,9mm", "3,9mm", "4,9mm", "5,9mm"],
+    "answers": [
+      "2,9mm",
+      "3,9mm",
+      "4,9mm",
+      "5,9mm"
+    ],
     "correct": 0,
     "explanation": "Brezat janë të barasndarë, prandaj ndërbrezi është largësia e brezit të dytë pjesëtuar me 2: 5,8/2=2,9mm."
   },
@@ -751,21 +1246,36 @@
     "question": "Drita njëngjyrëshe me gjatësi 588nm bie pingul mbi dy çarje që ndodhen në largësi 0,2mm nga njëra-tjetra. Tabloja e interferencës përftohet në ekranin që ndodhet 1,8m larg çarjeve. Në pikën P të ekranit, e cila ndodhet 2,65cm larg nga qendra e ekranit, amplituda e lëkundjeve rezultante është:",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-100.png",
     "imageAlt": "Skemë e eksperimentit të Jungut me pikën P në ekran",
-    "answers": ["maksimale", "minimale", "e ndërmjetme", "zero"],
+    "answers": [
+      "maksimale",
+      "minimale",
+      "e ndërmjetme",
+      "zero"
+    ],
     "correct": 0,
     "explanation": "Diferenca e rrugëve është Δ=d·y/L≈2944nm, që pjesëtuar me λ=588nm jep pothuajse saktësisht 5. Një numër i plotë gjatësish valësh do të thotë interferencë konstruktive."
   },
   {
     "id": "fizika-lekundjet-valet-101",
     "question": "Një sistem vertikal trup-sustë ka periodë të lëkundjeve 1.25s. Një forcë periodike me frekuencë 2.5Hz zbatohet më pas në sistem që ai të lëkundet me amplitudë 1.5cm dhe të arrijë një gjendje të qëndrueshme. Trupi është në pozicionin e amplitudës së poshtme në t=0. Sa është shpejtësia dhe cili është drejtimi i lëvizjes së trupit pas 0.15s?",
-    "answers": ["0.111 m/s, poshtë", "0.167 m/s, poshtë", "0.111m/s, lart", "0.167m/s, lart"],
+    "answers": [
+      "0.111 m/s, poshtë",
+      "0.167 m/s, poshtë",
+      "0.111m/s, lart",
+      "0.167m/s, lart"
+    ],
     "correct": 3,
     "explanation": "Në gjendje të qëndrueshme sistemi lëkundet me frekuencën e forcës: ω=2π·2,5≈15,7rad/s. Duke nisur nga amplituda e poshtme, pas 0,15s (fazë 135°) shpejtësia është v=Aω·sin135°≈0,167m/s dhe trupi po ngjitet."
   },
   {
     "id": "fizika-lekundjet-valet-102",
     "question": "Në lavjerrësin matematik me gjatësi 1m është varur sfera me masë të panjohur. Lavjerrësi shmanget nga pozicioni i ekuilibrit me këndin 60º dhe lihet i lirë pa shpejtësi fillestare. Nëse energjia e tij në çastin fillestar është 1.5J masa e sferës është: (sin30⁰=0.5, cos30⁰=0.87, sin60⁰=0.87, cos60⁰=0.5)",
-    "answers": ["1kg", "0.5kg", "0.3kg", "0.15kg"],
+    "answers": [
+      "1kg",
+      "0.5kg",
+      "0.3kg",
+      "0.15kg"
+    ],
     "correct": 2,
     "explanation": "Lartësia e ngritur është h=l(1-cos60°)=0,5m. Nga E=mgh → m=1,5/(10·0,5)=0,3kg."
   },
@@ -774,126 +1284,216 @@
     "question": "Grafikët më poshtë tregojnë ndryshimin e zhvendosjes dhe shpejtësisë me kohën, të një trupi në lëkundje të thjeshtë harmonike. Duke ditur se T është perioda e lëkundjeve, cila është madhësia e nxitimit të trupit në kohën T/8?",
     "image": "/question-images/fizika/lekundjet-valet/lekundjet-valet-103.png",
     "imageAlt": "Dy grafikë: zhvendosja (cm) dhe shpejtësia (cm/s) në funksion të kohës",
-    "answers": ["0.7cm/s²", "34.5cm /s²", "49.3cm /s²", "78.5cm /s²"],
+    "answers": [
+      "0.7cm/s²",
+      "34.5cm /s²",
+      "49.3cm /s²",
+      "78.5cm /s²"
+    ],
     "correct": 1,
     "explanation": "Nga grafikët A=5cm dhe vmax=15,7cm/s, pra ω=15,7/5=3,14rad/s dhe amax=ω²A≈49,3cm/s². Në çastin T/8 zhvendosja është A·cos45°, prandaj a=49,3·0,707≈34,5cm/s²."
   },
   {
     "id": "fizika-lekundjet-valet-104",
     "question": "Një trup me masë 100g kryen lëkundje të thjeshtë harmonike me amplitudë 2cm. Në një zhvendosje 1cm nga ekuilibri ka energji kinetike 0.6J. Cila është frekuenca e lëkundjeve?",
-    "answers": ["200π", "100π", "200/π", "100/π"],
+    "answers": [
+      "200π",
+      "100π",
+      "200/π",
+      "100/π"
+    ],
     "correct": 3,
     "explanation": "Nga Ek=½mω²(A²-x²): 0,6=0,05·ω²·(4-1)·10⁻⁴ → ω²=40000, pra ω=200rad/s. Atëherë f=ω/2π=100/π."
   },
   {
     "id": "fizika-lekundjet-valet-105",
     "question": "Një sferë me masë 2kg e ngjitur në një sustë, po lëkundet në një sipërfaqe horizontale të lëmuar, me një frekuencë 1Hz. Fundi tjetër i sustës është i fiksuar në një mur. Amplituda e lëkundjeve e sistemit sferë-sustë është 5cm. Cila është shpejtësia e sferës, kur ajo është në një distancë 4cm, nga pozicioni i saj i ekuilibrit?",
-    "answers": ["2.6 cm/s", "3.9 cm/s", "18,8 cm/s", "25.1 cm/s"],
-    "correct": 2,
-    "explanation": "ω=2πf≈6,28rad/s. Pastaj v=ω√(A²-x²)=6,28·√(25-16)=6,28·3≈18,8cm/s."
+    "answers": [
+      "2.6 cm/s",
+      "3.9 cm/s",
+      "18,8 cm/s",
+      "25.1 cm/s"
+    ],
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "fizika-lekundjet-valet-106",
     "question": "Dy trupa A dhe B, masat e të cilëve janë në raportin 1 : 2, janë të varura në dy susta të veçanta, pa masë, me konstante elastike kA dhe kB. Nëse të dy trupat lëkunden vertikalisht në mënyrë që shpejtësitë e tyre maksimale të jenë në raportin 1:2, raporti i amplitudës A me atë të B është:",
-    "answers": ["√(kB/2kA)", "√(kB/8kA)", "√(2kB/kA)", "√(8kB/kA)"],
+    "answers": [
+      "√(kB/2kA)",
+      "√(kB/8kA)",
+      "√(2kB/kA)",
+      "√(8kB/kA)"
+    ],
     "correct": 1,
     "explanation": "Nga vmax=Aω dhe ω=√(k/m): A_A/A_B=(v_A/v_B)·(ω_B/ω_A)=½·√(k_B·m_A/(k_A·m_B))=½·√(k_B/2k_A)=√(k_B/8k_A)."
   },
   {
     "id": "fizika-lekundjet-valet-107",
     "question": "Një lavjerrës sustë kryen lëkundje të thjeshtë harmonike. Nëse nxitimi i trupit është 16m/s², në një distancë prej 4m, nga pozicioni i ekuilibrit, atëherë perioda e lëkundjeve është:",
-    "answers": ["2 s", "1 s", "2πs", "πs"],
+    "answers": [
+      "2 s",
+      "1 s",
+      "2πs",
+      "πs"
+    ],
     "correct": 3,
     "explanation": "Nga a=ω²x → ω²=16/4=4, pra ω=2rad/s. Atëherë T=2π/2=π s."
   },
   {
     "id": "fizika-lekundjet-valet-108",
     "question": "Lëvizja e sferës së lavjerrësit me sustë përshkruhet me anë të ekuacionit: x=10sin(πt). Koha që ka kaluar nga fillimi i lëkundjeve deri në momentin kur energjia kinetike bëhet e barabartë me energjinë potenciale është:",
-    "answers": ["0s", "0.25s", "0.5s", "0.75"],
+    "answers": [
+      "0s",
+      "0.25s",
+      "0.5s",
+      "0.75"
+    ],
     "correct": 1,
     "explanation": "Ek=Ep kur x=A/√2, pra sin(πt)=0,707 → πt=π/4. Prandaj t=0,25s."
   },
   {
     "id": "fizika-lekundjet-valet-109",
     "question": "Një lavjerrës matematik e ka periodën e lëkundjeve 6s, ndërsa një lavjerrës tjetër e ka periodën 8s. Lavjerrësi me gjatësi sa shuma e gjatësive të dy lavjerrësve e ka periodën:",
-    "answers": ["6s", "7s", "8s", "10s"],
+    "answers": [
+      "6s",
+      "7s",
+      "8s",
+      "10s"
+    ],
     "correct": 3,
     "explanation": "Meqë l∝T², gjatësia e re i përgjigjet 36+64=100. Pra T=√100=10s."
   },
   {
     "id": "fizika-lekundjet-valet-110",
     "question": "Lavjerrësi matematik me gjatësi l₁ e ka periodën e lëkundjeve T₁, lavjerrësi me gjatësi l₂ e ka periodën e lëkundjeve T₂. Sa do të jetë perioda e lëkundjeve të lavjerrësit me gjatësi l₁+l₂?",
-    "answers": ["(T₁+T₂)/2", "√((T₁²+T₂²)/2)", "√(T₁²+T₂²)", "T₁+T₂"],
+    "answers": [
+      "(T₁+T₂)/2",
+      "√((T₁²+T₂²)/2)",
+      "√(T₁²+T₂²)",
+      "T₁+T₂"
+    ],
     "correct": 2,
     "explanation": "Meqë l është në përpjesëtim me T², mbledhja e gjatësive do të thotë mbledhje e katrorëve të periodave. Pra T=√(T₁²+T₂²)."
   },
   {
     "id": "fizika-lekundjet-valet-111",
     "question": "Një lavjerrës matematik me gjatësi l, e ka periodën e lëkundjeve T. Nëse gjatësia e tij zvogëlohet me 36%, perioda e lëkundjeve të tij do të ndryshojë me:",
-    "answers": ["0.2T", "0.4T", "0.6T", "0.8T"],
+    "answers": [
+      "0.2T",
+      "0.4T",
+      "0.6T",
+      "0.8T"
+    ],
     "correct": 0,
     "explanation": "Gjatësia e re është 0,64l, pra T'=√0,64·T=0,8T. Ndryshimi është 0,2T."
   },
   {
     "id": "fizika-lekundjet-valet-112",
     "question": "Një lavjerrës matematik me gjatësi l, e ka periodën e lëkundjeve T. Nëse gjatësia e tij rritet me 21%, perioda e lëkundjeve të tij do të ndryshojë me:",
-    "answers": ["0.1T", "0.21T", "0.79", "1,1T"],
+    "answers": [
+      "0.1T",
+      "0.21T",
+      "0.79",
+      "1,1T"
+    ],
     "correct": 0,
     "explanation": "Gjatësia e re është 1,21l, pra T'=√1,21·T=1,1T. Ndryshimi është 0,1T."
   },
   {
     "id": "fizika-lekundjet-valet-113",
     "question": "Njëri prej dy lavjerrësve matematik kryen gjatë së njëjtës kohë 25 lëkundje më pak se tjetri. Raporti i gjatësive të tyre është 16:9. Sa lëkundje kryen lavjerrësi më i gjatë?",
-    "answers": ["25", "50", "75", "100"],
+    "answers": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
     "correct": 2,
     "explanation": "Nga l∝T² raporti i periodave është 4:3, pra numri i lëkundjeve është në raportin 3:4. Nga N/(N+25)=3/4 del N=75 lëkundje për lavjerrësin e gjatë."
   },
   {
     "id": "fizika-lekundjet-valet-114",
     "question": "Trupi i varur në një sustë kryen lëkundje harmonike vertikale. Kur ai ka masën m₁, perioda e lëkundjeve të tij është 0.3s, ndërsa kur masa e tij bëhet m₂, perioda e lëkundjeve bëhet 0.4s. Sa është perioda e lëkundjeve të këtij trupi, nëse masa e tij bëhet m₁+m₂?",
-    "answers": ["0.1s", "0,5s", "0,7s", "1s"],
+    "answers": [
+      "0.1s",
+      "0,5s",
+      "0,7s",
+      "1s"
+    ],
     "correct": 1,
     "explanation": "Meqë m∝T², mbledhja e masave do të thotë mbledhje e katrorëve: T=√(0,09+0,16)=√0,25=0,5s."
   },
   {
     "id": "fizika-lekundjet-valet-115",
     "question": "Sa është zhvendosja, nga pozicioni i ekuilibrit, e lavjerrësit me periodë 0,6s në çastin 0,05s, nëse në fillimin e studimit, ai kalon nga pozicioni i ekuilibrit?",
-    "answers": ["5A/4", "A/3", "A/2", "A"],
+    "answers": [
+      "5A/4",
+      "A/3",
+      "A/2",
+      "A"
+    ],
     "correct": 2,
     "explanation": "Meqë niset nga ekuilibri, x=A·sin(2πt/T). Për t=0,05s dhe T=0,6s: 2πt/T=π/6=30°, pra x=A·sin30°=A/2."
   },
   {
     "id": "fizika-lekundjet-valet-116",
     "question": "Intensiteti i një vale harmonike në një pikë P, në largësinë R, prej burimit është I. Intensiteti në pikën Q rritet me 44% krahasuar me intensitetin në pikën P. Me sa do të ketë ndryshuar largësia e pikës Q nga burimi krahasuar me largësinë e pikës P nga burimi?",
-    "answers": ["R/5", "R/6", "5R", "6R"],
+    "answers": [
+      "R/5",
+      "R/6",
+      "5R",
+      "6R"
+    ],
     "correct": 1,
     "explanation": "Meqë I∝1/r², nga 1,44I del r_Q=R/1,2=5R/6. Pra largësia është zvogëluar me R/6."
   },
   {
     "id": "fizika-lekundjet-valet-117",
     "question": "Intensiteti i valës në një pikë M, me largësi R, nga burimi është I. Largësia e një pike N nga burimi është 80% e largësisë së pikës M. Ndryshimi i intensitetit të valës në pikën N krahasuar me intensitetin e e valës në pikën M me përafërsi është:",
-    "answers": ["1,78 I", "1,56 I", "0,56 I", "0,20 I"],
+    "answers": [
+      "1,78 I",
+      "1,56 I",
+      "0,56 I",
+      "0,20 I"
+    ],
     "correct": 2,
     "explanation": "Nga I∝1/r²: I_N=I/0,8²=1,5625I. Ndryshimi është 1,5625I-I≈0,56I."
   },
   {
     "id": "fizika-lekundjet-valet-118",
     "question": "Një lavjerrës i thjeshtë çohet nga Toka në Hënë. Ndryshimi i numrit të lëkundjeve të lavjerrësit për të njëjtin interval kohe është 30 lëkundje. Duke ditur se nxitimi i rënies së lirë në Tokë dhe Hënë janë përkatësisht 10m/s² dhe 1,6m/s² numri i lëkundjeve të lavjerrësit në Tokë për këtë interval kohor është:",
-    "answers": ["10 lëkundje", "20 lëkundje", "50 lëkundje", "70 lëkundje"],
+    "answers": [
+      "10 lëkundje",
+      "20 lëkundje",
+      "50 lëkundje",
+      "70 lëkundje"
+    ],
     "correct": 2,
     "explanation": "Numri i lëkundjeve është në përpjesëtim me √g, pra N_T/N_H=√(10/1,6)=2,5. Nga N_T-N_T/2,5=30 del N_T=50."
   },
   {
     "id": "fizika-lekundjet-valet-119",
     "question": "Karroca e lidhur me një sustë zhvendoset me 10cm dhe pastaj lëshohet në çastin t = 0. Masa e karrocës është 100g dhe koeficienti i elasticitetit të sustës është 0.9N/m. Energjia kinetike në çastin T/8 është: (sin 45º = cos 45º = 0,7; π ≈ 3)",
-    "answers": ["0,044J", "0,022J", "0,0044J", "0,0022J"],
+    "answers": [
+      "0,044J",
+      "0,022J",
+      "0,0044J",
+      "0,0022J"
+    ],
     "correct": 3,
     "explanation": "Energjia e plotë është E=kA²/2=0,9·0,01/2=0,0045J. Në çastin T/8 zhvendosja është A·cos45°, pra Ep=E·0,49≈0,0022J dhe po aq mbetet edhe Ek."
   },
   {
     "id": "fizika-lekundjet-valet-120",
     "question": "Jepet ekuacioni i nxitimit të lëkundjeve harmonike të një lavjerrësi të thjeshtë: a = 4.5 sin 15t(m/s²) Shpejtësia e tij në çastin kur ndodhet 14mm larg pozicionit të ekuilibrit është? (π ≈ 3):",
-    "answers": ["2.1m/s", "0,30m/s", "0,21m/s", "0,014m/s"],
+    "answers": [
+      "2.1m/s",
+      "0,30m/s",
+      "0,21m/s",
+      "0,014m/s"
+    ],
     "correct": 2,
     "explanation": "Nga ekuacioni ω=15rad/s dhe amax=4,5m/s², pra A=amax/ω²=0,02m. Atëherë v=ω√(A²-x²)=15·√(0,0004-0,000196)≈0,21m/s."
   }

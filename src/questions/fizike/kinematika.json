@@ -4,7 +4,12 @@
     "question": "Grafikët paraqesin varësinë e koordinatës nga koha për dy trupa E dhe F. Duke krahasuar shpejtësitë e tyre, arrijmë në konkluzionin se:",
     "image": "/question-images/fizika/kinematika/kinematika-001.png",
     "imageAlt": "Grafik x–t me dy drejtëza E dhe F me pjerrësi të ndryshme",
-    "answers": ["F ka shpejtësi më të madhe se E.", "E ka shpejtësi më të madhe se F.", "E dhe F kanë të njëjtën shpejtësi.", "F lëviz me nxitim të ndryshëm nga zero."],
+    "answers": [
+      "F ka shpejtësi më të madhe se E.",
+      "E ka shpejtësi më të madhe se F.",
+      "E dhe F kanë të njëjtën shpejtësi.",
+      "F lëviz me nxitim të ndryshëm nga zero."
+    ],
     "correct": 1,
     "explanation": "Në grafikun x–t shpejtësia jepet nga pjerrësia e drejtëzës. Drejtëza E është më e pjerrët, pra E ka shpejtësi më të madhe. Të dyja janë drejtëza, pra nxitimi është zero."
   },
@@ -13,84 +18,144 @@
     "question": "Në figurë tregohet varësia e zhvendosjes S nga koha për lëvizjen drejtvizore të një pike lëndore. Lëvizja e trupit është:",
     "image": "/question-images/fizika/kinematika/kinematika-002.png",
     "imageAlt": "Grafik S–t drejtëz nga 2m në 12m gjatë 10 sekondave",
-    "answers": ["drejtvizore e njëtrajtshme", "drejtvizore e ndryshueshme", "drejtvizore njëtrajtësisht e përshpejtuar", "drejtvizore njëtrajtësisht e ngadalësuar"],
+    "answers": [
+      "drejtvizore e njëtrajtshme",
+      "drejtvizore e ndryshueshme",
+      "drejtvizore njëtrajtësisht e përshpejtuar",
+      "drejtvizore njëtrajtësisht e ngadalësuar"
+    ],
     "correct": 0,
     "explanation": "Grafiku S–t është drejtëz, pra pjerrësia (shpejtësia) mbetet konstante: v = (12−2)/10 = 1m/s. Kjo është lëvizje e njëtrajtshme."
   },
   {
     "id": "fizika-kinematika-003",
     "question": "Nxitimi është një madhësi:",
-    "answers": ["skalare", "vektoriale", "konstante e sistemit SI", "që tregon zhvendosjen në njësinë e kohës"],
+    "answers": [
+      "skalare",
+      "vektoriale",
+      "konstante e sistemit SI",
+      "që tregon zhvendosjen në njësinë e kohës"
+    ],
     "correct": 1,
     "explanation": "Nxitimi ka vlerë, drejtim dhe kah, pra është madhësi vektoriale. Zhvendosja në njësinë e kohës është shpejtësia, jo nxitimi."
   },
   {
     "id": "fizika-kinematika-004",
     "question": "Një trup niset nga prehja dhe fillon të lëvizë me nxitim 2m/s². Shpejtësia e tij 20s pas fillimit të lëvizjes është:",
-    "answers": ["15 m/s", "20 m/s", "30 m/s", "40 m/s"],
+    "answers": [
+      "15 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s"
+    ],
     "correct": 3,
     "explanation": "v = v₀ + at = 0 + 2·20 = 40m/s."
   },
   {
     "id": "fizika-kinematika-005",
     "question": "Një automobil lëviz sipas harkut me rreze 20m me shpejtësi me vlerë konstante 40km/orë. Nxitimi qendërsynues i automobilit është:",
-    "answers": ["zero", "9m/s", "tangjent me kurbën", "i drejtuar nga qendra"],
+    "answers": [
+      "zero",
+      "9m/s",
+      "tangjent me kurbën",
+      "i drejtuar nga qendra"
+    ],
     "correct": 3,
     "explanation": "Edhe pse vlera e shpejtësisë nuk ndryshon, drejtimi ndryshon, prandaj ka nxitim. Nxitimi qendërsynues është gjithmonë i drejtuar nga qendra e rrethit, pingul me shpejtësinë."
   },
   {
     "id": "fizika-kinematika-006",
     "question": "Një makinë përshpejton lëvizjen në mënyrë konstante nga prehja deri 24m/s për 6s. Nxitimi i lëvizjes së saj është:",
-    "answers": ["1m/s²", "4m/s²", "12m/s²", "24m/s²"],
+    "answers": [
+      "1m/s²",
+      "4m/s²",
+      "12m/s²",
+      "24m/s²"
+    ],
     "correct": 1,
     "explanation": "a = Δv/Δt = 24/6 = 4m/s²."
   },
   {
     "id": "fizika-kinematika-007",
     "question": "Një aeroplan niset nga prehja dhe lëviz me nxitim konstant 3m/s² për 5s. Shpejtësia pas 5s është rritur me:",
-    "answers": ["5m/s", "10m/s", "15m/s", "25m/s"],
+    "answers": [
+      "5m/s",
+      "10m/s",
+      "15m/s",
+      "25m/s"
+    ],
     "correct": 2,
     "explanation": "Δv = a·t = 3·5 = 15m/s."
   },
   {
     "id": "fizika-kinematika-008",
     "question": "Piloti i një aeroplani pas një pikiate (rënie vertikale) përshkon një hark rrethor me rreze 500m. Në pikën më të ulët të harkut të rrethit, në të cilën shpejtësia e aeroplanit është 180km/orë, nxitimi qendërsynues është:",
-    "answers": ["2m/s²", "3m/s²", "4m/s²", "5m/s²"],
+    "answers": [
+      "2m/s²",
+      "3m/s²",
+      "4m/s²",
+      "5m/s²"
+    ],
     "correct": 3,
     "explanation": "180km/h = 50m/s. a = v²/R = 2500/500 = 5m/s²."
   },
   {
     "id": "fizika-kinematika-009",
     "question": "Një tren e ka shpejtësinë 50m/s kur makinisti frenon, duke i dhënë trenit një nxitim konstant negativ 0,5m/s² për 100s. Largësia e përshkruar prej tij në këto 100s është:",
-    "answers": ["500m", "2500m", "5000m", "6000m"],
+    "answers": [
+      "500m",
+      "2500m",
+      "5000m",
+      "6000m"
+    ],
     "correct": 1,
     "explanation": "Treni ndalon pikërisht pas 100s (50/0,5 = 100s). s = (v₀+v)/2 · t = (50+0)/2 · 100 = 2500m."
   },
   {
     "id": "fizika-kinematika-010",
     "question": "Një njeri qëndron në mes të rrugës. Drejt tij lëviz një makinë me shpejtësi konstante 20 m/s. Koha që ka në dispozicion njeriu për të kaluar rrugën, në mënyrë që të mos përplaset me makinën nëse ai ndodhet 200 m larg saj është:",
-    "answers": ["10s", "15s", "20s", "200s"],
+    "answers": [
+      "10s",
+      "15s",
+      "20s",
+      "200s"
+    ],
     "correct": 0,
     "explanation": "t = s/v = 200/20 = 10s."
   },
   {
     "id": "fizika-kinematika-011",
     "question": "Guri mprehës e ka diametrin 200mm dhe kryen 15 rrot/s. Shpejtësia me të cilën lëvizin thërrmijat kur shkëputen nga guri është:",
-    "answers": ["3.14m/s", "6.28m/s", "9.42m/s", "18.84m/s"],
-    "correct": 2,
-    "explanation": "r = 0,1m. v = 2πrn = 2·3,14·0,1·15 ≈ 9,42m/s."
+    "answers": [
+      "3.14m/s",
+      "6.28m/s",
+      "9.42m/s",
+      "18.84m/s"
+    ],
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "fizika-kinematika-012",
     "question": "Trupi që u nis me V₀=36 km/orë dhe lëviz me nxitim 2m/s², pas 6s është zhvendosur me:",
-    "answers": ["72m", "96m", "36km", "72km"],
+    "answers": [
+      "72m",
+      "96m",
+      "36km",
+      "72km"
+    ],
     "correct": 1,
     "explanation": "36km/h = 10m/s. s = v₀t + ½at² = 10·6 + ½·2·36 = 60 + 36 = 96m."
   },
   {
     "id": "fizika-kinematika-013",
     "question": "Një atlet kryen dy rrotullime të plota në pistën me gjatësi 400m. Rruga e përshkuar dhe zhvendosja janë:",
-    "answers": ["400m; 400m", "400m; 0m", "800m; 0m", "0m; 400m"],
+    "answers": [
+      "400m; 400m",
+      "400m; 0m",
+      "800m; 0m",
+      "0m; 400m"
+    ],
     "correct": 2,
     "explanation": "Rruga është gjatësia e plotë e trajektores: 2·400 = 800m. Meqë atleti kthehet në pikën e nisjes, zhvendosja (vektori nisje–mbërritje) është zero."
   },
@@ -99,49 +164,84 @@
     "question": "Një këmbësor, pasi niset nga pika A shkon me radhë në pikat B, C dhe D si në figurë. Rruga dhe zhvendosja e përshkuar prej tij janë:",
     "image": "/question-images/fizika/kinematika/kinematika-014.png",
     "imageAlt": "Trajektore A→B (50km), B→C (30km), C→D (40km)",
-    "answers": ["50km; 30km", "120km; 31,6km", "120km; 100km", "120,5km; 100,3km"],
+    "answers": [
+      "50km; 30km",
+      "120km; 31,6km",
+      "120km; 100km",
+      "120,5km; 100,3km"
+    ],
     "correct": 1,
     "explanation": "Rruga = 50 + 30 + 40 = 120km. Nga A te D zhvendosja horizontale është 50−40 = 10km dhe vertikale 30km: √(10² + 30²) ≈ 31,6km."
   },
   {
     "id": "fizika-kinematika-015",
     "question": "Një anije, orën e parë lundroi 40km drejt lindjes dhe orën e dytë 30km drejt veriut. Rruga e përshkuar gjatë dy orëve dhe zhvendosja rezultante janë:",
-    "answers": ["30km; 40km", "70km; 40km", "50km; 70km", "70km; 50km"],
+    "answers": [
+      "30km; 40km",
+      "70km; 40km",
+      "50km; 70km",
+      "70km; 50km"
+    ],
     "correct": 3,
     "explanation": "Rruga = 40 + 30 = 70km. Meqë drejtimet janë pingule, zhvendosja = √(40² + 30²) = 50km."
   },
   {
     "id": "fizika-kinematika-016",
     "question": "Raporti i nxitimeve qendërsynuese a₁/a₂ për dy trupa që kryejnë lëvizje rrethore me rreze R₁=2R₂ dhe shpejtësi lineare të barabartë, është:",
-    "answers": ["1/2", "1", "2", "4"],
+    "answers": [
+      "1/2",
+      "1",
+      "2",
+      "4"
+    ],
     "correct": 0,
     "explanation": "a = v²/R. Me v të njëjtë, a është në përpjesëtim të zhdrejtë me rrezen: a₁/a₂ = R₂/R₁ = 1/2."
   },
   {
     "id": "fizika-kinematika-017",
     "question": "Makina lëviz 4km drejt lindjes, 6km drejt jugut dhe 12km e fundit drejt perëndimit. Zhvendosja përfundimtare e makinës është:",
-    "answers": ["4km", "5km", "10km", "22km"],
+    "answers": [
+      "4km",
+      "5km",
+      "10km",
+      "22km"
+    ],
     "correct": 2,
     "explanation": "Përgjatë lindje–perëndim: 4 − 12 = −8km; përgjatë veri–jug: 6km. Zhvendosja = √(8² + 6²) = 10km."
   },
   {
     "id": "fizika-kinematika-018",
     "question": "Makina lëvizi me shpejtësi 80km/orë gjysmën e parë të rrugës, kurse gjysmën tjetër të rrugës me shpejtësi 40km/orë. Shpejtësia mesatare e lëvizjes së makinës është:",
-    "answers": ["40km/orë", "53,3km/orë", "60km/orë", "60,2km/orë"],
+    "answers": [
+      "40km/orë",
+      "53,3km/orë",
+      "60km/orë",
+      "60,2km/orë"
+    ],
     "correct": 1,
     "explanation": "Kur ndahet rruga përgjysmë, përdoret mesatarja harmonike: v = 2v₁v₂/(v₁+v₂) = 2·80·40/120 ≈ 53,3km/h. (Mesatarja aritmetike 60 do të vlente vetëm nëse ndaheshin kohët.)"
   },
   {
     "id": "fizika-kinematika-019",
     "question": "Një makinë kryen një rrotullim të plotë në pistën rrethore me shpejtësi konstante prej 120km/orë. Nëse për një rrotullim nevojiten 2 minuta, gjatësia e pistës është:",
-    "answers": ["4km", "10km", "60km", "120km"],
+    "answers": [
+      "4km",
+      "10km",
+      "60km",
+      "120km"
+    ],
     "correct": 0,
     "explanation": "2 minuta = 1/30 orë. s = v·t = 120/30 = 4km."
   },
   {
     "id": "fizika-kinematika-020",
     "question": "Varka lëviz me shpejtësi 5m/s në ujë të qetë. Shpejtësia e saj në të njëjtin drejtim me rrjedhën e lumit është: (Shpejtësia e rrjedhës së lumit është 0,8m/s)",
-    "answers": ["0,8m/s", "4,2m/s", "5m/s", "5,8m/s"],
+    "answers": [
+      "0,8m/s",
+      "4,2m/s",
+      "5m/s",
+      "5,8m/s"
+    ],
     "correct": 3,
     "explanation": "Kur varka lëviz në kahun e rrjedhës, shpejtësitë mblidhen: 5 + 0,8 = 5,8m/s."
   },
@@ -150,35 +250,60 @@
     "question": "Një varkë niset nga pika A dhe drejtohet drejt pikës B për 50s dhe vazhdon nga B në C për 50s të tjera si në figurë. Shpejtësia mesatare e udhëtimit të varkës nga A në C është:",
     "image": "/question-images/fizika/kinematika/kinematika-021.png",
     "imageAlt": "Trajektore A→B 30m horizontalisht dhe B→C 40m vertikalisht",
-    "answers": ["0,3m/s", "0,4m/s", "0,5m/s", "0,7m/s"],
+    "answers": [
+      "0,3m/s",
+      "0,4m/s",
+      "0,5m/s",
+      "0,7m/s"
+    ],
     "correct": 2,
     "explanation": "Zhvendosja A→C = √(30² + 40²) = 50m, kryer në 100s. v = 50/100 = 0,5m/s."
   },
   {
     "id": "fizika-kinematika-022",
     "question": "Trupi niset nga prehja dhe pas 5s arrin shpejtësinë 36km/orë. Nxitimi me të cilin lëviz trupi është:",
-    "answers": ["2m/s²", "5m/s²", "10m/s²", "12m/s²"],
+    "answers": [
+      "2m/s²",
+      "5m/s²",
+      "10m/s²",
+      "12m/s²"
+    ],
     "correct": 0,
     "explanation": "36km/h = 10m/s. a = 10/5 = 2m/s²."
   },
   {
     "id": "fizika-kinematika-023",
     "question": "Patinatori fillon të zbresë nëpër një rrugë të pjerrët me nxitim 0,2m/s². Shpejtësia dhe rruga e përshkuar për 4s është:",
-    "answers": ["0,4m/s; 0,8m", "0,8m/s; 1,6m", "0,8m/s; 3,2m", "1m/s; 13,2m"],
+    "answers": [
+      "0,4m/s; 0,8m",
+      "0,8m/s; 1,6m",
+      "0,8m/s; 3,2m",
+      "1m/s; 13,2m"
+    ],
     "correct": 1,
     "explanation": "v = at = 0,2·4 = 0,8m/s. s = ½at² = ½·0,2·16 = 1,6m."
   },
   {
     "id": "fizika-kinematika-024",
     "question": "Sfera ngjitet në rrafshin e pjerrët me nxitim 0,4m/s². Duke ditur shpejtësinë fillestare të sferës 2m/s, sfera ndalon pas:",
-    "answers": ["0,8s", "0,2s", "0,5s", "5s"],
+    "answers": [
+      "0,8s",
+      "0,2s",
+      "0,5s",
+      "5s"
+    ],
     "correct": 3,
     "explanation": "t = v₀/a = 2/0,4 = 5s."
   },
   {
     "id": "fizika-kinematika-025",
     "question": "Nga dy qytete A dhe B në largësi AB=180km nisen njëkohësisht me shpejtësi konstante, përkundrejt njëra-tjetrës, dy makina me shpejtësi përkatësisht: V₁=60km/orë dhe V₂=30km/orë. Makinat takohen pas:",
-    "answers": ["1 ore", "2 orësh", "3 orësh", "4 orësh"],
+    "answers": [
+      "1 ore",
+      "2 orësh",
+      "3 orësh",
+      "4 orësh"
+    ],
     "correct": 1,
     "explanation": "Duke lëvizur përballë, shpejtësia e afrimit është 60 + 30 = 90km/h. t = 180/90 = 2 orë."
   },
@@ -187,21 +312,36 @@
     "question": "Në figurë paraqitet grafiku i varësisë së shpejtësisë nga koha për një trup që lëviz në vijë të drejtë. Rruga që përshkon trupi gjatë 40 sekondave të lëvizjes është:",
     "image": "/question-images/fizika/kinematika/kinematika-026.png",
     "imageAlt": "Grafik v–t që rritet deri në 15 m/s në 10s dhe zbret në zero në 40s",
-    "answers": ["275m", "300m", "375m", "400m"],
+    "answers": [
+      "275m",
+      "300m",
+      "375m",
+      "400m"
+    ],
     "correct": 1,
     "explanation": "Rruga është sipërfaqja nën grafik: ½·10·15 + ½·30·15 = 75 + 225 = 300m."
   },
   {
     "id": "fizika-kinematika-027",
     "question": "Ekuacioni i lëvizjes së një trupi është S=4+40t. Shpejtësia e çastit e lëvizjes në intervalin e kohës nga t₁=0 në t₂=5s është:",
-    "answers": ["10m/s", "20m/s", "30m/s", "40m/s"],
+    "answers": [
+      "10m/s",
+      "20m/s",
+      "30m/s",
+      "40m/s"
+    ],
     "correct": 3,
     "explanation": "Duke krahasuar me S = S₀ + vt, koeficienti i t është shpejtësia: v = 40m/s, e njëjtë në çdo çast."
   },
   {
     "id": "fizika-kinematika-028",
     "question": "Gjysmën e parë të kohës së lëvizjes, makina zhvendoset me V₁=60km/orë dhe gjysmën e dytë me V₂=40km/orë. Shpejtësia mesatare e lëvizjes së makinës është:",
-    "answers": ["40km/orë", "50km/orë", "60km/orë", "100km/orë"],
+    "answers": [
+      "40km/orë",
+      "50km/orë",
+      "60km/orë",
+      "100km/orë"
+    ],
     "correct": 1,
     "explanation": "Kur ndahen përgjysmë kohët (jo rrugët), shpejtësia mesatare është mesatarja aritmetike: (60+40)/2 = 50km/h."
   },
@@ -210,21 +350,36 @@
     "question": "Trupi kryen lëvizje rrethore me rreze 10cm. Bazuar në grafikun e shpejtësisë lineare nga koha, perioda e kësaj lëvizjeje, është:",
     "image": "/question-images/fizika/kinematika/kinematika-029.png",
     "imageAlt": "Grafik v–t me shpejtësi konstante 2 m/s",
-    "answers": ["0,314s", "3,14s", "0,628s", "6,28s"],
+    "answers": [
+      "0,314s",
+      "3,14s",
+      "0,628s",
+      "6,28s"
+    ],
     "correct": 0,
     "explanation": "Nga grafiku v = 2m/s. T = 2πr/v = 2·3,14·0,1/2 = 0,314s."
   },
   {
     "id": "fizika-kinematika-030",
     "question": "Një fëmijë rrotullon në rrafshin vertikal një sferë të lidhur me një fije 1m të gjatë, me frekuencë 1,5 rrot/s. Shpejtësia me të cilën shkëputet sfera nga fija, është:",
-    "answers": ["7,42m/s", "8,42m/s", "9,42m/s", "10m/s"],
+    "answers": [
+      "7,42m/s",
+      "8,42m/s",
+      "9,42m/s",
+      "10m/s"
+    ],
     "correct": 2,
     "explanation": "v = 2πrn = 2·3,14·1·1,5 ≈ 9,42m/s. Kur fija këputet, sfera niset me këtë shpejtësi tangjenciale."
   },
   {
     "id": "fizika-kinematika-031",
     "question": "Pika lëndore kryen lëvizje rrethore të njëtrajtshme me shpejtësi 2m/s dhe me rreze 20cm. Perioda e rrotullimit është:",
-    "answers": ["0,0628s", "0,628s", "6,28s", "10s"],
+    "answers": [
+      "0,0628s",
+      "0,628s",
+      "6,28s",
+      "10s"
+    ],
     "correct": 1,
     "explanation": "T = 2πr/v = 2·3,14·0,2/2 = 0,628s."
   },
@@ -233,7 +388,12 @@
     "question": "Në figurë tregohet varësia e shpejtësisë nga koha për lëvizjen drejtvizore të një pike lëndore. Bazuar në grafik, lëvizja është:",
     "image": "/question-images/fizika/kinematika/kinematika-032.png",
     "imageAlt": "Grafik v–t si drejtëz në rritje",
-    "answers": ["drejtvizore e njëtrajtshme", "drejtvizore e ndryshueshme", "drejtvizore njëtrajtësisht e përshpejtuar", "drejtvizore njëtrajtësisht e ngadalësuar"],
+    "answers": [
+      "drejtvizore e njëtrajtshme",
+      "drejtvizore e ndryshueshme",
+      "drejtvizore njëtrajtësisht e përshpejtuar",
+      "drejtvizore njëtrajtësisht e ngadalësuar"
+    ],
     "correct": 2,
     "explanation": "Shpejtësia rritet në mënyrë lineare me kohën, pra nxitimi (pjerrësia) është konstant dhe pozitiv — lëvizje njëtrajtësisht e përshpejtuar."
   },
@@ -242,35 +402,60 @@
     "question": "Grafikët paraqesin varësinë e shpejtësisë nga koha për dy trupa A dhe B, që po lëvizin në vijë të drejtë. Duke krahasuar nxitimet e tyre, arrijmë në konkluzionin se:",
     "image": "/question-images/fizika/kinematika/kinematika-033.png",
     "imageAlt": "Grafik v–t me dy drejtëza A dhe B me pjerrësi të ndryshme",
-    "answers": ["A ka nxitim më të madh se B.", "B ka nxitim më të madh se A.", "A dhe B kanë të njëjtin nxitim.", "B e ka nxitimin zero"],
+    "answers": [
+      "A ka nxitim më të madh se B.",
+      "B ka nxitim më të madh se A.",
+      "A dhe B kanë të njëjtin nxitim.",
+      "B e ka nxitimin zero"
+    ],
     "correct": 0,
     "explanation": "Në grafikun v–t nxitimi është pjerrësia e drejtëzës. Drejtëza A është më e pjerrët, pra A ka nxitim më të madh."
   },
   {
     "id": "fizika-kinematika-034",
     "question": "Raporti i nxitimeve qendërsynuese a₁/a₂ për dy trupa, që kryejnë lëvizje rrethore me shpejtësi V₁=4V₂ dhe rreze të barabarta, është:",
-    "answers": ["1/16", "1/4", "4", "16"],
+    "answers": [
+      "1/16",
+      "1/4",
+      "4",
+      "16"
+    ],
     "correct": 3,
     "explanation": "a = v²/R. Me R të njëjtë, a ∝ v²: a₁/a₂ = 4² = 16."
   },
   {
     "id": "fizika-kinematika-035",
     "question": "Raporti i nxitimeve qendërsynuese a₁/a₂ për dy trupa, që kryejnë lëvizje rrethore me rreze R₁=4R₂ dhe shpejtësi këndore të barabartë, është:",
-    "answers": ["1", "2", "3", "4"],
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
     "correct": 3,
     "explanation": "Me shpejtësi këndore përdoret a = ω²R. Me ω të njëjtë, a ∝ R: a₁/a₂ = 4."
   },
   {
     "id": "fizika-kinematika-036",
     "question": "Një fëmijë rrotullon në rrafshin vertikal një sferë të lidhur me një fije 1m të gjatë duke kryer një rrotullim të plotë në të qindtën e minutës. Shpejtësia me të cilën shkëputet sfera nga fija është:",
-    "answers": ["3,14m/s", "6,28m/s", "9,42m/s", "10,5m/s"],
+    "answers": [
+      "3,14m/s",
+      "6,28m/s",
+      "9,42m/s",
+      "10,5m/s"
+    ],
     "correct": 3,
     "explanation": "T = 60/100 = 0,6s. v = 2πr/T = 6,28/0,6 ≈ 10,5m/s."
   },
   {
     "id": "fizika-kinematika-037",
     "question": "Makina sportive niset nga prehja dhe lëviz me nxitim konstant 5m/s² për 8s. Shpejtësia e makinës në fund të sekondës së tetë është:",
-    "answers": ["5m/s", "20m/s", "40m/s", "160m/s"],
+    "answers": [
+      "5m/s",
+      "20m/s",
+      "40m/s",
+      "160m/s"
+    ],
     "correct": 2,
     "explanation": "v = at = 5·8 = 40m/s."
   },
@@ -279,91 +464,156 @@
     "question": "Cili grafik tregon saktë varësinë e nxitimit nga koha, për trupin që kryen lëvizje njëtrajtësisht të përshpejtuar me nxitim 3m/s²?",
     "image": "/question-images/fizika/kinematika/kinematika-038.png",
     "imageAlt": "Katër grafikë a–t: horizontal, në rritje, në zbritje dhe në rritje nga 3",
-    "answers": ["Grafiku 1", "Grafiku 2", "Grafiku 3", "Grafiku 4"],
+    "answers": [
+      "Grafiku 1",
+      "Grafiku 2",
+      "Grafiku 3",
+      "Grafiku 4"
+    ],
     "correct": 0,
     "explanation": "Lëvizje njëtrajtësisht e përshpejtuar do të thotë nxitim konstant, pra grafiku a–t duhet të jetë drejtëz horizontale — grafiku 1."
   },
   {
     "id": "fizika-kinematika-039",
     "question": "Në origjinën e koordinatave kalojnë njëkohësisht dy pika materiale: e para sipas drejtimit OX me shpejtësi V1 = 3m/s, ndërsa e dyta sipas drejtimit OY me shpejtësi V2 = 4m/s. Me çfarë shpejtësie i largohen ato njëra-tjetrës?",
-    "answers": ["3m/s", "4m/s", "5m/s", "7m/s"],
+    "answers": [
+      "3m/s",
+      "4m/s",
+      "5m/s",
+      "7m/s"
+    ],
     "correct": 2,
     "explanation": "Drejtimet janë pingule, prandaj shpejtësia relative = √(3² + 4²) = 5m/s."
   },
   {
     "id": "fizika-kinematika-040",
     "question": "Disku me rreze R rrotullohet në mënyrë të njëtrajtshme me shpejtësi këndore ω. Shpejtësia lineare V, me të cilën lëviz kubi i vendosur mbi disk në largësinë L nga boshti i rrotullimit të tij, është:",
-    "answers": ["ω·L", "ω·R", "ω·R·sin(ω·t)", "ω·R·t"],
+    "answers": [
+      "ω·L",
+      "ω·R",
+      "ω·R·sin(ω·t)",
+      "ω·R·t"
+    ],
     "correct": 0,
     "explanation": "v = ω·r, ku r është largësia e vetë pikës nga boshti. Kubi ndodhet në largësinë L, jo në buzë, prandaj v = ω·L."
   },
   {
     "id": "fizika-kinematika-041",
     "question": "Një trup i hedhur vertikalisht lart, arrin lartësinë maksimale dhe kthehet përsëri në pikën e nisjes pas 8s. Shpejtësia me të cilën ai kthehet në pikën e nisjes është: (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["5m/s", "10m/s", "40m/s", "80m/s"],
+    "answers": [
+      "5m/s",
+      "10m/s",
+      "40m/s",
+      "80m/s"
+    ],
     "correct": 2,
     "explanation": "Koha e ngjitjes = koha e zbritjes = 4s. v = gt = 10·4 = 40m/s (e barabartë me shpejtësinë e hedhjes)."
   },
   {
     "id": "fizika-kinematika-042",
     "question": "Një trup i hedhur vertikalisht lart, rikthehet në pikën e nisjes pas 4s. Duke mos marrë parasysh rezistencën e ajrit, sa është vlera e shpejtësisë së hedhjes? (g=10m/s²)",
-    "answers": ["5m/s", "10m/s", "15m/s", "20m/s"],
+    "answers": [
+      "5m/s",
+      "10m/s",
+      "15m/s",
+      "20m/s"
+    ],
     "correct": 3,
     "explanation": "Ngjitja zgjat gjysmën e kohës, pra 2s. v₀ = gt = 10·2 = 20m/s."
   },
   {
     "id": "fizika-kinematika-043",
     "question": "Cili nga pohimet e mëposhtme është i saktë për një trup të hedhur vertikalisht lart, duke mos marrë parasysh rezistencën e ajrit?",
-    "answers": ["Nxitimi i tij është zero në pikën më të lartë të ngjitjes.", "Trupi arrin një lartësi maksimale proporcionale me shpejtësinë e hedhjes.", "Trupi arrin një lartësi maksimale proporcionale me katrorin e shpejtësisë së hedhjes.", "Trupi kthehet në pikën e nisjes me shpejtësi më të vogël se shpejtësia e hedhjes."],
+    "answers": [
+      "Nxitimi i tij është zero në pikën më të lartë të ngjitjes.",
+      "Trupi arrin një lartësi maksimale proporcionale me shpejtësinë e hedhjes.",
+      "Trupi arrin një lartësi maksimale proporcionale me katrorin e shpejtësisë së hedhjes.",
+      "Trupi kthehet në pikën e nisjes me shpejtësi më të vogël se shpejtësia e hedhjes."
+    ],
     "correct": 2,
     "explanation": "h = v₀²/2g, pra lartësia varet nga katrori i shpejtësisë. Në kulm shpejtësia është zero, por nxitimi mbetet g; pa rezistencë ajri trupi kthehet me të njëjtën shpejtësi."
   },
   {
     "id": "fizika-kinematika-044",
     "question": "Një top hidhet vertikalisht lart me shpejtësi fillestare v₀=10m/s. Duke mos marrë parasysh rezistencën e ajrit, lartësia maksimale që arrin trupi, është: (g=10m/s²)",
-    "answers": ["1m", "2.5m", "5m", "20m"],
+    "answers": [
+      "1m",
+      "2.5m",
+      "5m",
+      "20m"
+    ],
     "correct": 2,
     "explanation": "h = v₀²/(2g) = 100/20 = 5m."
   },
   {
     "id": "fizika-kinematika-045",
     "question": "Në një çast të dhënë, trupi i cili lëviz vertikalisht lart, ka shpejtësi 50m/s. Një sekondë më vonë, shpejtësia e tij do të jetë: (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["40m/s", "50m/s", "55m/s", "100m/s"],
+    "answers": [
+      "40m/s",
+      "50m/s",
+      "55m/s",
+      "100m/s"
+    ],
     "correct": 0,
     "explanation": "Gjatë ngjitjes shpejtësia zvogëlohet me 10m/s në çdo sekondë: 50 − 10 = 40m/s."
   },
   {
     "id": "fizika-kinematika-046",
     "question": "Dy trupa të njëjtë, bien lirisht nga dy ndërtesa me lartësi përkatësisht 21m dhe 7m. Raporti i shpejtësive me të cilat trupat prekin tokën, është: (Rezistenca e ajrit nuk merret parasysh.)",
-    "answers": ["v₁/v₂ = 1", "v₁/v₂ = √2", "v₁/v₂ = √3", "v₁/v₂ = 3"],
+    "answers": [
+      "v₁/v₂ = 1",
+      "v₁/v₂ = √2",
+      "v₁/v₂ = √3",
+      "v₁/v₂ = 3"
+    ],
     "correct": 2,
     "explanation": "v = √(2gh), pra v ∝ √h. Raporti = √(21/7) = √3."
   },
   {
     "id": "fizika-kinematika-047",
     "question": "Guri hidhet vertikalisht poshtë nga një ndërtesë. Në mënyrë që ky gur të përshkojë 30m për 2s, shpejtësia fillestare e tij duhet të jetë: (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["2m/s", "5m/s", "10m/s", "25m/s"],
+    "answers": [
+      "2m/s",
+      "5m/s",
+      "10m/s",
+      "25m/s"
+    ],
     "correct": 1,
     "explanation": "h = v₀t + ½gt² → 30 = 2v₀ + ½·10·4 = 2v₀ + 20 → v₀ = 5m/s."
   },
   {
     "id": "fizika-kinematika-048",
     "question": "Një gur bie nga një ballonë që ndodhet në prehje në lartësinë 180m nga toka. Shpejtësia me të cilën guri do të prekë tokën, do të jetë: (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["18m/s", "36m/s", "60m/s", "180m/s"],
+    "answers": [
+      "18m/s",
+      "36m/s",
+      "60m/s",
+      "180m/s"
+    ],
     "correct": 2,
     "explanation": "v = √(2gh) = √(2·10·180) = √3600 = 60m/s."
   },
   {
     "id": "fizika-kinematika-049",
     "question": "Një trup lëviz në vijë të drejtë me shpejtësi konstante 10m/s. Sa larg prej tij ndodhet një trup i dytë që lëviz në të njëjtën rrugë me shpejtësi 15m/s dhe e arrin të parin pas 10s?",
-    "answers": ["50m", "100m", "150m", "200m"],
+    "answers": [
+      "50m",
+      "100m",
+      "150m",
+      "200m"
+    ],
     "correct": 0,
     "explanation": "Shpejtësia e afrimit = 15 − 10 = 5m/s. Largësia = 5·10 = 50m."
   },
   {
     "id": "fizika-kinematika-050",
     "question": "Ekuacioni i shpejtësisë së lëvizjes së një trupi ka formën V=10-2t. Rruga që përshkon trupi gjatë 2s të para të lëvizjes është:",
-    "answers": ["16m", "18m", "20m", "32m"],
+    "answers": [
+      "16m",
+      "18m",
+      "20m",
+      "32m"
+    ],
     "correct": 0,
     "explanation": "v₀ = 10m/s dhe a = −2m/s². s = 10·2 − ½·2·4 = 20 − 4 = 16m."
   },
@@ -372,7 +622,12 @@
     "question": "Në figurë tregohet varësia V(t) për trupin që lëviz mbi një trajektore drejtvizore. Rruga që ka përshkuar trupi në 6s është:",
     "image": "/question-images/fizika/kinematika/kinematika-051.png",
     "imageAlt": "Grafik v–t në formë trapezi me maksimum 4 m/s midis 2s dhe 4s",
-    "answers": ["12m", "16m", "24m", "32m"],
+    "answers": [
+      "12m",
+      "16m",
+      "24m",
+      "32m"
+    ],
     "correct": 1,
     "explanation": "Sipërfaqja e trapezit: ½·(bazat)·lartësia = ½·(6+2)·4 = 16m."
   },
@@ -381,28 +636,48 @@
     "question": "Jepet grafiku i varësisë së shpejtësisë nga koha për dy makina A dhe B. Rruga që ka bërë secila makinë gjatë 6s, është:",
     "image": "/question-images/fizika/kinematika/kinematika-052.png",
     "imageAlt": "Grafik v–t me një drejtëz horizontale në 4 m/s dhe një drejtëz nga zero deri në 4 m/s",
-    "answers": ["24m; 36m", "24m; 12m", "12m; 28m", "6m; 24m"],
+    "answers": [
+      "24m; 36m",
+      "24m; 12m",
+      "12m; 28m",
+      "6m; 24m"
+    ],
     "correct": 1,
     "explanation": "Makina me shpejtësi konstante 4m/s: s = 4·6 = 24m. Makina që rritet linearisht nga 0 në 4m/s: s = ½·6·4 = 12m."
   },
   {
     "id": "fizika-kinematika-053",
     "question": "Rrota e një biçiklete e ka rrezen 40cm. Në qoftë se rrota bën 150 rrot/min, shpejtësia me të cilën ecën çiklisti, është:",
-    "answers": ["0,4m/s", "3,14m/s", "6,28m/s", "62,8m/s"],
+    "answers": [
+      "0,4m/s",
+      "3,14m/s",
+      "6,28m/s",
+      "62,8m/s"
+    ],
     "correct": 2,
     "explanation": "n = 150/60 = 2,5 rrot/s. v = 2πrn = 2·3,14·0,4·2,5 = 6,28m/s."
   },
   {
     "id": "fizika-kinematika-054",
     "question": "Atleti që vrapon me shpejtësi 8m/s, është 24m larg nga njeriu që vrapon me shpejtësi 5m/s. Atleti e arrin njeriun pas:",
-    "answers": ["1s", "8s", "10s", "12s"],
+    "answers": [
+      "1s",
+      "8s",
+      "10s",
+      "12s"
+    ],
     "correct": 1,
     "explanation": "Shpejtësia e afrimit = 8 − 5 = 3m/s. t = 24/3 = 8s."
   },
   {
     "id": "fizika-kinematika-055",
     "question": "Makina përshkon rrugën 196km midis dy qyteteve me shpejtësi konstante 48km/orë në vajtje dhe 60km/orë në kthim. Shpejtësia mesatare e makinës gjatë gjithë rrugës është:",
-    "answers": ["53,3km/orë", "54km/orë", "54,4km/orë", "55km/orë"],
+    "answers": [
+      "53,3km/orë",
+      "54km/orë",
+      "54,4km/orë",
+      "55km/orë"
+    ],
     "correct": 0,
     "explanation": "Rruga është e njëjtë në të dyja kahet, prandaj v = 2v₁v₂/(v₁+v₂) = 2·48·60/108 ≈ 53,3km/h."
   },
@@ -411,49 +686,84 @@
     "question": "Në figurë jepet grafiku i varësisë së nxitimit nga koha për lëvizjen e një trupi me shpejtësi fillestare 7m/s. Shpejtësia e trupit në sekondën e dhjetë, do të jetë:",
     "image": "/question-images/fizika/kinematika/kinematika-056.png",
     "imageAlt": "Grafik a–t me +1 m/s² deri në 3s dhe −1 m/s² nga 5s deri në 10s",
-    "answers": ["1m/s", "3m/s", "5m/s", "8m/s"],
+    "answers": [
+      "1m/s",
+      "3m/s",
+      "5m/s",
+      "8m/s"
+    ],
     "correct": 2,
     "explanation": "Ndryshimi i shpejtësisë është sipërfaqja nën grafikun a–t: +1·3 = +3 dhe −1·5 = −5. v = 7 + 3 − 5 = 5m/s."
   },
   {
     "id": "fizika-kinematika-057",
     "question": "Gjatë zbritjes në rrafsh të pjerrët sfera fiton shpejtësinë 10m/s. Duke ditur se ajo niset nga prehja, zhvendosja e sferës pas 10 sekondave është:",
-    "answers": ["50m", "60m", "100m", "500m"],
+    "answers": [
+      "50m",
+      "60m",
+      "100m",
+      "500m"
+    ],
     "correct": 0,
     "explanation": "Lëvizja është njëtrajtësisht e përshpejtuar nga prehja, pra s = (v₀+v)/2 · t = (0+10)/2 · 10 = 50m."
   },
   {
     "id": "fizika-kinematika-058",
     "question": "Nga një mur me lartësi 20m hidhet horizontalisht një top me shpejtësi 6m/s. Topi bie në tokë larg murit në largësinë: (g=10m/s²)",
-    "answers": ["0m", "8m", "11,7m", "12m"],
+    "answers": [
+      "0m",
+      "8m",
+      "11,7m",
+      "12m"
+    ],
     "correct": 3,
     "explanation": "Koha e rënies: t = √(2h/g) = √4 = 2s. Largësia horizontale = v·t = 6·2 = 12m."
   },
   {
     "id": "fizika-kinematika-059",
     "question": "Automobili me shpejtësi 54km/orë ndalon pas 5s. Nxitimi dhe zhvendosja gjatë frenimit, janë:",
-    "answers": ["-3m/s²; 37,5m", "-75m/s²; -862,5m", "-10,8m/s²; 135m", "3m/s²; 37,5m"],
+    "answers": [
+      "-3m/s²; 37,5m",
+      "-75m/s²; -862,5m",
+      "-10,8m/s²; 135m",
+      "3m/s²; 37,5m"
+    ],
     "correct": 0,
     "explanation": "54km/h = 15m/s. a = (0−15)/5 = −3m/s². s = (15+0)/2 · 5 = 37,5m."
   },
   {
     "id": "fizika-kinematika-060",
     "question": "Rrezja e rrotës së parë është 8 herë më e madhe se e rrotës së dytë, ndërsa frekuenca e rrotullimit 4 herë më e vogël. Raporti i nxitimeve qendërsynuese të pikave skajore është:",
-    "answers": ["1/4", "1/2", "2", "4"],
+    "answers": [
+      "1/4",
+      "1/2",
+      "2",
+      "4"
+    ],
     "correct": 1,
     "explanation": "a = 4π²Rf². Raporti = (R₁/R₂)·(f₁/f₂)² = 8·(1/4)² = 8/16 = 0,5."
   },
   {
     "id": "fizika-kinematika-061",
     "question": "Sfera pas goditjes fillon të ngjitet në rrafshin e pjerrët me shpejtësi fillestare 3m/s. Duke ditur se nxitimi i kësaj lëvizjeje njëtrajtësisht të ndryshueshme është 1,5m/s², shpejtësia e sferës pas 1s dhe 3s do të jetë:",
-    "answers": ["1,5m/s; -1,5m/s", "-1,5m/s; 3m/s", "-1,5m/s; 0m/s", "3m/s; 0m/s"],
+    "answers": [
+      "1,5m/s; -1,5m/s",
+      "-1,5m/s; 3m/s",
+      "-1,5m/s; 0m/s",
+      "3m/s; 0m/s"
+    ],
     "correct": 0,
     "explanation": "v = 3 − 1,5t. Për t=1s: 1,5m/s (ende në ngjitje). Për t=3s: −1,5m/s — sfera ka ndaluar në sekondën e dytë dhe tashmë po zbret."
   },
   {
     "id": "fizika-kinematika-062",
     "question": "Treni që udhëton me shpejtësi 108km/h, fillon të frenojë dhe ndalon pas 10s. Nxitimi i frenimit dhe zhvendosja e trenit nga çasti që fillon të frenojë, derisa ndalet, është:",
-    "answers": ["3m/s²; 150m", "10,8m/s²; 540m", "-3m/s²; 150m", "-3m/s²; 300m"],
+    "answers": [
+      "3m/s²; 150m",
+      "10,8m/s²; 540m",
+      "-3m/s²; 150m",
+      "-3m/s²; 300m"
+    ],
     "correct": 2,
     "explanation": "108km/h = 30m/s. a = −30/10 = −3m/s². s = (30+0)/2 · 10 = 150m."
   },
@@ -462,28 +772,48 @@
     "question": "Në figurë janë paraqitur grafikët e zhvendosjeve të dy pikave lëndore në varësi të kohës. Pikat lëvizin mbi të njëjtën drejtëz. Shpejtësitë e dy pikave janë:",
     "image": "/question-images/fizika/kinematika/kinematika-063.png",
     "imageAlt": "Grafik S–t me drejtëzën (1) nga 2m dhe drejtëzën (2) nga origjina, që takohen në 6m te t=8s",
-    "answers": ["0,5m/s; 0,75m/s", "0,75m/s; 0,75m/s", "0,5m/s; 0,5m/s", "2m/s; 6m/s"],
+    "answers": [
+      "0,5m/s; 0,75m/s",
+      "0,75m/s; 0,75m/s",
+      "0,5m/s; 0,5m/s",
+      "2m/s; 6m/s"
+    ],
     "correct": 0,
     "explanation": "Pika (1): nga 2m në 6m për 8s → v = 4/8 = 0,5m/s. Pika (2): nga 0 në 6m për 8s → v = 6/8 = 0,75m/s."
   },
   {
     "id": "fizika-kinematika-064",
     "question": "Kamioni me shpejtësi 36km/orë lëviz përballë me një veturë në një rrugë të drejtë. Vetura lëviz me shpejtësi 72km/orë. Ata ndodhen në largësi 1,2km. Koha dhe vendi në lidhje me vendndodhjen e kamionit ku ata takohen, është:",
-    "answers": ["20s; 200m", "20s; 400m", "40s; 400m", "60s; 920m"],
+    "answers": [
+      "20s; 200m",
+      "20s; 400m",
+      "40s; 400m",
+      "60s; 920m"
+    ],
     "correct": 2,
     "explanation": "Shpejtësia e afrimit = 10 + 20 = 30m/s. t = 1200/30 = 40s. Kamioni ka përshkuar 10·40 = 400m."
   },
   {
     "id": "fizika-kinematika-065",
     "question": "Ekuacioni i shpejtësisë i një trupi që kryen lëvizje drejtvizore është v=4+3t (m/s). Zhvendosja e përshkuar nga trupi në intervalin e kohës nga t₁=2s, në t₂=6s është:",
-    "answers": ["22m", "60m", "64m", "70m"],
+    "answers": [
+      "22m",
+      "60m",
+      "64m",
+      "70m"
+    ],
     "correct": 2,
     "explanation": "v(2)=10m/s, v(6)=22m/s. Meqë nxitimi është konstant: s = (10+22)/2 · 4 = 64m."
   },
   {
     "id": "fizika-kinematika-066",
     "question": "Dy makina lëvizin njëkohësisht nga dy qytete A dhe B, ku AB=12km. Ato lëvizin përballë njëra-tjetrës me lëvizje drejtvizore të njëtrajtshme, ku VA=72km/orë dhe VB=40m/s. Makinat do të takohen pas:",
-    "answers": ["100s", "200s", "1000s", "2000s"],
+    "answers": [
+      "100s",
+      "200s",
+      "1000s",
+      "2000s"
+    ],
     "correct": 1,
     "explanation": "72km/h = 20m/s. Shpejtësia e afrimit = 20 + 40 = 60m/s. t = 12000/60 = 200s."
   },
@@ -492,14 +822,24 @@
     "question": "Nisur nga grafiku i shpejtësisë në varësi të kohës, zhvendosja e kryer nga pika lëndore gjatë 3 sekondave të fundit, është: (Pika lëndore 2 sekondat e fundit lëviz me nxitim -2m/s²)",
     "image": "/question-images/fizika/kinematika/kinematika-067.png",
     "imageAlt": "Grafik v–t që rritet deri në 16 m/s në 4s, mbetet konstant deri në 8s dhe zbret deri në 10s",
-    "answers": ["16m", "28m", "36m", "44m"],
+    "answers": [
+      "16m",
+      "28m",
+      "36m",
+      "44m"
+    ],
     "correct": 3,
     "explanation": "Nga t=7s në 8s shpejtësia është konstante 16m/s → 16m. Nga 8s në 10s: 16·2 − ½·2·4 = 28m. Gjithsej 16 + 28 = 44m."
   },
   {
     "id": "fizika-kinematika-068",
     "question": "Perioda e rrotullimit të rrotës së parë është 3 herë më e vogël sesa perioda e rrotullimit të rrotës së dytë, kurse rrezja e rrotës së dytë është 2 herë më e vogël sesa rrezja e rrotës së parë. Raporti i nxitimeve qendërsynuese a₁/a₂ të pikave të periferisë së këtyre rrotave, është:",
-    "answers": ["4", "9", "18", "22"],
+    "answers": [
+      "4",
+      "9",
+      "18",
+      "22"
+    ],
     "correct": 2,
     "explanation": "a = 4π²R/T². Raporti = (R₁/R₂)·(T₂/T₁)² = 2·3² = 18."
   },
@@ -508,14 +848,24 @@
     "question": "Në figurë është paraqitur grafiku i varësisë së shpejtësisë nga koha për trupin që lëviz në vijë të drejtë. Rruga që përshkon trupi gjatë gjithë kohës së lëvizjes, është:",
     "image": "/question-images/fizika/kinematika/kinematika-069.png",
     "imageAlt": "Grafik v–t që rritet nga zero në 5 m/s deri në 20s dhe në 15 m/s deri në 40s",
-    "answers": ["50m", "100m", "250m", "300m"],
+    "answers": [
+      "50m",
+      "100m",
+      "250m",
+      "300m"
+    ],
     "correct": 2,
     "explanation": "Sipërfaqja nën grafik: ½·20·5 + ½·(5+15)·20 = 50 + 200 = 250m."
   },
   {
     "id": "fizika-kinematika-070",
     "question": "Dy çiklistë që kalojnë në një kryqëzim vazhdojnë lëvizjen në drejtime pingule. Ata lëvizin me shpejtësi konstante përkatësisht 36km/orë dhe 7,5m/s. Sa larg nga njëri-tjetri ndodhen çiklistët pas 6 minuta e 40 sekondave?",
-    "answers": ["3km", "4km", "5km", "6km"],
+    "answers": [
+      "3km",
+      "4km",
+      "5km",
+      "6km"
+    ],
     "correct": 2,
     "explanation": "t = 400s. Rrugët: 10·400 = 4000m dhe 7,5·400 = 3000m. Meqë drejtimet janë pingule: √(4000² + 3000²) = 5000m = 5km."
   },
@@ -524,14 +874,24 @@
     "question": "Në figurë është paraqitur grafiku i varësisë së shpejtësisë nga koha për trupin që lëviz në vijë të drejtë. Rruga që përshkon trupi gjatë gjithë kohës së lëvizjes, është:",
     "image": "/question-images/fizika/kinematika/kinematika-071.png",
     "imageAlt": "Grafik v–t që zbret nga 15 m/s në 5 m/s deri në 20s dhe mbetet 5 m/s deri në 40s",
-    "answers": ["100m", "200m", "300m", "400m"],
+    "answers": [
+      "100m",
+      "200m",
+      "300m",
+      "400m"
+    ],
     "correct": 2,
     "explanation": "Sipërfaqja nën grafik: ½·(15+5)·20 + 5·20 = 200 + 100 = 300m."
   },
   {
     "id": "fizika-kinematika-072",
     "question": "Patinatori lëviz me shpejtësi konstante 10m/s gjatë t₁=5s. Më pas fillon të frenojë derisa ndalon për t₂=5s. Rruga nga fillimi i lëvizjes, derisa ndalon është:",
-    "answers": ["25m", "50m", "75m", "100m"],
+    "answers": [
+      "25m",
+      "50m",
+      "75m",
+      "100m"
+    ],
     "correct": 2,
     "explanation": "Faza e parë: 10·5 = 50m. Faza e dytë: (10+0)/2 · 5 = 25m. Gjithsej 75m."
   },
@@ -540,7 +900,12 @@
     "question": "Në figurë paraqitet grafiku i zhvendosjes nga koha për një trup. Rruga dhe zhvendosja gjatë 25s është:",
     "image": "/question-images/fizika/kinematika/kinematika-073.png",
     "imageAlt": "Grafik x–t që rritet deri në 30m te t=10s dhe zbret në zero te t=25s",
-    "answers": ["30m; 30m", "60m; 0", "60m; 30m", "60m; 60m"],
+    "answers": [
+      "30m; 30m",
+      "60m; 0",
+      "60m; 30m",
+      "60m; 60m"
+    ],
     "correct": 1,
     "explanation": "Trupi shkon 30m dhe kthehet 30m: rruga = 60m. Meqë përfundon aty ku nisi (x=0), zhvendosja është zero."
   },
@@ -549,7 +914,12 @@
     "question": "Në figurë paraqitet grafiku i zhvendosjes nga koha për një trup. Shpejtësitë e trupit në intervalet e kohës (0-10s), (10-25s) janë:",
     "image": "/question-images/fizika/kinematika/kinematika-074.png",
     "imageAlt": "Grafik x–t që rritet deri në 30m te t=10s dhe zbret në zero te t=25s",
-    "answers": ["3m/s; -2m/s", "3m/s; 2m/s", "30m/s; -2m/s", "30m/s; 2m/s"],
+    "answers": [
+      "3m/s; -2m/s",
+      "3m/s; 2m/s",
+      "30m/s; -2m/s",
+      "30m/s; 2m/s"
+    ],
     "correct": 0,
     "explanation": "v = pjerrësia. (0–10s): 30/10 = 3m/s. (10–25s): (0−30)/15 = −2m/s, shenja minus tregon kthimin mbrapa."
   },
@@ -558,63 +928,108 @@
     "question": "Në figurë është paraqitur grafiku i varësisë së shpejtësisë nga koha për trupin që lëviz në vijë të drejtë. Nxitimet për çdo interval (0-20)s; (20-40)s janë:",
     "image": "/question-images/fizika/kinematika/kinematika-075.png",
     "imageAlt": "Grafik v–t që zbret nga 15 m/s në 5 m/s deri në 20s dhe mbetet konstant deri në 40s",
-    "answers": ["-0,2m/s²; 0", "-0,5 m/s²; 0,25 m/s²", "-0,5 m/s²; 0", "-0,5 m/s²; 4 m/s²"],
+    "answers": [
+      "-0,2m/s²; 0",
+      "-0,5 m/s²; 0,25 m/s²",
+      "-0,5 m/s²; 0",
+      "-0,5 m/s²; 4 m/s²"
+    ],
     "correct": 2,
     "explanation": "(0–20s): a = (5−15)/20 = −0,5m/s². (20–40s): shpejtësia mbetet konstante, pra a = 0."
   },
   {
     "id": "fizika-kinematika-076",
     "question": "Një automobil me masë 2000kg lëviz në mënyrë drejtvizore të njëtrajtshme me shpejtësi 36km/orë. Ai e rrit shpejtësinë dhe pas 10s arrin 72km/orë. Zhvendosja e tij gjatë 10 s është:",
-    "answers": ["100m", "150m", "200m", "210m"],
+    "answers": [
+      "100m",
+      "150m",
+      "200m",
+      "210m"
+    ],
     "correct": 1,
     "explanation": "v₀ = 10m/s, v = 20m/s. s = (10+20)/2 · 10 = 150m. Masa nuk hyn në llogaritje."
   },
   {
     "id": "fizika-kinematika-077",
     "question": "Akrepi i minutave të një ore është 5 herë më i gjatë se ai i sekondave (R₁=5R₂). Raporti i shpejtësisë lineare të skajeve të tyre V₁/V₂ është:",
-    "answers": ["1/12", "1/5", "1", "5"],
+    "answers": [
+      "1/12",
+      "1/5",
+      "1",
+      "5"
+    ],
     "correct": 0,
     "explanation": "v = 2πR/T. Akrepi i minutave: T = 3600s; i sekondave: T = 60s. V₁/V₂ = (R₁/R₂)·(T₂/T₁) = 5·(60/3600) = 1/12."
   },
   {
     "id": "fizika-kinematika-078",
     "question": "Guri hidhet horizontalisht nga maja e një shkëmbi dhe e prek tokën pas 4s në largësinë 12m nga baza e shkëmbit. Nëse rezistencën e ajrit nuk e marrim parasysh, shpejtësia horizontale dhe lartësia e shkëmbit është:",
-    "answers": ["0m/s; 12m", "0m/s; 80m", "3m/s; 12m", "3m/s; 80m"],
+    "answers": [
+      "0m/s; 12m",
+      "0m/s; 80m",
+      "3m/s; 12m",
+      "3m/s; 80m"
+    ],
     "correct": 3,
     "explanation": "v = 12/4 = 3m/s. h = ½gt² = ½·10·16 = 80m."
   },
   {
     "id": "fizika-kinematika-079",
     "question": "Pika lëndore lëviz me shpejtësi konstante V për 10 sekonda duke përshkuar rrugën S₁=50cm. Më pas lëviz me nxitim konstant a, duke përshkuar S₂=300cm për 10 sekonda të tjera. Nxitimi a në 10 sekondat e dyta dhe shpejtësia V e pikës lëndore në 10 sekondat e para është:",
-    "answers": ["0,05m/s²; 0,05m/s", "0,05m/s²; 0,5m/s", "0,5m/s²; 0,5m/s", "0,5m/s²; 0,05m/s"],
+    "answers": [
+      "0,05m/s²; 0,05m/s",
+      "0,05m/s²; 0,5m/s",
+      "0,5m/s²; 0,5m/s",
+      "0,5m/s²; 0,05m/s"
+    ],
     "correct": 0,
     "explanation": "V = 0,5m/10s = 0,05m/s. Pastaj 3 = 0,05·10 + ½a·100 → 2,5 = 50a → a = 0,05m/s²."
   },
   {
     "id": "fizika-kinematika-080",
     "question": "Makina lëviz në rrugën Tiranë-Durrës me shpejtësi që ndryshon sipas ekuacionit: V=3+60t (km/orë). Sa larg Tiranës ndodhet makina pas 30 minutave?",
-    "answers": ["5km", "9km", "33km", "43km"],
+    "answers": [
+      "5km",
+      "9km",
+      "33km",
+      "43km"
+    ],
     "correct": 1,
     "explanation": "v₀ = 3km/h dhe a = 60km/h². Për t = 0,5h: s = 3·0,5 + ½·60·0,25 = 1,5 + 7,5 = 9km."
   },
   {
     "id": "fizika-kinematika-081",
     "question": "Trupi që lëviz me nxitim a=1m/s² dhe shpejtësi fillestare V₀=8m/s, humbet 1/5 e shpejtësisë fillestare pas një kohe t. Koha dhe rruga e përshkuar gjatë kësaj kohe janë:",
-    "answers": ["1,4s; 10,2m", "1,5s; 11,3m", "1,6s; 11,52m", "1,7s; 12,3m"],
+    "answers": [
+      "1,4s; 10,2m",
+      "1,5s; 11,3m",
+      "1,6s; 11,52m",
+      "1,7s; 12,3m"
+    ],
     "correct": 2,
     "explanation": "Humbja = 8/5 = 1,6m/s, pra t = 1,6/1 = 1,6s. s = 8·1,6 − ½·1·1,6² = 12,8 − 1,28 = 11,52m."
   },
   {
     "id": "fizika-kinematika-082",
     "question": "Një veturë që lëviz në rrugë të drejtë me shpejtësi konstante 9,8m/s, parakalon një çiklist, i cili përshpejton nga prehja me nxitim a=0,98m/s². Çiklisti arrin veturën pas:",
-    "answers": ["10s", "20s", "30s", "40s"],
+    "answers": [
+      "10s",
+      "20s",
+      "30s",
+      "40s"
+    ],
     "correct": 1,
     "explanation": "9,8t = ½·0,98·t² → t = 2·9,8/0,98 = 20s."
   },
   {
     "id": "fizika-kinematika-083",
     "question": "Ekuacioni i lëvizjes së një trupi është: S=4+40t-4t². Shpejtësia mesatare e lëvizjes në intervalin e kohës nga t₁=0 në t₂=5s është:",
-    "answers": ["10m/s", "20m/s", "30m/s", "40m/s"],
+    "answers": [
+      "10m/s",
+      "20m/s",
+      "30m/s",
+      "40m/s"
+    ],
     "correct": 1,
     "explanation": "S(0) = 4m, S(5) = 4 + 200 − 100 = 104m. v_mes = (104−4)/5 = 20m/s."
   },
@@ -623,119 +1038,204 @@
     "question": "Jepet grafiku i varësisë së zhvendosjes nga koha për dy trupa. Cila është koha e takimit të tyre dhe shpejtësia e lëvizjes së trupit të parë kur takohen?",
     "image": "/question-images/fizika/kinematika/kinematika-084.png",
     "imageAlt": "Grafik S–t me dy drejtëza që takohen te 6m dhe t=8s",
-    "answers": ["2s; 0,3m/s", "8s; 0,4m/s", "8s; 0,5m/s", "6s; 0,6m/s"],
+    "answers": [
+      "2s; 0,3m/s",
+      "8s; 0,4m/s",
+      "8s; 0,5m/s",
+      "6s; 0,6m/s"
+    ],
     "correct": 2,
     "explanation": "Grafikët priten te t = 8s. Trupi i parë kalon nga 2m në 6m: v = 4/8 = 0,5m/s (e njëjtë gjatë gjithë lëvizjes)."
   },
   {
     "id": "fizika-kinematika-085",
     "question": "Shoferi frenon fort për shkak se rruga është e zënë. Makina zhvendoset me nxitim -2m/s² deri sa ndalon. Zhvendosja është 144m. Shpejtësia me të cilën po ecte makina dhe koha e ndalimit është:",
-    "answers": ["24m/s; 6s", "24m/s; 12s", "48m/s; 6s", "72m/s; 2s"],
+    "answers": [
+      "24m/s; 6s",
+      "24m/s; 12s",
+      "48m/s; 6s",
+      "72m/s; 2s"
+    ],
     "correct": 1,
     "explanation": "v₀² = 2·a·s = 2·2·144 = 576 → v₀ = 24m/s. t = 24/2 = 12s."
   },
   {
     "id": "fizika-kinematika-086",
     "question": "Vendndodhja e një trupi që lëviz në vijë të drejtë gjendet me ekuacionin: x=10+2t+3t². Sa është shpejtësia dhe zhvendosja në sekondën e dytë?",
-    "answers": ["8m/s; 16m", "8m/s; 26m", "14m/s; 16m", "14m/s; 26m"],
+    "answers": [
+      "8m/s; 16m",
+      "8m/s; 26m",
+      "14m/s; 16m",
+      "14m/s; 26m"
+    ],
     "correct": 2,
     "explanation": "Nga x = x₀ + v₀t + ½at²: v₀ = 2m/s dhe a = 6m/s². v(2) = 2 + 6·2 = 14m/s. Zhvendosja: x(2) − x(0) = 26 − 10 = 16m."
   },
   {
     "id": "fizika-kinematika-087",
     "question": "Një trup lëviz në një rrafsh të pjerrët me shpejtësi fillestare 100m/s dhe nxitim -4m/s². Koha e lëvizjes deri në ndalim dhe rruga që do të përshkojë trupi është:",
-    "answers": ["25s; 1250m", "25s; 2500m", "50s; 2500m", "4s; 5000m"],
+    "answers": [
+      "25s; 1250m",
+      "25s; 2500m",
+      "50s; 2500m",
+      "4s; 5000m"
+    ],
     "correct": 0,
     "explanation": "t = 100/4 = 25s. s = (100+0)/2 · 25 = 1250m."
   },
   {
     "id": "fizika-kinematika-088",
     "question": "Dy makina garojnë me njëra-tjetrën. Kur makina e parë niset nga prehja, e dyta e parakalon me shpejtësi 2m/s. Nxitimet e tyre janë a₁=6m/s² dhe a₂=5m/s². Sa është shpejtësia e secilës në çastin e takimit?",
-    "answers": ["0; 2m/s", "22m/s; 22m/s", "24m/s; 24m/s", "24m/s; 22m/s"],
+    "answers": [
+      "0; 2m/s",
+      "22m/s; 22m/s",
+      "24m/s; 24m/s",
+      "24m/s; 22m/s"
+    ],
     "correct": 3,
     "explanation": "3t² = 2t + 2,5t² → 0,5t² = 2t → t = 4s. v₁ = 6·4 = 24m/s; v₂ = 2 + 5·4 = 22m/s."
   },
   {
     "id": "fizika-kinematika-089",
     "question": "Një trup bie pa shpejtësi fillestare nga një lartësi h dhe e prek tokën me shpejtësi 2m/s. Nëse i njëjti trup bie nga një lartësi sa dyfishi i lartësisë fillestare, ai do e prekë tokën me shpejtësi:",
-    "answers": ["2√2 m/s", "4m/s", "8m/s", "20m/s"],
+    "answers": [
+      "2√2 m/s",
+      "4m/s",
+      "8m/s",
+      "20m/s"
+    ],
     "correct": 0,
     "explanation": "v = √(2gh), pra v ∝ √h. Me lartësi 2h shpejtësia rritet √2 herë: 2√2 m/s."
   },
   {
     "id": "fizika-kinematika-090",
     "question": "Nga lartësia e një kulle hidhen njëkohësisht me të njëjtën shpejtësi fillestare dy trupa: i pari vertikalisht lart dhe i dyti vertikalisht poshtë. Cila nga alternativat e mëposhtme shpreh distancën midis dy trupave në lidhje me kohën e lëvizjes?",
-    "answers": ["2v₀t − gt²/2", "2v₀t", "gt²/2", "2v₀t + gt²/2"],
+    "answers": [
+      "2v₀t − gt²/2",
+      "2v₀t",
+      "gt²/2",
+      "2v₀t + gt²/2"
+    ],
     "correct": 1,
     "explanation": "Për trupin lart: y₁ = v₀t − gt²/2; për atë poshtë: y₂ = −v₀t − gt²/2. Diferenca: y₁ − y₂ = 2v₀t — termat me g anulohen sepse të dy kanë të njëjtin nxitim."
   },
   {
     "id": "fizika-kinematika-091",
     "question": "Trupi hidhet vertikalisht lart nga tarraca e një ndërtese me lartësi 15m, me shpejtësi 14m/s. Sa lart nga toka do të ndodhet trupi pas 2s?",
-    "answers": ["23m", "28m", "35m", "63m"],
+    "answers": [
+      "23m",
+      "28m",
+      "35m",
+      "63m"
+    ],
     "correct": 0,
     "explanation": "Ngjitja mbi tarracë: 14·2 − ½·10·4 = 28 − 20 = 8m. Lartësia nga toka = 15 + 8 = 23m."
   },
   {
     "id": "fizika-kinematika-092",
     "question": "Dy trupa lihen të lirë të bien nga tarraca e dy ndërtesave. Shpejtësia e trupit të parë kur prek tokën, është sa dyfishi i shpejtësisë së trupit të dytë. Sa është raporti i lartësive përkatëse të dy ndërtesave?",
-    "answers": ["1", "2", "4", "8"],
+    "answers": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
     "correct": 2,
     "explanation": "h = v²/(2g), pra h ∝ v². Nëse v₁ = 2v₂, atëherë h₁/h₂ = 4."
   },
   {
     "id": "fizika-kinematika-093",
     "question": "Një trup hidhet vertikalisht lart me shpejtësi 20m/s. Pasi ngjitet 15m, shpejtësia e tij është:",
-    "answers": ["20m/s", "10√7 m/s", "10m/s", "0"],
+    "answers": [
+      "20m/s",
+      "10√7 m/s",
+      "10m/s",
+      "0"
+    ],
     "correct": 2,
     "explanation": "v² = v₀² − 2gh = 400 − 2·10·15 = 100 → v = 10m/s."
   },
   {
     "id": "fizika-kinematika-094",
     "question": "Nëse një top bie pa shpejtësi fillestare, ai përshkon 5m gjatë sekondës së parë. Sa është lartësia e përshkruar nga trupi gjatë sekondës së tretë dhe të katërt?",
-    "answers": ["15m", "30m", "40m", "60m"],
+    "answers": [
+      "15m",
+      "30m",
+      "40m",
+      "60m"
+    ],
     "correct": 3,
     "explanation": "Në rënie të lirë rruga në sekondën e n-të është 5(2n−1): sekonda e tretë = 25m, e katërta = 35m. Gjithsej 60m."
   },
   {
     "id": "fizika-kinematika-095",
     "question": "Një top me masë 1.5kg hidhet vertikalisht lart me shpejtësi 35m/s. Shpejtësia dhe drejtimi i lëvizjes së tij, 5 sekonda më vonë do të jetë:",
-    "answers": ["Zero", "10m/s vertikalisht poshtë", "10m/s vertikalisht lart", "15m/s vertikalisht poshtë"],
+    "answers": [
+      "Zero",
+      "10m/s vertikalisht poshtë",
+      "10m/s vertikalisht lart",
+      "15m/s vertikalisht poshtë"
+    ],
     "correct": 3,
     "explanation": "v = 35 − 10·5 = −15m/s. Shenja negative do të thotë se topi tashmë ka kaluar kulmin (në 3,5s) dhe po bie me 15m/s."
   },
   {
     "id": "fizika-kinematika-096",
     "question": "Një trup lëviz vertikalisht nga tarraca e një ndërtese 120m të lartë dhe prek tokën për 4s. Duke mos marrë parasysh rezistencën e ajrit, mund të pohojmë se shpejtësia fillestare e trupit është:",
-    "answers": ["Zero", "10m/s, drejtuar vertikalisht poshtë", "10m/s, drejtuar vertikalisht lart", "20m/s, drejtuar vertikalisht poshtë"],
+    "answers": [
+      "Zero",
+      "10m/s, drejtuar vertikalisht poshtë",
+      "10m/s, drejtuar vertikalisht lart",
+      "20m/s, drejtuar vertikalisht poshtë"
+    ],
     "correct": 1,
     "explanation": "120 = v₀·4 + ½·10·16 = 4v₀ + 80 → v₀ = 10m/s, i drejtuar poshtë (në rënie të lirë do të bënte vetëm 80m)."
   },
   {
     "id": "fizika-kinematika-097",
     "question": "Një çiklist kalon para shkollës me shpejtësi 30km/orë. Çiklisti i dytë kalon në të njëjtin vend pas 1 ore e 30 minutave, me shpejtësi 60km/orë. Sa larg shkollës dhe sa kohë pas kalimit të çiklistit të dytë takohen ata?",
-    "answers": ["60km; 1 orë", "90km; 1 orë", "90km; 1 orë e 30 minuta", "150km; 1 orë e 30 minuta"],
+    "answers": [
+      "60km; 1 orë",
+      "90km; 1 orë",
+      "90km; 1 orë e 30 minuta",
+      "150km; 1 orë e 30 minuta"
+    ],
     "correct": 2,
     "explanation": "Përparësia e të parit = 30·1,5 = 45km. Shpejtësia e afrimit = 30km/h, pra t = 45/30 = 1,5 orë. Largësia = 60·1,5 = 90km."
   },
   {
     "id": "fizika-kinematika-098",
     "question": "Në garën e vrapimit 1500m, atleti i parë vrapon në gjysmën e parë të rrugës me shpejtësi 4m/s, ndërsa gjysmën e dytë me shpejtësi 6m/s. Atleti i dytë, gjysmën e parë të kohës së tij, lëviz me shpejtësi 4m/s, kurse gjysmën e dytë të kohës me shpejtësi 6m/s. Atleti i parë arrin:",
-    "answers": ["10s më vonë", "12,5s më vonë", "12,5s më herët", "Në të njëjtën kohë me atletin e dytë"],
+    "answers": [
+      "10s më vonë",
+      "12,5s më vonë",
+      "12,5s më herët",
+      "Në të njëjtën kohë me atletin e dytë"
+    ],
     "correct": 1,
     "explanation": "Atleti i parë: 750/4 + 750/6 = 312,5s. Atleti i dytë ka shpejtësi mesatare 5m/s → 300s. Pra i pari arrin 12,5s më vonë."
   },
   {
     "id": "fizika-kinematika-099",
     "question": "Një makinë duke u nisur nga prehja lëviz me nxitim konstant 2m/s² gjatë 10s, pastaj lëviz me shpejtësi konstante edhe 10s të tjera. Sa është rruga e përshkuar nga makina gjatë 20s?",
-    "answers": ["100m", "150m", "200m", "300m"],
+    "answers": [
+      "100m",
+      "150m",
+      "200m",
+      "300m"
+    ],
     "correct": 3,
     "explanation": "Faza 1: ½·2·100 = 100m dhe v = 20m/s. Faza 2: 20·10 = 200m. Gjithsej 300m."
   },
   {
     "id": "fizika-kinematika-100",
     "question": "Motoçiklisti dhe patrulla e policisë po lëviznin me të njëjtën shpejtësi 40m/s. Motoçiklisti e pa patrullën e policisë, që po e ndiqte kur ishte 100m larg tij dhe ngadalëson lëvizjen me nxitim 4m/s². Duke konsideruar shpejtësinë e patrullës konstante, koha që i duhet patrullës dhe shpejtësia e motoçiklistit, kur e arrin patrulla është:",
-    "answers": ["5,9s; 16,4m/s", "7,07s; 11,72m/s", "7,07s; 10m/s", "10s; 0m/s"],
+    "answers": [
+      "5,9s; 16,4m/s",
+      "7,07s; 11,72m/s",
+      "7,07s; 10m/s",
+      "10s; 0m/s"
+    ],
     "correct": 1,
     "explanation": "40t = 100 + 40t − 2t² → 2t² = 100 → t ≈ 7,07s. v = 40 − 4·7,07 ≈ 11,72m/s."
   },
@@ -744,112 +1244,192 @@
     "question": "Është dhënë grafiku i varësisë së nxitimit nga koha për trupin që kryen lëvizje drejtvizore (V₀=1m/s). Rruga që ka përshkuar trupi gjatë 8s është:",
     "image": "/question-images/fizika/kinematika/kinematika-101.png",
     "imageAlt": "Grafik a–t me +1 m/s² deri në 4s dhe nxitim zero nga 4s deri në 8s",
-    "answers": ["12m", "16m", "20m", "32m"],
+    "answers": [
+      "12m",
+      "16m",
+      "20m",
+      "32m"
+    ],
     "correct": 3,
     "explanation": "0–4s: s = 1·4 + ½·1·16 = 12m dhe v arrin 5m/s. 4–8s: nxitimi zero, pra s = 5·4 = 20m. Gjithsej 32m."
   },
   {
     "id": "fizika-kinematika-102",
     "question": "Automobili që lëviz me V=144km/orë fillon të frenojë me nxitim a=-2m/s². Sa do të jetë shpejtësia e tij pas 10 s dhe pas sa sekondash do të ndalojë ai?",
-    "answers": ["20 m/s; 20 s", "20m/s; 10s", "40m/s; 20s", "40m/s; 10m/s"],
+    "answers": [
+      "20 m/s; 20 s",
+      "20m/s; 10s",
+      "40m/s; 20s",
+      "40m/s; 10m/s"
+    ],
     "correct": 0,
     "explanation": "144km/h = 40m/s. v(10) = 40 − 2·10 = 20m/s. Ndalon kur v = 0: t = 40/2 = 20s."
   },
   {
     "id": "fizika-kinematika-103",
     "question": "Vetura që lëviz me V₀=30m/s ngadalëson deri në V=20m/s, duke përshkruar 125m. Nxitimi i veturës dhe koha gjatë së cilës ka përshkuar këto 125m është:",
-    "answers": ["2 m/s²; 5 s", "1m/s²; 10s", "-2m/s²; 5s", "-1m/s²; 10s"],
+    "answers": [
+      "2 m/s²; 5 s",
+      "1m/s²; 10s",
+      "-2m/s²; 5s",
+      "-1m/s²; 10s"
+    ],
     "correct": 2,
     "explanation": "v² − v₀² = 2as → 400 − 900 = 250a → a = −2m/s². t = (20−30)/(−2) = 5s."
   },
   {
     "id": "fizika-kinematika-104",
     "question": "Në momentin që makina e parë kalon në kryqëzim me shpejtësi konstante V₁=72km/orë, makina e dytë niset me nxitim konstant a dhe e arrin makinën e parë pas 20s. Nxitimi i makinës së dytë kur ato takohen është:",
-    "answers": ["0,4m/s²", "2m/s²", "1m/s²", "0,2m/s²"],
+    "answers": [
+      "0,4m/s²",
+      "2m/s²",
+      "1m/s²",
+      "0,2m/s²"
+    ],
     "correct": 1,
     "explanation": "72km/h = 20m/s. Rrugët barazohen: 20·20 = ½a·20² → 400 = 200a → a = 2m/s²."
   },
   {
     "id": "fizika-kinematika-105",
     "question": "Makina që lëviz në vijë të drejtë me shpejtësi 36km/orë, fillon të përshpejtojë me nxitim 0,2m/s². Shpejtësia e saj rritet 2 herë. Sa kohë ka kaluar nga fillimi i lëvizjes dhe sa rrugë ka përshkuar?",
-    "answers": ["20s; 500m", "30s; 375m", "50s; 750m", "50s; 375m"],
+    "answers": [
+      "20s; 500m",
+      "30s; 375m",
+      "50s; 750m",
+      "50s; 375m"
+    ],
     "correct": 2,
     "explanation": "v₀ = 10m/s, v = 20m/s. t = 10/0,2 = 50s. s = (10+20)/2 · 50 = 750m."
   },
   {
     "id": "fizika-kinematika-106",
     "question": "Makina niset nga prehja dhe lëviz me nxitim konstant 3m/s² për 20s. Në këtë çast makinisti vë re një pengesë dhe fillon të ulë shpejtësinë me nxitim 3m/s², derisa ndalon para kësaj pengese. Largësia e pengesës nga pozicioni fillestar i makinës është:",
-    "answers": ["0", "600m", "660m", "1200m"],
+    "answers": [
+      "0",
+      "600m",
+      "660m",
+      "1200m"
+    ],
     "correct": 3,
     "explanation": "Faza 1: ½·3·400 = 600m dhe v = 60m/s. Faza 2 (ndalim me të njëjtin nxitim): edhe 600m. Gjithsej 1200m."
   },
   {
     "id": "fizika-kinematika-107",
     "question": "Aeroplani gjatë uljes takon fushën e aerodromit me shpejtësi 540km/orë. Duke ditur se ai ndalon pas 2 minuta, nxitimi dhe zhvendosja e lëvizjes së tij në aerodrom janë:",
-    "answers": ["1m/s²; 18000m", "-1,25m/s²; 9000m", "-1,75m/s²; 9000m", "2m/s²; 18000m"],
+    "answers": [
+      "1m/s²; 18000m",
+      "-1,25m/s²; 9000m",
+      "-1,75m/s²; 9000m",
+      "2m/s²; 18000m"
+    ],
     "correct": 1,
     "explanation": "540km/h = 150m/s dhe t = 120s. a = −150/120 = −1,25m/s². s = (150+0)/2 · 120 = 9000m."
   },
   {
     "id": "fizika-kinematika-108",
     "question": "Nga një tren lodër në lëvizje shkëputet një vagon. Pas shkëputjes, vagoni ngadalëson njëtrajtësisht deri në ndalim, kurse treni vazhdon lëvizjen në të njëjtin drejtim me të njëjtën shpejtësi. Raporti i zhvendosjes S₁ të trenit me zhvendosjen S₂ të vagonit është:",
-    "answers": ["1/2", "1", "2", "3"],
+    "answers": [
+      "1/2",
+      "1",
+      "2",
+      "3"
+    ],
     "correct": 2,
     "explanation": "Në të njëjtën kohë treni bën S₁ = vt, ndërsa vagoni që ngadalësohet deri në ndalim bën S₂ = vt/2. Raporti = 2."
   },
   {
     "id": "fizika-kinematika-109",
     "question": "Trupi lëviz me nxitim konstant negativ. Shpejtësia e tij në fund të sekondës së pestë ishte 1,5m/s, ndërsa në fund të sekondës së gjashtë ndalon. Rruga deri në ndalesë dhe shpejtësia me të cilën nisi lëvizjen janë:",
-    "answers": ["18m; 1,5m/s", "27m; 0", "27m; 9m/s", "54m; 9m/s"],
+    "answers": [
+      "18m; 1,5m/s",
+      "27m; 0",
+      "27m; 9m/s",
+      "54m; 9m/s"
+    ],
     "correct": 2,
     "explanation": "a = (0 − 1,5)/1 = −1,5m/s². v₀ = 1,5 + 1,5·5 = 9m/s. s = (9+0)/2 · 6 = 27m."
   },
   {
     "id": "fizika-kinematika-110",
     "question": "Dy çiklistë lëvizin në rrafsh të pjerrët përballë njëri-tjetrit në largësinë 130m. Çiklisti i parë ngjitet me nxitim -0,2 m/s² dhe shpejtësi fillestare 5m/s ndërsa çiklisti i dytë zbret me nxitim 0,2 m/s² dhe shpejtësi fillestare 1,5m/s. Largësia e takimit të tyre, duke iu referuar pozicionit fillestar të çiklistit në ngjitje, është:",
-    "answers": ["60m", "70m", "80m", "90m"],
+    "answers": [
+      "60m",
+      "70m",
+      "80m",
+      "90m"
+    ],
     "correct": 0,
     "explanation": "Shuma e rrugëve = 130: (5t − 0,1t²) + (1,5t + 0,1t²) = 6,5t = 130 → t = 20s. Çiklisti në ngjitje: 5·20 − 0,1·400 = 60m."
   },
   {
     "id": "fizika-kinematika-111",
     "question": "Vetura niset nga semafori me nxitim 2,5m/s². Në të njëjtin çast kalon kamioni me shpejtësi konstante 15m/s. Në çfarë largësie vetura e arrin kamionin dhe sa është shpejtësia e saj në këtë çast?",
-    "answers": ["100m; 10m/s", "150m; 20m/s", "180m; 30m/s", "200m; 40m/s"],
+    "answers": [
+      "100m; 10m/s",
+      "150m; 20m/s",
+      "180m; 30m/s",
+      "200m; 40m/s"
+    ],
     "correct": 2,
     "explanation": "½·2,5·t² = 15t → t = 12s. Largësia = 15·12 = 180m. Shpejtësia e veturës = 2,5·12 = 30m/s."
   },
   {
     "id": "fizika-kinematika-112",
     "question": "Trupi niset nga prehja dhe përshkon 18m për 3s. Gjatë 3s të tjera, trupi lëviz me shpejtësi konstante dhe 3s e fundit lëviz me nxitim 4m/s², derisa ndalon. Rruga e përshkuar nga trupi është:",
-    "answers": ["36,5m", "40,5m", "42m", "72m"],
+    "answers": [
+      "36,5m",
+      "40,5m",
+      "42m",
+      "72m"
+    ],
     "correct": 3,
     "explanation": "Faza 1: 18 = ½a·9 → a = 4m/s², v = 12m/s. Faza 2: 12·3 = 36m. Faza 3 (ndalim): (12+0)/2 · 3 = 18m. Gjithsej 18+36+18 = 72m."
   },
   {
     "id": "fizika-kinematika-113",
     "question": "Lokomotiva ndodhet 500m larg semaforit dhe ka shpejtësinë 15m/s. Lokomotiva në këtë çast fillon të frenojë me nxitim 0,4m/s². Koha derisa ndalon dhe largësia nga semafori është:",
-    "answers": ["30s; 100m", "37,5s; 218.75m", "37,5s; 281.25m", "42s; 300m"],
+    "answers": [
+      "30s; 100m",
+      "37,5s; 218.75m",
+      "37,5s; 281.25m",
+      "42s; 300m"
+    ],
     "correct": 1,
     "explanation": "t = 15/0,4 = 37,5s. Rruga e frenimit = (15+0)/2 · 37,5 = 281,25m. Largësia nga semafori = 500 − 281,25 = 218,75m."
   },
   {
     "id": "fizika-kinematika-114",
     "question": "Makina lëviz në vijë të drejtë me shpejtësi 72km/orë dhe fillon të frenojë me nxitim -0,3m/s². Koha që i duhet për të arritur një shpejtësi 4 herë më të vogël dhe rruga e përshkuar është:",
-    "answers": ["20s; 500m", "30s; 600m", "50s; 625m", "50s; 1000m"],
+    "answers": [
+      "20s; 500m",
+      "30s; 600m",
+      "50s; 625m",
+      "50s; 1000m"
+    ],
     "correct": 2,
     "explanation": "v₀ = 20m/s, v = 5m/s. t = 15/0,3 = 50s. s = (20+5)/2 · 50 = 625m."
   },
   {
     "id": "fizika-kinematika-115",
     "question": "Avioni duhet të shkëputet nga toka me shpejtësi 108km/orë. Këtë shpejtësi e arrin për 10s. Sa është distanca e përshpejtimit të tij në pistë?",
-    "answers": ["100m", "150m", "300m", "1080m"],
+    "answers": [
+      "100m",
+      "150m",
+      "300m",
+      "1080m"
+    ],
     "correct": 1,
     "explanation": "108km/h = 30m/s. s = (0+30)/2 · 10 = 150m."
   },
   {
     "id": "fizika-kinematika-116",
     "question": "Një makinë që lëviz në vijë të drejtë fillon të ngadalësojë me nxitim 0,2m/s². Ajo ndalon pas 2 minutave. Vlera e shpejtësisë fillestare dhe rruga e kryer nga makina janë:",
-    "answers": ["0,4m/s; 24m", "-0,4m/s; 24m", "24m/s; 1440m", "24m/s; 2880m"],
+    "answers": [
+      "0,4m/s; 24m",
+      "-0,4m/s; 24m",
+      "24m/s; 1440m",
+      "24m/s; 2880m"
+    ],
     "correct": 2,
     "explanation": "t = 120s. v₀ = a·t = 0,2·120 = 24m/s. s = (24+0)/2 · 120 = 1440m."
   },
@@ -858,28 +1438,48 @@
     "question": "Një nxënës hedh një top gome vertikalisht poshtë me shpejtësi 3m/s. Topi godet tokën dhe ngjitet vertikalisht lart. Grafiku shpejtësi-kohë tregon lëvizjen e topit për 1.4s e para. Sa është diferenca midis lartësisë, nga e cila u lëshua topi dhe asaj të arritur prej tij, pas goditjes me tokën? (g=10m/s²)",
     "image": "/question-images/fizika/kinematika/kinematika-117.png",
     "imageAlt": "Grafik v–t që zbret nga −3 në −9 m/s deri në 0,6s, pastaj nga +8 m/s në zero deri në 1,4s",
-    "answers": ["Zero", "0.4m", "1.8m", "3.6m"],
+    "answers": [
+      "Zero",
+      "0.4m",
+      "1.8m",
+      "3.6m"
+    ],
     "correct": 1,
     "explanation": "Rënia = sipërfaqja e parë: ½·(3+9)·0,6 = 3,6m. Ngjitja pas goditjes: ½·8·0,8 = 3,2m. Diferenca = 3,6 − 3,2 = 0,4m."
   },
   {
     "id": "fizika-kinematika-118",
     "question": "Një gur hidhet vertikalisht lart me shpejtësi fillestare 30m/s. Pas 2s një gur tjetër hidhet me të njëjtën shpejtësi 30m/s. Sa sekonda pas hedhjes së gurit të parë, dy gurët takohen? (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["4s", "6s", "10s", "16s"],
+    "answers": [
+      "4s",
+      "6s",
+      "10s",
+      "16s"
+    ],
     "correct": 0,
     "explanation": "Barazojmë lartësitë: 30t − 5t² = 30(t−2) − 5(t−2)². Duke zhvilluar: 0 = −80 + 20t → t = 4s."
   },
   {
     "id": "fizika-kinematika-119",
     "question": "Një top tenisi hidhet vertikalisht lart nga një lartësi 5m mbi sipërfaqen e tokës, me shpejtësi fillestare 30m/s. Kur topi ndodhet në lartësinë 30m nga toka, shpejtësia e tij është: (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["0m/s", "10m/s", "20m/s", "40m/s"],
+    "answers": [
+      "0m/s",
+      "10m/s",
+      "20m/s",
+      "40m/s"
+    ],
     "correct": 2,
     "explanation": "Ngjitja nga pika e hedhjes = 30 − 5 = 25m. v² = 900 − 2·10·25 = 400 → v = 20m/s."
   },
   {
     "id": "fizika-kinematika-120",
     "question": "Trupi bie lirisht nga lartësia 125m. Sa është lartësia e përshkruar prej tij në 2 sekondat e fundit? (Rezistenca e ajrit nuk merret parasysh; g=10m/s²)",
-    "answers": ["45m", "80m", "125m", "170m"],
+    "answers": [
+      "45m",
+      "80m",
+      "125m",
+      "170m"
+    ],
     "correct": 1,
     "explanation": "Koha e plotë: t = √(2·125/10) = 5s. Në 3s e para bie 5·9 = 45m. Pra në 2s e fundit: 125 − 45 = 80m."
   }

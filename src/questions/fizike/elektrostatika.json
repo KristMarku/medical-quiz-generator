@@ -1,102 +1,1270 @@
 [
-  {"id":"fizika-elektrostatika-001","question":"Dy ngarkesa elektrike në prehje, tërheqin njëra-tjetrën me një forcë F=10N. Nëse ngarkesa e secilit trup dyfishohet dhe distanca midis tyre nuk ndryshon, atëherë forca tërheqëse midis tyre do të jetë:","answers":["10N","20N","30N","40N"],"correct":3,"explanation":"F=kq₁q₂/r². Të dyja ngarkesat dyfishohen, pra forca rritet 2·2=4 herë: 4·10=40N."},
-  {"id":"fizika-elektrostatika-002","question":"Një proton dhe një elektron ndodhen 0.5m larg njëri-tjetrit dhe bashkëveprojnë me forcën F. Sa do të bëhet forca e bashkëveprimit midis tyre, nëse ata largohen deri në largësinë 1m nga njëri-tjetri?","answers":["F/2","2F","F/4","4F"],"correct":2,"explanation":"F∝1/r². Distanca dyfishohet, pra forca zvogëlohet 4 herë: F/4."},
-  {"id":"fizika-elektrostatika-003","question":"Si do të ndryshojë forca e bashkëveprimit elektrostatik midis dy ngarkesave, nëse distanca midis tyre zvogëlohet 3 herë dhe ngarkesat e tyre nuk ndryshojnë?","answers":["Zvogëlohet 3 herë.","Rritet 3 herë.","Zvogëlohet 9 herë.","Rritet 9 herë."],"correct":3,"explanation":"F∝1/r². Distanca 3 herë më e vogël jep forcë 3²=9 herë më të madhe."},
-  {"id":"fizika-elektrostatika-004","question":"Dy ngarkesa elektrike bashkëveprojnë me njëra-tjetrën me forcën 20N. Sa do të bëhej forca e bashkëveprimit midis tyre, nëse ngarkesa e parë rritet dy herë dhe ngarkesa e dytë zvogëlohet 4 herë?","answers":["10N","20N","30N","40N"],"correct":0,"explanation":"F'=F·2·(1/4)=20·0,5=10N."},
-  {"id":"fizika-elektrostatika-005","question":"Dy ngarkesa të njëjta që ndodhen në largësi 2m nga njëra-tjetra bashkëveprojnë me forcën 9·10⁻³N. Vlera e secilës prej tyre do të jetë (k=9·10⁹ Nm²/C²):","answers":["1µC","2µC","3µC","4µC"],"correct":1,"explanation":"q²=Fr²/k=9·10⁻³·4/9·10⁹=4·10⁻¹², pra q=2·10⁻⁶C=2µC."},
-  {"id":"fizika-elektrostatika-006","question":"Tri sfera metalike K, L dhe M të izoluara dhe të fiksuara janë të ngarkuara si në figurë. Sfera L në fillim takon sferën K dhe më pas sferën M. Pas kësaj, sfera L kthehet përsëri në pozicionin fillestar. Ngarkesat e sferave K, L dhe M pas kësaj, respektivisht do të jenë:","image":"/question-images/fizika/elektrostatika/elektrostatika-006.png","imageAlt":"Tri sfera K (10nC), L (-2nC), M (0nC) mbi izolues","answers":["+4,0nC +4.0nC +4.0nC","+4.0nC +2.0nC +2.0nC","+6.0nC +3.0nC +3.0nC","+2.0nC +2.0nC +2.0nC"],"correct":1,"explanation":"K+L: (10−2)/2=4nC secila. Pastaj L+M: (4+0)/2=2nC secila. Përfundimisht: K=4nC, L=2nC, M=2nC."},
-  {"id":"fizika-elektrostatika-007","question":"Nga sipërfaqja e një pike uji elektroasnjanëse shkëputet një elektron. Pastaj asaj i bashkohet një jon pozitiv me ngarkesë pozitive sa e elektronit. Ngarkesa përfundimtare e pikës së ujit do të jetë: (qe=1,6·10⁻¹⁹)","answers":["+3.2·10⁻¹⁹C","-3.2·10⁻¹⁹C","+1.6·10⁻¹⁹C","-1.6·10⁻¹⁹C"],"correct":0,"explanation":"Humbja e një elektroni jep +qe, dhe marrja e një joni pozitiv sa qe shton edhe +qe: gjithsej +2qe=+3,2·10⁻¹⁹C."},
-  {"id":"fizika-elektrostatika-008","question":"Forca elektrike midis dy trupave të vegjël të ngarkuar secili me ngarkesë negative 100µC në distancë 3m është: (k=9·10⁹ Nm²/C²)","answers":["1N","10N","30N","300N"],"correct":1,"explanation":"F=kq²/r²=9·10⁹·(100·10⁻⁶)²/9=9·10⁹·10⁻⁸/9=10N."},
-  {"id":"fizika-elektrostatika-009","question":"Dy ngarkesa q1=4µC dhe q2=2µC bashkëveprojnë me njëra-tjetrën me forcën 20N (k=9·10⁹ Nm²/C²). Distanca midis tyre është:","answers":["2cm","4cm","6cm","8cm"],"correct":2,"explanation":"r²=kq1q2/F=9·10⁹·8·10⁻¹²/20=3,6·10⁻³, pra r≈0,06m=6cm."},
-  {"id":"fizika-elektrostatika-010","question":"Gjatë elektrizimit me fërkim, trupat shkëmbejnë:","answers":["protone","elektrone","neutrone","bërthama"],"correct":1,"explanation":"Elektronet e shtresës së jashtme lëvizin lehtësisht midis trupave gjatë fërkimit, ndërsa protonet dhe bërthamat mbeten të pandryshuara."},
-  {"id":"fizika-elektrostatika-011","question":"Dy sfera metalike te njëjta A dhe B kanë përkatësisht ngarkesat -2C dhe -4C. Nëse të dy sferat takohen me njëra-tjetrën dhe pastaj largohen, ngarkesa e sferës A do të jetë:","answers":["-3C","-2C","0C","+4C"],"correct":0,"explanation":"Për sfera identike ngarkesa ndahet në mënyrë të barabartë: (−2−4)/2=−3C secila."},
-  {"id":"fizika-elektrostatika-012","question":"Një sfere metalike të pangarkuar i jepen 100 elektrone. Pas kësaj ngarkesa e sferës bëhet: (qe=1.6·10⁻¹⁹ C)","answers":["1.6·10⁻²¹ C","3.2·10⁻¹⁹ C","-1.6·10⁻¹⁷ C","-3.2·10⁻¹⁷ C"],"correct":2,"explanation":"q=100·(−1,6·10⁻¹⁹)=−1,6·10⁻¹⁷C."},
-  {"id":"fizika-elektrostatika-013","question":"Intensiteti i fushës elektrostatike që krijon ngarkesa q në largësi 2m është E. Sa do jetë intensiteti i fushës që krijohet në largësi 4m nga e njëjta ngarkesë?","answers":["2E","E/2","4E","E/4"],"correct":3,"explanation":"E∝1/r². Largësia dyfishohet, pra fusha zvogëlohet 4 herë: E/4."},
-  {"id":"fizika-elektrostatika-014","question":"Në figurë tregohen dy ngarkesa elektrike pikësore. Nëse intensiteti i fushës së krijuar nga secila ngarkesë eshtë E, atëherë intensiteti i fushës elektrike në pikën A do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-014.png","imageAlt":"Ngarkesat -q dhe +q me pikën A mes tyre, secila në distancë d","answers":["2E","E/2","0","E"],"correct":0,"explanation":"Fusha nga −q në A drejtohet drejt −q, dhe fusha nga +q drejtohet larg +q — të dyja në të njëjtin kah, prandaj mblidhen: E_total=2E."},
-  {"id":"fizika-elektrostatika-015","question":"Ngarkesa pikësore q krijon në një pikë A fushën 10N/C. Sa do të jetë fusha që krijon ngarkesa 2q në të njëjtën pikë?","answers":["10N/C","20N/C","30N/C","40N/C"],"correct":1,"explanation":"E∝q. Dyfishimi i ngarkesës dyfishon fushën: 20N/C."},
-  {"id":"fizika-elektrostatika-016","question":"Ngarkesa q=2µC krijon në një pikë A fushën elektrike me intensitet E=2·10⁵N/C (k=9·10⁹ Nm²/C²). Distanca e pikës A nga ngarkesa është:","answers":["10cm","20cm","30cm","40cm"],"correct":2,"explanation":"r²=kq/E=9·10⁹·2·10⁻⁶/2·10⁵=0,09, pra r=0,3m=30cm."},
-  {"id":"fizika-elektrostatika-017","question":"Intensiteti i fushës elektrike në pikën A, që është mesi i largësisë midis dy ngarkesave, është:","image":"/question-images/fizika/elektrostatika/elektrostatika-017.png","imageAlt":"Dy ngarkesa +q dhe +q me pikën A në mes tyre","answers":["2E","E/2","0","E"],"correct":2,"explanation":"Dy ngarkesa të njëjta pozitive: fushat në pikën e mesme drejtohen në kahe të kundërta dhe kanë vlerë të barabartë, pra shuma vektoriale është zero."},
-  {"id":"fizika-elektrostatika-018","question":"Ngarkesa q krijon rreth saj fushën elektrike E. Çfarë do të ndodhë me fushën elektrike në qoftë se ngarkesën e fusim në një dielektrik me konstante dielektrike ε=2?","answers":["Rritet 2 herë","Zvogëlohet 2 herë","Zvogëlohet 4 herë","Ritet 4 herë"],"correct":1,"explanation":"Në dielektrik E=E₀/ε, pra fusha zvogëlohet aq herë sa është konstantja dielektrike."},
-  {"id":"fizika-elektrostatika-019","question":"Cila nga figurat tregon saktë fushën elektrostatike?","image":"/question-images/fizika/elektrostatika/elektrostatika-019.png","imageAlt":"Katër figura A, B, C, D me linja fushe rreth ngarkesave pozitive dhe negative","answers":["A","B","C","D"],"correct":0,"explanation":"Vijat e fushës elektrostatike dalin nga ngarkesa pozitive dhe hyjnë në ngarkesën negative, pa kryqëzim — kjo paraqitet saktë vetëm te figura A."},
-  {"id":"fizika-elektrostatika-020","question":"Një elektron futet me shpejtësi v₀ në fushën e njëtrajtshme me intensitet E si në figurë. Lëvizja e elektronit do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-020.png","imageAlt":"Elektron që futet me shpejtësi v₀ paralel me vijat e fushës E","answers":["e përshpejtuar.","e ngadalësuar.","e njëtrajtshme.","Rrethore."],"correct":1,"explanation":"Meqë elektroni ka ngarkesë negative, forca mbi të është e kundërt me drejtimin e E. Duke lëvizur në të njëjtin kah me E, elektroni ngadalësohet."},
-  {"id":"fizika-elektrostatika-021","question":"Ngarkesa elektrike 200C zhvendoset nga pika a në pikën b të një fushe elektrike me intensitet 400N/C. Puna e kryer nga forcat e fushës elektrike do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-021.png","imageAlt":"Fushë elektrike me pllaka horizontale, trekëndësh me katete 4cm dhe 3cm nga a në b","answers":["800J","1200J","2400J","3200J"],"correct":2,"explanation":"Vetëm zhvendosja përgjatë drejtimit të fushës (vertikale, 3cm) kontribuon në punë: W=qE·d=200·400·0,03=2400J."},
-  {"id":"fizika-elektrostatika-022","question":"Në një pikë të hapësirës mbivendosen dy fusha elektrike. Fusha rezultante do të varet nga:","answers":["vlera e dy fushave.","vlera dhe drejtimet e dy fushave.","vlera dhe kahu i dy fushave.","vlera, drejtimi dhe kahu i dy fushave."],"correct":3,"explanation":"Mbivendosja vektoriale e fushave kërkon të dhëna të plota: vlerën, drejtimin dhe kahun e secilës."},
-  {"id":"fizika-elektrostatika-023","question":"Për të kuptuar nëse në një zonë të hapësirës ka një fushë elektrike, mjafton të vendosim një ngarkesë q dhe të shohim nëse mbi të ushtrohet forcë elektrike. Nga se varet vektori i fushës elektrike?","answers":["Nga vlera e q.","Nga shenja e q.","Nga vlera dhe nga shenja e q.","As nga vlera dhe as nga shenja e q."],"correct":3,"explanation":"Vektori i fushës elektrike E=F/q është një veti e vetë hapësirës, e pavarur nga ngarkesa e provës që përdorim për ta zbuluar."},
-  {"id":"fizika-elektrostatika-024","question":"Një proton ndodhet në një fushë të njëtrajtshme me vlerë 5·10⁵N/C. Forca që ushtron fusha mbi protonin është: (qp=1.6·10⁻¹⁹C)","answers":["4·10⁻¹⁴N","8·10⁻¹⁴N","12·10⁻¹⁴N","16·10⁻¹⁴N"],"correct":1,"explanation":"F=qE=1,6·10⁻¹⁹·5·10⁵=8·10⁻¹⁴N."},
-  {"id":"fizika-elektrostatika-025","question":"Një sferë metalike me diametër 12cm është e ngarkuar pozitivisht. Intensiteti i fushës në sipërfaqen e saj është 40 V/m. Sa është ngarkesa e saj? (k=9·10⁹ Nm²/C²)","answers":["12pC","14pC","16pC","18pC"],"correct":2,"explanation":"r=0,06m. q=Er²/k=40·0,0036/9·10⁹=1,6·10⁻¹¹C=16pC."},
-  {"id":"fizika-elektrostatika-026","question":"Katër kondensatorë të njëjtë janë lidhur në seri. Nëse do të shkëpusim dy prej tyre, kapaciteti ekuivalent:","answers":["do të rritet 2 herë.","do të zvogëlohet 2 herë.","do të rritet 4 herë.","do të zvogëlohet 4 herë."],"correct":0,"explanation":"Me katër në seri Cₑq=C/4; me dy të mbetur Cₑq=C/2 — kapaciteti u dyfishua."},
-  {"id":"fizika-elektrostatika-027","question":"Çfarë drejtimi ka intensiteti i fushës së krijuar në pikën C nga ngarkesat +q dhe -q të vendosura si në figurë?","image":"/question-images/fizika/elektrostatika/elektrostatika-027.png","imageAlt":"Ngarkesat +q dhe -q në bazë të një trekëndëshi, pika C sipër, drejtime 1-4","answers":["Drejtimi 1","Drejtimi 2","Drejtimi 3","Drejtimi 4"],"correct":2,"explanation":"Për shkak të simetrisë, përbërësit vertikalë të fushave nga +q dhe −q anulohen pjesërisht, ndërsa përbërësit horizontalë mblidhen, duke dhënë një fushë rezultante horizontale drejtuar nga +q drejt −q — drejtimi 3."},
-  {"id":"fizika-elektrostatika-028","question":"Në cilin rast mund të përdorim formulën a=qE/m për të llogaritur nxitimin e një grimce me masë m dhe ngarkesë q, në një fushë elektrike E?","answers":["Vetëm në fushën elektrike të kondensatorit.","Vetëm nëse grimca ka ngarkesë pozitive.","Vetëm nëse grimca ka ngarkesë negative.","Vetëm nëse fusha është e njëtrajtshme."],"correct":3,"explanation":"Formula supozon forcë (dhe nxitim) konstante gjatë gjithë lëvizjes, çka vlen vetëm kur fusha elektrike është e njëtrajtshme."},
-  {"id":"fizika-elektrostatika-029","question":"Një proton zhvendoset nga prehja, nga pika A në B sipas vijave të fushës me intensitet 800N/C. Nëse largësia midis dy pikave është 5cm, atëherë diferenca e potencialit midis dy pikave është:","answers":["40V","80V","160V","200V"],"correct":0,"explanation":"U=E·d=800·0,05=40V."},
-  {"id":"fizika-elektrostatika-030","question":"Ngarkesa elektrike 2C lëviz nga një pikë A e fushës në një pikë tjetër B me potencial 100V. Për zhvendosjen e ngarkesës nga pika A në pikën B u krye puna 400J. Potenciali në pikën A është:","answers":["100V","200V","300V","400V"],"correct":2,"explanation":"W=q(V_A−V_B) → 400=2(V_A−100) → V_A=300V."},
-  {"id":"fizika-elektrostatika-031","question":"Largësia midis dy pllakave të një kondensatori të rrafshët është 2mm. Sa do të jetë intensiteti i fushës elektrike brenda pllakave kur tensioni ndërmjet tyre është 8V?","answers":["4000N/C","8000N/C","1600N/C","2400N/C"],"correct":0,"explanation":"E=U/d=8/0,002=4000N/C."},
-  {"id":"fizika-elektrostatika-032","question":"Intensiteti i fushës midis dy pllakave të një kondensatori është 2000N/C. Nëse distanca ndërmjet pllakave do të jetë 1mm, atëherë tensioni midis tyre do të jetë:","answers":["8V","4V","2V","1V"],"correct":2,"explanation":"U=E·d=2000·0,001=2V."},
-  {"id":"fizika-elektrostatika-033","question":"Dy kondensatorë të rrafshët kanë të dhëna të njëjta, përveç se njëri prej tyre e ka sipërfaqen e pllakave dy herë më të vogël. Nëse kondensatori me sipërfaqe më të madhe e ka kapacitetin C, sa do të jetë kapaciteti i kondensatorit tjetër?","answers":["2C","C/2","4C","C/4"],"correct":1,"explanation":"C∝S. Sipërfaqja dy herë më e vogël jep kapacitet dy herë më të vogël: C/2."},
-  {"id":"fizika-elektrostatika-034","question":"Një kondensator i rrafshët e ka kapacitetin C kur distanca ndërmjet pllakave është d. Sa do të bëhet kapaciteti i këtij kondensatori, nëse distanca midis pllakave do të bëhet 3d?","answers":["3C","C/3","6C","C/6"],"correct":1,"explanation":"C∝1/d. Distanca 3 herë më e madhe jep kapacitet 3 herë më të vogël: C/3."},
-  {"id":"fizika-elektrostatika-035","question":"Një kondensator i rrafshët e ka kapacitetin C kur midis pllakave të tij ka ajër. Nëse midis pllakave të tij do të vendosnim një dielektrik me konstante dielektrike 2, atëherë kapaciteti i tij:","answers":["do të zvogëlohet 2 herë","do të rritet 2 herë","do të zvogëlohet 4 herë","Nuk ndryshon"],"correct":1,"explanation":"C∝ε. Dielektriku me ε=2 e dyfishon kapacitetin."},
-  {"id":"fizika-elektrostatika-036","question":"Janë dhënë dy kondensatorë të lidhur si në figurë. Secili prej tyre e ka kapacitetin C=4µF. Kapaciteti ekuivalent i sistemit do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-036.png","imageAlt":"Dy kondensatorë C1 dhe C2 të lidhur në seri në një qark","answers":["8µF","6µF","4µF","2µF"],"correct":3,"explanation":"Lidhje në seri: 1/Cₑq=1/4+1/4=1/2, pra Cₑq=2µF."},
-  {"id":"fizika-elektrostatika-037","question":"Janë dhënë dy kondensatorë të lidhur si në figurë. Secili prej tyre e ka kapacitetin C=2µF. Kapaciteti ekuivalent i sistemit do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-037.png","imageAlt":"Dy kondensatorë C1 dhe C2 të lidhur në paralel","answers":["1µF","2µF","3µF","4µF"],"correct":3,"explanation":"Lidhje në paralel: Cₑq=C1+C2=2+2=4µF."},
-  {"id":"fizika-elektrostatika-038","question":"Kapaciteti i një kondensatori është 40pF dhe ngarkesa e tij është 40nC. Tensioni i zbatuar ndërmjet armaturave të këtij kondensatori është:","answers":["1000V","1600V","4000V","8000V"],"correct":0,"explanation":"U=Q/C=40·10⁻⁹/40·10⁻¹²=1000V."},
-  {"id":"fizika-elektrostatika-039","question":"Kapaciteti i një kondensatori të rrafshët është 2pF dhe tensioni ndërmjet armaturave të tij është 2000V. Sa është ngarkesa e kondensatorit?","answers":["1nC","2nC","3nC","4nC"],"correct":3,"explanation":"Q=CU=2·10⁻¹²·2000=4·10⁻⁹C=4nC."},
-  {"id":"fizika-elektrostatika-040","question":"Në pllakat e një kondensatori zbatohet tensioni 10⁴V dhe intensiteti i fushës midis pllakave 2·10⁶V/m. Sa është distanca midis dy pllakave?","answers":["5mm","10mm","15mm","20mm"],"correct":0,"explanation":"d=U/E=10⁴/2·10⁶=5·10⁻³m=5mm."},
-  {"id":"fizika-elektrostatika-041","question":"Si ndryshon forca e bashkëveprimit midis dy ngarkesave, nëse secila prej tyre ritet 2 herë dhe distanca midis tyre zvogëlohet 2 herë?","answers":["8F","16F","F/8","F/16"],"correct":1,"explanation":"F'=F·2·2·(2²)=F·4·4=16F."},
-  {"id":"fizika-elektrostatika-042","question":"Dy ngarkesa q1=2µC dhe q2=4µC janë vendosur 20cm larg njëra-tjetrës. Sa është forca me të cilën ato bashkëveprojnë? (k=9·10⁹ Nm²/C²)","answers":["0.9N","1.6N","1.8N","2N"],"correct":2,"explanation":"F=kq1q2/r²=9·10⁹·8·10⁻¹²/0,04=1,8N."},
-  {"id":"fizika-elektrostatika-043","question":"Sa do të jetë ngarkesa q2 e vendosur 30cm larg ngarkesës q1=2µC, në mënyrë që të bashkëveprojnë me forcën 2N? (k=9·10⁹ Nm²/C²)","answers":["10⁻⁵C","2·10⁻⁵C","2·10⁻⁶C","10⁻⁶C"],"correct":0,"explanation":"q2=Fr²/(kq1)=2·0,09/(9·10⁹·2·10⁻⁶)=10⁻⁵C."},
-  {"id":"fizika-elektrostatika-044","question":"Puna që kryhet për zhvendosjen e ngarkesës q=2C nga pika A me potencial VA=20V, në pikën B me potencial VB=100V është:","answers":["0J","40J","120J","160J"],"correct":3,"explanation":"W=q(VA−VB)=2·(20−100)=−160J, në vlerë absolute 160J e kryer nga forca e jashtme."},
-  {"id":"fizika-elektrostatika-045","question":"Ngarkesat q1=q2=4µC bashkëveprojnë me njëra-tjetrën me forcën 40N. Distanca midis tyre është: (k=9·10⁹ Nm²/C²)","answers":["3cm","4cm","5cm","6cm"],"correct":3,"explanation":"r²=kq²/F=9·10⁹·16·10⁻¹²/40=3,6·10⁻³, pra r=0,06m=6cm."},
-  {"id":"fizika-elektrostatika-046","question":"Fusha që krijon sfera me ngarkesë 4nC në pikën që ndodhet në largësinë 30cm nga qendra e saj, është: (k=9·10⁹ Nm²/C²)","answers":["200N/C","400N/C","600N/C","800N/C"],"correct":1,"explanation":"E=kq/r²=9·10⁹·4·10⁻⁹/0,09=400N/C."},
-  {"id":"fizika-elektrostatika-047","question":"Ngarkesa q=4nC krijon në pikën A fushën me intensitet 400N/C. Sa është largësia e pikës A nga ngarkesa? (k=9·10⁹ Nm²/C²)","answers":["10cm","20cm","30cm","40cm"],"correct":2,"explanation":"r²=kq/E=9·10⁹·4·10⁻⁹/400=0,09, pra r=0,3m=30cm."},
-  {"id":"fizika-elektrostatika-048","question":"Sa është ngarkesa q e cila në largësinë 20cm ka krijuar fushën elektrike me vlerë 900N/C? (k=9·10⁹ Nm²/C²)","answers":["2nC","4nC","6nC","8nC"],"correct":1,"explanation":"q=Er²/k=900·0,04/9·10⁹=4·10⁻⁹C=4nC."},
-  {"id":"fizika-elektrostatika-049","question":"Tre kondensatorë janë lidhur si në figurë me një bateri me diferencë potenciali 5V. Nëse kapaciteti i kondensatorëve është C1=4µF dhe C2=C3=2µF, ngarkesa e përgjithshme që jep bateria është:","image":"/question-images/fizika/elektrostatika/elektrostatika-049.png","imageAlt":"Tre kondensatorë C1, C2, C3 të lidhur në paralel me baterinë 5V","answers":["20µC","40µC","60µC","80µC"],"correct":1,"explanation":"Të tre në paralel: Cₑq=4+2+2=8µF. Q=Cₑq·U=8·5=40µC."},
-  {"id":"fizika-elektrostatika-050","question":"Ngarkesa elektrike 2C lëviz në një fushë elektrike nga një pikë A në një pikë tjetër B me potencial 150V. Për zhvendosjen e ngarkesës nga pika A në pikën B, u krye puna 900J. Potenciali në pikën A është:","answers":["400V","600V","800V","1000V"],"correct":1,"explanation":"V_A=V_B+W/q=150+900/2=600V."},
-  {"id":"fizika-elektrostatika-051","question":"Puna që kryen fusha për të zhvendosur ngarkesën -8µC nga Toka në një pikë ku potenciali është 50V është:","answers":["2·10⁻⁴J","3·10⁻⁴J","4·10⁻⁴J","5·10⁻⁴J"],"correct":2,"explanation":"W=|q|·V=8·10⁻⁶·50=4·10⁻⁴J."},
-  {"id":"fizika-elektrostatika-052","question":"Brinja e armaturave katrore të një kondensatori të rrafshët është 2cm dhe distanca ndërmjet tyre është 0.2mm. Kapaciteti i kondensatorit nëse midis pllakave ka ajër, do të jetë: (ε₀=8.85·10⁻¹²C²/Nm²)","answers":["8.85µF","8.85pF","17.7pF","17.7µF"],"correct":2,"explanation":"C=ε₀A/d=8,85·10⁻¹²·4·10⁻⁴/2·10⁻⁴=1,77·10⁻¹¹F=17,7pF."},
-  {"id":"fizika-elektrostatika-053","question":"Ngarkesa e një kondensatori është 4µC dhe tensioni ndërmjet armaturave 3000V. Energjia e kondensatorit është:","answers":["6·10⁻³J","12·10⁻³J","8·10⁻³J","9·10⁻³J"],"correct":0,"explanation":"W=0,5QU=0,5·4·10⁻⁶·3000=6·10⁻³J."},
-  {"id":"fizika-elektrostatika-054","question":"Kapaciteti i një kondensatori me sipërfaqe 5cm² është 17.7pF. Në qoftë se midis pllakave ka një dielektrik me ε=2, distanca midis pllakave është: (ε₀=8.85·10⁻¹²C²/Nm²)","answers":["0.3mm","0.4mm","0.5mm","0.6mm"],"correct":2,"explanation":"d=ε₀εA/C=8,85·10⁻¹²·2·5·10⁻⁴/17,7·10⁻¹²=5·10⁻⁴m=0,5mm."},
-  {"id":"fizika-elektrostatika-055","question":"Energjia elektrike e një kondensatori të rrafshët është 4mJ. Diferenca e potencialit ndërmjet armaturave të tij është 8000V. Ngarkesa e tij është:","answers":["1µC","2µC","3µC","4µC"],"correct":0,"explanation":"Q=2W/U=2·4·10⁻³/8000=1·10⁻⁶C=1µC."},
-  {"id":"fizika-elektrostatika-056","question":"Tre kondensatorë janë lidhur si në figurë. Në qoftë se kapaciteti i kondensatorëve është C1=4µF, C2=2µF dhe C3=2µF, atëherë kapaciteti ekuivalent do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-056.png","imageAlt":"C1 në seri me grupin paralel C2,C3","answers":["4µF","3µF","2µF","1µF"],"correct":2,"explanation":"C2 dhe C3 në paralel: 2+2=4µF. Kjo në seri me C1=4µF: (4·4)/8=2µF."},
-  {"id":"fizika-elektrostatika-057","question":"Tre kondensatorë janë lidhur si në figurë. Në qoftë se kapaciteti i kondensatorëve është C1=10µF, C2=10µF dhe C3=5µF atëherë kapaciteti ekuivalent do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-057.png","imageAlt":"C1 seri C2 në paralel me C3","answers":["10µF","15µF","20µF","25µF"],"correct":0,"explanation":"C1 seri C2: (10·10)/20=5µF. Në paralel me C3=5µF: 5+5=10µF."},
-  {"id":"fizika-elektrostatika-058","question":"Katër kondensatorë janë të lidhur në një qark si në figurë. Në qoftë se diferenca e potencialeve midis pikave A dhe B është 15V, ngarkesa e kondensatorëve do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-058.png","imageAlt":"Katër kondensatorë 3, 6, 12, 24µF në seri midis A dhe B","answers":["12µC","18µC","24µC","30µC"],"correct":2,"explanation":"1/Cₑq=1/3+1/6+1/12+1/24=15/24, Cₑq=1,6µF. Në seri ngarkesa është e njëjtë kudo: Q=1,6·15=24µC."},
-  {"id":"fizika-elektrostatika-059","question":"Një kondensator ajror me kapacitet 6F ngarkohet me ngarkesë 60C dhe më pas shkëputet nga burimi. Energjia e kondensatorit do të jetë:","answers":["300J","600J","2160J","21600J"],"correct":0,"explanation":"W=Q²/(2C)=60²/(2·6)=300J."},
-  {"id":"fizika-elektrostatika-060","question":"Sa herë ndryshon forca e bashkëveprimit midis dy ngarkesave pikësore, nëse largësia midis tyre rritet 2 herë dhe përshkueshmëria dielektrike e mjedisit ku ndodhen, zvogëlohet 2 herë?","answers":["Rritet 2 herë.","Zvogëlohet 2 herë.","Rritet 4 herë.","Zvogëlohet 4 herë."],"correct":1,"explanation":"F∝1/(εr²). Distanca dyfishohet (F/4) dhe ε përgjysmohet (F·2): gjithsej F/4·2=F/2, pra zvogëlohet 2 herë."},
-  {"id":"fizika-elektrostatika-061","question":"Puna për zhvendosjen me d=4mm të ngarkesës q në fushën e njëtrajtshme me intensitet 250N/C është 2·10⁻³J. Vlera e ngarkesës është:","answers":["2·10⁻³C","3·10⁻³C","4·10⁻³C","5·10⁻³C"],"correct":0,"explanation":"q=W/(Ed)=2·10⁻³/(250·0,004)=2·10⁻³C."},
-  {"id":"fizika-elektrostatika-062","question":"Dy ngarkesa q1=4nC dhe q2=6nC janë vendosur 20cm larg njëra-tjetrës. Fusha elektrike në mesin e largësisë midis tyre është: (k=9·10⁹ Nm²/C²)","answers":["900N/C","1800N/C","2100N/C","2700N/C"],"correct":1,"explanation":"Distanca deri te mesi=0,1m. E1=9·10⁹·4·10⁻⁹/0,01=3600N/C, E2=9·10⁹·6·10⁻⁹/0,01=5400N/C, në kahe të kundërta: E=5400−3600=1800N/C."},
-  {"id":"fizika-elektrostatika-063","question":"Ngarkesat q1= -50nC dhe q2= 50nC janë vendosur si në figurë. Intensiteti i fushës në pikën A, që është mesi hipotenuzës është: (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-063.png","imageAlt":"Trekëndësh kënddrejtë me katete 3m dhe 4m, q1 negative dhe q2 pozitive në hipotenuzë","answers":["144N/C","0N/C","72N/C","50N/C"],"correct":0,"explanation":"Hipotenuza=5m, distanca nga A te secila ngarkesë=2,5m. Fushat nga −q1 dhe +q2 kanë të njëjtin kah (drejt −q1) dhe mblidhen: E=2·(9·10⁹·50·10⁻⁹/2,5²)=144N/C."},
-  {"id":"fizika-elektrostatika-064","question":"Dy ngarkesa q1=2nC dhe q2=-2nC janë 20cm larg njëra tjetrës. Fusha në mesin e largësisë midis tyre është: (k=9·10⁹ Nm²/C²)","answers":["3600N/C","2400N/C","1800N/C","0N/C"],"correct":0,"explanation":"Ngarkesa me shenja të kundërta: fushat mblidhen në mes. E=2·(9·10⁹·2·10⁻⁹/0,01)=3600N/C."},
-  {"id":"fizika-elektrostatika-065","question":"Një elektron ndodhet në pllakën negative të një kondensatori të rrafshët me intensitet të fushës elektrike 900N/C. Largësia midis pllakave është 2mm. Nëse midis pllakave të kondensatorit ka ajër, shpejtësia me të cilën elektroni prek pllakën pozitive është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)","answers":["64·10¹⁰m/s","8·10¹⁰m/s","64·10⁵m/s","8·10⁵m/s"],"correct":3,"explanation":"a=eE/m=1,6·10⁻¹⁹·900/9·10⁻³¹≈1,6·10¹⁴m/s². v=√(2ad)=√(2·1,6·10¹⁴·0,002)≈8·10⁵m/s."},
-  {"id":"fizika-elektrostatika-066","question":"Një grimcë me masë m=2.5·10⁻¹⁰kg dhe ngarkesë q=10⁻⁸C ndodhet në një fushë të njëtrajtshme me intensitet 5000N/m. Nxitimi që fusha do t'i japë grimcës është:","answers":["1·10⁵m/s²","2·10⁵m/s²","3·10⁵m/s²","4·10⁵m/s²"],"correct":1,"explanation":"a=qE/m=10⁻⁸·5000/2,5·10⁻¹⁰=2·10⁵m/s²."},
-  {"id":"fizika-elektrostatika-067","question":"Grimca me masë 4·10⁻²⁴ kg dhe ngarkesë 3,2·10⁻¹⁹C lëviz me nxitim a=2·10⁶m/s². Fusha që i jep grimcës këtë nxitim është:","answers":["20N/C","25N/C","30N/C","35N/C"],"correct":1,"explanation":"E=ma/q=4·10⁻²⁴·2·10⁶/3,2·10⁻¹⁹=25N/C."},
-  {"id":"fizika-elektrostatika-068","question":"Elektroni niset nga prehja në një fushë elektrike të njëtrajtshme dhe pas 10⁻⁶ sekondash arrin shpejtësinë 3.2·10⁶m/s. Vlera e intensitetit të fushës elektrike është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)","answers":["6N/C","9N/C","18N/C","24N/C"],"correct":2,"explanation":"a=v/t=3,2·10⁶/10⁻⁶=3,2·10¹²m/s². E=ma/e=9·10⁻³¹·3,2·10¹²/1,6·10⁻¹⁹=18N/C."},
-  {"id":"fizika-elektrostatika-069","question":"Dy ngarkesa q1 dhe q2 janë në largësinë L si në figurë. Në pikën A që ndodhet në largësinë L/3 nga q1, fusha është 0. Raporti q1/q2 është:","image":"/question-images/fizika/elektrostatika/elektrostatika-069.png","imageAlt":"Ngarkesat q1 dhe q2 me pikën A në largësinë L/3 nga q1","answers":["4","¼","2","½"],"correct":1,"explanation":"kq1/(L/3)²=kq2/(2L/3)² → q1/q2=(1/3)²/(2/3)²=1/4."},
-  {"id":"fizika-elektrostatika-070","question":"Një elektron përshpejtohet nga prehja në një fushë homogjene me madhësi 9·10²N/C. Sa do të jetë shpejtësia e elektronit pas 10⁻⁸s? (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)","answers":["1·10⁶m/s","1.2·10⁶m/s","1.6·10⁶m/s","2.4·10⁶m/s"],"correct":2,"explanation":"a=eE/m=1,6·10⁻¹⁹·900/9·10⁻³¹≈1,6·10¹⁴m/s². v=at=1,6·10¹⁴·10⁻⁸=1,6·10⁶m/s."},
-  {"id":"fizika-elektrostatika-071","question":"Një proton qëndron pezull në prehje në një fushë elektrike me intensitet E. Nëse masa e protonit është 1.6·10⁻²⁷ kg, intensiteti fushës është: (qp=1.6·10⁻¹⁹C, g=10 m/s²)","answers":["10⁻⁷N/C","2·10⁻⁷N/C","10⁻⁵N/C","2·10⁻⁵N/C"],"correct":0,"explanation":"qE=mg → E=mg/q=1,6·10⁻²⁷·10/1,6·10⁻¹⁹=10⁻⁷N/C."},
-  {"id":"fizika-elektrostatika-072","question":"Një elektron përshpejtohet nga prehja në një fushë elektrike ndërmjet dy pikave të saj me potenciale 55V dhe 10V. Shpejtësia që ka fituar elektroni gjatë këtij përshpejtimi është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)","answers":["2·10⁶m/s","4·10⁶m/s","6·10⁶m/s","8·10⁶m/s"],"correct":1,"explanation":"ΔV=45V. eΔV=0,5mv² → v=√(2eΔV/m)=√(2·1,6·10⁻¹⁹·45/9·10⁻³¹)≈4·10⁶m/s."},
-  {"id":"fizika-elektrostatika-073","question":"Dy ngarkesa q1= 4nC dhe q2= 9nC ndodhen 20cm larg njëra-tjetrës. Në cilën pikë të segmentit q1q2 duhet vendosur ngarkesa q0=2nC, që ajo të qëndrojë në ekuilibër?","answers":["Në mesin e largësisë midis dy ngarkesave","8cm larg q1","8cm larg q2","12cm larg q1"],"correct":1,"explanation":"Ekuilibri kërkon √q1/√q2=d1/d2 → 2/3=d1/d2. Duke zgjidhur me d1+d2=20cm del d1=8cm nga q1."},
-  {"id":"fizika-elektrostatika-074","question":"Tensioni midis pllakave të një kondensatori me kapacitet C=4µF është 200V. Energjia e kondensatorit është:","answers":["2·10⁻²J","4·10⁻²J","6·10⁻²J","8·10⁻²J"],"correct":3,"explanation":"W=0,5CU²=0,5·4·10⁻⁶·200²=8·10⁻²J."},
-  {"id":"fizika-elektrostatika-075","question":"Një grimcë pluhuri me ngarkesë negative dhe masë 10⁻¹¹g ndodhet në ekuilibër ndërmjet dy pllakave horizontale paralele të ngarkuara në diferencë potenciali 100V. Largësia ndërmjet pllakave është 6.4mm. Sa elektrone përmban grimca e pluhurit? (g=10m/s², qe=1.6·10⁻¹⁹ C)","answers":["20 elektrone","30 elektrone","40 elektrone","50 elektrone"],"correct":2,"explanation":"E=U/d≈15625N/C. q=mg/E=10⁻¹⁴·10/15625≈6,4·10⁻¹⁸C. n=q/qe≈40 elektrone."},
-  {"id":"fizika-elektrostatika-076","question":"Elektroni ndodhet në pllakën negative të një kondensatori të rrafshët si në figurë. Largësia midis pllakave është 2cm dhe diferenca e potencialit ndërmjet pllakave është 900V. (me=9·10⁻³¹ kg, qe=1.6·10⁻¹⁹ C) Sa është nxitimi që fiton elektroni nën veprimin e fushës elektrike?","image":"/question-images/fizika/elektrostatika/elektrostatika-076.png","imageAlt":"Kondensator i rrafshët me elektron pranë pllakës negative","answers":["4·10¹⁵m/s²","6·10¹⁵m/s²","8·10¹⁵m/s²","9·10¹⁵m/s²"],"correct":2,"explanation":"E=U/d=45000N/C. a=eE/m=1,6·10⁻¹⁹·45000/9·10⁻³¹=8·10¹⁵m/s²."},
-  {"id":"fizika-elektrostatika-077","question":"Katër kondensatorë janë lidhur si në figurë. Secili kondensator e ka kapacitetin 20µF. Nëse diferenca e potencialit në skajet ab është 10V, atëherë ngarkesa e plotë e marrë nga burimi do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-077.png","imageAlt":"Katër kondensatorë 20µF të lidhur në qark bashkues nga a te b","answers":["200µC","300µC","400µC","600µC"],"correct":0,"explanation":"Duke i grupuar kondensatorët si dy palë paralele (20+20=40µF secila), lidhur në seri: Cₑq=40·40/80=20µF. Q=20·10=200µC."},
-  {"id":"fizika-elektrostatika-078","question":"Elektroni ndodhet në pllakën negative të një kondensatori të rrafshët dhe lëviz drejt pllakës pozitive me nxitim 1.6·10¹⁶ m/s². Largësia midis pllakave është 2cm. Sa ka qenë tensioni midis pllakave të kondensatorit? (me=9·10⁻³¹kg,qe=1,6·10⁻¹⁹C)","answers":["900V","1800V","2700V","3600V"],"correct":1,"explanation":"E=ma/e=9·10⁻³¹·1,6·10¹⁶/1,6·10⁻¹⁹=90000N/C. U=E·d=90000·0,02=1800V."},
-  {"id":"fizika-elektrostatika-079","question":"Ngarkesa q1= -50nC dhe q2= 50nC janë vendosur si në figurë. Forca e bashkëveprimit midis tyre është (k=9·10⁹ Nm²/C²):","image":"/question-images/fizika/elektrostatika/elektrostatika-079.png","imageAlt":"Trekëndësh kënddrejtë me katete 3m dhe 4m, q1 dhe q2 në hipotenuzë","answers":["3·10⁻⁷N","6·10⁻⁷N","9·10⁻⁷N","12·10⁻⁷N"],"correct":2,"explanation":"Distanca=hipotenuza=5m. F=k|q1q2|/r²=9·10⁹·50·10⁻⁹·50·10⁻⁹/25=9·10⁻⁷N."},
-  {"id":"fizika-elektrostatika-080","question":"Tre ngarkesa q1=q2=q3=2.5µC dhe janë vendosur në kulmet e një drejtkëndëshi si në figurë. Sa do të jetë vlera e intensitetit në qendrën e drejtkëndëshit, në qoftë se a=4m dhe b=3m? (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-080.png","imageAlt":"Drejtkëndësh me a=4m, b=3m, tri kulme me +q dhe një kulm bosh","answers":["3000V/m","3600V/m","6000V/m","7200V/m"],"correct":1,"explanation":"Tre ngarkesa të barabarta plus kulmi i mungueshëm ekuivalentojnë me një −q në atë kulm. Gjysmëdiagonalja=2,5m. E=kq/r²=9·10⁹·2,5·10⁻⁶/6,25=3600V/m."},
-  {"id":"fizika-elektrostatika-081","question":"Dy ngarkesa q1= 4µC dhe q2=8μC ndodhen 40cm larg njëra-tjetrës. Forca që vepron mbi ngarkesën q0=1µC të vendosur në mesin e largësisë, është: (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-081.png","imageAlt":"Ngarkesat q1, q0, q2 mbi një drejtëz, q0 në mes","answers":["2.7N","1.8N","0,9N","0N"],"correct":2,"explanation":"F1=kq1q0/0,04=0,9N (drejt q2), F2=kq2q0/0,04=1,8N (drejt q1). Rezultantja=1,8−0,9=0,9N drejt q1."},
-  {"id":"fizika-elektrostatika-082","question":"Sfera me masë 100g dhe me ngarkesë q1=0.5µC varet në një fije të hollë të pazgjatshme jopërcjellëse. Poshtë saj në largësinë 5cm vendoset një ngarkesë me shenjë të njëjtë q2=0.5µC. Tensioni i fijes ku është varur sfera është: (k=9·10⁹ Nm²/C², g=10 m/s²)","image":"/question-images/fizika/elektrostatika/elektrostatika-082.png","imageAlt":"Sferë e varur me fije, ngarkesa q2 e njëjtë poshtë saj në 5cm","answers":["0.1N","0.2N","0.3N","0.4N"],"correct":0,"explanation":"F respingimi=kq1q2/r²=0,9N (lart). T=mg−F=1−0,9=0,1N."},
-  {"id":"fizika-elektrostatika-083","question":"Sfera me masë 80g dhe me ngarkesë 4µC është e varur në një fije të hollë të pazgjatshme jopërcjellëse. Poshtë saj në largësinë 10cm është vendosur një ngarkesë -2µC. Tensioni i fijes ku është varur është: (k=9·10⁹ Nm²/C², g=10 m/s²)","image":"/question-images/fizika/elektrostatika/elektrostatika-083.png","imageAlt":"Sferë e varur me fije, ngarkesë e kundërt poshtë saj në 10cm","answers":["10N","8N","6N","4N"],"correct":1,"explanation":"Ngarkesat me shenja të kundërta tërhiqen: F=kq1q2/r²=7,2N (poshtë). T=mg+F=0,8+7,2=8N."},
-  {"id":"fizika-elektrostatika-084","question":"Elektroni me shpejtësi fillestare zero, lëviz brenda fushës elektrike të njëtrajtshme me intensitet E=1.5N/C. Shpejtësia e elektronit do të bëhet 4000km/s në largësinë: (me=9·10⁻³¹kg; qe=1.6·10⁻¹⁹C)","answers":["10m","20m","30m","40m"],"correct":2,"explanation":"a=eE/m≈2,67·10¹¹m/s². d=v²/(2a)=(4·10⁶)²/(2·2,67·10¹¹)≈30m."},
-  {"id":"fizika-elektrostatika-085","question":"Dy ngarkesa q1=3nC dhe q2=4nC ndodhen në kulmet e hipotenuzës së një trekëndëshi kënddrejtë me katete 30cm si në figurë. Fusha në kulmin e këndit të drejtë është: (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-085.png","imageAlt":"Trekëndësh kënddrejtë me katete 30cm, q1 dhe q2 në kulmet e hipotenuzës","answers":["300N/C","400N/C","500N/C","600N/C"],"correct":2,"explanation":"E1=9·10⁹·3·10⁻⁹/0,09=300N/C, E2=9·10⁹·4·10⁻⁹/0,09=400N/C, pingule njëra me tjetrën. Rezultantja=√(300²+400²)=500N/C."},
-  {"id":"fizika-elektrostatika-086","question":"Dy ngarkesa q1=3µC dhe q2=4µC janë vendosur në kulmet e hipotenuzës së një trekëndëshi kënddrejtë dybrinjënjëshëm si në figurë. Forca rezultante e ushtruar mbi ngarkesën q3=-1µC të vendosur në kulmin e këndit të drejtë është: (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-086.png","imageAlt":"Trekëndësh kënddrejtë me katete 30cm, q3 në kulmin e këndit të drejtë","answers":["0.3N","0.4N","0.5N","0.6N"],"correct":2,"explanation":"F1=kq1q3/0,09=0,3N, F2=kq2q3/0,09=0,4N, pingule njëra me tjetrën. Rezultantja=√(0,3²+0,4²)=0,5N."},
-  {"id":"fizika-elektrostatika-087","question":"Katër ngarkesa q1=q2=q3=20nC dhe q4=-20nC, janë vendosur në kulmet e katrorit me brinjë 20cm si në figurë. Intensiteti i fushës në pikën O do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-087.png","imageAlt":"Katror me brinjë 20cm, tri kulme +20nC dhe një kulm -20nC, O në qendër","answers":["18000N/C","20000N/C","36000N/C","40000N/C"],"correct":0,"explanation":"Fushat nga çifti diagonal me ngarkesa të barabarta (të dyja +q) anulohen; mbetet vetëm kontributi nga çifti (+q,−q) që mblidhet: E=2·kq/r²=18000N/C."},
-  {"id":"fizika-elektrostatika-088","question":"Elektroni me shpejtësi fillestare 0 lëviz në një fushë elektrike të njëtrajtshme dhe pasi zhvendoset me 2m, ka fituar shpejtësinë 8000km/s. Sa është intensiteti i fushës që i ka dhënë elektronit këtë shpejtësi? (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)","answers":["50V/m","70V/m","90V/m","110V/m"],"correct":2,"explanation":"a=v²/(2d)=6,4·10¹³/4=1,6·10¹³m/s². E=ma/e=9·10⁻³¹·1,6·10¹³/1,6·10⁻¹⁹=90V/m."},
-  {"id":"fizika-elektrostatika-089","question":"Dy ngarkesa 4q dhe q janë vendosur si në figurë. Në qoftë se në pikën P fusha është 0, atëherë raporti r1/r2 do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-089.png","imageAlt":"Ngarkesat 4q dhe q, pika P midis tyre në largësitë r1 dhe r2","answers":["4","¼","2","½"],"correct":2,"explanation":"k4q/r1²=kq/r2² → (r1/r2)²=4 → r1/r2=2."},
-  {"id":"fizika-elektrostatika-090","question":"Tre ngarkesa pozitive janë vendosur si në figurë. Forca rezultante e ushtruar mbi ngarkesën q2 është: (k=9·10⁹ Nm²/C²)","image":"/question-images/fizika/elektrostatika/elektrostatika-090.png","imageAlt":"Ngarkesat q1=4µC, q2=2µC, q3=2µC mbi një drejtëz, 20cm dhe 10cm","answers":["1.8N","2.4N","3.6N","5.4N"],"correct":0,"explanation":"F1(nga q1)=1,8N (drejt q3), F2(nga q3)=3,6N (drejt q1). Rezultantja=3,6−1,8=1,8N, drejt q1."},
-  {"id":"fizika-elektrostatika-091","question":"Elektroni lëviz me shpejtësi 2·10⁶m/s, në fushën e një kondensatori të rrafshët në drejtim të vijave të fushës. Largësia midis pllakave është 6.4cm. Sa është diferenca e potencialeve midis armaturave të kondensatorit, në qoftë se elektroni humbet të gjithë shpejtësinë pasi përshkon 4cm. (me=9·10⁻³¹ kg, qe=1.6·10⁻¹⁹ C)","answers":["9V","18V","27V","36V"],"correct":1,"explanation":"a=v²/(2·0,04)=5·10¹³m/s². E=ma/e≈281N/C. U(për 6,4cm e plotë)=E·0,064≈18V."},
-  {"id":"fizika-elektrostatika-092","question":"Tre kondensatorë janë lidhur si në figurë. Kapacitetet e tyre janë përkatësisht C1=4µF dhe C2=C3=2µF dhe diferenca e potencialeve është UAB=2V. Sa është ngarkesa e kondensatorit C2?","image":"/question-images/fizika/elektrostatika/elektrostatika-092.png","imageAlt":"C1 në seri me grupin paralel C2, C3, midis A dhe B","answers":["1µC","2µC","3µC","4µC"],"correct":1,"explanation":"C2 dhe C3 paralel=4µF, në seri me C1=4µF: Cₑq=2µF. Q_totale=2·2=4µC, që ndahet njësoj në C2 dhe C3: 2µC secili."},
-  {"id":"fizika-elektrostatika-093","question":"Tre kondensatorë janë lidhur si në figurë. Kapacitetet e tyre janë përkatësisht C1=C2=4µF dhe C3=2µF dhe diferenca e potencialeve është UAB=10V. Sa është ngarkesa e përgjithshme që jep bateria?","image":"/question-images/fizika/elektrostatika/elektrostatika-093.png","imageAlt":"C1 seri C2 në një degë, C3 në degën paralele, midis A dhe B","answers":["10µC","20µC","30µC","40µC"],"correct":3,"explanation":"C1 seri C2: (4·4)/8=2µF, në paralel me C3=2µF: Cₑq=4µF. Q=4·10=40µC."},
-  {"id":"fizika-elektrostatika-094","question":"Një grimcë e ngarkuar me masë 20g qëndron pezull në mesin e pllakave të një kondensatori si në figurë. Distanca midis dy pllakave është d=2mm dhe tensioni midis tyre është U=200V. Ngarkesa e grimcës që ajo të qëndrojë në ekuilibër është:","image":"/question-images/fizika/elektrostatika/elektrostatika-094.png","imageAlt":"Grimcë pezull midis pllakave horizontale të një kondensatori","answers":["2µC","3µC","4µC","5µC"],"correct":0,"explanation":"E=U/d=100000N/C. q=mg/E=0,02·10/100000=2·10⁻⁶C=2µC."},
-  {"id":"fizika-elektrostatika-095","question":"Një grimcë me masë 200g dhe me ngarkesë 4mC qëndron pezull midis pllakave të një kondensatori si në figurë. Nëse distanca midis pllakave është 2cm, atëherë tensioni midis pllakave do të jetë:","image":"/question-images/fizika/elektrostatika/elektrostatika-095.png","imageAlt":"Grimcë pezull midis pllakave horizontale të një kondensatori","answers":["40V","30V","20V","10V"],"correct":3,"explanation":"E=mg/q=0,2·10/4·10⁻³=500N/C. U=E·d=500·0,02=10V."},
-  {"id":"fizika-elektrostatika-096","question":"Një grimcë me ngarkesë q=4µC qëndron pezull midis pllakave të një kondensatori si në figurë. Largësia midis pllakave është d=2mm dhe tensioni midis tyre është 4V. Sa është masa e grimcës?","image":"/question-images/fizika/elektrostatika/elektrostatika-096.png","imageAlt":"Grimcë pezull midis pllakave horizontale të një kondensatori","answers":["0.4g","0.8g","1.2g","1.6g"],"correct":1,"explanation":"E=U/d=2000N/C. m=qE/g=4·10⁻⁶·2000/10=8·10⁻⁴kg=0,8g."},
-  {"id":"fizika-elektrostatika-097","question":"Dy sfera të njëjta me ngarkesa q1=2µC dhe q2= - 6µC ndodhen 10cm larg njëra-tjetrës. I takojmë me njëra-tjetrën dhe pastaj i largojmë përsëri në distancën 10cm nga njëra-tjetra. Forca e bashkëveprimit midis tyre pas takimit do të jetë:","answers":["1.8N","3.6N","5.4N","7.2N"],"correct":1,"explanation":"Pas takimit: (2−6)/2=−2µC secila. F=kq²/r²=9·10⁹·4·10⁻¹²/0,01=3,6N."},
-  {"id":"fizika-elektrostatika-098","question":"Grimca e ngarkuar me masë 64g qëndron pezull në një fushë të njëtrajtshme me intensitet E=200N/C. Numri i elektroneve të tepërta që ka kjo grimcë është: (qe=1.6·10⁻¹⁹C, g=10 m/s²)","answers":["2·10¹⁶ elektrone","3·10¹⁶ elektrone","4·10¹⁶ elektrone","5·10¹⁶ elektrone"],"correct":0,"explanation":"q=mg/E=0,064·10/200=3,2·10⁻³C. n=q/qe=3,2·10⁻³/1,6·10⁻¹⁹=2·10¹⁶."},
-  {"id":"fizika-elektrostatika-099","question":"Dy kondensatorë me kapacitete C1=3µF dhe C2=6µF janë lidhur si në figurë. Në qoftë se tensioni në skajet e baterisë është 12V, energjia e depozituar në kondensatorin e parë është:","image":"/question-images/fizika/elektrostatika/elektrostatika-099.png","imageAlt":"C1=3µF dhe C2=6µF në seri, bateri 12V","answers":["46µJ","76µJ","96µJ","106µJ"],"correct":2,"explanation":"Në seri Cₑq=3·6/9=2µF, Q=2·12=24µC (e njëjtë për të dy). Energjia C1: Q²/(2C1)=576/6=96µJ."},
-  {"id":"fizika-elektrostatika-100","question":"Tre kondensatorë me kapacitete C1=3µF, C2=4µF dhe C3=2µF janë lidhur si në figurë. Diferenca e potencialit midis skajeve të baterisë është 12V. Sa është ngarkesa e kondensatorit C1?","image":"/question-images/fizika/elektrostatika/elektrostatika-100.png","imageAlt":"C2 dhe C3 në degë paralele, C1 në seri drejt daljes b","answers":["12µC","24µC","26µC","30µC"],"correct":1,"explanation":"C2 dhe C3 (në degë paralele) japin 6µF, në seri me C1=3µF: Cₑq=2µF. Ngarkesa e degës në seri (dhe e C1) = 2·12=24µC."}
+  {
+    "id": "fizika-elektrostatika-001",
+    "question": "Dy ngarkesa elektrike në prehje, tërheqin njëra-tjetrën me një forcë F=10N. Nëse ngarkesa e secilit trup dyfishohet dhe distanca midis tyre nuk ndryshon, atëherë forca tërheqëse midis tyre do të jetë:",
+    "answers": [
+      "10N",
+      "20N",
+      "30N",
+      "40N"
+    ],
+    "correct": 3,
+    "explanation": "F=kq₁q₂/r². Të dyja ngarkesat dyfishohen, pra forca rritet 2·2=4 herë: 4·10=40N."
+  },
+  {
+    "id": "fizika-elektrostatika-002",
+    "question": "Një proton dhe një elektron ndodhen 0.5m larg njëri-tjetrit dhe bashkëveprojnë me forcën F. Sa do të bëhet forca e bashkëveprimit midis tyre, nëse ata largohen deri në largësinë 1m nga njëri-tjetri?",
+    "answers": [
+      "F/2",
+      "2F",
+      "F/4",
+      "4F"
+    ],
+    "correct": 2,
+    "explanation": "F∝1/r². Distanca dyfishohet, pra forca zvogëlohet 4 herë: F/4."
+  },
+  {
+    "id": "fizika-elektrostatika-003",
+    "question": "Si do të ndryshojë forca e bashkëveprimit elektrostatik midis dy ngarkesave, nëse distanca midis tyre zvogëlohet 3 herë dhe ngarkesat e tyre nuk ndryshojnë?",
+    "answers": [
+      "Zvogëlohet 3 herë.",
+      "Rritet 3 herë.",
+      "Zvogëlohet 9 herë.",
+      "Rritet 9 herë."
+    ],
+    "correct": 3,
+    "explanation": "F∝1/r². Distanca 3 herë më e vogël jep forcë 3²=9 herë më të madhe."
+  },
+  {
+    "id": "fizika-elektrostatika-004",
+    "question": "Dy ngarkesa elektrike bashkëveprojnë me njëra-tjetrën me forcën 20N. Sa do të bëhej forca e bashkëveprimit midis tyre, nëse ngarkesa e parë rritet dy herë dhe ngarkesa e dytë zvogëlohet 4 herë?",
+    "answers": [
+      "10N",
+      "20N",
+      "30N",
+      "40N"
+    ],
+    "correct": 0,
+    "explanation": "F'=F·2·(1/4)=20·0,5=10N."
+  },
+  {
+    "id": "fizika-elektrostatika-005",
+    "question": "Dy ngarkesa të njëjta që ndodhen në largësi 2m nga njëra-tjetra bashkëveprojnë me forcën 9·10⁻³N. Vlera e secilës prej tyre do të jetë (k=9·10⁹ Nm²/C²):",
+    "answers": [
+      "1µC",
+      "2µC",
+      "3µC",
+      "4µC"
+    ],
+    "correct": 1,
+    "explanation": "q²=Fr²/k=9·10⁻³·4/9·10⁹=4·10⁻¹², pra q=2·10⁻⁶C=2µC."
+  },
+  {
+    "id": "fizika-elektrostatika-006",
+    "question": "Tri sfera metalike K, L dhe M të izoluara dhe të fiksuara janë të ngarkuara si në figurë. Sfera L në fillim takon sferën K dhe më pas sferën M. Pas kësaj, sfera L kthehet përsëri në pozicionin fillestar. Ngarkesat e sferave K, L dhe M pas kësaj, respektivisht do të jenë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-006.png",
+    "imageAlt": "Tri sfera K (10nC), L (-2nC), M (0nC) mbi izolues",
+    "answers": [
+      "+4,0nC +4.0nC +4.0nC",
+      "+4.0nC +2.0nC +2.0nC",
+      "+6.0nC +3.0nC +3.0nC",
+      "+2.0nC +2.0nC +2.0nC"
+    ],
+    "correct": 1,
+    "explanation": "K+L: (10−2)/2=4nC secila. Pastaj L+M: (4+0)/2=2nC secila. Përfundimisht: K=4nC, L=2nC, M=2nC."
+  },
+  {
+    "id": "fizika-elektrostatika-007",
+    "question": "Nga sipërfaqja e një pike uji elektroasnjanëse shkëputet një elektron. Pastaj asaj i bashkohet një jon pozitiv me ngarkesë pozitive sa e elektronit. Ngarkesa përfundimtare e pikës së ujit do të jetë: (qe=1,6·10⁻¹⁹)",
+    "answers": [
+      "+3.2·10⁻¹⁹C",
+      "-3.2·10⁻¹⁹C",
+      "+1.6·10⁻¹⁹C",
+      "-1.6·10⁻¹⁹C"
+    ],
+    "correct": 0,
+    "explanation": "Humbja e një elektroni jep +qe, dhe marrja e një joni pozitiv sa qe shton edhe +qe: gjithsej +2qe=+3,2·10⁻¹⁹C."
+  },
+  {
+    "id": "fizika-elektrostatika-008",
+    "question": "Forca elektrike midis dy trupave të vegjël të ngarkuar secili me ngarkesë negative 100µC në distancë 3m është: (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "1N",
+      "10N",
+      "30N",
+      "300N"
+    ],
+    "correct": 1,
+    "explanation": "F=kq²/r²=9·10⁹·(100·10⁻⁶)²/9=9·10⁹·10⁻⁸/9=10N."
+  },
+  {
+    "id": "fizika-elektrostatika-009",
+    "question": "Dy ngarkesa q1=4µC dhe q2=2µC bashkëveprojnë me njëra-tjetrën me forcën 20N (k=9·10⁹ Nm²/C²). Distanca midis tyre është:",
+    "answers": [
+      "2cm",
+      "4cm",
+      "6cm",
+      "8cm"
+    ],
+    "correct": 2,
+    "explanation": "r²=kq1q2/F=9·10⁹·8·10⁻¹²/20=3,6·10⁻³, pra r≈0,06m=6cm."
+  },
+  {
+    "id": "fizika-elektrostatika-010",
+    "question": "Gjatë elektrizimit me fërkim, trupat shkëmbejnë:",
+    "answers": [
+      "protone",
+      "elektrone",
+      "neutrone",
+      "bërthama"
+    ],
+    "correct": 1,
+    "explanation": "Elektronet e shtresës së jashtme lëvizin lehtësisht midis trupave gjatë fërkimit, ndërsa protonet dhe bërthamat mbeten të pandryshuara."
+  },
+  {
+    "id": "fizika-elektrostatika-011",
+    "question": "Dy sfera metalike te njëjta A dhe B kanë përkatësisht ngarkesat -2C dhe -4C. Nëse të dy sferat takohen me njëra-tjetrën dhe pastaj largohen, ngarkesa e sferës A do të jetë:",
+    "answers": [
+      "-3C",
+      "-2C",
+      "0C",
+      "+4C"
+    ],
+    "correct": 0,
+    "explanation": "Për sfera identike ngarkesa ndahet në mënyrë të barabartë: (−2−4)/2=−3C secila."
+  },
+  {
+    "id": "fizika-elektrostatika-012",
+    "question": "Një sfere metalike të pangarkuar i jepen 100 elektrone. Pas kësaj ngarkesa e sferës bëhet: (qe=1.6·10⁻¹⁹ C)",
+    "answers": [
+      "1.6·10⁻²¹ C",
+      "3.2·10⁻¹⁹ C",
+      "-1.6·10⁻¹⁷ C",
+      "-3.2·10⁻¹⁷ C"
+    ],
+    "correct": 2,
+    "explanation": "q=100·(−1,6·10⁻¹⁹)=−1,6·10⁻¹⁷C."
+  },
+  {
+    "id": "fizika-elektrostatika-013",
+    "question": "Intensiteti i fushës elektrostatike që krijon ngarkesa q në largësi 2m është E. Sa do jetë intensiteti i fushës që krijohet në largësi 4m nga e njëjta ngarkesë?",
+    "answers": [
+      "2E",
+      "E/2",
+      "4E",
+      "E/4"
+    ],
+    "correct": 3,
+    "explanation": "E∝1/r². Largësia dyfishohet, pra fusha zvogëlohet 4 herë: E/4."
+  },
+  {
+    "id": "fizika-elektrostatika-014",
+    "question": "Në figurë tregohen dy ngarkesa elektrike pikësore. Nëse intensiteti i fushës së krijuar nga secila ngarkesë eshtë E, atëherë intensiteti i fushës elektrike në pikën A do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-014.png",
+    "imageAlt": "Ngarkesat -q dhe +q me pikën A mes tyre, secila në distancë d",
+    "answers": [
+      "2E",
+      "E/2",
+      "0",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "Fusha nga −q në A drejtohet drejt −q, dhe fusha nga +q drejtohet larg +q — të dyja në të njëjtin kah, prandaj mblidhen: E_total=2E."
+  },
+  {
+    "id": "fizika-elektrostatika-015",
+    "question": "Ngarkesa pikësore q krijon në një pikë A fushën 10N/C. Sa do të jetë fusha që krijon ngarkesa 2q në të njëjtën pikë?",
+    "answers": [
+      "10N/C",
+      "20N/C",
+      "30N/C",
+      "40N/C"
+    ],
+    "correct": 1,
+    "explanation": "E∝q. Dyfishimi i ngarkesës dyfishon fushën: 20N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-016",
+    "question": "Ngarkesa q=2µC krijon në një pikë A fushën elektrike me intensitet E=2·10⁵N/C (k=9·10⁹ Nm²/C²). Distanca e pikës A nga ngarkesa është:",
+    "answers": [
+      "10cm",
+      "20cm",
+      "30cm",
+      "40cm"
+    ],
+    "correct": 2,
+    "explanation": "r²=kq/E=9·10⁹·2·10⁻⁶/2·10⁵=0,09, pra r=0,3m=30cm."
+  },
+  {
+    "id": "fizika-elektrostatika-017",
+    "question": "Intensiteti i fushës elektrike në pikën A, që është mesi i largësisë midis dy ngarkesave, është:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-017.png",
+    "imageAlt": "Dy ngarkesa +q dhe +q me pikën A në mes tyre",
+    "answers": [
+      "2E",
+      "E/2",
+      "0",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "Dy ngarkesa të njëjta pozitive: fushat në pikën e mesme drejtohen në kahe të kundërta dhe kanë vlerë të barabartë, pra shuma vektoriale është zero."
+  },
+  {
+    "id": "fizika-elektrostatika-018",
+    "question": "Ngarkesa q krijon rreth saj fushën elektrike E. Çfarë do të ndodhë me fushën elektrike në qoftë se ngarkesën e fusim në një dielektrik me konstante dielektrike ε=2?",
+    "answers": [
+      "Rritet 2 herë",
+      "Zvogëlohet 2 herë",
+      "Zvogëlohet 4 herë",
+      "Ritet 4 herë"
+    ],
+    "correct": 1,
+    "explanation": "Në dielektrik E=E₀/ε, pra fusha zvogëlohet aq herë sa është konstantja dielektrike."
+  },
+  {
+    "id": "fizika-elektrostatika-019",
+    "question": "Cila nga figurat tregon saktë fushën elektrostatike?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-019.png",
+    "imageAlt": "Katër figura A, B, C, D me linja fushe rreth ngarkesave pozitive dhe negative",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": "fizika-elektrostatika-020",
+    "question": "Një elektron futet me shpejtësi v₀ në fushën e njëtrajtshme me intensitet E si në figurë. Lëvizja e elektronit do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-020.png",
+    "imageAlt": "Elektron që futet me shpejtësi v₀ paralel me vijat e fushës E",
+    "answers": [
+      "e përshpejtuar.",
+      "e ngadalësuar.",
+      "e njëtrajtshme.",
+      "Rrethore."
+    ],
+    "correct": 1,
+    "explanation": "Meqë elektroni ka ngarkesë negative, forca mbi të është e kundërt me drejtimin e E. Duke lëvizur në të njëjtin kah me E, elektroni ngadalësohet."
+  },
+  {
+    "id": "fizika-elektrostatika-021",
+    "question": "Ngarkesa elektrike 200C zhvendoset nga pika a në pikën b të një fushe elektrike me intensitet 400N/C. Puna e kryer nga forcat e fushës elektrike do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-021.png",
+    "imageAlt": "Fushë elektrike me pllaka horizontale, trekëndësh me katete 4cm dhe 3cm nga a në b",
+    "answers": [
+      "800J",
+      "1200J",
+      "2400J",
+      "3200J"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm zhvendosja përgjatë drejtimit të fushës (vertikale, 3cm) kontribuon në punë: W=qE·d=200·400·0,03=2400J."
+  },
+  {
+    "id": "fizika-elektrostatika-022",
+    "question": "Në një pikë të hapësirës mbivendosen dy fusha elektrike. Fusha rezultante do të varet nga:",
+    "answers": [
+      "vlera e dy fushave.",
+      "vlera dhe drejtimet e dy fushave.",
+      "vlera dhe kahu i dy fushave.",
+      "vlera, drejtimi dhe kahu i dy fushave."
+    ],
+    "correct": 3,
+    "explanation": "Mbivendosja vektoriale e fushave kërkon të dhëna të plota: vlerën, drejtimin dhe kahun e secilës."
+  },
+  {
+    "id": "fizika-elektrostatika-023",
+    "question": "Për të kuptuar nëse në një zonë të hapësirës ka një fushë elektrike, mjafton të vendosim një ngarkesë q dhe të shohim nëse mbi të ushtrohet forcë elektrike. Nga se varet vektori i fushës elektrike?",
+    "answers": [
+      "Nga vlera e q.",
+      "Nga shenja e q.",
+      "Nga vlera dhe nga shenja e q.",
+      "As nga vlera dhe as nga shenja e q."
+    ],
+    "correct": 3,
+    "explanation": "Vektori i fushës elektrike E=F/q është një veti e vetë hapësirës, e pavarur nga ngarkesa e provës që përdorim për ta zbuluar."
+  },
+  {
+    "id": "fizika-elektrostatika-024",
+    "question": "Një proton ndodhet në një fushë të njëtrajtshme me vlerë 5·10⁵N/C. Forca që ushtron fusha mbi protonin është: (qp=1.6·10⁻¹⁹C)",
+    "answers": [
+      "4·10⁻¹⁴N",
+      "8·10⁻¹⁴N",
+      "12·10⁻¹⁴N",
+      "16·10⁻¹⁴N"
+    ],
+    "correct": 1,
+    "explanation": "F=qE=1,6·10⁻¹⁹·5·10⁵=8·10⁻¹⁴N."
+  },
+  {
+    "id": "fizika-elektrostatika-025",
+    "question": "Një sferë metalike me diametër 12cm është e ngarkuar pozitivisht. Intensiteti i fushës në sipërfaqen e saj është 40 V/m. Sa është ngarkesa e saj? (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "12pC",
+      "14pC",
+      "16pC",
+      "18pC"
+    ],
+    "correct": 2,
+    "explanation": "r=0,06m. q=Er²/k=40·0,0036/9·10⁹=1,6·10⁻¹¹C=16pC."
+  },
+  {
+    "id": "fizika-elektrostatika-026",
+    "question": "Katër kondensatorë të njëjtë janë lidhur në seri. Nëse do të shkëpusim dy prej tyre, kapaciteti ekuivalent:",
+    "answers": [
+      "do të rritet 2 herë.",
+      "do të zvogëlohet 2 herë.",
+      "do të rritet 4 herë.",
+      "do të zvogëlohet 4 herë."
+    ],
+    "correct": 0,
+    "explanation": "Me katër në seri Cₑq=C/4; me dy të mbetur Cₑq=C/2 — kapaciteti u dyfishua."
+  },
+  {
+    "id": "fizika-elektrostatika-027",
+    "question": "Çfarë drejtimi ka intensiteti i fushës së krijuar në pikën C nga ngarkesat +q dhe -q të vendosura si në figurë?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-027.png",
+    "imageAlt": "Ngarkesat +q dhe -q në bazë të një trekëndëshi, pika C sipër, drejtime 1-4",
+    "answers": [
+      "Drejtimi 1",
+      "Drejtimi 2",
+      "Drejtimi 3",
+      "Drejtimi 4"
+    ],
+    "correct": 2,
+    "explanation": "Për shkak të simetrisë, përbërësit vertikalë të fushave nga +q dhe −q anulohen pjesërisht, ndërsa përbërësit horizontalë mblidhen, duke dhënë një fushë rezultante horizontale drejtuar nga +q drejt −q — drejtimi 3."
+  },
+  {
+    "id": "fizika-elektrostatika-028",
+    "question": "Në cilin rast mund të përdorim formulën a=qE/m për të llogaritur nxitimin e një grimce me masë m dhe ngarkesë q, në një fushë elektrike E?",
+    "answers": [
+      "Vetëm në fushën elektrike të kondensatorit.",
+      "Vetëm nëse grimca ka ngarkesë pozitive.",
+      "Vetëm nëse grimca ka ngarkesë negative.",
+      "Vetëm nëse fusha është e njëtrajtshme."
+    ],
+    "correct": 3,
+    "explanation": "Formula supozon forcë (dhe nxitim) konstante gjatë gjithë lëvizjes, çka vlen vetëm kur fusha elektrike është e njëtrajtshme."
+  },
+  {
+    "id": "fizika-elektrostatika-029",
+    "question": "Një proton zhvendoset nga prehja, nga pika A në B sipas vijave të fushës me intensitet 800N/C. Nëse largësia midis dy pikave është 5cm, atëherë diferenca e potencialit midis dy pikave është:",
+    "answers": [
+      "40V",
+      "80V",
+      "160V",
+      "200V"
+    ],
+    "correct": 0,
+    "explanation": "U=E·d=800·0,05=40V."
+  },
+  {
+    "id": "fizika-elektrostatika-030",
+    "question": "Ngarkesa elektrike 2C lëviz nga një pikë A e fushës në një pikë tjetër B me potencial 100V. Për zhvendosjen e ngarkesës nga pika A në pikën B u krye puna 400J. Potenciali në pikën A është:",
+    "answers": [
+      "100V",
+      "200V",
+      "300V",
+      "400V"
+    ],
+    "correct": 2,
+    "explanation": "W=q(V_A−V_B) → 400=2(V_A−100) → V_A=300V."
+  },
+  {
+    "id": "fizika-elektrostatika-031",
+    "question": "Largësia midis dy pllakave të një kondensatori të rrafshët është 2mm. Sa do të jetë intensiteti i fushës elektrike brenda pllakave kur tensioni ndërmjet tyre është 8V?",
+    "answers": [
+      "4000N/C",
+      "8000N/C",
+      "1600N/C",
+      "2400N/C"
+    ],
+    "correct": 0,
+    "explanation": "E=U/d=8/0,002=4000N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-032",
+    "question": "Intensiteti i fushës midis dy pllakave të një kondensatori është 2000N/C. Nëse distanca ndërmjet pllakave do të jetë 1mm, atëherë tensioni midis tyre do të jetë:",
+    "answers": [
+      "8V",
+      "4V",
+      "2V",
+      "1V"
+    ],
+    "correct": 2,
+    "explanation": "U=E·d=2000·0,001=2V."
+  },
+  {
+    "id": "fizika-elektrostatika-033",
+    "question": "Dy kondensatorë të rrafshët kanë të dhëna të njëjta, përveç se njëri prej tyre e ka sipërfaqen e pllakave dy herë më të vogël. Nëse kondensatori me sipërfaqe më të madhe e ka kapacitetin C, sa do të jetë kapaciteti i kondensatorit tjetër?",
+    "answers": [
+      "2C",
+      "C/2",
+      "4C",
+      "C/4"
+    ],
+    "correct": 1,
+    "explanation": "C∝S. Sipërfaqja dy herë më e vogël jep kapacitet dy herë më të vogël: C/2."
+  },
+  {
+    "id": "fizika-elektrostatika-034",
+    "question": "Një kondensator i rrafshët e ka kapacitetin C kur distanca ndërmjet pllakave është d. Sa do të bëhet kapaciteti i këtij kondensatori, nëse distanca midis pllakave do të bëhet 3d?",
+    "answers": [
+      "3C",
+      "C/3",
+      "6C",
+      "C/6"
+    ],
+    "correct": 1,
+    "explanation": "C∝1/d. Distanca 3 herë më e madhe jep kapacitet 3 herë më të vogël: C/3."
+  },
+  {
+    "id": "fizika-elektrostatika-035",
+    "question": "Një kondensator i rrafshët e ka kapacitetin C kur midis pllakave të tij ka ajër. Nëse midis pllakave të tij do të vendosnim një dielektrik me konstante dielektrike 2, atëherë kapaciteti i tij:",
+    "answers": [
+      "do të zvogëlohet 2 herë",
+      "do të rritet 2 herë",
+      "do të zvogëlohet 4 herë",
+      "Nuk ndryshon"
+    ],
+    "correct": 1,
+    "explanation": "C∝ε. Dielektriku me ε=2 e dyfishon kapacitetin."
+  },
+  {
+    "id": "fizika-elektrostatika-036",
+    "question": "Janë dhënë dy kondensatorë të lidhur si në figurë. Secili prej tyre e ka kapacitetin C=4µF. Kapaciteti ekuivalent i sistemit do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-036.png",
+    "imageAlt": "Dy kondensatorë C1 dhe C2 të lidhur në seri në një qark",
+    "answers": [
+      "8µF",
+      "6µF",
+      "4µF",
+      "2µF"
+    ],
+    "correct": 3,
+    "explanation": "Lidhje në seri: 1/Cₑq=1/4+1/4=1/2, pra Cₑq=2µF."
+  },
+  {
+    "id": "fizika-elektrostatika-037",
+    "question": "Janë dhënë dy kondensatorë të lidhur si në figurë. Secili prej tyre e ka kapacitetin C=2µF. Kapaciteti ekuivalent i sistemit do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-037.png",
+    "imageAlt": "Dy kondensatorë C1 dhe C2 të lidhur në paralel",
+    "answers": [
+      "1µF",
+      "2µF",
+      "3µF",
+      "4µF"
+    ],
+    "correct": 3,
+    "explanation": "Lidhje në paralel: Cₑq=C1+C2=2+2=4µF."
+  },
+  {
+    "id": "fizika-elektrostatika-038",
+    "question": "Kapaciteti i një kondensatori është 40pF dhe ngarkesa e tij është 40nC. Tensioni i zbatuar ndërmjet armaturave të këtij kondensatori është:",
+    "answers": [
+      "1000V",
+      "1600V",
+      "4000V",
+      "8000V"
+    ],
+    "correct": 0,
+    "explanation": "U=Q/C=40·10⁻⁹/40·10⁻¹²=1000V."
+  },
+  {
+    "id": "fizika-elektrostatika-039",
+    "question": "Kapaciteti i një kondensatori të rrafshët është 2pF dhe tensioni ndërmjet armaturave të tij është 2000V. Sa është ngarkesa e kondensatorit?",
+    "answers": [
+      "1nC",
+      "2nC",
+      "3nC",
+      "4nC"
+    ],
+    "correct": 3,
+    "explanation": "Q=CU=2·10⁻¹²·2000=4·10⁻⁹C=4nC."
+  },
+  {
+    "id": "fizika-elektrostatika-040",
+    "question": "Në pllakat e një kondensatori zbatohet tensioni 10⁴V dhe intensiteti i fushës midis pllakave 2·10⁶V/m. Sa është distanca midis dy pllakave?",
+    "answers": [
+      "5mm",
+      "10mm",
+      "15mm",
+      "20mm"
+    ],
+    "correct": 0,
+    "explanation": "d=U/E=10⁴/2·10⁶=5·10⁻³m=5mm."
+  },
+  {
+    "id": "fizika-elektrostatika-041",
+    "question": "Si ndryshon forca e bashkëveprimit midis dy ngarkesave, nëse secila prej tyre ritet 2 herë dhe distanca midis tyre zvogëlohet 2 herë?",
+    "answers": [
+      "8F",
+      "16F",
+      "F/8",
+      "F/16"
+    ],
+    "correct": 1,
+    "explanation": "F'=F·2·2·(2²)=F·4·4=16F."
+  },
+  {
+    "id": "fizika-elektrostatika-042",
+    "question": "Dy ngarkesa q1=2µC dhe q2=4µC janë vendosur 20cm larg njëra-tjetrës. Sa është forca me të cilën ato bashkëveprojnë? (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "0.9N",
+      "1.6N",
+      "1.8N",
+      "2N"
+    ],
+    "correct": 2,
+    "explanation": "F=kq1q2/r²=9·10⁹·8·10⁻¹²/0,04=1,8N."
+  },
+  {
+    "id": "fizika-elektrostatika-043",
+    "question": "Sa do të jetë ngarkesa q2 e vendosur 30cm larg ngarkesës q1=2µC, në mënyrë që të bashkëveprojnë me forcën 2N? (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "10⁻⁵C",
+      "2·10⁻⁵C",
+      "2·10⁻⁶C",
+      "10⁻⁶C"
+    ],
+    "correct": 0,
+    "explanation": "q2=Fr²/(kq1)=2·0,09/(9·10⁹·2·10⁻⁶)=10⁻⁵C."
+  },
+  {
+    "id": "fizika-elektrostatika-044",
+    "question": "Puna që kryhet për zhvendosjen e ngarkesës q=2C nga pika A me potencial VA=20V, në pikën B me potencial VB=100V është:",
+    "answers": [
+      "0J",
+      "40J",
+      "120J",
+      "160J"
+    ],
+    "correct": 3,
+    "explanation": "W=q(VA−VB)=2·(20−100)=−160J, në vlerë absolute 160J e kryer nga forca e jashtme."
+  },
+  {
+    "id": "fizika-elektrostatika-045",
+    "question": "Ngarkesat q1=q2=4µC bashkëveprojnë me njëra-tjetrën me forcën 40N. Distanca midis tyre është: (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "3cm",
+      "4cm",
+      "5cm",
+      "6cm"
+    ],
+    "correct": 3,
+    "explanation": "r²=kq²/F=9·10⁹·16·10⁻¹²/40=3,6·10⁻³, pra r=0,06m=6cm."
+  },
+  {
+    "id": "fizika-elektrostatika-046",
+    "question": "Fusha që krijon sfera me ngarkesë 4nC në pikën që ndodhet në largësinë 30cm nga qendra e saj, është: (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "200N/C",
+      "400N/C",
+      "600N/C",
+      "800N/C"
+    ],
+    "correct": 1,
+    "explanation": "E=kq/r²=9·10⁹·4·10⁻⁹/0,09=400N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-047",
+    "question": "Ngarkesa q=4nC krijon në pikën A fushën me intensitet 400N/C. Sa është largësia e pikës A nga ngarkesa? (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "10cm",
+      "20cm",
+      "30cm",
+      "40cm"
+    ],
+    "correct": 2,
+    "explanation": "r²=kq/E=9·10⁹·4·10⁻⁹/400=0,09, pra r=0,3m=30cm."
+  },
+  {
+    "id": "fizika-elektrostatika-048",
+    "question": "Sa është ngarkesa q e cila në largësinë 20cm ka krijuar fushën elektrike me vlerë 900N/C? (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "2nC",
+      "4nC",
+      "6nC",
+      "8nC"
+    ],
+    "correct": 1,
+    "explanation": "q=Er²/k=900·0,04/9·10⁹=4·10⁻⁹C=4nC."
+  },
+  {
+    "id": "fizika-elektrostatika-049",
+    "question": "Tre kondensatorë janë lidhur si në figurë me një bateri me diferencë potenciali 5V. Nëse kapaciteti i kondensatorëve është C1=4µF dhe C2=C3=2µF, ngarkesa e përgjithshme që jep bateria është:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-049.png",
+    "imageAlt": "Tre kondensatorë C1, C2, C3 të lidhur në paralel me baterinë 5V",
+    "answers": [
+      "20µC",
+      "40µC",
+      "60µC",
+      "80µC"
+    ],
+    "correct": 1,
+    "explanation": "Të tre në paralel: Cₑq=4+2+2=8µF. Q=Cₑq·U=8·5=40µC."
+  },
+  {
+    "id": "fizika-elektrostatika-050",
+    "question": "Ngarkesa elektrike 2C lëviz në një fushë elektrike nga një pikë A në një pikë tjetër B me potencial 150V. Për zhvendosjen e ngarkesës nga pika A në pikën B, u krye puna 900J. Potenciali në pikën A është:",
+    "answers": [
+      "400V",
+      "600V",
+      "800V",
+      "1000V"
+    ],
+    "correct": 1,
+    "explanation": "V_A=V_B+W/q=150+900/2=600V."
+  },
+  {
+    "id": "fizika-elektrostatika-051",
+    "question": "Puna që kryen fusha për të zhvendosur ngarkesën -8µC nga Toka në një pikë ku potenciali është 50V është:",
+    "answers": [
+      "2·10⁻⁴J",
+      "3·10⁻⁴J",
+      "4·10⁻⁴J",
+      "5·10⁻⁴J"
+    ],
+    "correct": 2,
+    "explanation": "W=|q|·V=8·10⁻⁶·50=4·10⁻⁴J."
+  },
+  {
+    "id": "fizika-elektrostatika-052",
+    "question": "Brinja e armaturave katrore të një kondensatori të rrafshët është 2cm dhe distanca ndërmjet tyre është 0.2mm. Kapaciteti i kondensatorit nëse midis pllakave ka ajër, do të jetë: (ε₀=8.85·10⁻¹²C²/Nm²)",
+    "answers": [
+      "8.85µF",
+      "8.85pF",
+      "17.7pF",
+      "17.7µF"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": "fizika-elektrostatika-053",
+    "question": "Ngarkesa e një kondensatori është 4µC dhe tensioni ndërmjet armaturave 3000V. Energjia e kondensatorit është:",
+    "answers": [
+      "6·10⁻³J",
+      "12·10⁻³J",
+      "8·10⁻³J",
+      "9·10⁻³J"
+    ],
+    "correct": 0,
+    "explanation": "W=0,5QU=0,5·4·10⁻⁶·3000=6·10⁻³J."
+  },
+  {
+    "id": "fizika-elektrostatika-054",
+    "question": "Kapaciteti i një kondensatori me sipërfaqe 5cm² është 17.7pF. Në qoftë se midis pllakave ka një dielektrik me ε=2, distanca midis pllakave është: (ε₀=8.85·10⁻¹²C²/Nm²)",
+    "answers": [
+      "0.3mm",
+      "0.4mm",
+      "0.5mm",
+      "0.6mm"
+    ],
+    "correct": 2,
+    "explanation": "d=ε₀εA/C=8,85·10⁻¹²·2·5·10⁻⁴/17,7·10⁻¹²=5·10⁻⁴m=0,5mm."
+  },
+  {
+    "id": "fizika-elektrostatika-055",
+    "question": "Energjia elektrike e një kondensatori të rrafshët është 4mJ. Diferenca e potencialit ndërmjet armaturave të tij është 8000V. Ngarkesa e tij është:",
+    "answers": [
+      "1µC",
+      "2µC",
+      "3µC",
+      "4µC"
+    ],
+    "correct": 0,
+    "explanation": "Q=2W/U=2·4·10⁻³/8000=1·10⁻⁶C=1µC."
+  },
+  {
+    "id": "fizika-elektrostatika-056",
+    "question": "Tre kondensatorë janë lidhur si në figurë. Në qoftë se kapaciteti i kondensatorëve është C1=4µF, C2=2µF dhe C3=2µF, atëherë kapaciteti ekuivalent do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-056.png",
+    "imageAlt": "C1 në seri me grupin paralel C2,C3",
+    "answers": [
+      "4µF",
+      "3µF",
+      "2µF",
+      "1µF"
+    ],
+    "correct": 2,
+    "explanation": "C2 dhe C3 në paralel: 2+2=4µF. Kjo në seri me C1=4µF: (4·4)/8=2µF."
+  },
+  {
+    "id": "fizika-elektrostatika-057",
+    "question": "Tre kondensatorë janë lidhur si në figurë. Në qoftë se kapaciteti i kondensatorëve është C1=10µF, C2=10µF dhe C3=5µF atëherë kapaciteti ekuivalent do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-057.png",
+    "imageAlt": "C1 seri C2 në paralel me C3",
+    "answers": [
+      "10µF",
+      "15µF",
+      "20µF",
+      "25µF"
+    ],
+    "correct": 0,
+    "explanation": "C1 seri C2: (10·10)/20=5µF. Në paralel me C3=5µF: 5+5=10µF."
+  },
+  {
+    "id": "fizika-elektrostatika-058",
+    "question": "Katër kondensatorë janë të lidhur në një qark si në figurë. Në qoftë se diferenca e potencialeve midis pikave A dhe B është 15V, ngarkesa e kondensatorëve do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-058.png",
+    "imageAlt": "Katër kondensatorë 3, 6, 12, 24µF në seri midis A dhe B",
+    "answers": [
+      "12µC",
+      "18µC",
+      "24µC",
+      "30µC"
+    ],
+    "correct": 2,
+    "explanation": "1/Cₑq=1/3+1/6+1/12+1/24=15/24, Cₑq=1,6µF. Në seri ngarkesa është e njëjtë kudo: Q=1,6·15=24µC."
+  },
+  {
+    "id": "fizika-elektrostatika-059",
+    "question": "Një kondensator ajror me kapacitet 6F ngarkohet me ngarkesë 60C dhe më pas shkëputet nga burimi. Energjia e kondensatorit do të jetë:",
+    "answers": [
+      "300J",
+      "600J",
+      "2160J",
+      "21600J"
+    ],
+    "correct": 0,
+    "explanation": "W=Q²/(2C)=60²/(2·6)=300J."
+  },
+  {
+    "id": "fizika-elektrostatika-060",
+    "question": "Sa herë ndryshon forca e bashkëveprimit midis dy ngarkesave pikësore, nëse largësia midis tyre rritet 2 herë dhe përshkueshmëria dielektrike e mjedisit ku ndodhen, zvogëlohet 2 herë?",
+    "answers": [
+      "Rritet 2 herë.",
+      "Zvogëlohet 2 herë.",
+      "Rritet 4 herë.",
+      "Zvogëlohet 4 herë."
+    ],
+    "correct": 1,
+    "explanation": "F∝1/(εr²). Distanca dyfishohet (F/4) dhe ε përgjysmohet (F·2): gjithsej F/4·2=F/2, pra zvogëlohet 2 herë."
+  },
+  {
+    "id": "fizika-elektrostatika-061",
+    "question": "Puna për zhvendosjen me d=4mm të ngarkesës q në fushën e njëtrajtshme me intensitet 250N/C është 2·10⁻³J. Vlera e ngarkesës është:",
+    "answers": [
+      "2·10⁻³C",
+      "3·10⁻³C",
+      "4·10⁻³C",
+      "5·10⁻³C"
+    ],
+    "correct": 0,
+    "explanation": "q=W/(Ed)=2·10⁻³/(250·0,004)=2·10⁻³C."
+  },
+  {
+    "id": "fizika-elektrostatika-062",
+    "question": "Dy ngarkesa q1=4nC dhe q2=6nC janë vendosur 20cm larg njëra-tjetrës. Fusha elektrike në mesin e largësisë midis tyre është: (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "900N/C",
+      "1800N/C",
+      "2100N/C",
+      "2700N/C"
+    ],
+    "correct": 1,
+    "explanation": "Distanca deri te mesi=0,1m. E1=9·10⁹·4·10⁻⁹/0,01=3600N/C, E2=9·10⁹·6·10⁻⁹/0,01=5400N/C, në kahe të kundërta: E=5400−3600=1800N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-063",
+    "question": "Ngarkesat q1= -50nC dhe q2= 50nC janë vendosur si në figurë. Intensiteti i fushës në pikën A, që është mesi hipotenuzës është: (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-063.png",
+    "imageAlt": "Trekëndësh kënddrejtë me katete 3m dhe 4m, q1 negative dhe q2 pozitive në hipotenuzë",
+    "answers": [
+      "144N/C",
+      "0N/C",
+      "72N/C",
+      "50N/C"
+    ],
+    "correct": 0,
+    "explanation": "Hipotenuza=5m, distanca nga A te secila ngarkesë=2,5m. Fushat nga −q1 dhe +q2 kanë të njëjtin kah (drejt −q1) dhe mblidhen: E=2·(9·10⁹·50·10⁻⁹/2,5²)=144N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-064",
+    "question": "Dy ngarkesa q1=2nC dhe q2=-2nC janë 20cm larg njëra tjetrës. Fusha në mesin e largësisë midis tyre është: (k=9·10⁹ Nm²/C²)",
+    "answers": [
+      "3600N/C",
+      "2400N/C",
+      "1800N/C",
+      "0N/C"
+    ],
+    "correct": 0,
+    "explanation": "Ngarkesa me shenja të kundërta: fushat mblidhen në mes. E=2·(9·10⁹·2·10⁻⁹/0,01)=3600N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-065",
+    "question": "Një elektron ndodhet në pllakën negative të një kondensatori të rrafshët me intensitet të fushës elektrike 900N/C. Largësia midis pllakave është 2mm. Nëse midis pllakave të kondensatorit ka ajër, shpejtësia me të cilën elektroni prek pllakën pozitive është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "64·10¹⁰m/s",
+      "8·10¹⁰m/s",
+      "64·10⁵m/s",
+      "8·10⁵m/s"
+    ],
+    "correct": 3,
+    "explanation": "a=eE/m=1,6·10⁻¹⁹·900/9·10⁻³¹≈1,6·10¹⁴m/s². v=√(2ad)=√(2·1,6·10¹⁴·0,002)≈8·10⁵m/s."
+  },
+  {
+    "id": "fizika-elektrostatika-066",
+    "question": "Një grimcë me masë m=2.5·10⁻¹⁰kg dhe ngarkesë q=10⁻⁸C ndodhet në një fushë të njëtrajtshme me intensitet 5000N/m. Nxitimi që fusha do t'i japë grimcës është:",
+    "answers": [
+      "1·10⁵m/s²",
+      "2·10⁵m/s²",
+      "3·10⁵m/s²",
+      "4·10⁵m/s²"
+    ],
+    "correct": 1,
+    "explanation": "a=qE/m=10⁻⁸·5000/2,5·10⁻¹⁰=2·10⁵m/s²."
+  },
+  {
+    "id": "fizika-elektrostatika-067",
+    "question": "Grimca me masë 4·10⁻²⁴ kg dhe ngarkesë 3,2·10⁻¹⁹C lëviz me nxitim a=2·10⁶m/s². Fusha që i jep grimcës këtë nxitim është:",
+    "answers": [
+      "20N/C",
+      "25N/C",
+      "30N/C",
+      "35N/C"
+    ],
+    "correct": 1,
+    "explanation": "E=ma/q=4·10⁻²⁴·2·10⁶/3,2·10⁻¹⁹=25N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-068",
+    "question": "Elektroni niset nga prehja në një fushë elektrike të njëtrajtshme dhe pas 10⁻⁶ sekondash arrin shpejtësinë 3.2·10⁶m/s. Vlera e intensitetit të fushës elektrike është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "6N/C",
+      "9N/C",
+      "18N/C",
+      "24N/C"
+    ],
+    "correct": 2,
+    "explanation": "a=v/t=3,2·10⁶/10⁻⁶=3,2·10¹²m/s². E=ma/e=9·10⁻³¹·3,2·10¹²/1,6·10⁻¹⁹=18N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-069",
+    "question": "Dy ngarkesa q1 dhe q2 janë në largësinë L si në figurë. Në pikën A që ndodhet në largësinë L/3 nga q1, fusha është 0. Raporti q1/q2 është:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-069.png",
+    "imageAlt": "Ngarkesat q1 dhe q2 me pikën A në largësinë L/3 nga q1",
+    "answers": [
+      "4",
+      "¼",
+      "2",
+      "½"
+    ],
+    "correct": 1,
+    "explanation": "kq1/(L/3)²=kq2/(2L/3)² → q1/q2=(1/3)²/(2/3)²=1/4."
+  },
+  {
+    "id": "fizika-elektrostatika-070",
+    "question": "Një elektron përshpejtohet nga prehja në një fushë homogjene me madhësi 9·10²N/C. Sa do të jetë shpejtësia e elektronit pas 10⁻⁸s? (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "1·10⁶m/s",
+      "1.2·10⁶m/s",
+      "1.6·10⁶m/s",
+      "2.4·10⁶m/s"
+    ],
+    "correct": 2,
+    "explanation": "a=eE/m=1,6·10⁻¹⁹·900/9·10⁻³¹≈1,6·10¹⁴m/s². v=at=1,6·10¹⁴·10⁻⁸=1,6·10⁶m/s."
+  },
+  {
+    "id": "fizika-elektrostatika-071",
+    "question": "Një proton qëndron pezull në prehje në një fushë elektrike me intensitet E. Nëse masa e protonit është 1.6·10⁻²⁷ kg, intensiteti fushës është: (qp=1.6·10⁻¹⁹C, g=10 m/s²)",
+    "answers": [
+      "10⁻⁷N/C",
+      "2·10⁻⁷N/C",
+      "10⁻⁵N/C",
+      "2·10⁻⁵N/C"
+    ],
+    "correct": 0,
+    "explanation": "qE=mg → E=mg/q=1,6·10⁻²⁷·10/1,6·10⁻¹⁹=10⁻⁷N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-072",
+    "question": "Një elektron përshpejtohet nga prehja në një fushë elektrike ndërmjet dy pikave të saj me potenciale 55V dhe 10V. Shpejtësia që ka fituar elektroni gjatë këtij përshpejtimi është: (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "2·10⁶m/s",
+      "4·10⁶m/s",
+      "6·10⁶m/s",
+      "8·10⁶m/s"
+    ],
+    "correct": 1,
+    "explanation": "ΔV=45V. eΔV=0,5mv² → v=√(2eΔV/m)=√(2·1,6·10⁻¹⁹·45/9·10⁻³¹)≈4·10⁶m/s."
+  },
+  {
+    "id": "fizika-elektrostatika-073",
+    "question": "Dy ngarkesa q1= 4nC dhe q2= 9nC ndodhen 20cm larg njëra-tjetrës. Në cilën pikë të segmentit q1q2 duhet vendosur ngarkesa q0=2nC, që ajo të qëndrojë në ekuilibër?",
+    "answers": [
+      "Në mesin e largësisë midis dy ngarkesave",
+      "8cm larg q1",
+      "8cm larg q2",
+      "12cm larg q1"
+    ],
+    "correct": 1,
+    "explanation": "Ekuilibri kërkon √q1/√q2=d1/d2 → 2/3=d1/d2. Duke zgjidhur me d1+d2=20cm del d1=8cm nga q1."
+  },
+  {
+    "id": "fizika-elektrostatika-074",
+    "question": "Tensioni midis pllakave të një kondensatori me kapacitet C=4µF është 200V. Energjia e kondensatorit është:",
+    "answers": [
+      "2·10⁻²J",
+      "4·10⁻²J",
+      "6·10⁻²J",
+      "8·10⁻²J"
+    ],
+    "correct": 3,
+    "explanation": "W=0,5CU²=0,5·4·10⁻⁶·200²=8·10⁻²J."
+  },
+  {
+    "id": "fizika-elektrostatika-075",
+    "question": "Një grimcë pluhuri me ngarkesë negative dhe masë 10⁻¹¹g ndodhet në ekuilibër ndërmjet dy pllakave horizontale paralele të ngarkuara në diferencë potenciali 100V. Largësia ndërmjet pllakave është 6.4mm. Sa elektrone përmban grimca e pluhurit? (g=10m/s², qe=1.6·10⁻¹⁹ C)",
+    "answers": [
+      "20 elektrone",
+      "30 elektrone",
+      "40 elektrone",
+      "50 elektrone"
+    ],
+    "correct": 2,
+    "explanation": "E=U/d≈15625N/C. q=mg/E=10⁻¹⁴·10/15625≈6,4·10⁻¹⁸C. n=q/qe≈40 elektrone."
+  },
+  {
+    "id": "fizika-elektrostatika-076",
+    "question": "Elektroni ndodhet në pllakën negative të një kondensatori të rrafshët si në figurë. Largësia midis pllakave është 2cm dhe diferenca e potencialit ndërmjet pllakave është 900V. (me=9·10⁻³¹ kg, qe=1.6·10⁻¹⁹ C) Sa është nxitimi që fiton elektroni nën veprimin e fushës elektrike?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-076.png",
+    "imageAlt": "Kondensator i rrafshët me elektron pranë pllakës negative",
+    "answers": [
+      "4·10¹⁵m/s²",
+      "6·10¹⁵m/s²",
+      "8·10¹⁵m/s²",
+      "9·10¹⁵m/s²"
+    ],
+    "correct": 2,
+    "explanation": "E=U/d=45000N/C. a=eE/m=1,6·10⁻¹⁹·45000/9·10⁻³¹=8·10¹⁵m/s²."
+  },
+  {
+    "id": "fizika-elektrostatika-077",
+    "question": "Katër kondensatorë janë lidhur si në figurë. Secili kondensator e ka kapacitetin 20µF. Nëse diferenca e potencialit në skajet ab është 10V, atëherë ngarkesa e plotë e marrë nga burimi do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-077.png",
+    "imageAlt": "Katër kondensatorë 20µF të lidhur në qark bashkues nga a te b",
+    "answers": [
+      "200µC",
+      "300µC",
+      "400µC",
+      "600µC"
+    ],
+    "correct": 0,
+    "explanation": "Duke i grupuar kondensatorët si dy palë paralele (20+20=40µF secila), lidhur në seri: Cₑq=40·40/80=20µF. Q=20·10=200µC."
+  },
+  {
+    "id": "fizika-elektrostatika-078",
+    "question": "Elektroni ndodhet në pllakën negative të një kondensatori të rrafshët dhe lëviz drejt pllakës pozitive me nxitim 1.6·10¹⁶ m/s². Largësia midis pllakave është 2cm. Sa ka qenë tensioni midis pllakave të kondensatorit? (me=9·10⁻³¹kg,qe=1,6·10⁻¹⁹C)",
+    "answers": [
+      "900V",
+      "1800V",
+      "2700V",
+      "3600V"
+    ],
+    "correct": 1,
+    "explanation": "E=ma/e=9·10⁻³¹·1,6·10¹⁶/1,6·10⁻¹⁹=90000N/C. U=E·d=90000·0,02=1800V."
+  },
+  {
+    "id": "fizika-elektrostatika-079",
+    "question": "Ngarkesa q1= -50nC dhe q2= 50nC janë vendosur si në figurë. Forca e bashkëveprimit midis tyre është (k=9·10⁹ Nm²/C²):",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-079.png",
+    "imageAlt": "Trekëndësh kënddrejtë me katete 3m dhe 4m, q1 dhe q2 në hipotenuzë",
+    "answers": [
+      "3·10⁻⁷N",
+      "6·10⁻⁷N",
+      "9·10⁻⁷N",
+      "12·10⁻⁷N"
+    ],
+    "correct": 2,
+    "explanation": "Distanca=hipotenuza=5m. F=k|q1q2|/r²=9·10⁹·50·10⁻⁹·50·10⁻⁹/25=9·10⁻⁷N."
+  },
+  {
+    "id": "fizika-elektrostatika-080",
+    "question": "Tre ngarkesa q1=q2=q3=2.5µC dhe janë vendosur në kulmet e një drejtkëndëshi si në figurë. Sa do të jetë vlera e intensitetit në qendrën e drejtkëndëshit, në qoftë se a=4m dhe b=3m? (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-080.png",
+    "imageAlt": "Drejtkëndësh me a=4m, b=3m, tri kulme me +q dhe një kulm bosh",
+    "answers": [
+      "3000V/m",
+      "3600V/m",
+      "6000V/m",
+      "7200V/m"
+    ],
+    "correct": 1,
+    "explanation": "Tre ngarkesa të barabarta plus kulmi i mungueshëm ekuivalentojnë me një −q në atë kulm. Gjysmëdiagonalja=2,5m. E=kq/r²=9·10⁹·2,5·10⁻⁶/6,25=3600V/m."
+  },
+  {
+    "id": "fizika-elektrostatika-081",
+    "question": "Dy ngarkesa q1= 4µC dhe q2=8μC ndodhen 40cm larg njëra-tjetrës. Forca që vepron mbi ngarkesën q0=1µC të vendosur në mesin e largësisë, është: (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-081.png",
+    "imageAlt": "Ngarkesat q1, q0, q2 mbi një drejtëz, q0 në mes",
+    "answers": [
+      "2.7N",
+      "1.8N",
+      "0,9N",
+      "0N"
+    ],
+    "correct": 2,
+    "explanation": "F1=kq1q0/0,04=0,9N (drejt q2), F2=kq2q0/0,04=1,8N (drejt q1). Rezultantja=1,8−0,9=0,9N drejt q1."
+  },
+  {
+    "id": "fizika-elektrostatika-082",
+    "question": "Sfera me masë 100g dhe me ngarkesë q1=0.5µC varet në një fije të hollë të pazgjatshme jopërcjellëse. Poshtë saj në largësinë 5cm vendoset një ngarkesë me shenjë të njëjtë q2=0.5µC. Tensioni i fijes ku është varur sfera është: (k=9·10⁹ Nm²/C², g=10 m/s²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-082.png",
+    "imageAlt": "Sferë e varur me fije, ngarkesa q2 e njëjtë poshtë saj në 5cm",
+    "answers": [
+      "0.1N",
+      "0.2N",
+      "0.3N",
+      "0.4N"
+    ],
+    "correct": 0,
+    "explanation": "F respingimi=kq1q2/r²=0,9N (lart). T=mg−F=1−0,9=0,1N."
+  },
+  {
+    "id": "fizika-elektrostatika-083",
+    "question": "Sfera me masë 80g dhe me ngarkesë 4µC është e varur në një fije të hollë të pazgjatshme jopërcjellëse. Poshtë saj në largësinë 10cm është vendosur një ngarkesë -2µC. Tensioni i fijes ku është varur është: (k=9·10⁹ Nm²/C², g=10 m/s²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-083.png",
+    "imageAlt": "Sferë e varur me fije, ngarkesë e kundërt poshtë saj në 10cm",
+    "answers": [
+      "10N",
+      "8N",
+      "6N",
+      "4N"
+    ],
+    "correct": 1,
+    "explanation": "Ngarkesat me shenja të kundërta tërhiqen: F=kq1q2/r²=7,2N (poshtë). T=mg+F=0,8+7,2=8N."
+  },
+  {
+    "id": "fizika-elektrostatika-084",
+    "question": "Elektroni me shpejtësi fillestare zero, lëviz brenda fushës elektrike të njëtrajtshme me intensitet E=1.5N/C. Shpejtësia e elektronit do të bëhet 4000km/s në largësinë: (me=9·10⁻³¹kg; qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "10m",
+      "20m",
+      "30m",
+      "40m"
+    ],
+    "correct": 2,
+    "explanation": "a=eE/m≈2,67·10¹¹m/s². d=v²/(2a)=(4·10⁶)²/(2·2,67·10¹¹)≈30m."
+  },
+  {
+    "id": "fizika-elektrostatika-085",
+    "question": "Dy ngarkesa q1=3nC dhe q2=4nC ndodhen në kulmet e hipotenuzës së një trekëndëshi kënddrejtë me katete 30cm si në figurë. Fusha në kulmin e këndit të drejtë është: (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-085.png",
+    "imageAlt": "Trekëndësh kënddrejtë me katete 30cm, q1 dhe q2 në kulmet e hipotenuzës",
+    "answers": [
+      "300N/C",
+      "400N/C",
+      "500N/C",
+      "600N/C"
+    ],
+    "correct": 2,
+    "explanation": "E1=9·10⁹·3·10⁻⁹/0,09=300N/C, E2=9·10⁹·4·10⁻⁹/0,09=400N/C, pingule njëra me tjetrën. Rezultantja=√(300²+400²)=500N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-086",
+    "question": "Dy ngarkesa q1=3µC dhe q2=4µC janë vendosur në kulmet e hipotenuzës së një trekëndëshi kënddrejtë dybrinjënjëshëm si në figurë. Forca rezultante e ushtruar mbi ngarkesën q3=-1µC të vendosur në kulmin e këndit të drejtë është: (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-086.png",
+    "imageAlt": "Trekëndësh kënddrejtë me katete 30cm, q3 në kulmin e këndit të drejtë",
+    "answers": [
+      "0.3N",
+      "0.4N",
+      "0.5N",
+      "0.6N"
+    ],
+    "correct": 2,
+    "explanation": "F1=kq1q3/0,09=0,3N, F2=kq2q3/0,09=0,4N, pingule njëra me tjetrën. Rezultantja=√(0,3²+0,4²)=0,5N."
+  },
+  {
+    "id": "fizika-elektrostatika-087",
+    "question": "Katër ngarkesa q1=q2=q3=20nC dhe q4=-20nC, janë vendosur në kulmet e katrorit me brinjë 20cm si në figurë. Intensiteti i fushës në pikën O do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-087.png",
+    "imageAlt": "Katror me brinjë 20cm, tri kulme +20nC dhe një kulm -20nC, O në qendër",
+    "answers": [
+      "18000N/C",
+      "20000N/C",
+      "36000N/C",
+      "40000N/C"
+    ],
+    "correct": 0,
+    "explanation": "Fushat nga çifti diagonal me ngarkesa të barabarta (të dyja +q) anulohen; mbetet vetëm kontributi nga çifti (+q,−q) që mblidhet: E=2·kq/r²=18000N/C."
+  },
+  {
+    "id": "fizika-elektrostatika-088",
+    "question": "Elektroni me shpejtësi fillestare 0 lëviz në një fushë elektrike të njëtrajtshme dhe pasi zhvendoset me 2m, ka fituar shpejtësinë 8000km/s. Sa është intensiteti i fushës që i ka dhënë elektronit këtë shpejtësi? (me=9·10⁻³¹kg, qe=1.6·10⁻¹⁹C)",
+    "answers": [
+      "50V/m",
+      "70V/m",
+      "90V/m",
+      "110V/m"
+    ],
+    "correct": 2,
+    "explanation": "a=v²/(2d)=6,4·10¹³/4=1,6·10¹³m/s². E=ma/e=9·10⁻³¹·1,6·10¹³/1,6·10⁻¹⁹=90V/m."
+  },
+  {
+    "id": "fizika-elektrostatika-089",
+    "question": "Dy ngarkesa 4q dhe q janë vendosur si në figurë. Në qoftë se në pikën P fusha është 0, atëherë raporti r1/r2 do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-089.png",
+    "imageAlt": "Ngarkesat 4q dhe q, pika P midis tyre në largësitë r1 dhe r2",
+    "answers": [
+      "4",
+      "¼",
+      "2",
+      "½"
+    ],
+    "correct": 2,
+    "explanation": "k4q/r1²=kq/r2² → (r1/r2)²=4 → r1/r2=2."
+  },
+  {
+    "id": "fizika-elektrostatika-090",
+    "question": "Tre ngarkesa pozitive janë vendosur si në figurë. Forca rezultante e ushtruar mbi ngarkesën q2 është: (k=9·10⁹ Nm²/C²)",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-090.png",
+    "imageAlt": "Ngarkesat q1=4µC, q2=2µC, q3=2µC mbi një drejtëz, 20cm dhe 10cm",
+    "answers": [
+      "1.8N",
+      "2.4N",
+      "3.6N",
+      "5.4N"
+    ],
+    "correct": 0,
+    "explanation": "F1(nga q1)=1,8N (drejt q3), F2(nga q3)=3,6N (drejt q1). Rezultantja=3,6−1,8=1,8N, drejt q1."
+  },
+  {
+    "id": "fizika-elektrostatika-091",
+    "question": "Elektroni lëviz me shpejtësi 2·10⁶m/s, në fushën e një kondensatori të rrafshët në drejtim të vijave të fushës. Largësia midis pllakave është 6.4cm. Sa është diferenca e potencialeve midis armaturave të kondensatorit, në qoftë se elektroni humbet të gjithë shpejtësinë pasi përshkon 4cm. (me=9·10⁻³¹ kg, qe=1.6·10⁻¹⁹ C)",
+    "answers": [
+      "9V",
+      "18V",
+      "27V",
+      "36V"
+    ],
+    "correct": 1,
+    "explanation": "a=v²/(2·0,04)=5·10¹³m/s². E=ma/e≈281N/C. U(për 6,4cm e plotë)=E·0,064≈18V."
+  },
+  {
+    "id": "fizika-elektrostatika-092",
+    "question": "Tre kondensatorë janë lidhur si në figurë. Kapacitetet e tyre janë përkatësisht C1=4µF dhe C2=C3=2µF dhe diferenca e potencialeve është UAB=2V. Sa është ngarkesa e kondensatorit C2?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-092.png",
+    "imageAlt": "C1 në seri me grupin paralel C2, C3, midis A dhe B",
+    "answers": [
+      "1µC",
+      "2µC",
+      "3µC",
+      "4µC"
+    ],
+    "correct": 1,
+    "explanation": "C2 dhe C3 paralel=4µF, në seri me C1=4µF: Cₑq=2µF. Q_totale=2·2=4µC, që ndahet njësoj në C2 dhe C3: 2µC secili."
+  },
+  {
+    "id": "fizika-elektrostatika-093",
+    "question": "Tre kondensatorë janë lidhur si në figurë. Kapacitetet e tyre janë përkatësisht C1=C2=4µF dhe C3=2µF dhe diferenca e potencialeve është UAB=10V. Sa është ngarkesa e përgjithshme që jep bateria?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-093.png",
+    "imageAlt": "C1 seri C2 në një degë, C3 në degën paralele, midis A dhe B",
+    "answers": [
+      "10µC",
+      "20µC",
+      "30µC",
+      "40µC"
+    ],
+    "correct": 3,
+    "explanation": "C1 seri C2: (4·4)/8=2µF, në paralel me C3=2µF: Cₑq=4µF. Q=4·10=40µC."
+  },
+  {
+    "id": "fizika-elektrostatika-094",
+    "question": "Një grimcë e ngarkuar me masë 20g qëndron pezull në mesin e pllakave të një kondensatori si në figurë. Distanca midis dy pllakave është d=2mm dhe tensioni midis tyre është U=200V. Ngarkesa e grimcës që ajo të qëndrojë në ekuilibër është:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-094.png",
+    "imageAlt": "Grimcë pezull midis pllakave horizontale të një kondensatori",
+    "answers": [
+      "2µC",
+      "3µC",
+      "4µC",
+      "5µC"
+    ],
+    "correct": 0,
+    "explanation": "E=U/d=100000N/C. q=mg/E=0,02·10/100000=2·10⁻⁶C=2µC."
+  },
+  {
+    "id": "fizika-elektrostatika-095",
+    "question": "Një grimcë me masë 200g dhe me ngarkesë 4mC qëndron pezull midis pllakave të një kondensatori si në figurë. Nëse distanca midis pllakave është 2cm, atëherë tensioni midis pllakave do të jetë:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-095.png",
+    "imageAlt": "Grimcë pezull midis pllakave horizontale të një kondensatori",
+    "answers": [
+      "40V",
+      "30V",
+      "20V",
+      "10V"
+    ],
+    "correct": 3,
+    "explanation": "E=mg/q=0,2·10/4·10⁻³=500N/C. U=E·d=500·0,02=10V."
+  },
+  {
+    "id": "fizika-elektrostatika-096",
+    "question": "Një grimcë me ngarkesë q=4µC qëndron pezull midis pllakave të një kondensatori si në figurë. Largësia midis pllakave është d=2mm dhe tensioni midis tyre është 4V. Sa është masa e grimcës?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-096.png",
+    "imageAlt": "Grimcë pezull midis pllakave horizontale të një kondensatori",
+    "answers": [
+      "0.4g",
+      "0.8g",
+      "1.2g",
+      "1.6g"
+    ],
+    "correct": 1,
+    "explanation": "E=U/d=2000N/C. m=qE/g=4·10⁻⁶·2000/10=8·10⁻⁴kg=0,8g."
+  },
+  {
+    "id": "fizika-elektrostatika-097",
+    "question": "Dy sfera të njëjta me ngarkesa q1=2µC dhe q2= - 6µC ndodhen 10cm larg njëra-tjetrës. I takojmë me njëra-tjetrën dhe pastaj i largojmë përsëri në distancën 10cm nga njëra-tjetra. Forca e bashkëveprimit midis tyre pas takimit do të jetë:",
+    "answers": [
+      "1.8N",
+      "3.6N",
+      "5.4N",
+      "7.2N"
+    ],
+    "correct": 1,
+    "explanation": "Pas takimit: (2−6)/2=−2µC secila. F=kq²/r²=9·10⁹·4·10⁻¹²/0,01=3,6N."
+  },
+  {
+    "id": "fizika-elektrostatika-098",
+    "question": "Grimca e ngarkuar me masë 64g qëndron pezull në një fushë të njëtrajtshme me intensitet E=200N/C. Numri i elektroneve të tepërta që ka kjo grimcë është: (qe=1.6·10⁻¹⁹C, g=10 m/s²)",
+    "answers": [
+      "2·10¹⁶ elektrone",
+      "3·10¹⁶ elektrone",
+      "4·10¹⁶ elektrone",
+      "5·10¹⁶ elektrone"
+    ],
+    "correct": 0,
+    "explanation": "q=mg/E=0,064·10/200=3,2·10⁻³C. n=q/qe=3,2·10⁻³/1,6·10⁻¹⁹=2·10¹⁶."
+  },
+  {
+    "id": "fizika-elektrostatika-099",
+    "question": "Dy kondensatorë me kapacitete C1=3µF dhe C2=6µF janë lidhur si në figurë. Në qoftë se tensioni në skajet e baterisë është 12V, energjia e depozituar në kondensatorin e parë është:",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-099.png",
+    "imageAlt": "C1=3µF dhe C2=6µF në seri, bateri 12V",
+    "answers": [
+      "46µJ",
+      "76µJ",
+      "96µJ",
+      "106µJ"
+    ],
+    "correct": 2,
+    "explanation": "Në seri Cₑq=3·6/9=2µF, Q=2·12=24µC (e njëjtë për të dy). Energjia C1: Q²/(2C1)=576/6=96µJ."
+  },
+  {
+    "id": "fizika-elektrostatika-100",
+    "question": "Tre kondensatorë me kapacitete C1=3µF, C2=4µF dhe C3=2µF janë lidhur si në figurë. Diferenca e potencialit midis skajeve të baterisë është 12V. Sa është ngarkesa e kondensatorit C1?",
+    "image": "/question-images/fizika/elektrostatika/elektrostatika-100.png",
+    "imageAlt": "C2 dhe C3 në degë paralele, C1 në seri drejt daljes b",
+    "answers": [
+      "12µC",
+      "24µC",
+      "26µC",
+      "30µC"
+    ],
+    "correct": 1,
+    "explanation": "C2 dhe C3 (në degë paralele) japin 6µF, në seri me C1=3µF: Cₑq=2µF. Ngarkesa e degës në seri (dhe e C1) = 2·12=24µC."
+  }
 ]

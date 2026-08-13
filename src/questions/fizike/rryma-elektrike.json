@@ -2,70 +2,120 @@
   {
     "id": "fizika-rryma-elektrike-001",
     "question": "Në një pjesë të një qarku elektrik të përbërë nga dy rezistenca të barabarta të lidhura në seri, kalon një rrymë 7mA, kur diferenca e potencialit në skajet e tij është 14V. Sa është vlera e secilës rezistencë?",
-    "answers": ["1Ω", "10Ω", "100Ω", "1000Ω"],
+    "answers": [
+      "1Ω",
+      "10Ω",
+      "100Ω",
+      "1000Ω"
+    ],
     "correct": 3,
     "explanation": "R e njëvlershme = U/I = 14V / 0,007A = 2000Ω. Në seri rezistencat mblidhen, prandaj secila = 2000/2 = 1000Ω."
   },
   {
     "id": "fizika-rryma-elektrike-002",
     "question": "Nëse duam të dyfishojmë fuqinë e një sobe elektrike, duke mos ndryshuar diferencën potenciale, na nevojitet të ndryshojmë rezistencën R me një rezistencë të barabartë me:",
-    "answers": ["R/2", "R/3", "R/4", "2R"],
+    "answers": [
+      "R/2",
+      "R/3",
+      "R/4",
+      "2R"
+    ],
     "correct": 0,
     "explanation": "Me U konstante, P = U²/R. Fuqia është në përpjesëtim të zhdrejtë me R, prandaj për ta dyfishuar P duhet ta përgjysmojmë R → R/2."
   },
   {
     "id": "fizika-rryma-elektrike-003",
     "question": "Dy rezistenca të barabarta 500Ω janë të lidhura në paralel, dhe të dyja bashkë janë lidhur në seri me një rezistencë me vlerë 0.25kΩ. Rezistenca e njëvlershme është:",
-    "answers": ["250Ω", "500Ω", "750Ω", "1000Ω"],
+    "answers": [
+      "250Ω",
+      "500Ω",
+      "750Ω",
+      "1000Ω"
+    ],
     "correct": 1,
     "explanation": "Dy të njëjta në paralel: 500/2 = 250Ω. Kjo në seri me 0,25kΩ = 250Ω jep 250 + 250 = 500Ω."
   },
   {
     "id": "fizika-rryma-elektrike-004",
     "question": "Një rezistencë e cila përshkohet nga rryma me intensitet I, e ka fuqinë P. Për cilën nga çiftet e vlerave të mëposhtme, tensioni në skajet e rezistencës ka vlerë minimale?",
-    "answers": ["P=2W I=1A", "P=8W I=2A", "P=18W I=3A", "P=32W I=4A"],
+    "answers": [
+      "P=2W I=1A",
+      "P=8W I=2A",
+      "P=18W I=3A",
+      "P=32W I=4A"
+    ],
     "correct": 0,
     "explanation": "Nga P = U·I del U = P/I. Vlerat janë: 2V, 4V, 6V, 8V. Tensioni minimal është 2V, pra çifti P=2W, I=1A."
   },
   {
     "id": "fizika-rryma-elektrike-005",
     "question": "Në një pjesë qarku të përbërë nga dy rezistenca të barabarta të lidhura në paralel, kalon rryma 3A kur në skajet e tij diferenca e potencialit ka vlerë 12V. Vlera e secilës nga rezistencat është:",
-    "answers": ["1Ω", "2Ω", "4Ω", "8Ω"],
+    "answers": [
+      "1Ω",
+      "2Ω",
+      "4Ω",
+      "8Ω"
+    ],
     "correct": 3,
     "explanation": "R e njëvlershme = 12V/3A = 4Ω. Për dy të njëjta në paralel R_nj = R/2, pra R = 2·4 = 8Ω."
   },
   {
     "id": "fizika-rryma-elektrike-006",
     "question": "Dy rezistenca të barabarta R janë lidhur në seri dhe të dyja bashkë lidhen në paralel me një rezistencë tjetër R. Sa do të jetë rezistenca e njëvlershme?",
-    "answers": ["R/2", "R", "3R/2", "2R/3"],
+    "answers": [
+      "R/2",
+      "R",
+      "3R/2",
+      "2R/3"
+    ],
     "correct": 3,
     "explanation": "Në seri: R + R = 2R. Kjo në paralel me R: (2R·R)/(2R+R) = 2R²/3R = 2R/3."
   },
   {
     "id": "fizika-rryma-elektrike-007",
     "question": "Dy përçues me rezistenca R₁ e R₂ janë lidhur në seri dhe në to kalon rryma I. Duke shënuar me U₁ dhe U₂, diferencat e potencialeve në skajet e tyre, mund të themi se:",
-    "answers": ["U₁=U₂", "U₁R₂²= U₂R₁²", "U₁R₁= U₂R₂", "U₁/R₁= U₂/R₂"],
+    "answers": [
+      "U₁=U₂",
+      "U₁R₂²= U₂R₁²",
+      "U₁R₁= U₂R₂",
+      "U₁/R₁= U₂/R₂"
+    ],
     "correct": 3,
     "explanation": "Në seri rryma është e njëjtë: I = U₁/R₁ dhe I = U₂/R₂. Prandaj U₁/R₁ = U₂/R₂."
   },
   {
     "id": "fizika-rryma-elektrike-008",
     "question": "Tri llamba me fuqi përkatësisht: P₁=20W, P₂=60W dhe P₃=100W, ushqehen nga një rrymë me tension 220V. Cili relacion jep saktë lidhjen midis rezistencave?",
-    "answers": ["R₁<R₂<R₃", "R₁>R₂>R₃", "R₁=R₂=R₃", "R₁<R₂=R₃"],
+    "answers": [
+      "R₁<R₂<R₃",
+      "R₁>R₂>R₃",
+      "R₁=R₂=R₃",
+      "R₁<R₂=R₃"
+    ],
     "correct": 1,
     "explanation": "Me të njëjtin tension R = U²/P. Sa më e madhe fuqia, aq më e vogël rezistenca. Meqë P₁<P₂<P₃, del R₁>R₂>R₃."
   },
   {
     "id": "fizika-rryma-elektrike-009",
     "question": "Një pajisje elektrike transformon 75% të energjisë së saj në nxehtësi, 20% në energji kinetike dhe 5% në energji të zërit. Cila është kjo pajisje?",
-    "answers": ["hekur për hekurosje", "altoparlant", "tharëse flokësh", "ngrohës elektrik"],
+    "answers": [
+      "hekur për hekurosje",
+      "altoparlant",
+      "tharëse flokësh",
+      "ngrohës elektrik"
+    ],
     "correct": 2,
     "explanation": "Vetëm tharësja e flokëve ka njëkohësisht rezistencë ngrohëse (nxehtësi) dhe motor me ventilator (energji kinetike + zhurmë). Hekuri dhe ngrohësi japin pothuajse vetëm nxehtësi."
   },
   {
     "id": "fizika-rryma-elektrike-010",
     "question": "Për të ngarkuar baterinë e një telefoni, nevojitet një rrymë 300mA. Sa ngarkesë kalon nëpër qark nëse karikojmë baterinë për dy orë?",
-    "answers": ["0.6C", "150C", "600C", "2160C"],
+    "answers": [
+      "0.6C",
+      "150C",
+      "600C",
+      "2160C"
+    ],
     "correct": 3,
     "explanation": "q = I·t = 0,3A · 7200s = 2160C. Kujdes: koha kthehet në sekonda (2 orë = 7200s)."
   },
@@ -74,16 +124,26 @@
     "question": "Rryma rrjedh në dy rezistenca të lidhura në seri. A₁ dhe A₂ janë leximet e ampermetrave dhe U₁ e U₂ janë leximet e voltmetrave. Cila nga alternativat e mëposhtme përshkruan leximin e ampermetrave dhe voltmetrave?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-011.png",
     "imageAlt": "Qark me dy rezistenca 5Ω dhe 10Ω në seri, dy ampermetra dhe dy voltmetra",
-    "answers": ["I₁=I₂ dhe U₁=U₂", "I₁=I₂ dhe U₁<U₂", "I₁>I₂ dhe U₁=U₂", "I₁<I₂ dhe U₁<U₂"],
-    "correct": 1,
-    "explanation": "Në seri rryma është e njëjtë kudo: I₁=I₂. Tensioni ndahet në përpjesëtim me rezistencën, dhe meqë 5Ω<10Ω, del U₁<U₂."
+    "answers": [
+      "I₁=I₂ dhe U₁=U₂",
+      "I₁=I₂ dhe U₁<U₂",
+      "I₁>I₂ dhe U₁=U₂",
+      "I₁<I₂ dhe U₁<U₂"
+    ],
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "fizika-rryma-elektrike-012",
     "question": "Cili kombinim i rezistencave identike ka vlerë të rezistencës së njëvlershme më të vogël?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-012.png",
     "imageAlt": "Katër kombinime A, B, C, D të rezistencave identike",
-    "answers": ["Kombinimi A", "Kombinimi B", "Kombinimi C", "Kombinimi D"],
+    "answers": [
+      "Kombinimi A",
+      "Kombinimi B",
+      "Kombinimi C",
+      "Kombinimi D"
+    ],
     "correct": 0,
     "explanation": "Sa më shumë rezistenca në paralel, aq më e vogël rezistenca e njëvlershme. Kombinimi A i ka të tria në paralel (R/3), pra më e vogla."
   },
@@ -92,28 +152,48 @@
     "question": "Katër llamba identike janë të lidhura si në figurë. Cili nga pohimet e mëposhtme është i saktë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-013.png",
     "imageAlt": "Qark me katër llamba identike P, Q, R dhe S",
-    "answers": ["Llamba P ndriçon njësoj si llamba Q.", "Llamba P ndriçon njësoj si llamba S.", "Llamba Q ndriçon më shumë se llamba S.", "Llamba R ndriçon më shumë se llamba P."],
+    "answers": [
+      "Llamba P ndriçon njësoj si llamba Q.",
+      "Llamba P ndriçon njësoj si llamba S.",
+      "Llamba Q ndriçon më shumë se llamba S.",
+      "Llamba R ndriçon më shumë se llamba P."
+    ],
     "correct": 1,
     "explanation": "P dhe S janë në degën kryesore, pra i përshkon e njëjta rrymë e plotë → ndriçojnë njësoj. Q dhe R e ndajnë rrymën përgjysmë, prandaj ndriçojnë më pak."
   },
   {
     "id": "fizika-rryma-elektrike-014",
     "question": "Në një ngrohës me tension 240V kalon rryma 4A. Sa energji transferohet në ngrohës në 5 minuta?",
-    "answers": ["192J", "4800J", "18000J", "288000J"],
+    "answers": [
+      "192J",
+      "4800J",
+      "18000J",
+      "288000J"
+    ],
     "correct": 3,
     "explanation": "E = U·I·t = 240 · 4 · 300s = 288000J. Koha duhet kthyer në sekonda (5 min = 300s)."
   },
   {
     "id": "fizika-rryma-elektrike-015",
     "question": "Filamenti prej tungsteni i një llambe inkandeshente, merr vazhdimisht nxehtësi gjatë kohës që ajo rri ndezur. Filamenti nuk shkrin sepse:",
-    "answers": ["nxehtësia përhapet në formën e rrezatimit.", "llamba është e mbushur me një gaz me përçueshmëri të lartë termike.", "filamenti, ka një temperaturë shkrirje të ulët.", "filamenti ka rezistencë elektrike të ulët."],
+    "answers": [
+      "nxehtësia përhapet në formën e rrezatimit.",
+      "llamba është e mbushur me një gaz me përçueshmëri të lartë termike.",
+      "filamenti, ka një temperaturë shkrirje të ulët.",
+      "filamenti ka rezistencë elektrike të ulët."
+    ],
     "correct": 0,
     "explanation": "Nxehtësia largohet nga filamenti kryesisht me rrezatim, kështu që temperatura stabilizohet nën pikën e shkrirjes së tungstenit. Në llambë ka gaz inert me përçueshmëri të ulët; tungsteni ka temperaturë shkrirjeje shumë të lartë; dhe filamenti ka rezistencë të lartë, jo të ulët."
   },
   {
     "id": "fizika-rryma-elektrike-016",
     "question": "Tek etiketa e një thekëse buke, lexojmë: tensioni 220V, fuqia 2000W. Rezistenca e elementëve ngrohës do të ketë një vlerë afërsisht:",
-    "answers": ["0.11Ω", "4.4Ω", "9.1Ω", "24.2 Ω"],
+    "answers": [
+      "0.11Ω",
+      "4.4Ω",
+      "9.1Ω",
+      "24.2 Ω"
+    ],
     "correct": 3,
     "explanation": "R = U²/P = 220²/2000 = 48400/2000 = 24,2Ω."
   },
@@ -122,7 +202,12 @@
     "question": "Në qarkun e paraqitur më poshtë rrjedh rryma I. Raporti i fuqive P₁/P₂ është:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-017.png",
     "imageAlt": "Dy rezistenca R₁=10Ω dhe R₂=20Ω të lidhura në paralel",
-    "answers": ["0.25", "0.5", "2", "4"],
+    "answers": [
+      "0.25",
+      "0.5",
+      "2",
+      "4"
+    ],
     "correct": 2,
     "explanation": "Në paralel tensioni është i njëjtë, pra P = U²/R. Prandaj P₁/P₂ = R₂/R₁ = 20/10 = 2."
   },
@@ -131,7 +216,12 @@
     "question": "Grafiku i mëposhtëm tregon varësinë e intensitetit të rrymës nga tensioni për katër përçues të ndryshëm A, B, C dhe D. Cili është përcjellës më i mirë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-018.png",
     "imageAlt": "Grafik I–U me katër drejtëza A, B, C dhe D me pjerrësi të ndryshme",
-    "answers": ["Përçuesi A", "Përçuesi B", "Përçuesi C", "Përçuesi D"],
+    "answers": [
+      "Përçuesi A",
+      "Përçuesi B",
+      "Përçuesi C",
+      "Përçuesi D"
+    ],
     "correct": 3,
     "explanation": "Pjerrësia e drejtëzës në grafikun I–U është 1/R. Sa më e pjerrët drejtëza, aq më e vogël rezistenca dhe aq më i mirë përçuesi — drejtëza D është më e pjerrëta."
   },
@@ -140,56 +230,96 @@
     "question": "Në një qark janë lidhur tri dioda dhe tri rezistenca si në figurë. Kur mbyllim çelësin K, rryma kalon në degët:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-019.png",
     "imageAlt": "Qark me çelës K, tri dioda dhe tri rezistenca në tri degë paralele",
-    "answers": ["1; 2; 3", "1; 3", "1; 2", "2; 3"],
+    "answers": [
+      "1; 2; 3",
+      "1; 3",
+      "1; 2",
+      "2; 3"
+    ],
     "correct": 1,
     "explanation": "Dioda e lejon rrymën vetëm në një drejtim (polarizim i drejtë). Kalon rrymë vetëm në degët ku dioda është e orientuar në të njëjtin drejtim me burimin — degët 1 dhe 3; dega 2 e ka diodën të kundërt, pra bllokohet."
   },
   {
     "id": "fizika-rryma-elektrike-020",
     "question": "Një furnelë elektrike përbëhet nga një tel përçues në formë spire, i cili skuqet kur në të kalon rrymë elektrike. Një pjesë e kësaj spire duket më e skuqur se pjesa tjetër. Kjo ndodh sepse në këtë pjesë të spirës:",
-    "answers": ["intensiteti i rrymës që rrjedh në të është më i vogël.", "intensiteti i rrymës që rrjedh në të është më i madh.", "rezistenca e rrymës më e vogël.", "trashësia e telit është më e vogël."],
+    "answers": [
+      "intensiteti i rrymës që rrjedh në të është më i vogël.",
+      "intensiteti i rrymës që rrjedh në të është më i madh.",
+      "rezistenca e rrymës më e vogël.",
+      "trashësia e telit është më e vogël."
+    ],
     "correct": 3,
     "explanation": "Teli është në seri, pra rryma është e njëjtë kudo. Aty ku prerja tërthore është më e hollë, rezistenca (R = ρl/S) është më e madhe, pra çlirohet më shumë nxehtësi (Q = I²Rt) dhe ajo pjesë skuqet më shumë."
   },
   {
     "id": "fizika-rryma-elektrike-021",
     "question": "Në një rezistencë me vlerë 4Ω zbatohet tensioni 16V. Nëse përgjysmojmë vlerën e rezistencës për të mbajtur konstante rrymën që kalon në të, duhet të zbatojmë një tension me vlerë:",
-    "answers": ["2V", "4V", "8V", "32V"],
+    "answers": [
+      "2V",
+      "4V",
+      "8V",
+      "32V"
+    ],
     "correct": 2,
     "explanation": "I = 16/4 = 4A. Me R = 2Ω dhe të njëjtën rrymë: U = I·R = 4·2 = 8V. Pra tensioni gjysmohet bashkë me rezistencën."
   },
   {
     "id": "fizika-rryma-elektrike-022",
     "question": "Rezistenca e një llambe inkandeshente A është më e vogël se rezistenca e një llambe inkandeshente B. Për tension të njëjtë të aplikuar në secilën nga llambat, cila prej tyre do të ndriçojë më shumë?",
-    "answers": ["Llamba A.", "Llamba B.", "Llambat ndriçojnë njësoj.", "Varet nga lënda nga e cila përbëhen llambat."],
+    "answers": [
+      "Llamba A.",
+      "Llamba B.",
+      "Llambat ndriçojnë njësoj.",
+      "Varet nga lënda nga e cila përbëhen llambat."
+    ],
     "correct": 0,
     "explanation": "Me të njëjtin tension P = U²/R. Rezistenca më e vogël jep fuqi më të madhe, pra llamba A ndriçon më shumë."
   },
   {
     "id": "fizika-rryma-elektrike-023",
     "question": "Në një llambë me rezistencë R, rrjedh rryma me intensitet I. Çfarë rezistence duhet të lidhet në paralel me të, në mënyrë që intensiteti i rrymës të bëhet 2I?",
-    "answers": ["R", "R/2", "2R", "4R"],
+    "answers": [
+      "R",
+      "R/2",
+      "2R",
+      "4R"
+    ],
     "correct": 0,
     "explanation": "Që rryma e plotë të dyfishohet me të njëjtin tension, rezistenca e njëvlershme duhet të përgjysmohet (R/2). Kjo arrihet duke lidhur në paralel një rezistencë të barabartë me R."
   },
   {
     "id": "fizika-rryma-elektrike-024",
     "question": "Nëse përgjysmojmë diferencën potenciale në skajet e një përçuesi omik, fuqia në të:",
-    "answers": ["rritet 4 herë.", "zvogëlohet 4 herë.", "rritet 2 herë.", "nuk ndryshon."],
+    "answers": [
+      "rritet 4 herë.",
+      "zvogëlohet 4 herë.",
+      "rritet 2 herë.",
+      "nuk ndryshon."
+    ],
     "correct": 1,
     "explanation": "P = U²/R. Fuqia varet nga katrori i tensionit, prandaj U/2 → P/4, pra zvogëlohet 4 herë."
   },
   {
     "id": "fizika-rryma-elektrike-025",
     "question": "Duke lidhur në paralel dy rezistenca R₁ dhe R₂ të tilla që R₁<R₂, rezistenca ekuivalente është:",
-    "answers": ["Rₑ më e madhe se R₂.", "Rₑ më e madhe se R₁ dhe më e vogël se R₂.", "Nuk mund ta përcaktojmë pasi nuk njohim vlerat e R₁ dhe R₂.", "Rₑ më e vogël se R₁."],
+    "answers": [
+      "Rₑ më e madhe se R₂.",
+      "Rₑ më e madhe se R₁ dhe më e vogël se R₂.",
+      "Nuk mund ta përcaktojmë pasi nuk njohim vlerat e R₁ dhe R₂.",
+      "Rₑ më e vogël se R₁."
+    ],
     "correct": 3,
     "explanation": "Në paralel rezistenca e njëvlershme është gjithmonë më e vogël se rezistenca më e vogël e grupit, pra Rₑ < R₁."
   },
   {
     "id": "fizika-rryma-elektrike-026",
     "question": "Një llambë inkandeshente 120W dhe një ngrohës elektrik 1500W ushqehen me të njëjtin tension. Mund të themi se:",
-    "answers": ["rezistencat elektrike të dy pajisjeve janë të njëjta.", "rezistenca e ngrohësit elektrik është më e madhe.", "rezistenca e llambës inkandeshente është më e madhe.", "nuk mund të përgjigjemi, sepse nuk njohim intensitetin e rrymës."],
+    "answers": [
+      "rezistencat elektrike të dy pajisjeve janë të njëjta.",
+      "rezistenca e ngrohësit elektrik është më e madhe.",
+      "rezistenca e llambës inkandeshente është më e madhe.",
+      "nuk mund të përgjigjemi, sepse nuk njohim intensitetin e rrymës."
+    ],
     "correct": 2,
     "explanation": "R = U²/P me U të njëjtë. Llamba ka fuqi më të vogël (120W < 1500W), prandaj rezistenca e saj është më e madhe."
   },
@@ -198,7 +328,12 @@
     "question": "Figura e mëposhtme paraqet një bateri 6V të lidhur me dy rezistenca. Cila nga alternativat tregon sakte rrymat përkatëse në ampermetra?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-027.png",
     "imageAlt": "Bateri 6V me rezistenca 3Ω dhe 6Ω në paralel dhe tre ampermetra A₁, A₂, A₃",
-    "answers": ["1A; 1A; 2A", "1A; 2A; 1A", "3A; 2A; 1A", "3A; 1A; 2A"],
+    "answers": [
+      "1A; 1A; 2A",
+      "1A; 2A; 1A",
+      "3A; 2A; 1A",
+      "3A; 1A; 2A"
+    ],
     "correct": 2,
     "explanation": "Në paralel të dyja kanë 6V: I(3Ω) = 6/3 = 2A dhe I(6Ω) = 6/6 = 1A. A₁ mat rrymën e plotë = 2+1 = 3A. Pra 3A; 2A; 1A."
   },
@@ -207,84 +342,144 @@
     "question": "Një bateri 5V është e lidhur me dy rezistenca të njëjta dhe një llambë si në figurë. Nëse diferenca e potencialit në skajet e llambës është 1V, cila është diferenca potenciale në skajet e secilës rezistencë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-028.png",
     "imageAlt": "Bateri 5V në seri me dy rezistenca të njëjta dhe një llambë",
-    "answers": ["2V", "4V", "5V", "6V"],
+    "answers": [
+      "2V",
+      "4V",
+      "5V",
+      "6V"
+    ],
     "correct": 0,
     "explanation": "Në seri tensionet mblidhen: 5V − 1V = 4V ndahen midis dy rezistencave të njëjta, pra 2V secila."
   },
   {
     "id": "fizika-rryma-elektrike-029",
     "question": "Një burim rryme i vazhduar është i lidhur me një rezistencë nëpër të cilën kalon rryma I. Dy rezistenca të tjera të njëjta me të parën, lidhen në seri me të. Sa do të bëhet vlera e rrymës?",
-    "answers": ["0.25I", "0.33I", "I", "3I"],
+    "answers": [
+      "0.25I",
+      "0.33I",
+      "I",
+      "3I"
+    ],
     "correct": 1,
     "explanation": "Rezistenca e njëvlershme bëhet 3R. Me të njëjtin tension, rryma zvogëlohet 3 herë: I' = I/3 ≈ 0,33I."
   },
   {
     "id": "fizika-rryma-elektrike-030",
     "question": "Kemi një burim rryme dhe tri llamba A, B dhe C. Si duhet t'i lidhim llambat, në mënyrë të tillë që llamba A të ndizet pavarësisht nga B dhe C, të cilat mund të ndizen dhe fiken vetëm njëkohësisht?",
-    "answers": ["Të tri llambat duhet t'i lidhim në paralel.", "Llambat B dhe C i lidhim në paralel dhe të dyja bashkë i lidhim në seri me A.", "Të tri llambat i lidhim në seri.", "Llambat B dhe C në seri dhe të dyja bashkë në paralel me A."],
+    "answers": [
+      "Të tri llambat duhet t'i lidhim në paralel.",
+      "Llambat B dhe C i lidhim në paralel dhe të dyja bashkë i lidhim në seri me A.",
+      "Të tri llambat i lidhim në seri.",
+      "Llambat B dhe C në seri dhe të dyja bashkë në paralel me A."
+    ],
     "correct": 3,
     "explanation": "B dhe C në seri ndizen e fiken vetëm bashkë (nëse njëra shkëputet, ndalon edhe tjetra). Duke i lidhur këto në paralel me A, A punon e pavarur prej tyre."
   },
   {
     "id": "fizika-rryma-elektrike-031",
     "question": "Një pjesë qarku elektrik ka rezistencë R. Nëse duam të përgjysmojmë vlerën e rezistencës në R/2, nevojitet që të shtojmë në qark një rezistencë të dytë:",
-    "answers": ["me vlerë R në paralel", "me vlerë R/2 në paralel", "me vlerë R në seri", "me vlerë 2R në seri"],
+    "answers": [
+      "me vlerë R në paralel",
+      "me vlerë R/2 në paralel",
+      "me vlerë R në seri",
+      "me vlerë 2R në seri"
+    ],
     "correct": 0,
     "explanation": "Dy rezistenca të barabarta R në paralel japin R·R/(R+R) = R/2. Lidhja në seri vetëm sa e rrit rezistencën."
   },
   {
     "id": "fizika-rryma-elektrike-032",
     "question": "Filamenti i një llambe përshkohet nga një rrymë me intensitet 1.6A. Sa elektrone në sekondë përshkojnë prerjen tërthore të përçuesit? (qₑ=1.6·10⁻¹⁹C)",
-    "answers": ["10⁻¹⁹ elektrone", "1 elektron", "10³ elektrone", "10¹⁹ elektrone"],
+    "answers": [
+      "10⁻¹⁹ elektrone",
+      "1 elektron",
+      "10³ elektrone",
+      "10¹⁹ elektrone"
+    ],
     "correct": 3,
     "explanation": "n = I/qₑ = 1,6 / (1,6·10⁻¹⁹) = 10¹⁹ elektrone në sekondë."
   },
   {
     "id": "fizika-rryma-elektrike-033",
     "question": "Në një furnelë me rezistencë R dhe tension U, duhet të vlojmë një litër ujë. Koha e nevojshme për vlimin e ujit është proporcionale me:",
-    "answers": ["U²", "R", "U", "R²"],
+    "answers": [
+      "U²",
+      "R",
+      "U",
+      "R²"
+    ],
     "correct": 1,
     "explanation": "Q = (U²/R)·t, pra t = Q·R/U². Meqë Q dhe U janë fikse, koha është në përpjesëtim të drejtë me R."
   },
   {
     "id": "fizika-rryma-elektrike-034",
     "question": "Një qark elektrik përbëhet nga një bateri me f.e.m ε dhe dy rezistenca të njëjta R, të cilat mund të lidhen në seri ose në paralel. Rryma që kalon në qark është:",
-    "answers": ["e njëjtë në të dyja rastet.", "zero, nëse lidhen në seri.", "më e madhe nëse rezistencat lidhen në paralel.", "më e madhe nëse rezistencat lidhen në seri."],
+    "answers": [
+      "e njëjtë në të dyja rastet.",
+      "zero, nëse lidhen në seri.",
+      "më e madhe nëse rezistencat lidhen në paralel.",
+      "më e madhe nëse rezistencat lidhen në seri."
+    ],
     "correct": 2,
     "explanation": "Në paralel R_nj = R/2, ndërsa në seri R_nj = 2R. Rezistenca më e vogël jep rrymë më të madhe, pra lidhja në paralel."
   },
   {
     "id": "fizika-rryma-elektrike-035",
     "question": "Bateria 3V e një makine llogaritëse jep një rrymë 0.17mA. Sa ngarkesë kalon në qark gjatë një ore pune të makinës llogaritëse?",
-    "answers": ["0.17C", "0.612C", "612C", "0.021C"],
+    "answers": [
+      "0.17C",
+      "0.612C",
+      "612C",
+      "0.021C"
+    ],
     "correct": 1,
     "explanation": "q = I·t = 0,17·10⁻³A · 3600s = 0,612C."
   },
   {
     "id": "fizika-rryma-elektrike-036",
     "question": "Për të ruajtur instalimet elektrike nga kalimi i një rryme me intensitet të lartë përdorim:",
-    "answers": ["voltmetër", "siguresë", "galvanometër", "rezistencë"],
+    "answers": [
+      "voltmetër",
+      "siguresë",
+      "galvanometër",
+      "rezistencë"
+    ],
     "correct": 1,
     "explanation": "Siguresa shkrihet dhe e ndërpret qarkun kur rryma kalon vlerën e lejuar. Voltmetri dhe galvanometri janë instrumente matëse, jo mbrojtëse."
   },
   {
     "id": "fizika-rryma-elektrike-037",
     "question": "Një zog mund të qëndrojë mbi një linjë të transmetimit të tensionit të lartë pa u goditur nga rryma. Cila nga pohimet shpjegon saktë situatën?",
-    "answers": ["Të dyja këmbët e zogut janë në të njëjtin potencial.", "Trupi i zogut ka rezistencë shumë të lartë.", "Trupi i zogut ka rezistencë shumë të ulët.", "Ajri midis puplave shërben si izolues."],
+    "answers": [
+      "Të dyja këmbët e zogut janë në të njëjtin potencial.",
+      "Trupi i zogut ka rezistencë shumë të lartë.",
+      "Trupi i zogut ka rezistencë shumë të ulët.",
+      "Ajri midis puplave shërben si izolues."
+    ],
     "correct": 0,
     "explanation": "Rryma kalon vetëm kur ka diferencë potenciali. Të dyja këmbët preken në të njëjtin tel, pra U ≈ 0 midis tyre dhe nëpër zog nuk kalon rrymë."
   },
   {
     "id": "fizika-rryma-elektrike-038",
     "question": "Cili nga pohimet për tokëzuesin është i saktë, kur lidhim një makinë larëse në rrjet?",
-    "answers": ["Tokëzuesi ka potencial të lartë prandaj është e rrezikshme të prekim makinën larëse.", "Tokëzuesi duhet të lidhet me pjesën e jashtme të makinës larëse.", "Tokëzuesi nuk mbart asnjë ngarkesë prandaj është i sigurt nëse e prekim atë.", "Nëse shkëpusim tokëzuesin, makina vazhdon të punojë."],
+    "answers": [
+      "Tokëzuesi ka potencial të lartë prandaj është e rrezikshme të prekim makinën larëse.",
+      "Tokëzuesi duhet të lidhet me pjesën e jashtme të makinës larëse.",
+      "Tokëzuesi nuk mbart asnjë ngarkesë prandaj është i sigurt nëse e prekim atë.",
+      "Nëse shkëpusim tokëzuesin, makina vazhdon të punojë."
+    ],
     "correct": 1,
     "explanation": "Tokëzuesi lidhet me trupin (karkasën) metalike të jashtme, që në rast defekti rryma të shkojë në tokë e jo në trupin e njeriut. Potenciali i tokëzuesit është zero, jo i lartë."
   },
   {
     "id": "fizika-rryma-elektrike-039",
     "question": "Një rrymë konstante me intensitet 2A, rrjedh në një pajisje elektrike. Për sa kohë kalojnë 4.5·10²² elektrone?",
-    "answers": ["7200s", "5400s", "3600s", "1800s"],
+    "answers": [
+      "7200s",
+      "5400s",
+      "3600s",
+      "1800s"
+    ],
     "correct": 2,
     "explanation": "q = n·qₑ = 4,5·10²² · 1,6·10⁻¹⁹ = 7200C. t = q/I = 7200/2 = 3600s."
   },
@@ -293,77 +488,132 @@
     "question": "Grafiku i mëposhtëm tregon varësinë e intensitetit të rrymës nga tensioni për katër përçues të ndryshëm A, B, C dhe D. Cili nga përçuesit ka rezistencë më të madhe kur në skajet e tyre zbatohet tension i njëjtë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-040.png",
     "imageAlt": "Grafik I–U me katër drejtëza A, B, C dhe D me pjerrësi të ndryshme",
-    "answers": ["Përçuesi A", "Përçuesi B", "Përçuesi C", "Përçuesi D"],
+    "answers": [
+      "Përçuesi A",
+      "Përçuesi B",
+      "Përçuesi C",
+      "Përçuesi D"
+    ],
     "correct": 0,
     "explanation": "R = U/I. Për të njëjtin U, rezistencë më të madhe ka ai që jep rrymë më të vogël, pra drejtëza më pak e pjerrët — përçuesi A."
   },
   {
     "id": "fizika-rryma-elektrike-041",
     "question": "Dy shufra bakri me gjatësi të njëjtë dhe prerje tërthore që rrinë si S₁:S₂=1:2 e kanë raportin e vlerave të rezistencave:",
-    "answers": ["R₁/R₂ = 2", "R₁/R₂ = 1", "R₁/R₂ = 1/2", "R₁/R₂ = 1/4"],
+    "answers": [
+      "R₁/R₂ = 2",
+      "R₁/R₂ = 1",
+      "R₁/R₂ = 1/2",
+      "R₁/R₂ = 1/4"
+    ],
     "correct": 0,
     "explanation": "R = ρl/S. Me l dhe ρ të njëjta, R është në përpjesëtim të zhdrejtë me S: R₁/R₂ = S₂/S₁ = 2."
   },
   {
     "id": "fizika-rryma-elektrike-042",
     "question": "Një tel përcjellës prej bakri e ka gjatësinë l dhe rezistencën R. Rezistenca e këtij teli bakri me gjatësi 4l do të jetë:",
-    "answers": ["R", "2R", "3R", "4R"],
+    "answers": [
+      "R",
+      "2R",
+      "3R",
+      "4R"
+    ],
     "correct": 3,
     "explanation": "R = ρl/S — rezistenca është në përpjesëtim të drejtë me gjatësinë. Gjatësia 4 herë më e madhe jep 4R."
   },
   {
     "id": "fizika-rryma-elektrike-043",
     "question": "Një përcjellës me gjatësi 0,5m e ka rezistencën elektrike R. Përcjellësi ndahet në dy pjesë me gjatësi 0,25m, të cilat duke u përdredhur në gjithë gjatësinë e tyre, do të kenë vlerën e rezistencës:",
-    "answers": ["R", "R/2", "R/4", "R/16"],
+    "answers": [
+      "R",
+      "R/2",
+      "R/4",
+      "R/16"
+    ],
     "correct": 2,
     "explanation": "Secila gjysmë ka R/2. Përdredhja e tyre do të thotë lidhje në paralel: (R/2)/2 = R/4."
   },
   {
     "id": "fizika-rryma-elektrike-044",
     "question": "Një tel bakri me gjatësi 2 m dhe sipërfaqe të prerjes tërthore 1cm², e ka rezistencën specifike 1,7·10⁻⁸Ωm. Rezistenca e tij është:",
-    "answers": ["6,8·10⁻³Ω", "3,4·10⁻⁴Ω", "1,7·10⁻⁴Ω", "0,8·10⁻⁴Ω"],
+    "answers": [
+      "6,8·10⁻³Ω",
+      "3,4·10⁻⁴Ω",
+      "1,7·10⁻⁴Ω",
+      "0,8·10⁻⁴Ω"
+    ],
     "correct": 1,
     "explanation": "R = ρl/S = 1,7·10⁻⁸ · 2 / 10⁻⁴ = 3,4·10⁻⁴Ω. Kujdes: 1cm² = 10⁻⁴m²."
   },
   {
     "id": "fizika-rryma-elektrike-045",
     "question": "Dy tela prej alumini kanë gjatësi dhe prerje tërthore të njëjtë. Teli i parë ndodhet në temperaturën 20°C. Teli i dytë ndodhet në temperatura 80°C. Rezistenca e telit të dytë:",
-    "answers": ["është më e madhe se rezistenca e të parit.", "është më e vogël se rezistenca e të parit.", "është e njëjtë me rezistencën e të parit.", "Varet nga mënyra e lidhjes në qarkun elektrik."],
+    "answers": [
+      "është më e madhe se rezistenca e të parit.",
+      "është më e vogël se rezistenca e të parit.",
+      "është e njëjtë me rezistencën e të parit.",
+      "Varet nga mënyra e lidhjes në qarkun elektrik."
+    ],
     "correct": 0,
     "explanation": "Te metalet rezistenca rritet me rritjen e temperaturës, sepse jonet lëkunden më fort dhe pengojnë lëvizjen e elektroneve. Teli në 80°C ka rezistencë më të madhe."
   },
   {
     "id": "fizika-rryma-elektrike-046",
     "question": "Cili nga pohimet e mëposhtme është i vërtetë?",
-    "answers": ["Rezistenca e një përcjellësi nuk varet nga ndryshimet e temperaturës së tij.", "Rezistenca e përcjellësit i detyrohet vetëm ndryshimit të rezistencës specifike.", "Për përcjellësit metalik, rezistenca ritet me rritjen e temperaturës.", "Për përcjellësit metalik, rezistenca zvogëlohet me rritjen e temperaturës."],
+    "answers": [
+      "Rezistenca e një përcjellësi nuk varet nga ndryshimet e temperaturës së tij.",
+      "Rezistenca e përcjellësit i detyrohet vetëm ndryshimit të rezistencës specifike.",
+      "Për përcjellësit metalik, rezistenca ritet me rritjen e temperaturës.",
+      "Për përcjellësit metalik, rezistenca zvogëlohet me rritjen e temperaturës."
+    ],
     "correct": 2,
     "explanation": "Te metalet rezistenca rritet me temperaturën. Prandaj A dhe D janë të gabuara, ndërsa B është i paplotë: R varet edhe nga gjatësia e prerja tërthore."
   },
   {
     "id": "fizika-rryma-elektrike-047",
     "question": "Dy tela përcjellës kanë sipërfaqe të prerjes tërthore të njëjtë dhe gjatësi l₂=4l₁ dhe rezistenca specifike ρ₁=2ρ₂. Lidhja e rezistencave të tyre është:",
-    "answers": ["2R₁=R₂", "4R₁=R₂", "R₁=2R₂", "R₁=4R₂"],
+    "answers": [
+      "2R₁=R₂",
+      "4R₁=R₂",
+      "R₁=2R₂",
+      "R₁=4R₂"
+    ],
     "correct": 0,
     "explanation": "R₂ = ρ₂·4l₁/S = (ρ₁/2)·4l₁/S = 2·(ρ₁l₁/S) = 2R₁. Pra 2R₁ = R₂."
   },
   {
     "id": "fizika-rryma-elektrike-048",
     "question": "Kuptimi i rezistencës elektrike është i lidhur me:",
-    "answers": ["vështirësinë që hasin elektronet për t'u orientuar në këtë përcjellës, kur ai është në një fushe elektrike.", "lehtësinë që kanë elektronet për t'u orientuar në këtë përcjellës, kur ai është në një fushe elektrike.", "numrin e elektroneve të lira të orientuara në këtë përcjellës në prani të një fushe elektrike.", "tensionin në skajet e rezistencës dhe me rrymën që kalon në përcjellës."],
+    "answers": [
+      "vështirësinë që hasin elektronet për t'u orientuar në këtë përcjellës, kur ai është në një fushe elektrike.",
+      "lehtësinë që kanë elektronet për t'u orientuar në këtë përcjellës, kur ai është në një fushe elektrike.",
+      "numrin e elektroneve të lira të orientuara në këtë përcjellës në prani të një fushe elektrike.",
+      "tensionin në skajet e rezistencës dhe me rrymën që kalon në përcjellës."
+    ],
     "correct": 0,
     "explanation": "Rezistenca shpreh pengesën që haset gjatë lëvizjes së orientuar të elektroneve. 'Lehtësia' është përçueshmëria (e kundërta e saj), ndërsa raporti U/I është vetëm mënyra e matjes, jo kuptimi fizik."
   },
   {
     "id": "fizika-rryma-elektrike-049",
     "question": "Cili nga pohimet e mëposhtëm është i vërtetë?",
-    "answers": ["Rezistenca e një teli përcjellësi është në përpjesëtim të drejtë me gjatësinë dhe sipërfaqen e prerjes tërthore të përcjellësit.", "Rezistenca e një teli është në përpjesëtim të drejtë me gjatësinë dhe në përpjesëtim të zhdrejtë me sipërfaqen e prerjes tërthore të përcjellësit.", "Rezistenca e një teli është në përpjesëtim të drejtë me gjatësinë dhe në përpjesëtim të zhdrejtë me rezistencën specifike të përcjellësit.", "Rezistenca e një përcjellësi nuk varet nga lloji i materialit, por vetëm nga gjatësia dhe sipërfaqja e prerjes tërthore të përcjellësit."],
+    "answers": [
+      "Rezistenca e një teli përcjellësi është në përpjesëtim të drejtë me gjatësinë dhe sipërfaqen e prerjes tërthore të përcjellësit.",
+      "Rezistenca e një teli është në përpjesëtim të drejtë me gjatësinë dhe në përpjesëtim të zhdrejtë me sipërfaqen e prerjes tërthore të përcjellësit.",
+      "Rezistenca e një teli është në përpjesëtim të drejtë me gjatësinë dhe në përpjesëtim të zhdrejtë me rezistencën specifike të përcjellësit.",
+      "Rezistenca e një përcjellësi nuk varet nga lloji i materialit, por vetëm nga gjatësia dhe sipërfaqja e prerjes tërthore të përcjellësit."
+    ],
     "correct": 1,
     "explanation": "Formula R = ρ·l/S: drejtpërdrejt me l, zhdrejt me S dhe drejtpërdrejt (jo zhdrejt) me ρ, i cili varet nga materiali."
   },
   {
     "id": "fizika-rryma-elektrike-050",
     "question": "Dy tela përcjellës A dhe B kanë gjatësi dhe sipërfaqe të prerjes tërthore të njëjtë, por teli B e ka rezistencën specifike dy herë më të madhe se teli A. Lidhja midis këtyre rezistencave është:",
-    "answers": ["R_A=R_B", "R_A=2·R_B", "R_B=2·R_A", "R_B=√2·R_A"],
+    "answers": [
+      "R_A=R_B",
+      "R_A=2·R_B",
+      "R_B=2·R_A",
+      "R_B=√2·R_A"
+    ],
     "correct": 2,
     "explanation": "R = ρl/S; me l dhe S të njëjta, R është në përpjesëtim të drejtë me ρ. Meqë ρ_B = 2ρ_A, del R_B = 2R_A."
   },
@@ -372,42 +622,72 @@
     "question": "Në figurë jepet varësia e rrymës nga tensioni për filamentin e tungstenit për temperatura të ndryshme. Cili pohim është i vërtetë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-051.png",
     "imageAlt": "Grafik I–U jolinear për filamentin e tungstenit në 1500°C dhe 3000°C",
-    "answers": ["Intensiteti i rrymës është në përpjesëtim të drejtë me tensionin.", "Rezistenca e filamentit ka vlerë të pandryshuar.", "Rezistenca e tungstenit rritet me rritjen e temperaturës.", "Rezistenca e tungstenit zvogëlohet me rritjen e temperaturës."],
-    "correct": 2,
-    "explanation": "Kurba përkulet: në temperatura më të larta rryma rritet më ngadalë për të njëjtin rritje tensioni, çka do të thotë R = U/I më e madhe. Pra rezistenca rritet me temperaturën dhe grafiku nuk është drejtëz (A dhe B të gabuara)."
+    "answers": [
+      "Intensiteti i rrymës është në përpjesëtim të drejtë me tensionin.",
+      "Rezistenca e filamentit ka vlerë të pandryshuar.",
+      "Rezistenca e tungstenit rritet me rritjen e temperaturës.",
+      "Rezistenca e tungstenit zvogëlohet me rritjen e temperaturës."
+    ],
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "fizika-rryma-elektrike-052",
     "question": "Rezistenca e një teli është 3Ω. Rezistenca specifike është 1,8·10⁻⁸Ωm dhe sipërfaqja e prerjes tërthore 1,2mm². Gjatësia e telit është:",
-    "answers": ["150m", "200m", "250m", "300m"],
+    "answers": [
+      "150m",
+      "200m",
+      "250m",
+      "300m"
+    ],
     "correct": 1,
     "explanation": "l = R·S/ρ = 3 · 1,2·10⁻⁶ / 1,8·10⁻⁸ = 200m. Kujdes: 1,2mm² = 1,2·10⁻⁶m²."
   },
   {
     "id": "fizika-rryma-elektrike-053",
     "question": "Çmimi i 1kWh energjie elektrike është 30 lekë. Po të mbajmë ndezur një llambë 100W nga ora 8 e mëngjesit deri në orën 8 të mëngjesit tjetër do të na kushtojë:",
-    "answers": ["30 lekë", "36 lekë", "72 lekë", "360 lekë"],
+    "answers": [
+      "30 lekë",
+      "36 lekë",
+      "72 lekë",
+      "360 lekë"
+    ],
     "correct": 2,
     "explanation": "E = 0,1kW · 24h = 2,4kWh. Kostoja = 2,4 · 30 = 72 lekë."
   },
   {
     "id": "fizika-rryma-elektrike-054",
     "question": "Një hekur për hekurosje, i cili ushqehet me tension 220V, përthith energjinë 0.55kWh në 30min. Rryma që kalon në të është:",
-    "answers": ["0.083A", "1.25A", "5A", "300A"],
+    "answers": [
+      "0.083A",
+      "1.25A",
+      "5A",
+      "300A"
+    ],
     "correct": 2,
     "explanation": "P = E/t = 0,55kWh / 0,5h = 1,1kW = 1100W. I = P/U = 1100/220 = 5A."
   },
   {
     "id": "fizika-rryma-elektrike-055",
     "question": "Në matësin e energjisë elektrike shënohet: tensioni i linjës 220V dhe intensiteti maksimal i lejuar i rrymës 10A. A mund ta shfrytëzojmë këtë linjë për të përdorur njëkohësisht një bolier me fuqi 1.5kW, një hekur për hekurosje me fuqi 0.3kW, dy llamba me fuqi 50W secila dhe një llambe me fuqi 40W?",
-    "answers": ["Po", "Jo", "Po, nëse fikim hekurin", "Po, por duhet të përdorim maksimumin e rrymës së lejuar."],
+    "answers": [
+      "Po",
+      "Jo",
+      "Po, nëse fikim hekurin",
+      "Po, por duhet të përdorim maksimumin e rrymës së lejuar."
+    ],
     "correct": 0,
     "explanation": "Fuqia e plotë = 1500+300+50+50+40 = 1940W. I = 1940/220 ≈ 8,8A < 10A, pra linja e përballon."
   },
   {
     "id": "fizika-rryma-elektrike-056",
     "question": "Për të ndezur një makinë, përdoret një bateri 45Ah (amper orë). Motorino funksionon për 3s dhe rryma që ai përthith është 250A. Me sa zvogëlohet ngarkesa e baterisë?",
-    "answers": ["Afërsisht 0.5%", "Afërsisht 5%", "Afërsisht 10%", "Afërsisht 50%"],
+    "answers": [
+      "Afërsisht 0.5%",
+      "Afërsisht 5%",
+      "Afërsisht 10%",
+      "Afërsisht 50%"
+    ],
     "correct": 0,
     "explanation": "Ngarkesa e përdorur = 250A · 3s = 750As = 750/3600 ≈ 0,21Ah. Përqindja = 0,21/45 ≈ 0,5%."
   },
@@ -416,56 +696,96 @@
     "question": "Qarku paraqet rezistenca të njëjta të lidhura me një burim rryme. Cili nga pohimet e mëposhtme është i saktë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-057.png",
     "imageAlt": "Qark me një rezistencë në seri dhe tri rezistenca në paralel",
-    "answers": ["I=I₁ dhe U=U₃", "I=I₁+I₃ dhe U=U₁+U₂", "I=I₂+I₃+I₄ dhe U=U₁+U₂", "I=I₁+I₂+I₃+I₄ dhe U=U₁+U₂+U₃+U₄"],
+    "answers": [
+      "I=I₁ dhe U=U₃",
+      "I=I₁+I₃ dhe U=U₁+U₂",
+      "I=I₂+I₃+I₄ dhe U=U₁+U₂",
+      "I=I₁+I₂+I₃+I₄ dhe U=U₁+U₂+U₃+U₄"
+    ],
     "correct": 2,
     "explanation": "Rryma e plotë kalon në rezistencën e parë dhe pastaj ndahet në tri degët paralele: I = I₂+I₃+I₄. Tensioni i burimit është shuma e rënies në rezistencën në seri plus atë të grupit paralel: U = U₁+U₂ (ku U₂=U₃=U₄)."
   },
   {
     "id": "fizika-rryma-elektrike-058",
     "question": "Dy rezistenca me vlera përkatësisht R dhe 2R, janë lidhur në seri. Ç'vlerë duhet të kenë dy rezistenca të njëjta, të cilat, duke u lidhur në paralel, të kenë një rezistencë të njëvlershme të barabartë me rezistencën e njëvlershme të dy rezistencave R dhe 2R të lidhura në seri?",
-    "answers": ["R/6", "R/3", "3R/3", "6R"],
+    "answers": [
+      "R/6",
+      "R/3",
+      "3R/3",
+      "6R"
+    ],
     "correct": 3,
     "explanation": "Në seri: R + 2R = 3R. Dy të njëjta X në paralel japin X/2, prandaj X/2 = 3R → X = 6R."
   },
   {
     "id": "fizika-rryma-elektrike-059",
     "question": "Një muskul, me rezistencë 40Ω, duhet të përshkohet nga një rrymë me intensitet 100mA. Duke përdorur një gjenerator me tension 20V, nevojitet të lidhim me të:",
-    "answers": ["një rezistencë 160Ω, në seri.", "një rezistencë 10Ω në paralel.", "një rezistencë 40Ω në seri.", "një rezistencë 40Ω në paralel."],
+    "answers": [
+      "një rezistencë 160Ω, në seri.",
+      "një rezistencë 10Ω në paralel.",
+      "një rezistencë 40Ω në seri.",
+      "një rezistencë 40Ω në paralel."
+    ],
     "correct": 0,
     "explanation": "Rezistenca e nevojshme e plotë = U/I = 20/0,1 = 200Ω. Meqë muskuli ka 40Ω, duhet shtuar në seri 200 − 40 = 160Ω."
   },
   {
     "id": "fizika-rryma-elektrike-060",
     "question": "Diferenca potenciale midis dy pikave X dhe Y në një qark elektrik është 18V. Rryma që kalon në të është 1.5A dhe koha që duhet për të mbartur ngarkesën nga X në Y është 0.2s. Sa është ndryshimi i energjisë së lëvizjes së ngarkesës kur ajo kalon nga X në Y?",
-    "answers": ["0.017J", "5.4J", "60J", "135J"],
+    "answers": [
+      "0.017J",
+      "5.4J",
+      "60J",
+      "135J"
+    ],
     "correct": 1,
     "explanation": "W = U·I·t = 18 · 1,5 · 0,2 = 5,4J."
   },
   {
     "id": "fizika-rryma-elektrike-061",
     "question": "Një pilë me f.e.m 1.5V kur lidhet me një rezistencë 14Ω, prodhon një tension 1.4V në skajet e rezistencës. Rezistenca e brendshme e pilës duhet të jetë:",
-    "answers": ["1Ω", "14Ω", "15Ω", "21Ω"],
+    "answers": [
+      "1Ω",
+      "14Ω",
+      "15Ω",
+      "21Ω"
+    ],
     "correct": 0,
     "explanation": "I = U/R = 1,4/14 = 0,1A. Rënia e brendshme = ε − U = 1,5 − 1,4 = 0,1V, pra r = 0,1/0,1 = 1Ω."
   },
   {
     "id": "fizika-rryma-elektrike-062",
     "question": "Ç'sasi ngarkese kalon në një pike të përçuesit, nëse nëpër këtë pikë rrjedh rryma 60mA në 10 minuta?",
-    "answers": ["0.0001C", "6C", "36C", "600C"],
+    "answers": [
+      "0.0001C",
+      "6C",
+      "36C",
+      "600C"
+    ],
     "correct": 2,
     "explanation": "q = I·t = 0,06A · 600s = 36C."
   },
   {
     "id": "fizika-rryma-elektrike-063",
     "question": "Katër ngrohës elektrik lidhen në paralel me të njëjtin burim rryme. Rezistenca e katër ngrohëseve dhe koha e përdorimit të tyre tregohet më poshtë. Cili nga ngrohësit konsumon më pak energji elektrike?",
-    "answers": ["R=17Ω, t=255s", "R=18Ω, t=234s", "R=19Ω, t=380s", "R=20Ω, t=400s"],
+    "answers": [
+      "R=17Ω, t=255s",
+      "R=18Ω, t=234s",
+      "R=19Ω, t=380s",
+      "R=20Ω, t=400s"
+    ],
     "correct": 1,
     "explanation": "Në paralel U është i njëjtë, pra E = U²·t/R — mjafton të krahasojmë t/R: 15; 13; 20; 20. Vlera më e vogël është 13, pra ngrohësi me R=18Ω, t=234s."
   },
   {
     "id": "fizika-rryma-elektrike-064",
     "question": "Një fshesë me korrent 1.9kW dhe një televizor 200W, janë lidhur në paralel me një burim 220V. Çfarë siguresë duhet të lidhim në rrjet?",
-    "answers": ["7A", "8A", "9A", "10A"],
+    "answers": [
+      "7A",
+      "8A",
+      "9A",
+      "10A"
+    ],
     "correct": 3,
     "explanation": "P e plotë = 1900 + 200 = 2100W. I = 2100/220 ≈ 9,5A, prandaj siguresa duhet të jetë menjëherë mbi këtë vlerë: 10A."
   },
@@ -474,7 +794,12 @@
     "question": "Dy përçues elektrik me rezistenca përkatësisht 1MΩ dhe 200KΩ, janë lidhur si në figurë. Pika P është e tokëzuar dhe potenciali në Y është 3V. Sa është potenciali në X?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-065.png",
     "imageAlt": "Rezistencat 1MΩ dhe 200kΩ në seri, pika P e tokëzuar midis tyre, Y në +3V",
-    "answers": ["15V", "12V", "-12V", "-15V"],
+    "answers": [
+      "15V",
+      "12V",
+      "-12V",
+      "-15V"
+    ],
     "correct": 3,
     "explanation": "Rryma nga Y në P: I = 3V/200kΩ = 15µA. E njëjta rrymë kalon nëpër 1MΩ nga P në X, pra U = 15µA·1MΩ = 15V. Meqë rryma rrjedh drejt X, potenciali atje është më i ulët se zero: −15V."
   },
@@ -483,16 +808,26 @@
     "question": "Figura e mëposhtme tregon katër llamba identike A, B, C dhe D të lidhura në një qark të mbyllur. Cila nga llambat do të ndriçojë më shumë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-066.png",
     "imageAlt": "Qark i mbyllur me katër llamba identike A, B, C dhe D",
-    "answers": ["Llamba A", "Llamba B", "Llamba C", "Llamba D"],
-    "correct": 0,
-    "explanation": "Llamba A ndodhet në degën kryesore, pra e përshkon rryma e plotë e qarkut, ndërsa B, C dhe D e ndajnë atë rrymë midis tyre. Fuqia P = I²R është më e madhe aty ku rryma është më e madhe."
+    "answers": [
+      "Llamba A",
+      "Llamba B",
+      "Llamba C",
+      "Llamba D"
+    ],
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "fizika-rryma-elektrike-067",
     "question": "Kur katër rezistenca identike lidhen si në figurën 1, ampermetri tregon vlerën 1A dhe voltmetri vlerën zero. Nëse elementët i lidhim si në figurën 2, ç'vlera do të tregojë voltmetri dhe ampermetri?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-067.png",
     "imageAlt": "Dy skema me katër rezistenca identike, bateri 6V, ampermetër dhe voltmetër",
-    "answers": ["0V dhe 1A", "0V dhe 0.5A", "3V dhe 1A", "6V dhe 0.5A"],
+    "answers": [
+      "0V dhe 1A",
+      "0V dhe 0.5A",
+      "3V dhe 1A",
+      "6V dhe 0.5A"
+    ],
     "correct": 0,
     "explanation": "Nga figura 1: dy rezistenca në seri janë nën 6V dhe japin 1A, pra secila R = 3Ω. Në figurën 2 bateria është në diagonalen tjetër: dy rrugë të barabarta prej 6Ω secila, pra 1A në secilën (ampermetri 1A), dhe pikat ku lidhet voltmetri janë përsëri në të njëjtin potencial → 0V."
   },
@@ -501,7 +836,12 @@
     "question": "Figura paraqet një qark të thjeshtë me tri rezistenca të lidhura me një bateri me f.e.m. Vlera e rezistencës P është sa ½ e rezistencës Q. Intensiteti i rrymës që kalon në Q është 0.4A. Sa është diferenca potenciale në skajet e rezistencës P?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-068.png",
     "imageAlt": "Qark me bateri ε, rezistencë 3.0Ω në seri dhe rezistencat P e Q në paralel",
-    "answers": ["1/2(ε-1.8)V", "1/3(ε-3.6)V", "(ε-1.8)V", "(ε-3.6)V"],
+    "answers": [
+      "1/2(ε-1.8)V",
+      "1/3(ε-3.6)V",
+      "(ε-1.8)V",
+      "(ε-3.6)V"
+    ],
     "correct": 3,
     "explanation": "P dhe Q janë në paralel, pra U_P = U_Q: I_P·(Q/2) = 0,4·Q → I_P = 0,8A. Rryma e plotë nëpër 3,0Ω = 0,8+0,4 = 1,2A, që jep rënie 3,6V. Prandaj U_P = ε − 3,6V."
   },
@@ -510,7 +850,12 @@
     "question": "Figura tregon një pjesë të një qarku. Sa është vlera e rrymës që kalon në rezistencën 20Ω?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-069.png",
     "imageAlt": "Pjesë qarku me rrymë hyrëse 6.0A dhe rezistenca 10Ω, 10Ω, 20Ω, 20Ω",
-    "answers": ["0.5A", "1A", "4A", "6A"],
+    "answers": [
+      "0.5A",
+      "1A",
+      "4A",
+      "6A"
+    ],
     "correct": 1,
     "explanation": "Dy 20Ω në paralel japin 10Ω; kjo në seri me 10Ω jep 20Ω, që është në paralel me degën tjetër 10Ω. Rryma 6A ndahet në përpjesëtim të zhdrejtë: 4A në degën 10Ω dhe 2A në degën 20Ω. Këto 2A ndahen përgjysmë midis dy rezistencave 20Ω → 1A në secilën."
   },
@@ -519,21 +864,36 @@
     "question": "Katër rezistenca janë lidhur me një bateri si në figurë. Ç'vlerë do të tregojë ampermetri?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-070.png",
     "imageAlt": "Bateri 12V me ampermetër dhe rezistencat 1.0Ω, 3.0Ω, 2.0Ω, 4.0Ω",
-    "answers": ["1A", "3A", "4A", "12A"],
+    "answers": [
+      "1A",
+      "3A",
+      "4A",
+      "12A"
+    ],
     "correct": 2,
     "explanation": "Dega 2,0Ω + 4,0Ω = 6Ω është në paralel me 3,0Ω: 3·6/9 = 2Ω. Me 1,0Ω në seri: R = 3Ω. Ampermetri mat rrymën e plotë: I = 12/3 = 4A."
   },
   {
     "id": "fizika-rryma-elektrike-071",
     "question": "Sa do të jetë f.e.m e një pile, nëse ajo përdor 1kJ energji për të dërguar një rrymë me vlerë 3A nëpër qark për 2 minuta?",
-    "answers": ["2.8V", "6V", "25V", "360V"],
+    "answers": [
+      "2.8V",
+      "6V",
+      "25V",
+      "360V"
+    ],
     "correct": 0,
     "explanation": "q = I·t = 3 · 120 = 360C. ε = W/q = 1000/360 ≈ 2,8V."
   },
   {
     "id": "fizika-rryma-elektrike-072",
     "question": "Një rezistencë ushqehet me tension U dhe përshkohet nga rryma me intensitet I. Shënojmë me q ngarkesën që kalon nëpër rezistencë gjatë një ore, me E energjinë e përçuar në një orë dhe me P fuqinë. Në cilën nga alternativat e mëposhtme shprehet saktë lidhja midis madhësive të mësipërme?",
-    "answers": ["I=3600q; E=3600UI; P=UI", "q=3600I; E=3600UI; P=UI", "q=3600I; E=UI; P=3600UI", "I=3600q; E=UI; P=(1/3600)UI"],
+    "answers": [
+      "I=3600q; E=3600UI; P=UI",
+      "q=3600I; E=3600UI; P=UI",
+      "q=3600I; E=UI; P=3600UI",
+      "I=3600q; E=UI; P=(1/3600)UI"
+    ],
     "correct": 1,
     "explanation": "Një orë = 3600s, prandaj q = I·3600 dhe E = U·I·3600. Fuqia nuk varet nga koha: P = U·I."
   },
@@ -542,35 +902,60 @@
     "question": "Në qark janë lidhur tri llamba identike, një burim rryme dhe një rezistencë me vlerë të ndryshueshme. Bateria ka një f.e.m 3V. Kur rezistenca vendoset në vlerën 0Ω, rryma që kalon në bateri ka vlerën 0.5A. Sa është rezistenca në secilën llambë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-073.png",
     "imageAlt": "Qark me bateri 3V, tri llamba identike dhe një rezistencë të ndryshueshme",
-    "answers": ["2Ω", "4Ω", "6Ω", "18Ω"],
+    "answers": [
+      "2Ω",
+      "4Ω",
+      "6Ω",
+      "18Ω"
+    ],
     "correct": 1,
     "explanation": "R e plotë = 3V/0,5A = 6Ω. Me rezistencën 0Ω, dy llambat në degët paralele japin R/2, plus llamba në seri: R + R/2 = 1,5R = 6Ω → R = 4Ω."
   },
   {
     "id": "fizika-rryma-elektrike-074",
     "question": "Një sistem ndriçues përbëhet nga 10 llamba me ndriçim normal. Pesë prej tyre kanë vlerat 230V dhe 100W, pesë të tjerat 230V dhe 120W. Sa është vlera e siguresës që duhet të lidhim në sistem për mbrojtjen e llambave?",
-    "answers": ["1.09A", "3.64A", "4.8A", "10.2A"],
+    "answers": [
+      "1.09A",
+      "3.64A",
+      "4.8A",
+      "10.2A"
+    ],
     "correct": 2,
     "explanation": "P e plotë = 5·100 + 5·120 = 1100W. I = 1100/230 ≈ 4,8A."
   },
   {
     "id": "fizika-rryma-elektrike-075",
     "question": "Një sistem ndriçues përbëhet nga 10 llamba me ndriçim normal. Pesë prej tyre kanë vlerat 230V dhe 100W, pesë të tjerat 230V dhe 120W. Nëse sistemi ndriçues mbahet ndezur për një javë, sa lekë do të kushtojë energjia e harxhuar, nëse 1KWh kushton 20 lekë?",
-    "answers": ["1680 lekë", "2016 lekë", "3696 lekë", "7392 lekë"],
+    "answers": [
+      "1680 lekë",
+      "2016 lekë",
+      "3696 lekë",
+      "7392 lekë"
+    ],
     "correct": 2,
     "explanation": "P = 1,1kW; një javë = 168 orë → E = 1,1 · 168 = 184,8kWh. Kostoja = 184,8 · 20 = 3696 lekë."
   },
   {
     "id": "fizika-rryma-elektrike-076",
     "question": "Qarku elektrik përbëhet nga një bateri 10V dhe dy rezistenca R₁ dhe R₂ të lidhura në seri. Sa do të jetë vlera e R₁, nëse fuqia e plotë është 50W dhe R₂=3R₁?",
-    "answers": ["0.5Ω", "1Ω", "1.2Ω", "5Ω"],
+    "answers": [
+      "0.5Ω",
+      "1Ω",
+      "1.2Ω",
+      "5Ω"
+    ],
     "correct": 0,
     "explanation": "R e plotë = U²/P = 100/50 = 2Ω. Në seri: R₁ + 3R₁ = 4R₁ = 2Ω → R₁ = 0,5Ω."
   },
   {
     "id": "fizika-rryma-elektrike-077",
     "question": "Energjia e përftuar nga një panel diellor përdoret për të ngarkuar një bateri. Gjatë ditës bateria ruan 1.6J energji çdo sekondë. Natën, bateria përdoret për të ndriçuar një llambë me fuqi 1.2W për 18000s. Sa është koha minimale që duhet për të ngarkuar baterinë gjatë ditës?",
-    "answers": ["9375s", "13500s", "24000s", "34560s"],
+    "answers": [
+      "9375s",
+      "13500s",
+      "24000s",
+      "34560s"
+    ],
     "correct": 1,
     "explanation": "Energjia e nevojshme = 1,2W · 18000s = 21600J. Koha e karikimit = 21600 / 1,6 = 13500s."
   },
@@ -579,7 +964,12 @@
     "question": "Në cilin nga qarqet e mëposhtme voltmetri tregon vlerën 7.2V?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-078.png",
     "imageAlt": "Katër qarqe A, B, C, D me bateri 12V, dy rezistenca në seri dhe voltmetër",
-    "answers": ["Qarku A", "Qarku B", "Qarku C", "Qarku D"],
+    "answers": [
+      "Qarku A",
+      "Qarku B",
+      "Qarku C",
+      "Qarku D"
+    ],
     "correct": 1,
     "explanation": "Voltmetri mat rënien në rezistencën e dytë: U = 12·R₂/(R₁+R₂). Vetëm te qarku B me 4Ω dhe 6Ω del 12·6/10 = 7,2V; te të tjerët dalin 8V, 8V dhe 9V."
   },
@@ -588,21 +978,36 @@
     "question": "Një burim rryme 1.8V lidhet me një qark elektrik me tri rezistenca me vlerë 6Ω secila. Sa është puna e kryer nga bateria në 1 minutë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-079.png",
     "imageAlt": "Bateri 1.8V me një rezistencë 6Ω në paralel me dy rezistenca 6Ω në seri",
-    "answers": ["18J", "48.6J", "108J", "778J"],
+    "answers": [
+      "18J",
+      "48.6J",
+      "108J",
+      "778J"
+    ],
     "correct": 1,
     "explanation": "Dy 6Ω në seri = 12Ω, në paralel me 6Ω: 6·12/18 = 4Ω. I = 1,8/4 = 0,45A. W = U·I·t = 1,8 · 0,45 · 60 = 48,6J."
   },
   {
     "id": "fizika-rryma-elektrike-080",
     "question": "Një tel përçues i lidhur me një burim rryme me tension 230V ka fuqi P₁. Nëse telin e ndajmë në dy pjesë të barabarta dhe i lidhim në paralel me të njëjtin burim rryme, ai do të ketë fuqi P₂. Raporti i fuqive P₂/P₁ është:",
-    "answers": ["1", "2", "3", "4"],
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
     "correct": 3,
     "explanation": "Secila gjysmë ka R/2; të dyja në paralel japin R/4. Me U të njëjtë P = U²/R, prandaj rezistenca 4 herë më e vogël jep fuqi 4 herë më të madhe."
   },
   {
     "id": "fizika-rryma-elektrike-081",
     "question": "Defibrilatori është pajisje që përdoret për t'i dhënë një goditje elektrike zemrës së pacientit. Ai përdor një goditje elektrike me energji 300J dhe një tension mesatar 2000V për 10ms. Sa është vlera mesatare e rrymës që furnizon qarkun?",
-    "answers": ["0.015A", "0.67A", "6.7A", "15A"],
+    "answers": [
+      "0.015A",
+      "0.67A",
+      "6.7A",
+      "15A"
+    ],
     "correct": 3,
     "explanation": "E = U·I·t → I = E/(U·t) = 300 / (2000 · 0,01) = 15A."
   },
@@ -611,21 +1016,36 @@
     "question": "Diagrami i qarkut tregon tre rezistenca R₁, R₂ dhe R₃ të lidhur me një burim rryme. Në secilën rezistencë kalojnë përkatësisht rrymat I₁, I₂ dhe I₃. Cila nga shprehjet e mëposhtme paraqet saktë raportin R₂/R₃?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-082.png",
     "imageAlt": "Qark me R₁ në seri dhe R₂, R₃ në paralel",
-    "answers": ["I₂/I₃", "I₁/I₃ - 1", "I₁/I₂ - 1", "1 + I₃/I₂"],
+    "answers": [
+      "I₂/I₃",
+      "I₁/I₃ - 1",
+      "I₁/I₂ - 1",
+      "1 + I₃/I₂"
+    ],
     "correct": 2,
     "explanation": "R₂ dhe R₃ janë në paralel, pra I₂R₂ = I₃R₃ → R₂/R₃ = I₃/I₂. Meqë I₁ = I₂+I₃, del I₃ = I₁−I₂, pra R₂/R₃ = (I₁−I₂)/I₂ = I₁/I₂ − 1."
   },
   {
     "id": "fizika-rryma-elektrike-083",
     "question": "Rryma me intensitet 3A kalon nëpër një qark elektrik për 5 minuta duke kryer një punë 900J. Sa është f.e.m. e burimit?",
-    "answers": ["1V", "3V", "5V", "10V"],
+    "answers": [
+      "1V",
+      "3V",
+      "5V",
+      "10V"
+    ],
     "correct": 0,
     "explanation": "W = ε·I·t → ε = 900 / (3 · 300) = 1V."
   },
   {
     "id": "fizika-rryma-elektrike-084",
     "question": "Përdorimi i cilës nga pajisjeve të mëposhtme do të na kushtojë më pak? (Çmimi për 1kWh është 20 lekë)",
-    "answers": ["Kompjuter (fuqia 1500W, koha e përdorimit 8 orë)", "Ndriçues tavoline (fuqia 800W, koha e përdorimit 18 orë)", "Drita (fuqia 3000W, koha e përdorimit 3 orë)", "Ngrohës uji (fuqia 2500W, koha e përdorimit 6 orë)"],
+    "answers": [
+      "Kompjuter (fuqia 1500W, koha e përdorimit 8 orë)",
+      "Ndriçues tavoline (fuqia 800W, koha e përdorimit 18 orë)",
+      "Drita (fuqia 3000W, koha e përdorimit 3 orë)",
+      "Ngrohës uji (fuqia 2500W, koha e përdorimit 6 orë)"
+    ],
     "correct": 2,
     "explanation": "E = P·t: 12kWh; 14,4kWh; 9kWh; 15kWh. Më pak energji (dhe kosto) harxhon drita: 3kW · 3h = 9kWh."
   },
@@ -634,21 +1054,36 @@
     "question": "Në qarkun e treguar ampermetri shënon vlerën 2A. Sa do të jetë vlera që tregon voltmetri?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-085.png",
     "imageAlt": "Qark me bateri 12V, ampermetër, rezistencë R me voltmetër dhe rezistencë 4Ω",
-    "answers": ["4V", "6V", "8V", "12V"],
+    "answers": [
+      "4V",
+      "6V",
+      "8V",
+      "12V"
+    ],
     "correct": 0,
     "explanation": "Rënia në 4Ω = I·R = 2·4 = 8V. Voltmetri mat pjesën e mbetur të tensionit të baterisë: 12 − 8 = 4V."
   },
   {
     "id": "fizika-rryma-elektrike-086",
     "question": "Diferenca e potencialit në skajet e një rezistence 10Ω është 5V. Ç'ngarkesë kalon në rezistencë në 30s?",
-    "answers": ["2C", "15C", "60C", "1500C"],
+    "answers": [
+      "2C",
+      "15C",
+      "60C",
+      "1500C"
+    ],
     "correct": 1,
     "explanation": "I = U/R = 5/10 = 0,5A. q = I·t = 0,5 · 30 = 15C."
   },
   {
     "id": "fizika-rryma-elektrike-087",
     "question": "Një akumulator, furnizon me ngarkesë 9600C, një përçues me rezistencë 18Ω në 7200s. Sa është puna e kryer për të lëvizur ngarkesën 1C nëpër përçues?",
-    "answers": ["12J", "21.5J", "24J", "32J"],
+    "answers": [
+      "12J",
+      "21.5J",
+      "24J",
+      "32J"
+    ],
     "correct": 2,
     "explanation": "I = q/t = 9600/7200 ≈ 1,33A. U = I·R = 1,33 · 18 = 24V. Puna për 1C është pikërisht U = 24J."
   },
@@ -657,119 +1092,204 @@
     "question": "Dy rezistenca 6Ω dhe 12Ω janë lidhur në paralel. Midis pikave X dhe Y zbatohet një diferencë potenciali. Rryma në rezistencën 6Ω është 4A. Sa është vlera e rrymës që tregon ampermetri?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-088.png",
     "imageAlt": "Rezistencat 6Ω dhe 12Ω në paralel midis pikave X dhe Y, me ampermetër në degën kryesore",
-    "answers": ["4A", "6A", "8A", "12A"],
+    "answers": [
+      "4A",
+      "6A",
+      "8A",
+      "12A"
+    ],
     "correct": 1,
     "explanation": "U = 4 · 6 = 24V, i njëjtë për të dyja. I(12Ω) = 24/12 = 2A. Ampermetri mat rrymën e plotë: 4 + 2 = 6A."
   },
   {
     "id": "fizika-rryma-elektrike-089",
     "question": "Në një qark me bateri me f.e.m 6V, kalojnë 10C ngarkesa për 15s. Sa është fuqia në qark?",
-    "answers": ["4W", "24W", "60W", "240W"],
+    "answers": [
+      "4W",
+      "24W",
+      "60W",
+      "240W"
+    ],
     "correct": 0,
     "explanation": "I = q/t = 10/15 ≈ 0,67A. P = ε·I = 6 · 0,67 = 4W."
   },
   {
     "id": "fizika-rryma-elektrike-090",
     "question": "Një kilowat-orë energji elektrike shpenzohet kur:",
-    "answers": ["një llambë 50W përdoret për 220 orë.", "një ngrohës 3000W përdoret për 20 minuta.", "një llambë 100W përdoret për 1 orë.", "dy llamba nga 100W të lidhura në paralel përdoren për 1/2 orë."],
+    "answers": [
+      "një llambë 50W përdoret për 220 orë.",
+      "një ngrohës 3000W përdoret për 20 minuta.",
+      "një llambë 100W përdoret për 1 orë.",
+      "dy llamba nga 100W të lidhura në paralel përdoren për 1/2 orë."
+    ],
     "correct": 1,
     "explanation": "E = P·t: 3kW · (1/3)h = 1kWh ✓. Të tjerat japin 11kWh, 0,1kWh dhe 0,1kWh."
   },
   {
     "id": "fizika-rryma-elektrike-091",
     "question": "Një burim rryme me rezistencë të brendshme r përdoret për të vënë në punë një llambë me rezistencë R. Ç'pjesë e fuqisë totale i jepet llambës?",
-    "answers": ["(R+r)/R", "(R−r)/R", "R/(R+r)", "R/r"],
+    "answers": [
+      "(R+r)/R",
+      "(R−r)/R",
+      "R/(R+r)",
+      "R/r"
+    ],
     "correct": 2,
     "explanation": "R dhe r janë në seri me të njëjtën rrymë: P_llambë/P_totale = I²R / I²(R+r) = R/(R+r)."
   },
   {
     "id": "fizika-rryma-elektrike-092",
     "question": "Një burim me f.e.m. 24V dhe rezistencë të brendshme r është lidhur me një rezistencë 11Ω. Rënia e tensionit në skajet e rezistencës është 22V. Rezistenca e brendshme është:",
-    "answers": ["0.5Ω", "0.75Ω", "1Ω", "1.25Ω"],
+    "answers": [
+      "0.5Ω",
+      "0.75Ω",
+      "1Ω",
+      "1.25Ω"
+    ],
     "correct": 2,
     "explanation": "I = 22/11 = 2A. Rënia e brendshme = 24 − 22 = 2V, pra r = 2/2 = 1Ω."
   },
   {
     "id": "fizika-rryma-elektrike-093",
     "question": "Dy tela përcjellës prej bakri kanë gjatësi të njëjtë. I pari është një shufër e plotë dhe i dyti është në formë tubi me diametër të njëjtë me të parin. Cili nga pohimet e mëposhtëm është i saktë?",
-    "answers": ["Teli përcjellës në formë shufre të plotë, ka rezistencë më të madhe.", "Teli përcjellës në formë tubi ka rezistencë më të madhe.", "Rezistencat e tyre kanë vlerë të njëjtë.", "Rezistencat e tyre nuk mund t'i krahasojmë."],
+    "answers": [
+      "Teli përcjellës në formë shufre të plotë, ka rezistencë më të madhe.",
+      "Teli përcjellës në formë tubi ka rezistencë më të madhe.",
+      "Rezistencat e tyre kanë vlerë të njëjtë.",
+      "Rezistencat e tyre nuk mund t'i krahasojmë."
+    ],
     "correct": 1,
     "explanation": "Tubi është i zbrazët në mes, pra ka sipërfaqe efektive të prerjes tërthore më të vogël. Meqë R = ρl/S, sipërfaqja më e vogël jep rezistencë më të madhe."
   },
   {
     "id": "fizika-rryma-elektrike-094",
     "question": "Dy përcjellësa A dhe B përbëhen prej të njëjtit material. Përcjellësi A është 4 herë më i gjatë se përcjellësi B. Përcjellësi B e ka sipërfaqen e prerjes tërthore 2 herë më të madhe se përcjellësi A. Raporti i rezistencave të përcjellësit B ndaj A është:",
-    "answers": ["1/8", "1/4", "1/2", "1"],
+    "answers": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "1"
+    ],
     "correct": 0,
     "explanation": "R_A = ρ·4l/S dhe R_B = ρ·l/(2S). Raporti R_B/R_A = (1/2)/4 = 1/8."
   },
   {
     "id": "fizika-rryma-elektrike-095",
     "question": "Gjatë procesit të telëzimit, një tel përcjellës me gjatësi 1m, prej bakri u bë 8 herë më i gjatë dhe diametri i tij prej 2cm u zvogëlua me 2 herë. Rezistenca e tij pas procesit të telëzimit u rrit:",
-    "answers": ["4 herë", "8 herë", "16 herë", "32 herë"],
+    "answers": [
+      "4 herë",
+      "8 herë",
+      "16 herë",
+      "32 herë"
+    ],
     "correct": 3,
     "explanation": "Gjatësia ×8 rrit R me 8. Diametri /2 do të thotë sipërfaqe /4, që rrit R edhe 4 herë. Gjithsej 8 · 4 = 32 herë."
   },
   {
     "id": "fizika-rryma-elektrike-096",
     "question": "Përcjellësi me gjatësi 4m dhe diametër 6mm, e ka rezistencën 15mΩ. Rezistenca specifike e tij është: (π=3.14)",
-    "answers": ["10,6·10⁻⁸Ω·m", "18,6·10⁻⁸Ω·m", "24,6·10⁻⁸Ω·m", "32,6·10⁻⁸Ω·m"],
+    "answers": [
+      "10,6·10⁻⁸Ω·m",
+      "18,6·10⁻⁸Ω·m",
+      "24,6·10⁻⁸Ω·m",
+      "32,6·10⁻⁸Ω·m"
+    ],
     "correct": 0,
     "explanation": "S = πd²/4 = 3,14·(6·10⁻³)²/4 ≈ 2,83·10⁻⁵m². ρ = R·S/l = 0,015 · 2,83·10⁻⁵ / 4 ≈ 10,6·10⁻⁸Ω·m."
   },
   {
     "id": "fizika-rryma-elektrike-097",
     "question": "Dy përcjellësa cilindrik A dhe B kanë gjatësi të njëjtë dhe janë prej të njëjtit material. Rezistenca e A është 4 herë më e madhe se e B. Diametri i përcjellësit B në krahasim me atë të përcjellësit A do të jetë:",
-    "answers": ["√2 herë më i vogël", "2 herë më i vogël", "√2 herë më i madh", "2 herë më i madh"],
+    "answers": [
+      "√2 herë më i vogël",
+      "2 herë më i vogël",
+      "√2 herë më i madh",
+      "2 herë më i madh"
+    ],
     "correct": 3,
     "explanation": "R ∝ 1/S ∝ 1/d². R_A = 4R_B do të thotë S_B = 4S_A, pra d_B² = 4d_A² → d_B = 2d_A."
   },
   {
     "id": "fizika-rryma-elektrike-098",
     "question": "Tri tela përcjellës i kanë rezistencat e tyre R₁, R₂ dhe R₃. Teli i dytë dhe i tretë e kanë rezistencën specifike 2 herë më të madhe se i pari. Teli i dytë ka gjatësinë sa i pari dhe diametrin √2 herë më të madhe se i pari. Teli i tretë e ka edhe gjatësinë edhe diametrin 2 herë më të madh se i pari. Lidhja e rezistencave të tyre është:",
-    "answers": ["R₁<R₂=R₃", "R₁=R₂<R₃", "R₁=R₂=R₃", "R₁=R₂>R₃"],
+    "answers": [
+      "R₁<R₂=R₃",
+      "R₁=R₂<R₃",
+      "R₁=R₂=R₃",
+      "R₁=R₂>R₃"
+    ],
     "correct": 2,
     "explanation": "R₂ = 2ρ·l/(2S) = ρl/S = R₁ (diametri √2 herë më i madh dyfishon S). R₃ = 2ρ·2l/(4S) = ρl/S = R₁. Pra të tria janë të barabarta."
   },
   {
     "id": "fizika-rryma-elektrike-099",
     "question": "Ndërmarrja elektrike vendos një tel prej bakri, me gjatësi 100m, nga stacioni i rrugës deri te banesa e konsumatorit. Dimë që rezistenca e telit është 0,6Ω për 300m. Pas një kohe pune, rezistenca e telit u ngroh dhe u rrit me 10% e vlerës fillestare. Vlera e rezistencës pas ngrohjes është:",
-    "answers": ["0,22Ω", "0,33Ω", "0,44Ω", "0,55Ω"],
+    "answers": [
+      "0,22Ω",
+      "0,33Ω",
+      "0,44Ω",
+      "0,55Ω"
+    ],
     "correct": 0,
     "explanation": "Për 100m: R = 0,6 · (100/300) = 0,2Ω. Pas rritjes me 10%: 0,2 · 1,1 = 0,22Ω."
   },
   {
     "id": "fizika-rryma-elektrike-100",
     "question": "Në një qark elektrik rezistenca doli jashtë përdorimit dhe duhet zëvendësuar me një rezistencë me vlerë të njëjtë. Rezistenca zëvendësuese e ka rezistencën specifike 1,5 herë më të madhe se e të parës dhe gjatësinë 3 herë më të madhe. Sa do të jetë vlera e sipërfaqes së prerjes tërthore të kësaj rezistence në lidhje me të parën, në mënyrë që të mos sjellë ndryshime në qark?",
-    "answers": ["S₂=S₁", "S₂=2·S₁", "S₂=4,5·S₁", "S₂=6·S₁"],
+    "answers": [
+      "S₂=S₁",
+      "S₂=2·S₁",
+      "S₂=4,5·S₁",
+      "S₂=6·S₁"
+    ],
     "correct": 2,
     "explanation": "Që R të mbetet e njëjtë te R = ρl/S, sipërfaqja duhet të rritet sa prodhimi i faktorëve: 1,5 · 3 = 4,5, pra S₂ = 4,5·S₁."
   },
   {
     "id": "fizika-rryma-elektrike-101",
     "question": "Dy shufra përcjellëse prej bakri kanë gjatësi që rrinë si l₁:l₂=1:4 dhe diametra D₁:D₂=1:2. Raporti i rezistencave të tyre është:",
-    "answers": ["1", "2", "8", "16"],
+    "answers": [
+      "1",
+      "2",
+      "8",
+      "16"
+    ],
     "correct": 0,
     "explanation": "S ∝ D², pra S₁:S₂ = 1:4. R = ρl/S → R₁:R₂ = (1/1):(4/4) = 1:1, pra raporti është 1."
   },
   {
     "id": "fizika-rryma-elektrike-102",
     "question": "Rezistenca e një furnele elektrike është 30Ω. Si rezultat i një defekti u shkurtua me 1/10 e gjatësisë së saj. Rezistenca e pjesës së mbetur është:",
-    "answers": ["33 Ω", "30 Ω", "27 Ω", "24 Ω"],
+    "answers": [
+      "33 Ω",
+      "30 Ω",
+      "27 Ω",
+      "24 Ω"
+    ],
     "correct": 2,
     "explanation": "Mbetet 9/10 e gjatësisë dhe R ∝ l: R' = 30 · 0,9 = 27Ω."
   },
   {
     "id": "fizika-rryma-elektrike-103",
     "question": "Teli përcjellës me rezistencë 40Ω si rezultat i punës për një kohë të gjatë, e rriti gjatësinë e tij me 20%, diametrin e rriti me 4% dhe rezistencën specifike e rriti me 10%. Vlera e rezistencës së tij në këtë regjim pune është:",
-    "answers": ["42,2Ω", "44,4Ω", "46,6Ω", "48,8Ω"],
+    "answers": [
+      "42,2Ω",
+      "44,4Ω",
+      "46,6Ω",
+      "48,8Ω"
+    ],
     "correct": 3,
     "explanation": "R' = R · (1,10 · 1,20) / (1,04)² = 40 · 1,32 / 1,0816 ≈ 48,8Ω. Diametri hyn në katror sepse S ∝ d²."
   },
   {
     "id": "fizika-rryma-elektrike-104",
     "question": "Një tel përcjellës cilindrik e ka gjatësinë 50m, rezistencën 2,5Ω dhe rezistencën specifike 1,5·10⁻⁶Ωm. Rrezja e telit është: (π=3.14)",
-    "answers": ["0,1mm", "1,1mm", "2,1mm", "3,1mm"],
+    "answers": [
+      "0,1mm",
+      "1,1mm",
+      "2,1mm",
+      "3,1mm"
+    ],
     "correct": 3,
     "explanation": "S = ρl/R = 1,5·10⁻⁶ · 50 / 2,5 = 3·10⁻⁵m². r = √(S/π) = √(3·10⁻⁵/3,14) ≈ 3,1·10⁻³m = 3,1mm."
   },
@@ -778,7 +1298,12 @@
     "question": "Një qark përbëhet nga dy bateri, dy rezistenca dhe tre ampermetra të lidhura si në figurë. Vlerat e f.e.m. janë përkatësisht 10V dhe 5V. Vlerat që tregojnë ampermetrat në qark janë:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-105.png",
     "imageAlt": "Qark me bateri 10V dhe 5V, dy rezistenca 20Ω dhe tre ampermetra A₁, A₂, A₃",
-    "answers": ["0.4A; 0.25A; 0.25A", "0.5A; 0.25A; 0.25A", "1A; 0.25A; 0.75A", "1A; 0.5A; 0.5A"],
+    "answers": [
+      "0.4A; 0.25A; 0.25A",
+      "0.5A; 0.25A; 0.25A",
+      "1A; 0.25A; 0.75A",
+      "1A; 0.5A; 0.5A"
+    ],
     "correct": 1,
     "explanation": "Në rezistencën e parë 20Ω bie diferenca 10V − 5V = 5V → I = 0,25A... më saktë: rryma nëpër 20Ω e sipërme = (15−5)/20 = 0,5A (A₁), ndërsa nëpër 20Ω e dytë kalon 5/20 = 0,25A (A₃) dhe pjesa tjetër 0,25A shkon nëpër A₂. Pra 0,5A; 0,25A; 0,25A."
   },
@@ -787,7 +1312,12 @@
     "question": "Në figurë paraqitet skema e një qarku elektrik. Ampermetri tregon vlerën 0.05A. Sa është vlera e rezistencës P?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-106.png",
     "imageAlt": "Qark 15V me rezistencën P në seri dhe katër rezistenca 100Ω në paralel, me ampermetër",
-    "answers": ["50Ω", "100Ω", "150Ω", "300Ω"],
+    "answers": [
+      "50Ω",
+      "100Ω",
+      "150Ω",
+      "300Ω"
+    ],
     "correct": 0,
     "explanation": "Katër rezistencat 100Ω janë në paralel, secila me 0,05A → tensioni i tyre = 0,05·100 = 5V dhe rryma e plotë = 4·0,05 = 0,2A. Në P bie 15 − 5 = 10V, pra P = 10/0,2 = 50Ω."
   },
@@ -796,7 +1326,12 @@
     "question": "Një bateri me f.e.m ε dhe rezistencë të brendshme r, furnizohet me një rrymë me intensitet 0.025A për 80s. Gjatë kësaj kohe ajo prodhon 18J energji elektrike, ndërkohë që rezistenca P merr 11J energji dhe rezistenca Q merr 4J. Cilat janë vlerat për rezistencën e brendshme dhe f.e.m?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-107.png",
     "imageAlt": "Qark me bateri ε dhe rezistencë të brendshme r, lidhur me rezistencat P dhe Q",
-    "answers": ["60Ω dhe 360V", "60Ω dhe 9V", "300Ω dhe 9V", "300Ω dhe 360V"],
+    "answers": [
+      "60Ω dhe 360V",
+      "60Ω dhe 9V",
+      "300Ω dhe 9V",
+      "300Ω dhe 360V"
+    ],
     "correct": 1,
     "explanation": "q = 0,025·80 = 2C → ε = 18/2 = 9V. Energjia e humbur brenda = 18 − 11 − 4 = 3J = I²·r·t → 3 = 0,025²·r·80 → r = 60Ω."
   },
@@ -805,7 +1340,12 @@
     "question": "Një burim me f.e.m 120V dhe rezistencë të brendshme r është lidhur me dy rezistenca R₁ dhe R₂ si në figurë. Vlerat e rrymës në secilën rezistencë janë 1.2A dhe 0.4A. Sa është rezistenca e brendshme e burimit?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-108.png",
     "imageAlt": "Burim 120V me rezistencat 80Ω (1.2A) dhe R₂ (0.4A) në paralel",
-    "answers": ["15Ω", "20Ω", "60Ω", "75Ω"],
+    "answers": [
+      "15Ω",
+      "20Ω",
+      "60Ω",
+      "75Ω"
+    ],
     "correct": 0,
     "explanation": "Tensioni në grupin paralel = 1,2 · 80 = 96V. Rryma e plotë = 1,2 + 0,4 = 1,6A. Rënia e brendshme = 120 − 96 = 24V → r = 24/1,6 = 15Ω."
   },
@@ -814,7 +1354,12 @@
     "question": "Një bateri me katër elemente të njëjta me f.e.m 1.5V dhe rezistencë të brendshme r=0.5Ω secili, janë lidhur me dy rezistenca R₁=6Ω dhe R₂=12Ω në një qark elektrik si në figurë. Sa është vlera e rrymës që kalon në qark?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-109.png",
     "imageAlt": "Katër elemente 1.5V në seri të lidhura me rezistencat 6Ω dhe 12Ω në paralel",
-    "answers": ["0.5A", "1A", "1.5A", "2A"],
+    "answers": [
+      "0.5A",
+      "1A",
+      "1.5A",
+      "2A"
+    ],
     "correct": 1,
     "explanation": "Në seri: ε = 4·1,5 = 6V dhe r = 4·0,5 = 2Ω. Rezistencat në paralel: 6·12/18 = 4Ω. I = 6/(4+2) = 1A."
   },
@@ -823,14 +1368,24 @@
     "question": "Figura e mëposhtme paraqet një qark të përbërë nga një bateri me f.e.m Ɛ, tri rezistenca, një voltmetër dhe një ampermetër. Cili nga pohimet e mëposhtme shpreh saktë leximin e ampermetrit dhe voltmetrit?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-110.png",
     "imageAlt": "Qark me bateri Ɛ, rezistencat R₁, R₂, R₃, një voltmetër dhe një ampermetër",
-    "answers": ["ampermetri: I₂; voltmetri: I₄R₃+I₃R₂", "ampermetri: I₃+I₄; voltmetri: Ɛ", "ampermetri: I₁; voltmetri: Ɛ− I₄R₃", "ampermetri: I₁+I₃; voltmetri: I₂R₁"],
+    "answers": [
+      "ampermetri: I₂; voltmetri: I₄R₃+I₃R₂",
+      "ampermetri: I₃+I₄; voltmetri: Ɛ",
+      "ampermetri: I₁; voltmetri: Ɛ− I₄R₃",
+      "ampermetri: I₁+I₃; voltmetri: I₂R₁"
+    ],
     "correct": 2,
     "explanation": "Ampermetri ndodhet në degën kryesore, pra mat rrymën e plotë I₁. Voltmetri mat tensionin në grupin paralel, që është f.e.m minus rënia në R₃: Ɛ − I₄R₃."
   },
   {
     "id": "fizika-rryma-elektrike-111",
     "question": "Kur një rezistencë 4Ω lidhet me një burim rryme, në qark rrjedh rryma me intensitet 2A. Kur rezistencën e zëvendësojmë me një rezistencë 2Ω, rryma që kalon në qark bëhet 3A. Cili nga pohimet shpreh saktë vlerat e f.e.m Ɛ dhe rezistencës së brendshme r?",
-    "answers": ["Ɛ=15V, r=4Ω", "Ɛ=12V, r=2Ω", "Ɛ=10V, r=1Ω", "Ɛ=8V, r=0Ω"],
+    "answers": [
+      "Ɛ=15V, r=4Ω",
+      "Ɛ=12V, r=2Ω",
+      "Ɛ=10V, r=1Ω",
+      "Ɛ=8V, r=0Ω"
+    ],
     "correct": 1,
     "explanation": "Ɛ = I(R+r): 2(4+r) = 3(2+r) → 8+2r = 6+3r → r = 2Ω. Atëherë Ɛ = 2(4+2) = 12V."
   },
@@ -839,7 +1394,12 @@
     "question": "Figura tregon qarkun e një tharëse flokësh. Motori ka fuqi 0.1kW dhe secila nga rezistencat ka fuqi 0.4kW. Çmimi i energjisë elektrike është 20 lekë për kWh. Sa është vlera e energjisë së harxhuar nga tharësja, nëse ajo punon 2 orë me çelësin P dhe Q të mbyllur dhe çelësin R të hapur?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-112.png",
     "imageAlt": "Qark i tharëses së flokëve me motor M dhe çelësat P, Q, R me rezistenca ngrohëse",
-    "answers": ["10 lekë", "20 lekë", "25 lekë", "30 lekë"],
+    "answers": [
+      "10 lekë",
+      "20 lekë",
+      "25 lekë",
+      "30 lekë"
+    ],
     "correct": 1,
     "explanation": "Me R të hapur punojnë motori (0,1kW) dhe një rezistencë (0,4kW) → P = 0,5kW. E = 0,5 · 2 = 1kWh → 20 lekë."
   },
@@ -848,7 +1408,12 @@
     "question": "Në qarqet e mëposhtme, rezistenca P është sa dyfishi i rezistencës Q. Cili nga qarqet ka rezistencën e njëvlershme më të vogël?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-113.png",
     "imageAlt": "Katër qarqe A, B, C, D me rezistencat P dhe Q në kombinime të ndryshme",
-    "answers": ["Qarku A", "Qarku B", "Qarku C", "Qarku D"],
+    "answers": [
+      "Qarku A",
+      "Qarku B",
+      "Qarku C",
+      "Qarku D"
+    ],
     "correct": 0,
     "explanation": "Me Q = R dhe P = 2R: qarku A jep dy grupe (P∥Q) në seri = 2·(2R/3) = 4R/3, që është vlera më e vogël krahasuar me kombinimet e tjera (1,5R, 4R dhe 3R)."
   },
@@ -857,14 +1422,24 @@
     "question": "Figura e mëposhtme tregon skemën e një qarku elektrik ku janë lidhur tri rezistenca. Dy nga rezistencat, të shënuara me R janë të njëjta, rezistenca tjetër ka vlerë 10Ω. Rezistenca e njëvlershme midis Y dhe Z ka vlerën 5Ω. Sa është rezistenca e njëvlershme midis X dhe Z?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-114.png",
     "imageAlt": "Trekëndësh rezistencash me dy rezistenca R dhe një 10Ω, midis pikave X, Y, Z",
-    "answers": ["0.26Ω", "1.9Ω", "2.5Ω", "3.75Ω"],
+    "answers": [
+      "0.26Ω",
+      "1.9Ω",
+      "2.5Ω",
+      "3.75Ω"
+    ],
     "correct": 3,
     "explanation": "Midis Y dhe Z: 10 ∥ (R+R) = 5 → 20R = 50+10R → R = 5Ω. Midis X dhe Z: R ∥ (R+10) = 5 ∥ 15 = 75/20 = 3,75Ω."
   },
   {
     "id": "fizika-rryma-elektrike-115",
     "question": "Dy rezistenca me vlera përkatësisht 2Ω dhe 4Ω janë lidhur në seri me një bateri me tension 6V. Nxehtësia e çliruar në rezistencën 4Ω gjatë 5s është:",
-    "answers": ["5J", "10J", "20J", "30J"],
+    "answers": [
+      "5J",
+      "10J",
+      "20J",
+      "30J"
+    ],
     "correct": 2,
     "explanation": "I = 6/(2+4) = 1A. Q = I²·R·t = 1² · 4 · 5 = 20J."
   },
@@ -873,7 +1448,12 @@
     "question": "Në qarkun e dhënë në figurë kalon rryma 3A kur çelësi është i hapur. Nëse çelësi mbyllet, rryma në qark bëhet 4A. F.e.m. dhe rezistenca e brendshme e burimit janë:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-116.png",
     "imageAlt": "Qark me çelës, rezistencë 6Ω, llambë 6Ω dhe rezistencë 4Ω",
-    "answers": ["12V; 0.5Ω", "18V; 1Ω", "24V; 1.5Ω", "36V; 2Ω"],
+    "answers": [
+      "12V; 0.5Ω",
+      "18V; 1Ω",
+      "24V; 1.5Ω",
+      "36V; 2Ω"
+    ],
     "correct": 3,
     "explanation": "Me çelësin hapur: R = 6+4 = 10Ω → ε = 3(10+r). Me çelësin mbyllur: 6∥6 = 3Ω, plus 4Ω = 7Ω → ε = 4(7+r). Barazimi jep r = 2Ω dhe ε = 36V."
   },
@@ -882,7 +1462,12 @@
     "question": "Figura tregon një qark që përmban dy burime me f.e.m. me vlera Ɛ₁=4V, Ɛ₂=2V dhe dy rezistenca me vlerë 5Ω dhe 20Ω. Sa do të jetë vlera e intensitetit të rrymës në secilën rezistencë?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-117.png",
     "imageAlt": "Qark me dy burime 4V dhe 2V dhe rezistencat 5Ω e 20Ω",
-    "answers": ["0.1A; 0.3A", "0.3A; 0.4A", "0.4A; 0.1A", "0.8A; 0.4A"],
+    "answers": [
+      "0.1A; 0.3A",
+      "0.3A; 0.4A",
+      "0.4A; 0.1A",
+      "0.8A; 0.4A"
+    ],
     "correct": 2,
     "explanation": "Burimi 2V e fikson tensionin në 20Ω → I = 2/20 = 0,1A. Në degën me 5Ω vepron diferenca 4V − 2V = 2V → I = 2/5 = 0,4A."
   },
@@ -891,7 +1476,12 @@
     "question": "Figura tregon katër rezistenca të lidhura me një burim rryme të vazhduar 30V. Sa është tensioni në AB?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-118.png",
     "imageAlt": "Qark 30V me rezistencat 10Ω, 20Ω, 25Ω dhe 35Ω midis pikave A dhe B",
-    "answers": ["12V", "18V", "20V", "30V"],
+    "answers": [
+      "12V",
+      "18V",
+      "20V",
+      "30V"
+    ],
     "correct": 1,
     "explanation": "Dega 25Ω+35Ω = 60Ω është në paralel me 20Ω midis A dhe B: 20·60/80 = 15Ω. Kjo është në seri me 10Ω nën 30V: U_AB = 30 · 15/25 = 18V."
   },
@@ -900,7 +1490,12 @@
     "question": "Tri rezistenca lidhen me një burim rryme të vazhduar me vlerë 3V si në figurë. Cila nga alternativat shpreh saktë vlerat I₁ dhe U₁?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-119.png",
     "imageAlt": "Burim 3V me rezistencë 1Ω në paralel me degën 1Ω+2Ω dhe voltmetër V₁",
-    "answers": ["I₁=1.5A dhe U₁=3V", "I₁=6A dhe U₁=3V", "I₁=4A dhe U₁=3V", "I₁=4A dhe U₁=1V"],
+    "answers": [
+      "I₁=1.5A dhe U₁=3V",
+      "I₁=6A dhe U₁=3V",
+      "I₁=4A dhe U₁=3V",
+      "I₁=4A dhe U₁=1V"
+    ],
     "correct": 3,
     "explanation": "Dega 1Ω: I = 3/1 = 3A. Dega 1Ω+2Ω = 3Ω: I = 3/3 = 1A. Rryma e plotë I₁ = 4A. Voltmetri mat rënien në 1Ω të degës së dytë: U₁ = 1·1 = 1V."
   },
@@ -909,7 +1504,12 @@
     "question": "Qarku paraqet lidhjen e katër rezistencave me vlera të ndryshme. Për cilin nga kombinimet e çelësave do të kemi rrymën më të lartë në qark?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-120.png",
     "imageAlt": "Qark me rezistencat 1Ω, 2Ω, 8Ω, 4Ω dhe çelësat P, Q, R",
-    "answers": ["P-hapur, Q-hapur, R-hapur", "P-hapur, Q-mbyllur, R-mbyllur", "P-mbyllur, Q-hapur, R-mbyllur", "P-mbyllur, Q-mbyllur, R-mbyllur"],
+    "answers": [
+      "P-hapur, Q-hapur, R-hapur",
+      "P-hapur, Q-mbyllur, R-mbyllur",
+      "P-mbyllur, Q-hapur, R-mbyllur",
+      "P-mbyllur, Q-mbyllur, R-mbyllur"
+    ],
     "correct": 3,
     "explanation": "Rryma është maksimale kur rezistenca e njëvlershme është minimale. Kur të tre çelësat mbyllen, hyjnë në punë të gjitha degët paralele (1Ω∥8Ω dhe 2Ω∥4Ω), pra rezistenca më e vogël e mundshme."
   },
@@ -918,7 +1518,12 @@
     "question": "Në qark paraqiten tri rezistenca identike. Cila nga alternativat e mëposhtme shpreh saktë raportin e nxehtësisë në rezistencën Q me nxehtësinë në P (Q_Q/Q_P), për të njëjtën kohë pune?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-121.png",
     "imageAlt": "Rezistencë P në seri me dy rezistenca identike Q dhe R në paralel",
-    "answers": ["0.25", "0.5", "2", "4"],
+    "answers": [
+      "0.25",
+      "0.5",
+      "2",
+      "4"
+    ],
     "correct": 0,
     "explanation": "P përshkohet nga rryma e plotë I, ndërsa Q merr gjysmën, I/2. Meqë Q = I²Rt me R të njëjtë, raporti = (I/2)²/I² = 1/4 = 0,25."
   },
@@ -927,7 +1532,12 @@
     "question": "Tri pila të njëjta, secila me një f.e.m 1.5V dhe një rezistencë të brendshme r, janë lidhur në seri me një rezistencë R, fillimisht si në figurën 1 dhe pastaj si në figurën 2. Cili pohim shpreh saktë raportin e fuqive të rezistencës R në figurën 1 dhe figurën 2 (P₁/P₂)?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-122.png",
     "imageAlt": "Tri pila në seri me rezistencën R: në figurën 2 njëra pilë është e kthyer nga e kundërta",
-    "answers": ["3", "5", "7", "9"],
+    "answers": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
     "correct": 3,
     "explanation": "Në figurën 1: ε = 4,5V. Në figurën 2 njëra pilë është e kthyer, pra ε = 1,5+1,5−1,5 = 1,5V. Rezistenca e qarkut nuk ndryshon, pra P ∝ ε²: raporti = (4,5/1,5)² = 9."
   },
@@ -936,7 +1546,12 @@
     "question": "Në qark janë lidhur shtatë rezistenca të njëjta R si në figurë. Rezistenca ekuivalente në daljet X dhe Y është:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-123.png",
     "imageAlt": "Shtatë rezistenca të njëjta R në formë gjashtëkëndëshi me një rezistencë diagonale, me daljet X dhe Y",
-    "answers": ["R/3", "2R/3", "5R/7", "11R/15"],
+    "answers": [
+      "R/3",
+      "2R/3",
+      "5R/7",
+      "11R/15"
+    ],
     "correct": 3,
     "explanation": "Përveç rezistencës që lidh drejtpërdrejt X me Y, rruga tjetër është 2R deri te nyja e mesme, ku dega e shkurtër R është në paralel me 3R: R∥3R = 3R/4, pra 2R + 3R/4 = 11R/4. Kjo në paralel me R jep 11R/15."
   },
@@ -945,14 +1560,24 @@
     "question": "Një burim me f.e.m 5V dhe rezistencë të brendshme të papërfillshme është i lidhur me katër rezistenca identike 1Ω dhe një rezistencë tjetër 5Ω, si në figurë. Vlera që tregon voltmetri është:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-124.png",
     "imageAlt": "Burim 5V me katër rezistenca 1Ω në dy degë paralele dhe një rezistencë 5Ω, me voltmetër",
-    "answers": ["0V", "2V", "3V", "5V"],
+    "answers": [
+      "0V",
+      "2V",
+      "3V",
+      "5V"
+    ],
     "correct": 0,
     "explanation": "Të dyja degët kanë nga dy rezistenca të njëjta 1Ω, pra tensioni ndahet njësoj në secilën. Pikat ku lidhet voltmetri kanë të njëjtin potencial → leximi 0V (urë e balancuar)."
   },
   {
     "id": "fizika-rryma-elektrike-125",
     "question": "Dy tela përcjellës në formë cilindrike kanë gjatësi të njëjtë dhe janë prej të njëjtit material. Rezistenca e të parit është 3 herë më e vogël se e të dytit. Diametri i përcjellësit të dytë është:",
-    "answers": ["D₂ = D₁/√3", "D₂ = D₁/3", "D₂ = √3·D₁", "D₂ = 3·D₁"],
+    "answers": [
+      "D₂ = D₁/√3",
+      "D₂ = D₁/3",
+      "D₂ = √3·D₁",
+      "D₂ = 3·D₁"
+    ],
     "correct": 0,
     "explanation": "R ∝ 1/d². Meqë R₂ = 3R₁, del d₂² = d₁²/3, pra d₂ = d₁/√3."
   },
@@ -961,21 +1586,36 @@
     "question": "Një copë prej bakri me rezistencë specifike 1,7·10⁻⁸Ωm lidhet në qark elektrik në tri mënyra. Në figurë janë treguar të tri mënyrat e lidhjes. Vlerat e rezistencave të tyre në këto lidhje janë rrinë si numrat:",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-126.png",
     "imageAlt": "Kub drejtkëndor bakri 10cm x 20cm x 30cm i lidhur në qark në tri drejtime të ndryshme",
-    "answers": ["1:2:5", "1:3:6", "1:4:9", "1:6:9"],
+    "answers": [
+      "1:2:5",
+      "1:3:6",
+      "1:4:9",
+      "1:6:9"
+    ],
     "correct": 2,
     "explanation": "R = ρl/S. Për tri drejtimet: 10/(20·30) = 1/60; 20/(10·30) = 1/15; 30/(10·20) = 1/6,67. Raporti 1/60 : 4/60 : 9/60 = 1:4:9."
   },
   {
     "id": "fizika-rryma-elektrike-127",
     "question": "Një tel përcjellës prej nikromi me rezistencë specifike 1,2·10⁻⁷Ωm e ka gjatësinë 1,5m dhe diametrin 0,2mm. Vlerën e rezistencës së tij e duam që ta kemi 30Ω. Sa herë ka ndryshuar gjatësia e tij në krahasim me gjatësinë fillestare për të marrë këtë vlerë rezistence? (π=3.14)",
-    "answers": ["Duhet ta rritim 3,2 herë.", "Duhet ta rritim 5,2 herë.", "Duhet ta zvogëlojmë me 3,2 herë.", "Duhet ta zvogëlojmë me 5,2 herë."],
+    "answers": [
+      "Duhet ta rritim 3,2 herë.",
+      "Duhet ta rritim 5,2 herë.",
+      "Duhet ta zvogëlojmë me 3,2 herë.",
+      "Duhet ta zvogëlojmë me 5,2 herë."
+    ],
     "correct": 1,
     "explanation": "S = π·(0,1·10⁻³)² ≈ 3,14·10⁻⁸m². R fillestare = 1,2·10⁻⁷ · 1,5 / 3,14·10⁻⁸ ≈ 5,7Ω. Meqë R ∝ l, raporti 30/5,7 ≈ 5,2 → gjatësia duhet rritur 5,2 herë."
   },
   {
     "id": "fizika-rryma-elektrike-128",
     "question": "Një përcjellës e ka rezistencën 36Ω. Në sa pjesë të barabarta duhet ta ndajmë këtë përcjellës, që duke i përdredhur ato në gjithë gjatësinë e tyre të kemi rezistencën me vlerë 1Ω?",
-    "answers": ["36", "18", "6", "3"],
+    "answers": [
+      "36",
+      "18",
+      "6",
+      "3"
+    ],
     "correct": 2,
     "explanation": "Duke e ndarë në n pjesë, secila ka R/n; duke i lidhur në paralel del R/n². Pra 36/n² = 1 → n² = 36 → n = 6."
   },
@@ -984,7 +1624,12 @@
     "question": "Një copë prej bakri me rezistencë specifike 10⁻⁶Ωm lidhet në qark elektrik si në figurë. Me sa % do të rritim gjatësinë tij, që vlera e rezistencës të jetë 10⁻³Ω?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-129.png",
     "imageAlt": "Kub drejtkëndor bakri me përmasa 10mm x 5mm x 2.5mm i lidhur në qark",
-    "answers": ["25%", "20%", "15%", "10%"],
+    "answers": [
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
     "correct": 0,
     "explanation": "R fillestare = ρl/S = 10⁻⁶ · 0,01 / (5·2,5·10⁻⁶) = 8·10⁻⁴Ω. Raporti 10·10⁻⁴/8·10⁻⁴ = 1,25, pra gjatësia duhet rritur me 25%."
   },
@@ -993,7 +1638,12 @@
     "question": "Një copë prej bakri me rezistencë specifike 10⁻⁶Ωm lidhet në qark elektrik si në figurë. Me sa për qind do të ndryshojë sipërfaqja e prerjes tërthore të tij, që vlera e rezistencës të jetë 10·10⁻⁵Ω?",
     "image": "/question-images/fizika/rryma-elektrike/rryma-elektrike-130.png",
     "imageAlt": "Kub drejtkëndor bakri me përmasa 10mm x 5mm x 2.5mm i lidhur në qark në drejtim tjetër",
-    "answers": ["Zvogëlohet me 30%", "Zvogëlohet me 40%", "Zvogëlohet me 50%", "Zvogëlohet me 60%"],
+    "answers": [
+      "Zvogëlohet me 30%",
+      "Zvogëlohet me 40%",
+      "Zvogëlohet me 50%",
+      "Zvogëlohet me 60%"
+    ],
     "correct": 2,
     "explanation": "R fillestare = 10⁻⁶ · 2,5·10⁻³ / (10·5·10⁻⁶) = 5·10⁻⁵Ω. Për ta dyfishuar deri në 10·10⁻⁵Ω, meqë R ∝ 1/S, sipërfaqja duhet përgjysmuar, pra zvogëlohet me 50%."
   }
