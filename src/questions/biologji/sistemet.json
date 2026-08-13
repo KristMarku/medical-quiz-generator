@@ -308,8 +308,8 @@
       "në qelizat e ksilemës",
       "në qelizat e mezofilit"
     ],
-    "correct": 1,
-    "explanation": "Floema rrjedh nën trysni; kur pritet, lëngu del nga të dyja skajet, pra në drejtime të kundërta nga vendi i prerjes. Kjo provon rrjedhjen nën trysni (hipoteza e rrjedhjes së masës)."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-027",
@@ -1154,8 +1154,8 @@
       "janë më të gjata se aksoni",
       "janë më të shkurtra se aksoni"
     ],
-    "correct": 1,
-    "explanation": "Dallimi thelbësor është FUNKSIONI: dendritet e sjellin ngacmimin drejt trupit e pastaj në akson. Gjatësia është dallim dytësor dhe jo gjithmonë e vlefshme."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-097",
@@ -1286,8 +1286,8 @@
       "Qelizat e gjakut",
       "Qelizat gjakut dhe proteinat"
     ],
-    "correct": 2,
-    "explanation": "Endoteli i glomerulës ka pore (fenestra) që lejojnë edhe proteinat e vogla, por jo QELIZAT. Proteinat ndalen më tej, nga membrana bazale — prandaj D nuk i përgjigjet saktë 'endotelit'."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-108",
@@ -1478,8 +1478,8 @@
       "kanali deferent",
       "epididimë"
     ],
-    "correct": 0,
-    "explanation": "Spermatogjeneza zhvillohet në gypëzat seminiferë të testikujve. Epididima shërben vetëm për maturim përfundimtar e depozitim, kanalet vetëm për transport."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-124",
@@ -1586,8 +1586,8 @@
       "para tiroide",
       "mbi veshkore"
     ],
-    "correct": 3,
-    "explanation": "Gjëndrat mbiveshkore prodhojnë adrenalinë, noradrenalinë dhe kortizol, që rregullojnë gliceminë, presionin dhe ujin e kripërat — pra ruajnë ekuilibrin e brendshëm."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-133",
@@ -1706,8 +1706,8 @@
       "Testosteron",
       "Progesteron"
     ],
-    "correct": 2,
-    "explanation": "Testosteroni frenon me feedback negativ çlirimin e FSH dhe LH nga adenohipofiza, duke mbajtur nivelin e tij konstant."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-143",
@@ -1718,8 +1718,8 @@
       "FSH",
       "LH"
     ],
-    "correct": 2,
-    "explanation": "FSH vepron mbi gypëzat seminiferë dhe nxit SPERMATOGJENEZËN; LH nxit prodhimin e testosteronit. Kujto: FSH = fabrika e qelizave."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-144",
@@ -1802,8 +1802,8 @@
       "kapilarët",
       "arteriolat"
     ],
-    "correct": 3,
-    "explanation": "'Nga zemra' → familja arteriale. Meqë arteriet nuk janë në alternativa, përgjigjja janë arteriolat, degëzimet e vogla të tyre drejt indeve."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-151",
@@ -1982,8 +1982,8 @@
       "ruan formën e tij",
       "fryhet dhe plas"
     ],
-    "correct": 3,
-    "explanation": "Qeliza shtazore nuk ka mur qelizor → uji hyn, ajo fryhet dhe çahet. Ky çarje quhet hemolizë, prandaj D e përshkruan më plotë procesin."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-166",
@@ -3506,8 +3506,8 @@
       "formimin e gametëve femërore – diferencimin e tipareve dytësore seksuale – diferencimin e rrugëve gjinore",
       "formimin e gametëve femërore – diferencimin e tipareve dytësore seksuale – rritjen e përmasave të gametit femëror"
     ],
-    "correct": 3,
-    "explanation": "Estradioli vepron pas pubertetit: nxit ovogjenezën, tiparet dytësore seksuale dhe rritjen e vezës. Diferencimi i rrugëve gjinore ndodh në jetën embrionale, pa estradiol."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-292",
@@ -3530,8 +3530,8 @@
       "Pjesa ekzokrine e pankreasit",
       "Gjëndrat paratiroide"
     ],
-    "correct": 1,
-    "explanation": "Mbiveshkoret prodhojnë kortizol, adrenalinë e aldosteron, që rregullojnë gliceminë, presionin dhe ujin e kripërat — funksione tipike homeostatike."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-294",
@@ -3578,8 +3578,8 @@
       "K+",
       "AMP ciklike"
     ],
-    "correct": 1,
-    "explanation": "Jonet Na⁺ (kripa) hyjnë drejtpërdrejt në qelizat receptore dhe i depolarizojnë ato — mekanizmi më i thjeshtë i shijes. AMP-ciklike është mesazher i brendshëm, jo stimul."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-298",
@@ -3712,8 +3712,8 @@
       "3",
       "4"
     ],
-    "correct": 0,
-    "explanation": "Valvula trikuspidale ndodhet midis veshores dhe barkushes së DJATHTË, që në figurë duket në anën e majtë të vizatimit (nr. 1). Bikuspidja do të ishte në anën e kundërt."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-309",
@@ -4024,8 +4024,8 @@
       "flagjelë",
       "vile"
     ],
-    "correct": 3,
-    "explanation": "Vilet (thithkat) janë palosjet gishtore të mukozës që e shumëfishojnë sipërfaqen; mikrovilet janë zgjatimet edhe më të vogla mbi çdo qelizë të viles."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-335",
@@ -4036,8 +4036,8 @@
       "joneve kalium në mjedisin jashtë qelizor",
       "organeleve qelizore"
     ],
-    "correct": 1,
-    "explanation": "Auksina aktivizon pompat H⁺ → protonet dalin jashtë → muri acidifikohet, zbutet dhe qeliza zgjatet ('rritja me acidifikim')."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-336",
@@ -4072,8 +4072,8 @@
       "qelizat epiteliale",
       "qelizat fagocitare"
     ],
-    "correct": 1,
-    "explanation": "Mukusi i kap grimcat dhe qerpikët (ciliet) e lëvizin atë lart drejt fytit — 'shkalla lëvizëse mukociliare'. Kjo është pastrimi mekanik i rrugëve të ajrit."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-339",
@@ -4468,8 +4468,8 @@
       "transporti aktiv i Na+ nga lëngu indor në gyp",
       "ripërthithje e kufizuar e ujit"
     ],
-    "correct": 3,
-    "explanation": "Gypi distal bën rregullim të imët: riabsorbon pak ujë (nën kontrollin e ADH-së) dhe sekreton H⁺ e K⁺ DREJT gypit, jo drejt lëngut indor. Natriumi riabsorbohet, nuk pompohet brenda gypit."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-372",
@@ -4776,8 +4776,8 @@
       "Testikujt do të prodhojnë më pak testosteron",
       "Testikujt do të prodhojnë më shumë testosteron"
     ],
-    "correct": 2,
-    "explanation": "LH-ja është nxitësi kryesor i qelizave të Leydigut; pa të prodhimi bie ndjeshëm, por një sasi bazale mbetet — prandaj 'më pak', jo 'aspak'."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-sistemet-397",

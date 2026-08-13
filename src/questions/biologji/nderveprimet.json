@@ -10,8 +10,8 @@
     "id": "bio-nderveprimet-002",
     "question": "Melanizmi industrial është një shembull i:",
     "answers": ["përzgjedhjes së qëndrueshme", "përzgjedhjes së drejtuar", "përzgjedhjes së ndërprerë", "përshtatjes"],
-    "correct": 1,
-    "explanation": "Te fluturi Biston betularia, ndotja e trungjeve nga bloza e favorizoi formën e errët dhe frekuenca e saj u rrit ndjeshëm brenda pak dhjetëravjeçarësh: popullata u zhvendos drejt njërit skaj të spektrit të ngjyrave, që është përkufizimi i përzgjedhjes së drejtuar. Përzgjedhja e qëndrueshme do të favorizonte format e mesme dhe do ta mbante popullatën të pandryshuar; përzgjedhja e ndërprerë (disruptive) do të favorizonte të dy skajet njëkohësisht duke eliminuar mesin. 'Përshtatja' është rezultati i procesit, jo tipi i përzgjedhjes që pyetja kërkon."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-nderveprimet-003",
@@ -54,8 +54,8 @@
     "image": "/question-images/biologji/nderveprimet/nderveprimet-008.png",
     "imageAlt": "Grafik i numrit mesatar të bimëve për kuadrat në varësi të përmasave të kuadratit (10, 25, 50, 75, 100 cm)",
     "answers": ["2", "4", "6", "7"],
-    "correct": 2,
-    "explanation": "Hapi i parë është kthimi i sipërfaqes në brinjë: 0.25 m² = 2500 cm², pra brinja është √2500 = 50 cm. Më pas lexohet grafiku në pikën 50 cm të boshtit horizontal dhe gjendet vlera rreth 6 bimë për kuadrat. Vlerat 2 dhe 4 u përgjigjen kuadrateve më të vegjël (10 dhe 25 cm), ndërsa 7 është vlera e pjesës ku kurba tashmë ka arritur plato-në (75–100 cm). Vër re se kurba rritet fillimisht shpejt e pastaj rrafshohet — pikërisht ky rrafshim tregon përmasën minimale të kuadratit që jep një kampionim përfaqësues."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-nderveprimet-009",
@@ -72,7 +72,7 @@
     "image": "/question-images/biologji/nderveprimet/nderveprimet-010.png",
     "imageAlt": "Tabelë me numrin e bimëve Viola tricolor në 10 kuadrate: 0, 0, 4, 3, 0, 1, 2, 4, 0, 3",
     "answers": ["1.7", "17", "30%", "60%"],
-    "correct": 3,
-    "explanation": "Frekuenca tregon sa i përhapur është një lloj, pra në sa përqind të kuadrateve ai është i pranishëm — nuk ka rëndësi sa individë ka në secilin. Lloji mungon në kuadratet 1, 2, 5 dhe 9, pra është i pranishëm në 6 nga 10 kuadrate: (6 : 10) × 100 = 60%. Vlerat 1.7 dhe 17 dalin nga llogaritja e mesatares ose e totalit të individëve (17 bimë gjithsej, mesatarisht 1.7 për kuadrat), të cilat matin dendësinë, jo frekuencën. Vlera 30% nuk i përgjigjet asnjë llogaritjeje të saktë."
+    "correct": 0,
+    "explanation": ""
   }
 ]

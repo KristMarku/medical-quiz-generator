@@ -404,8 +404,8 @@
       "përcaktimin e sasive të bazave të azotuara",
       "përcaktimin e gjatësisë së m-ARN-së"
     ],
-    "correct": 0,
-    "explanation": "Kodoni tregon cilin aminoacid të vendosë ribozomi, pra kodi gjenetik përcakton renditjen e aminoacideve në proteinë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-035",
@@ -824,8 +824,8 @@
       "lumenin e REP-it",
       "çisternat e Aparatit të Golxhit"
     ],
-    "correct": 2,
-    "explanation": "Menjëherë pas sintezës, proteinat e sekretimit hyjnë në lumenin (hapësirën e brendshme) të REP-it granular."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-070",
@@ -1028,8 +1028,8 @@
       "GE",
       "EE'"
     ],
-    "correct": 0,
-    "explanation": "Ngjyra roze e ndërmjetme tregon dominancë jo të plotë; të gjithë pasardhësit F1 janë heterozigotë (Ee)."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-087",
@@ -1052,8 +1052,8 @@
       "12 + 2",
       "10 + 2"
     ],
-    "correct": 2,
-    "explanation": "Qeliza diploide ka 2n=12 kromozome; nga këto 2 janë kromozome seksi, kështu mbeten 12 autosomikë... duke marrë parasysh çiftin e seksit veç e veç, përgjigjja standarde është 10 autosomikë + 2 të seksit."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-089",
@@ -1124,8 +1124,8 @@
       "50%",
       "25%"
     ],
-    "correct": 0,
-    "explanation": "Vajza daltonike merr një X nga babai daltonik (XdY) dhe duhet të ketë edhe alelin d nga nëna; pra nëna është patjetër XdX(d ose D) — që të ketë vajzën homozigote daltonike, nëna duhet vetë të jetë daltonike ose mbartëse; me vajzën e prekur konfirmohet 100% mbartje e alelit, por për të qenë vetë daltonike (fenotipikisht) mundësia llogaritet 100% sipas skemës standarde të ushtrimit."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-095",
@@ -1184,8 +1184,8 @@
       "50%",
       "75%"
     ],
-    "correct": 2,
-    "explanation": "Gruaja është patjetër mbartëse (XDXd, se mamaja e saj daltonike); burri normal XDY. Kryqëzimi XDXd x XDY jep 1/2 vajza heterozigote nga totali i pasardhësve — sipas skemës, 50% e pasardhësve rezultojnë heterozigotë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-100",
@@ -1328,8 +1328,8 @@
       "16% 34% 16% 34%",
       "8% 42% 8% 42%"
     ],
-    "correct": 2,
-    "explanation": "Largësia 16 nj.k. do të thotë 16% gamete rekombinante (8% Ge + 8% gE) dhe 84% prindërore (42% GE + 42% ge); për renditjen Ge/gE, format prindërore janë Ge dhe gE me nga 42%, rekombinantet GE dhe ge me nga 8% — kjo përputhet me renditjen e kërkuar C."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-112",
@@ -1424,8 +1424,8 @@
       "GGdd X ggDD",
       "GGDD X ggdd"
     ],
-    "correct": 2,
-    "explanation": "Raporti me katër klasa fenotipike të pabarabarta (jo 9:3:3:1 as 1:1:1:1) tregon gjene të lidhura me krosingover; kryqëzimi GGdd X ggDD jep pikërisht këtë model kur gjenet janë të lidhura."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-120",
@@ -1640,8 +1640,8 @@
       "0.01",
       "0.99"
     ],
-    "correct": 1,
-    "explanation": "q² = 1/10,000 = 0.0001, pra q = √0.0001 = 0.01... por duke kontrolluar saktë √0.0001=0.01; opsioni më i afërt korrekt është 0.01."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-138",
@@ -1652,8 +1652,8 @@
       "p (A) = 0.92 q (a) = 0.08",
       "p (A) = 0.60 q (a) = 0.40"
     ],
-    "correct": 2,
-    "explanation": "Fenotip reçesiv = 16%, pra q² = 0.16, q = 0.4, p = 0.6... por duke kontrolluar, q(a)=√0.16=0.4 → p=0.6; opsioni D (0.60/0.40) përputhet me këtë llogaritje."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-139",
@@ -2084,8 +2084,8 @@
       "44",
       "43"
     ],
-    "correct": 2,
-    "explanation": "Duke numëruar bazat: G-C=3H, A-T=2H; ky varg 18 nukleotide ka kombinim specifik që jep 44 lidhje hidrogjenore totale."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-175",
@@ -2168,8 +2168,8 @@
       "ka një grup hidroksil",
       "ka një grup fosfat"
     ],
-    "correct": 3,
-    "explanation": "Skaji 5' i një zinxhiri ADN/ARN mban një grup fosfat të lirë, ndërsa skaji 3' ka grup hidroksil."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-182",
@@ -2396,8 +2396,8 @@
       "7,540 g/mol",
       "5,610 g/mol"
     ],
-    "correct": 1,
-    "explanation": "153 çifte nukleotide ÷ 3 = 51 aminoacide (nga njëri zinxhir, meqë çift nukleotidesh = 1 pozicion); 51×110 = 5,610... por duke hequr kodonin stop (50 aminoacide funksionalë) rezulton më afër 5,610 g/mol — përgjigjja e llogaritur standarde është D."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-200",
@@ -2432,8 +2432,8 @@
       "AUC",
       "AUG"
     ],
-    "correct": 3,
-    "explanation": "Së pari kodoni i m-ARN-së komplementon ADN-në (T→A, A→U, G→C = AUC); antikodoni i t-ARN-së komplementon kodonin (A→U, U→A, C→G) = UAG... duke ricontrolluar sekuencën, përgjigjja e saktë standarde për këtë problem klasik është AUG."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-203",
@@ -2672,8 +2672,8 @@
       "sinteza e ADN-së dhe ARN-së ndodh vetëm në bërthamë, citoplazmë plus disa organele",
       "në organelet qelizore nuk ndodh sinteza e ADN-së dhe ARN-së"
     ],
-    "correct": 1,
-    "explanation": "Përveç bërthamës, edhe organele si mitokondria dhe kloroplasti kanë ADN-në e vet dhe sintetizojnë ADN/ARN në mënyrë të pavarur."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-223",
@@ -2948,8 +2948,8 @@
       "Membranë – citoplazëm dhe Citoplazëm – bërthamë",
       "Citosol – organel dhe Membranë – citoplazëm"
     ],
-    "correct": 0,
-    "explanation": "Protoplazma përfshin tërësinë e komponentëve të gjallë të qelizës: membranën, citoplazmën dhe bërthamën."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-246",
@@ -3044,8 +3044,8 @@
       "të lidhura në këtë mënyrë a B",
       "të vendosur në dy çifte kromozomesh"
     ],
-    "correct": 1,
-    "explanation": "Klasat rekombinante (85+95=180) nga totali (390+85+430+95=1000) japin frekuencë ~18%... por duke llogaritur (85+95)/1000=18%, ndërsa nëse ky është testcross i F1 heterozigot, largësia mund të llogaritet si 180/1000*... përgjigjja standarde pritet të jetë largësia rreth 41 nj.k. sipas raportit specifik të ushtrimit origjinal."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-254",
@@ -3068,8 +3068,8 @@
       "1/6",
       "1/9"
     ],
-    "correct": 1,
-    "explanation": "Djali normal nga prindër Aa x Aa është me siguri Aa (heterozigot, meqë jo i sëmurë); Aa x Aa (vajza) jep 1/4 pasardhës të sëmurë."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-256",
@@ -3080,8 +3080,8 @@
       "1/2",
       "1/3"
     ],
-    "correct": 2,
-    "explanation": "Vajza (nga prindër heterozigotë, meqë kanë djalë të çelët) është 2/3 Aa; kryqëzuar me burrin Aa, probabiliteti për fëmijë të errët është 3/4 nëse vajza është Aa — llogaritja standarde e këtij problemi jep 1/2."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-257",
@@ -3104,8 +3104,8 @@
       "ee dhe EE",
       "Ee dhe ee"
     ],
-    "correct": 1,
-    "explanation": "Vajzat marrin X-në e sëmurë nga babai dhe X-në normale nga nëna → heterozigote (XKXk); djemtë marrin Y nga babai dhe X normale nga nëna → normalë (XkY, ku k mund të jetë aleli normal sipas shënimit të përdorur)."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-259",
@@ -3188,8 +3188,8 @@
       "75%",
       "100%"
     ],
-    "correct": 1,
-    "explanation": "F1 (dihibrid) i vetëpjalmuar/kryqëzuar jep F2 me shpërndarje 9:3:3:1; klasat me një tipar reçesiv e tjetrin heterozigotë përbëjnë përafërsisht 50% të totalit sipas kombinimeve specifike të kërkuara."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-266",
@@ -3236,8 +3236,8 @@
       "1/4",
       "1/2"
     ],
-    "correct": 2,
-    "explanation": "Kryqëzim dihibrid (9:3:3:1) i prindërve dihetero; pasardhësit me vetëm një tipar homozigotë (kombinim specifik i klasave) përbëjnë 1/4 të totalit."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-270",
@@ -3248,8 +3248,8 @@
       "XkXk me XKY",
       "XKXKme XkY"
     ],
-    "correct": 0,
-    "explanation": "Kryqëzimi i femrës mbartëse (XKXk, e prodhuar në F1) me mashkull sy të bardhë (XkY) jep pikërisht ndarjen e kërkuar: femra të kuqe (mbartëse), meshkuj gjysma të kuq gjysma të bardhë... rezultati standard për këtë skemë klasike konfirmon opsionin A."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-271",
@@ -3272,8 +3272,8 @@
       "1/2",
       "3/4"
     ],
-    "correct": 1,
-    "explanation": "Aa x Aa jep 1/4 mundësi për fëmijë sy të çelët (aa); ngjarjet e pavarura për dy fëmijë veç e veç kanë secila 1/4 mundësi (jo të kombinuara)."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-273",
@@ -3308,8 +3308,8 @@
       "Nn X nn",
       "nn X nn"
     ],
-    "correct": 1,
-    "explanation": "Vetëm kryqëzimi NN X NN (ose homozigot dominant me çdo tjetër që s'jep zezë) siguron 100% të kuqe; nga alternativat, Nn X Nn nuk plotëson kushtin (jep edhe zezë)... duke rikontrolluar, kërkohet kryqëzim që të japë VETËM të kuqe — asnjë nga alternativat me heterozigotë s'e plotëson plotësisht përveç nëse njëri prind është homozigot dominant NN; alternativa më e afërt e saktë do të ishte NN me çdo tjetër, por meqë s'është listuar drejtpërdrejt, përgjigjja standarde e testit është Nn X NN."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-276",
@@ -3320,8 +3320,8 @@
       "30%",
       "40%"
     ],
-    "correct": 0,
-    "explanation": "Gametët rekombinantë (ab dhe AB) përbëjnë 20% gjithsej, pra 10% secili; nga testcross, homozigotët aabb vijnë nga gameti rekombinant ab (10%)."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-277",
@@ -3332,8 +3332,8 @@
       "1/8",
       "1/10"
     ],
-    "correct": 1,
-    "explanation": "Nëse gruaja është mbartëse, vajzat (XHXh x XhY) kanë 1/2 mundësi për hemofili nga vajzat totale, që korrespondon me 1/4 e totalit të fëmijëve."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-278",
@@ -3368,8 +3368,8 @@
       "1/8",
       "1/16"
     ],
-    "correct": 1,
-    "explanation": "Nëse të dy prindërit janë heterozigotë (IAi0 dhe IBi0), kryqëzimi jep 1/4 e0e0 (grup 0)."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-281",
@@ -3440,8 +3440,8 @@
       "p=0.65 q=0.35",
       "p=0.54 q=0.46"
     ],
-    "correct": 0,
-    "explanation": "Me dominancë jo të plotë, frekuenca e homozigotëve të kuq (p²) = 6400/10000=0.64, pra p=0.8, dhe q=0.2 (bardhë homozigot=3400/10000=0.34... rikontrollo raportin sipas alternativave, përgjigjja e saktë standarde është p=0.8, q=0.2)."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-287",
@@ -3500,8 +3500,8 @@
       "44%",
       "32%"
     ],
-    "correct": 1,
-    "explanation": "q²=400/10000=0.04, q=0.2, p=0.8; heterozigotët (2pq)=2×0.8×0.2=0.32... por raundimi standard i problemit jep 24% si zgjidhje pritur."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-292",
@@ -3620,8 +3620,8 @@
       "4800",
       "4950"
     ],
-    "correct": 3,
-    "explanation": "q²=50/5000=0.01, q=0.1, p=0.9; p²=0.81×5000=4050... duke rikontrolluar: homozigotë dominant janë vetëm p², jo p²+2pq; p²×5000=4050 është pikërisht opsioni A — por totali pa PKU (homozigotë+heterozigotë) do të ishte 4950; përgjigjja standarde për 'homozigotë dominant' është 4050."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-302",
@@ -3668,8 +3668,8 @@
       "p(D)=0.7 q(d)=0.3",
       "p(D)=0.6 q(d)=0.4"
     ],
-    "correct": 1,
-    "explanation": "q²=(1000-910)/1000=90/1000=0.09, q=0.3, p=0.7... rikontrollo: 0.09 → q=0.3 nuk përputhet me alternativat; nëse q²=0.09 →q=0.3, p=0.7 (opsion C)."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-306",
@@ -3704,8 +3704,8 @@
       "Ndodh shkrirja e gametëve, zigota zhvillohet por individi i ri është jopjellorë",
       "Gametët mashkullorë nuk jetojnë në rrugët gjinore të femrës, nuk formohet zigota"
     ],
-    "correct": 0,
-    "explanation": "Hibridi jovital ndodh kur zigota formohet, por embrioni nuk arrin të zhvillohet dhe mbijetojë."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-309",
@@ -3776,8 +3776,8 @@
       "ka më pak rrezik që bimët e sojës të preken nga sëmundjet",
       "bimët e sojës rriten më shpejt"
     ],
-    "correct": 1,
-    "explanation": "Duke përdorur herbicidin lirisht, farat e këqija shkatërrohen pa dëmtuar sojën, kështu ulet konkurrenca ndaj bimëve të sojës."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-315",
@@ -3800,8 +3800,8 @@
       "Zgjidhja e urisë globale",
       "Siguria ushqimore"
     ],
-    "correct": 3,
-    "explanation": "Kulturat OMGJ mund të rritin prodhimtarinë dhe rezistencën, duke kontribuar në sigurinë ushqimore."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-317",
@@ -3812,8 +3812,8 @@
       "Kërpudha",
       "Kafshë"
     ],
-    "correct": 0,
-    "explanation": "Monera (bakteret) përfshin organizma me shumëllojshmëri të gjerë strategjish të ushqyerjes: autotrofë, heterotrofë, fotosintetikë, kemosintetikë etj."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-318",
@@ -3824,8 +3824,8 @@
       "Riprodhimi aseksual",
       "Mënyra e të ushqyerit"
     ],
-    "correct": 3,
-    "explanation": "Sistemi i pesë mbretërive bazohet kryesisht në mënyrën e të ushqyerit (autotrof/heterotrof) mes kritereve të tjera."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-319",
@@ -3944,8 +3944,8 @@
       "3 dhe 5",
       "3 dhe 7"
     ],
-    "correct": 2,
-    "explanation": "Grupet anësore (R) me atome elektronegative si oksigjeni (grupet OH, 3 dhe 5 në figurë) formojnë lidhje hidrogjenore që stabilizojnë strukturën terciare.",
+    "correct": 3,
+    "explanation": "",
     "image": "/question-images/biologji/diversiteti/diversiteti-328.png",
     "imageAlt": "Struktura e dy aminoacideve me grupe të numëruara 1-7, duke përfshirë grupet OH anësore"
   },
@@ -4000,8 +4000,8 @@
       "100 m",
       "16 m"
     ],
-    "correct": 1,
-    "explanation": "Në 10 sek (1/6 min) harxhohen 0,15/6≈0,025 g ATP/gram; me rezervë 4 g/kg=4mg/g, koha totale e mjaftueshme llogaritet ~16 sek, që korrespondon me ~160m me këtë ritëm."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-333",
@@ -4012,8 +4012,8 @@
       "Bakteri B sepse ka 37% adeninë",
       "Bakteri B sepse ka më pak citozinë, 13%"
     ],
-    "correct": 1,
-    "explanation": "Përqindje më e lartë e G-C (lidhje më të forta, 3 lidhje H) i bën ADN-në më të qëndrueshme ndaj temperaturave të larta; Bakteri A ka më pak A-T (17%×2=34%), pra më shumë G-C (66%, citozinë 33%), duke e bërë të përshtatshëm për mjedise të nxehta."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-334",
@@ -4036,8 +4036,8 @@
       "25%",
       "12,5%"
     ],
-    "correct": 3,
-    "explanation": "Nëse A=1x dhe G=3x, atëherë A+T+G+C=2(A+G)=2(4x)=8x=100%, x=12,5%; C=G=3x=37,5%... rikontrollo: nëse A:G=1:3, dhe A=T, G=C, atëherë A+G=4x=50% (gjysma e totalit), x=12,5%, C=3x=37,5%."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-336",
@@ -4086,8 +4086,8 @@
       "50000g/mol",
       "500g/mol"
     ],
-    "correct": 1,
-    "explanation": "m-ARN 45,000g/mol ÷ 300g/mol/nukleotid = 150 nukleotide = 150 kodone; ~150 aminoacide (minus stop, ~150 përafërsisht) × 100g/mol ≈ 15,000... duke rillogaritur saktë me formulat standarde të problemit, përgjigjja e pritur është 4,500g/mol (45 aminoacide × 100)."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-340",
@@ -4206,8 +4206,8 @@
       "glikogjen",
       "sakarozë"
     ],
-    "correct": 3,
-    "explanation": "Sakaroza është disakarid (jo polimer i madh linear), ndryshe nga ADN-ja, amidoni dhe glikogjeni që janë polimere të vërteta."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-350",
@@ -4254,8 +4254,8 @@
       "Ajo ka pore ku lëviz lënda",
       "Ajo ka pore të vogla"
     ],
-    "correct": 0,
-    "explanation": "Poret bërthamore janë relativisht të mëdha dhe lejojnë kalimin e molekulave të mëdha (si m-ARN, proteina) përmes transportit të lehtësuar/aktiv."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-354",
@@ -4386,8 +4386,8 @@
       "të pavarura, të vendosur në dy çifte kromozomesh",
       "të lidhur A B, dhe nuk ka ndodhur krosingover"
     ],
-    "correct": 3,
-    "explanation": "Raporti 1:2:1 (jo raporti tipik i pavarur 9:3:3:1) tregon gjene të lidhura pa krosingover, me kombinim fiks A-B (aleli dominant me dominant, reçesiv me reçesiv)."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-365",
@@ -4398,8 +4398,8 @@
       "480",
       "500"
     ],
-    "correct": 2,
-    "explanation": "Format prindërore (jo-rekombinante) përbëjnë (100-4)%=96% të totalit; 96% e 500=480."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-366",
@@ -4434,8 +4434,8 @@
       "MmXNXn X MmXNY",
       "MmXnXn X MmXNY"
     ],
-    "correct": 0,
-    "explanation": "Raporti 3:3:1:1 për ngjyrën e trupit (autosomike, Mm x Mm) kombinuar me trashëgimin X-lidhur (XNXn x XNY) korrespondon me prindërit MmXNXn X MmXNY."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-369",
@@ -4446,8 +4446,8 @@
       "IAIATt dhe IBIBtt",
       "IAi0Tt dhe IBi0Tt"
     ],
-    "correct": 3,
-    "explanation": "Për të pasur fëmijë me grup B (jo A, jo AB, jo O) dhe raportin 75% tubim (Tt x Tt), prindërit duhet të jenë IAi0Tt dhe IBi0Tt."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-370",
@@ -4494,8 +4494,8 @@
       "0% PpRr; 50%Pprr; 50%ppRr; 0 %pprr",
       "44% PpRr; 6%Pprr; 6%ppRr; 44% pprr"
     ],
-    "correct": 1,
-    "explanation": "Format rekombinante (PR, pr) përbëjnë 12%, ndara 6% secila; format prindërore (Pr, pR) përbëjnë 88%, ndara 44% secila."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-374",
@@ -4518,8 +4518,8 @@
       "3/16",
       "4/16"
     ],
-    "correct": 3,
-    "explanation": "Prindërit janë dihetero (meqë kanë fëmijë dyfish reçesiv); mundësia për gjenotip identik me prindërit (dihetero) është 1/4 për secilin fëmijë; për dy fëmijë të pavarur llogaritet përafërsisht 4/16."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-376",
@@ -4542,8 +4542,8 @@
       "1/8",
       "1/16"
     ],
-    "correct": 2,
-    "explanation": "Gruaja Tt (tubon) x burri tt (nuk tubon) → 1/2 tt; për flokët, kombinimi i alternativave jep 1/4 kaçurrela; produkti i pavarur 1/2×1/4=1/8."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-378",
@@ -4578,8 +4578,8 @@
       "1/18",
       "1/20"
     ],
-    "correct": 0,
-    "explanation": "Burri dhe gruaja janë secili 2/3 Aa (nga prindër Aa x Aa, duke qenë normalë); kryqëzimi Aa x Aa jep 1/4 aa; kombinuar me gjininë (1/2 djalë): 2/3×2/3×1/4×1/2=1/18... duke rillogaritur saktë sipas praktikës standarde, përgjigjja e pritur është 1/12."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-381",
@@ -4590,8 +4590,8 @@
       "AaBb dhe aaBb, 100 individë",
       "Aabb dhe aaBb, 72 individë"
     ],
-    "correct": 3,
-    "explanation": "Nëse rekombinantet (18%) janë 36 individë, totali=36/0.18=200; format prindërore (82%)=164, ndara 82 secila... por duke ndjekur renditjen Ab/aB, format prindërore janë Aabb+aaBb; opsioni më i afërt me këtë strukturë tregon Aabb dhe aaBb."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-382",
@@ -4638,8 +4638,8 @@
       "0.36 0.48 0.16",
       "0.40 0.48 0.12"
     ],
-    "correct": 2,
-    "explanation": "Total=4000; p(M)=(2×1210+1980)/8000=0.55, q(N)=0.45; p²≈0.30... rikontrollo llogaritjen: p²=0.3, 2pq=0.5, q²=0.2 — përputhet me alternativën A."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-386",
@@ -4650,8 +4650,8 @@
       "0.75",
       "0.91"
     ],
-    "correct": 2,
-    "explanation": "Kryqëzimi Aa x Aa jep 3/4 (0.75) pasardhës me fenotip dominant, i njëjtë me prindërit heterozigotë."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-387",
@@ -4662,8 +4662,8 @@
       "29%",
       "50%"
     ],
-    "correct": 1,
-    "explanation": "p(B)=(2×210+500)/2000=0.46, q(b)=0.54; q²≈0.29 — vlerë fillestare; por meqë popullata konvergon drejt ekuilibrit H-W, vlera e pritshme e ardhshme stabilizohet rreth 0.25 (25%) sipas alternativës standarde."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-388",
@@ -4722,8 +4722,8 @@
       "48",
       "84"
     ],
-    "correct": 1,
-    "explanation": "Për tiparin vesh: q²=0.16, q=0.4, p=0.6, 2pq=0.48; për gëzof: q²=0.09, q=0.3, p=0.7, 2pq=0.42; diheterozigotët=0.48×0.42×100≈20 — por meqë kërkohet numri saktë, rillogaritja standarde jep ~42."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-diversiteti-393",

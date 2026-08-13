@@ -68,8 +68,8 @@
       "pjesën e spektrit ultra violetë",
       "pjesën e spektrit infra të kuq"
     ],
-    "correct": 0,
-    "explanation": "Klorofila a ka dy maja thithjeje: në zonën blu-vjollcë dhe në zonën e kuqe të spektrit të dukshëm. Dritën e gjelbër ajo e reflekton — pikërisht prandaj gjethet na duken të gjelbra. Pra thith vetëm një pjesë të spektrit, jo pjesën më të madhe. Rrezet ultravjollcë dhe infra të kuqe janë jashtë spektrit të dukshëm dhe nuk përdoren nga klorofila për fotosintezë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-007",
@@ -176,8 +176,8 @@
       "fotofosforilimin ciklik",
       "gjenerimin e një force lëvizëse proteinike"
     ],
-    "correct": 1,
-    "explanation": "Për të ngritur elektronin nga niveli i ulët energjetik i ujit deri në nivelin e lartë që kërkon NADP+, nevojiten dy 'shtytje' me dritë: e para në PS II dhe e dyta në PS I. Vetëm bashkëpunimi i të dyve mundëson formimin e NADPH-së. ATP-ja dhe gradienti protonik mund të prodhohen edhe nga fotofosforilimi ciklik, i cili përdor vetëm PS I — prandaj alternativat e tjera nuk e kërkojnë domosdo çiftin."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-016",
@@ -356,8 +356,8 @@
       "Elektronet grumbullojnë energjinë e lirë",
       "Citokromet e STE-së fosforilojnë ADP-në në ATP"
     ],
-    "correct": 0,
-    "explanation": "Komplekset e zinxhirit nxjerrin H+ nga matriksi drejt hapësirës ndërmembranore; duke humbur protone, matriksi bëhet më pak acid, pra pH-i i tij rritet (ndërsa hapësira ndërmembranore acidifikohet). ATP-sintetaza nuk pompon protone, përkundrazi i lë ata të kthehen pasivisht dhe e shfrytëzon rrymën për të prodhuar ATP. Elektronet nuk grumbullojnë por humbasin energji të lirë hap pas hapi, dhe citokromet vetëm transportojnë elektrone, nuk fosforilojnë ADP-në."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-031",
@@ -380,8 +380,8 @@
       "Fosforilimi oksidativ",
       "Shndërrimi i piruvatit në acid laktik"
     ],
-    "correct": 2,
-    "explanation": "Në fosforilimin oksidativ NADH-ja dorëzon elektronet te kompleksi i parë i STE-së dhe oksidohet përsëri në NAD+, që kthehet e lirë për një cikël të ri; kjo është rruga kryesore dhe e vazhdueshme e rigjenerimit të NAD+ në kushte aerobe. Cikli i Krebsit vepron e kundërta — e reduktojnë NAD+ në NADH; cikli i Kalvinit punon me NADPH, jo NADH. Kujdes: edhe fermentimi laktik e rigjeneron NAD+, por ai është zgjidhje anaerobe emergjente, ndërsa pyetja kërkon procesin standard të frymëmarrjes aerobe."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-033",
@@ -812,8 +812,8 @@
       "poleni",
       "petalet"
     ],
-    "correct": 2,
-    "explanation": "Kokrriza e polenit është vetë gametofiti mashkullor: ajo është një strukturë haploide shumëqelizore (bërthama vegjetative + bërthama riprodhuese që jep dy anterozoidët). Theku është organi sporofitik ku prodhohet poleni, pra vendi, jo gametofiti; pistili është organi femëror ku zhvillohet gametofiti femëror (trasta embrionale); petalet kanë vetëm rol mbrojtës dhe tërheqës për pllenuesit."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-069",
@@ -884,8 +884,8 @@
       "polifagë",
       "sarkofagë"
     ],
-    "correct": 2,
-    "explanation": "Në ekosistemet e reja, ende të paqëndrueshme, kushtet ndryshojnë shpejt dhe ushqimi është i papërcaktuar; mbijetojnë llojet polifage, që hanë shumë lloje ushqimesh dhe përshtaten lehtë. Specializimi (monofagia) është luks që lejohet vetëm në ekosisteme të vjetra e të qëndrueshme. Litofagët (që gërryejnë gurë) dhe sarkofagët (ngrënës mishi të ngordhur) janë kategori të ngushta ushqimore, jo tregues i moshës së ekosistemit."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-075",
@@ -896,8 +896,8 @@
       "polifagë",
       "sarkofagë"
     ],
-    "correct": 1,
-    "explanation": "Në ekosistemet e vjetra e të qëndrueshme kushtet ndryshojnë ngadalë, konkurrenca është e fortë dhe secili lloj gjen një 'nishë' të ngushtë; kështu favorizohen llojet monofage, të specializuara për një burim të vetëm ushqimor (si koala me eukaliptin). Polifagia karakterizon ekosistemet e reja e të paqëndrueshme, ndërsa litofagët dhe sarkofagët janë tipe të veçanta ushqyerjeje që nuk lidhen me shkallën e pjekurisë së ekosistemit."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-076",
@@ -1580,8 +1580,8 @@
       "23",
       "46"
     ],
-    "correct": 1,
-    "explanation": "Në qelizën normale të njeriut ka 2 kromozome seksuale (XX ose XY). Në anafazë, pasi centromerët çahen, çdo kromatid bëhet kromozom më vete, prandaj kromozomet seksuale numërohen 2 × 2 = 4 (dy në secilin pol). E njëjta logjikë vlen për autozomet: 44 bëhen 88, dhe qeliza ka përkohësisht 92 kromozome. Përgjigjja 2 do të vlente për çdo fazë tjetër përveç anafazës."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-133",
@@ -1592,8 +1592,8 @@
       "1 + 23",
       "1+ 22"
     ],
-    "correct": 0,
-    "explanation": "23 çifte do të thotë 46 kromozome: 44 autozome + 2 kromozome seksuale. Në fillim të anafazës centromerët sapo janë çarë dhe secili kromatid llogaritet si kromozom i pavarur, prandaj numrat dyfishohen: 88 autozome + 4 kromozome seksuale = 92 gjithsej. Kombinimi 2 + 44 do të vlente para anafazës, ndërsa 1 + 22 është përbërja e një gameti haploid."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-134",
@@ -1724,8 +1724,8 @@
       "1 vezë dhe 1 anterozoid",
       "një diploide dhe një haploide"
     ],
-    "correct": 0,
-    "explanation": "Kokrriza e polenit lind nga mikrospora haploide dhe përmban dy bërthama, të dyja haploide: bërthamën vegjetative, që formon tubin polinik drejt vezores, dhe bërthamën riprodhuese, e cila me një mitozë jep dy anterozoidët. Qeliza vezë ndodhet në trastën embrionale të pistilit, jo në polen, prandaj alternativa me vezën është e gabuar; asnjë bërthamë e polenit nuk është diploide."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-145",
@@ -1772,8 +1772,8 @@
       "spinaq",
       "bizele"
     ],
-    "correct": 3,
-    "explanation": "Bizelja është bishtajore dhe në rrënjët e saj formon nyje simbiotike me bakteret e gjinisë Rhizobium, të cilat fiksojnë azotin atmosferik dhe e lënë tokën më të pasur; prandaj bishtajoret përdoren në qarkullimin bujqësor për të rigjeneruar tokën. Drithërat, domatja dhe spinaqi nuk kanë këtë simbiozë — përkundrazi, ato e varfërojnë tokën duke thithur nitratet e disponueshme."
+    "correct": 0,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-149",
@@ -1820,8 +1820,8 @@
       "lidhjet ushqimore në një ekosistem janë më të sakta",
       "paraqiten edhe shpërbërësit në këto piramida"
     ],
-    "correct": 3,
-    "explanation": "Piramida e energjisë ndërtohet mbi nivelet trofike të zinxhirit prodhues–konsumatorë dhe zakonisht nuk i përfshin dekompozuesit, të cilët nuk zënë një nivel trofik të veçantë por veprojnë mbi të gjitha nivelet njëkohësisht. Veçoritë e tjera janë të vërteta: ajo mat energjinë reale për njësi kohe, pasqyron kontributin e individëve dhe nuk del kurrë e përmbysur, prandaj konsiderohet paraqitja më e saktë."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-153",
@@ -1976,8 +1976,8 @@
       "32 molekula ATP",
       "28 molekula ATP"
     ],
-    "correct": 2,
-    "explanation": "Vlera 38 ATP është maksimumi teorik, i llogaritur duke supozuar se asnjë energji nuk humbet. Në qelizën e gjallë një pjesë e gradientit protonik shpenzohet për të transportuar piruvatin dhe fosfatin brenda mitokondrisë dhe për të futur NADH-në citoplazmatike me anë të sistemeve 'lavjerrës'; prandaj fitimi real bie në rreth 30–32 ATP. Prandaj në kushte fiziologjike pranohet vlera 32."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-166",
@@ -2108,8 +2108,8 @@
       "Në fillim të mitozës GGgg, në fillim të mejozës Gg",
       "Në fillim të mitozës dhe në fillim të mejozës G ose g"
     ],
-    "correct": 0,
-    "explanation": "Të dyja ndarjet fillojnë pas fazës S, kur ADN-ja është dyfishuar: çdo alel gjendet në dy kromatide motra identike, prandaj individi Gg hyn si në mitozë ashtu edhe në mejozë me formulën GGgg. Formula Gg e përshkruan qelizën në fazën G1, para replikimit, ndërsa 'G ose g' i takon gametit të përfunduar, pas mejozës."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-177",
@@ -2144,8 +2144,8 @@
       "anafazën e mitozës dhe anafazën e parë të mejozës",
       "telofazën e mitozës dhe telofazën e parë të mejozës"
     ],
-    "correct": 0,
-    "explanation": "Në G1 qeliza ka 2n kromozome njëkromatidësh. Në anafazën II qeliza është haploide (n kromozome dykromatidësh), por pas çarjes së centromerëve numri i kromozomeve në të bëhet 2n — pra numerikisht i barabartë me G1 (ndonëse përbërja gjenetike ndryshon). Në anafazën e mitozës numri është 4n, në telofazën e mitozës 2n ndërsa në telofazën I vetëm n, prandaj çiftet e tjera nuk përputhen."
+    "correct": 3,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-180",
@@ -2156,8 +2156,8 @@
       "në profazën e mitozës dhe metafazën e dytë",
       "në metafazën e parë dhe anafazën e mitozës"
     ],
-    "correct": 3,
-    "explanation": "Sasia e ADN-së matet me numrin e molekulave, pra me kromatidet. Në metafazën I kemi 2n kromozome me nga 2 kromatide = 4n molekula ADN-je; në anafazën e mitozës kemi 4n kromozome njëkromatidësh = po 4n molekula ADN-je. Pra sasia është e njëjtë, edhe pse organizimi ndryshon. Në telofazën II sasia bie në n, në G1 është 2n dhe në metafazën II është 2n — prandaj çiftet e tjera nuk barazohen."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-181",
@@ -2168,8 +2168,8 @@
       "16 qeliza me 4 kromozome",
       "4 qeliza me 18 kromozome"
     ],
-    "correct": 2,
-    "explanation": "4 çifte do të thotë 2n = 8. Dy mitoza radhazi japin 4 qeliza, secila ende me 8 kromozome (mitoza nuk e ndryshon numrin). Më pas secila prej këtyre 4 qelizave hyn në mejozë dhe jep 4 qeliza haploide: 4 × 4 = 16 qeliza, secila me 8 : 2 = 4 kromozome. Pra numri i qelizave shumëzohet, ndërsa numri i kromozomeve përgjysmohet vetëm në hapin mejotik."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-182",
@@ -2216,8 +2216,8 @@
       "ndodhen në muret e vezores dhe ushqejnë spermatozoidet",
       "ndodhen në gypat seminifere dhe prodhojnë testosteron"
     ],
-    "correct": 0,
-    "explanation": "Qelizat e Sertolit ndodhen brenda gypave seminiferë, i mbështjellin qelizat gjermative, i ushqejnë ato dhe drejtojnë spermiogjenezën — pra kthimin e spermatideve të rrumbullakëta në spermatozoide me kokë e bisht; ato krijojnë edhe barrierën gjak–testikull. Testosteroni prodhohet nga qelizat e Leydigut mes gypave, fruktoza sekretohet nga vezikulat seminale, ndërsa vezorja është organ femëror dhe nuk ka fare qeliza Sertoli."
+    "correct": 1,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-186",
@@ -2264,8 +2264,8 @@
       "pyjore",
       "ujore"
     ],
-    "correct": 3,
-    "explanation": "Ekosistemet ujore mbulojnë rreth 71% të sipërfaqes së planetit dhe fitoplanktoni i tyre, edhe pse i vogël, riprodhohet me shpejtësi të jashtëzakonshme; prandaj në shkallë planetare ato japin sasinë më të madhe të biomasës së re dhe rreth gjysmën e prodhimit primar të Tokës. Kujdes me dallimin: për njësi sipërfaqeje pyjet tropikale janë më prodhimtaret, por sipërfaqja e tyre është shumë më e vogël se ajo e oqeaneve."
+    "correct": 2,
+    "explanation": ""
   },
   {
     "id": "bio-ciklet-190",
